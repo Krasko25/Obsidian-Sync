@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2023/December/2023-12-29.md",
+                "file": "Archive/2023 Zettelkasten Obsidian Workflow ⚡️ Simple Set Up.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5df7a1dc758aac29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Archive/2023 Zettelkasten Obsidian Workflow ⚡️ Simple Set Up.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily notes/2023/December/2023-12-29.md",
+                "file": "Archive/2023 Zettelkasten Obsidian Workflow ⚡️ Simple Set Up.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily notes/2023/December/2023-12-29.md",
+                "file": "Archive/2023 Zettelkasten Obsidian Workflow ⚡️ Simple Set Up.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily notes/2023/December/2023-12-29.md"
+                "file": "Archive/2023 Zettelkasten Obsidian Workflow ⚡️ Simple Set Up.md"
               }
             }
           },
@@ -173,9 +186,27 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "bd1f46f657df2242",
+  "active": "5df7a1dc758aac29",
   "lastOpenFiles": [
+    "Archive/test.md",
+    "Archive/2023 Zettelkasten Obsidian Workflow ⚡️ Simple Set Up.md",
     "Daily notes/2023/December/2023-12-29.md",
+    "Archive/diary.md",
+    "Obsidian items/Attachments/Screenshot 2023-11-29 at 14.24.56.png",
+    "Obsidian items/Attachments/Screenshot 2023-11-17 at 18.48.23.png",
+    "Obsidian items/Attachments/Screenshot 2023-11-17 at 19.00.28.png",
+    "Obsidian items/Attachments/about_us.html",
+    "Obsidian items/Attachments/Screenshot 2023-12-23 at 17.38.41.png",
+    "Obsidian items/Attachments/Screenshot 2023-11-17 at 19.00.15.png",
+    "Obsidian items/Attachments/Screenshot 2023-11-17 at 18.47.49.png",
+    "Obsidian items/Attachments/Screenshot 2023-11-17 at 18.54.20.png",
+    "Obsidian items/Attachments/Screenshot 2023-11-17 at 18.41.47 1.png",
+    "Obsidian items/Attachments/Screenshot 2023-11-27 at 20.24.33.png",
+    "Obsidian items/Attachments/Screenshot 2023-11-17 at 18.48.57.png",
+    "Obsidian items/Attachments",
+    "Obsidian items/Templates/note.md",
+    "Obsidian items/Templates",
+    "Obsidian items",
     "Archive/D_Words from grammar.md",
     "Archive/D_Words from grammar.sync-conflict-20231229-110251-IVZSTAR.md",
     "Archive/D_The Secret History.md",
@@ -197,30 +228,12 @@
     "Daily notes/2023/November/2023-11-21.md",
     "Archive/Cycles of seasons of a man.md",
     "Daily notes/2023/December/2023-12-13.md",
-    "Daily notes/2023/December/2023-12-12.md",
-    "Archive/diary.md",
-    "Daily notes/2023/December/2023-12-26.sync-conflict-20231226-204140-2VTUPCH.md",
-    "Archive/synergy.sync-conflict-20231226-204141-2VTUPCH.md",
     "Archive/Алёна Ивановна.md.tmp",
     "Archive/Медитация в повседневной жизни.md.tmp",
     "Archive/Парадокс преодоления страданий.md.tmp",
     "Archive/Раскольников ужасно печется о мнении окружающих его людей.md.tmp",
     "Archive/Куда бы ты ни шел - ты уже там. Осознанная медитация в повседневной жизни.md.tmp",
     "Archive/Тишина. Спокойствие в мире, полном шуме.md.tmp",
-    "Obsidian items/Attachments/Screenshot 2023-12-23 at 18.16.46.png",
-    "Obsidian items/Attachments/Screenshot 2023-12-23 at 17.42.18.png",
-    "Obsidian items/Attachments/Screenshot 2023-12-23 at 17.38.41.png",
-    "Obsidian items/Attachments/IMG_20230916_124938.jpg",
-    "Daily notes/2023/December",
-    "Obsidian items/Attachments/Screenshot 2023-11-29 at 14.24.56.png",
-    "Obsidian items/Attachments/Screenshot 2023-11-27 at 20.33.27.png",
-    "Obsidian items/Attachments/2023-11-15 16.41.36.jpg",
-    "Obsidian items/Attachments/Screenshot 2023-11-27 at 20.26.11.png",
-    "Obsidian items/Attachments/Screenshot 2023-11-27 at 20.25.09.png",
-    "Obsidian items/Attachments/Screenshot 2023-11-27 at 20.24.33.png",
-    "Dictionary",
-    "attachments",
-    "Archive",
     "Untitled.canvas"
   ]
 }

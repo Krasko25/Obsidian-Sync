@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "2023 Zettelkasten Obsidian Workflow ⚡️ Simple Set Up",
+      "path": "Archive/2023 Zettelkasten Obsidian Workflow ⚡️ Simple Set Up.md"
+    },
+    {
       "basename": "2023-12-29",
       "path": "Daily notes/2023/December/2023-12-29.md"
+    },
+    {
+      "basename": "diary",
+      "path": "Archive/diary.md"
     },
     {
       "basename": "Tdiary",
@@ -55,10 +63,6 @@
     {
       "basename": "2023-12-12",
       "path": "Daily notes/2023/December/2023-12-12.md"
-    },
-    {
-      "basename": "diary",
-      "path": "Archive/diary.md"
     },
     {
       "basename": "Sequence of tenses",
@@ -191,10 +195,6 @@
     {
       "basename": "Грамматика",
       "path": "Archive/Грамматика.md"
-    },
-    {
-      "basename": "Знаки препинания",
-      "path": "Archive/Знаки препинания.md"
     }
   ],
   "omittedPaths": [],

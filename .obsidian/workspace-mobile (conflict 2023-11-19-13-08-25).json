@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "31c4450334f2781c",
+    "type": "split",
+    "children": [
+      {
+        "id": "37ada77a88eacb43",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf923411cdb98fe4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sources/Daily notes/2023/November/2023-11-19.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "24f679862ce38c44",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f1dfd73513974416",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "25dc52700d780a0c",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "b34c8b20dcd341b5",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "510185214108696f",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      },
+      {
+        "id": "27238e4a3bbc4765",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "a18102c3452431b6",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1e4f1e8bf750b3c1",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Sources/Daily notes/2023/November/2023-11-19.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": true,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "de557fe460514e57",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Sources/Daily notes/2023/November/2023-11-19.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "c5a2ba18347e9bfb",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Sources/Daily notes/2023/November/2023-11-19.md"
+          }
+        }
+      },
+      {
+        "id": "3ed0388d2c5bc012",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {}
+        }
+      },
+      {
+        "id": "27156ec282824b98",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "audio-recorder:Start/stop recording": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-spaced-repetition:Review flashcards": false
+    }
+  },
+  "active": "bf923411cdb98fe4",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Art/diary.md",
+    "English/diary.md",
+    "Daily notes/2023/November/2023-11-18.md",
+    "Obsidian items/Attachments/2023-11-15 16.41.36.jpg",
+    "Obsidian items/Attachments/Screenshot 2023-11-17 at 18.41.47.png",
+    "Obsidian items/Attachments/Screenshot 2023-11-17 at 18.41.47 1.png",
+    "Obsidian items/Attachments/Screenshot 2023-11-17 at 18.41.47 2.png",
+    "Obsidian items/Attachments/Screenshot 2023-11-17 at 18.44.04.png",
+    "Obsidian items/Attachments/Screenshot 2023-11-17 at 18.44.04 1.png",
+    "Obsidian items/Attachments/Screenshot 2023-11-17 at 18.45.37.png",
+    "Obsidian items/Attachments/Screenshot 2023-11-17 at 18.46.01.png",
+    "Obsidian items/Attachments/Screenshot 2023-11-17 at 18.46.11.png",
+    "Obsidian items/Attachments/Screenshot 2023-11-17 at 18.47.08.png",
+    "Obsidian items/Attachments/about_us.html",
+    "Obsidian items/Templates",
+    "Obsidian items/Attachments",
+    "Obsidian items",
+    "Topics & Ideas/Francis.md",
+    "Topics & Ideas/Greek is Julian's first language.md",
+    "Topics & Ideas/Richard.md",
+    "Topics & Ideas/Roland.md",
+    "Topics & Ideas/Musashi.md",
+    "Topics & Ideas/Julian.md",
+    "Topics & Ideas/Henry.md",
+    "Topics & Ideas/Диктант.md",
+    "Topics & Ideas",
+    "Sources/Daily notes/2023/November/2023-11-18.sync-conflict-20231119-081744-2VTUPCH.md",
+    "Sources/Daily notes/2023/November/2023-11-16.md",
+    "Sources/Daily notes/2023/November/2023-11-19.md",
+    "Sources/Daily notes/2023/November/2023-11-17.md",
+    "Sources/Daily notes/2023/November/2023-11-18.md",
+    "Sources/Daily notes/2023/November",
+    "Sources/Daily notes/2023",
+    "Sources/vagabond.md",
+    "Sources/Daily notes",
+    "Sources/The Secret History.md",
+    "Sources",
+    "Art",
+    "Daily notes/2023/November/2023-11-17.md",
+    "Untitled.canvas",
+    "Daily notes/2023/November/2023-11-16.md",
+    "diary.md",
+    "2023-11-15.md",
+    "adsfsdf.md",
+    "2023-11-15.sync-conflict-20231115-103708-2VTUPCH.md"
+  ]
+}

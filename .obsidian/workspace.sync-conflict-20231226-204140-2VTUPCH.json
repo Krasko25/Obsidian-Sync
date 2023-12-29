@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "e5a23b076ac90e9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f211a768117f7224",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8f8b5c749f7b6d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Archive/synergy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "db4caf46fb629c5f",
+    "type": "split",
+    "children": [
+      {
+        "id": "85fc749480832ec5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "013ae17ba75379d2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b641e44cce7a516b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "#quote",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "217e8f49a28ce208",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "7d9c02f28b7fb800",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7629190745ee3e9f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 278.5
+  },
+  "right": {
+    "id": "32a9ed9c865d665c",
+    "type": "split",
+    "children": [
+      {
+        "id": "93f7de8c9d82423a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "adede84cb4dfa4c6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Archive/synergy.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "e3478fa193566ca3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Archive/synergy.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "9fbf41deea90d7e6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Archive/synergy.md"
+              }
+            }
+          },
+          {
+            "id": "0e6cea3907565403",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "b7bccc4ccdc14884",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 284.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-spaced-repetition:Review flashcards": false
+    }
+  },
+  "active": "f8f8b5c749f7b6d6",
+  "lastOpenFiles": [
+    "Obsidian items/Attachments/Screenshot 2023-12-23 at 18.16.46.png",
+    "Obsidian items/Attachments/Screenshot 2023-12-23 at 17.42.18.png",
+    "Obsidian items/Attachments/Screenshot 2023-12-23 at 17.38.41.png",
+    "Daily notes/2023/December/2023-12-23.md",
+    "Archive/synergy.md",
+    "Archive/Преступление и наказание.md",
+    "Archive/Tdiary.md",
+    "Daily notes/2023/December/2023-12-19.md",
+    "Archive/К себе нежно. Книга о том, как ценить и беречь себя.md",
+    "Archive/Говори красиво и уверенно. Постановка голоса и речи.md",
+    "Archive/D_Crime and Punishment.md",
+    "Obsidian items/Templates/note.md",
+    "Archive/D_Vagabond.md",
+    "Archive/Untitled.md",
+    "Archive/Из чего состоит дисциплина.md",
+    "Archive/Медитация MOC.md",
+    "Archive/Для чего нужно саморазвитие.md",
+    "Archive/Тренировочная зона.md",
+    "Archive/Тишина. Спокойствие в мире, полном шуме.md",
+    "Archive/Недеяние - это тоже действие.md",
+    "Archive/Медитация в повседневной жизни.md",
+    "Archive/Коллективное молчание - бесценная роскошь.md",
+    "Archive/Ценность тишины в человеческих взаимоотношениях.md",
+    "Archive/Запятая при (кроме).md",
+    "Archive/diary.md",
+    "Archive/Один интересный компонент свободы.md",
+    "Archive/Как характеризуется состояние медитации.md",
+    "Archive/Почему медитация - это так приятно.md",
+    "Obsidian items/Attachments/IMG_20230916_124938.jpg",
+    "Daily notes/2023/December",
+    "Obsidian items/Attachments/Screenshot 2023-11-29 at 14.24.56.png",
+    "Obsidian items/Attachments/Screenshot 2023-11-27 at 20.33.27.png",
+    "Obsidian items/Attachments/2023-11-15 16.41.36.jpg",
+    "Obsidian items/Attachments/Screenshot 2023-11-27 at 20.26.11.png",
+    "Obsidian items/Attachments/Screenshot 2023-11-27 at 20.25.09.png",
+    "Obsidian items/Attachments/Screenshot 2023-11-27 at 20.24.33.png",
+    "Obsidian items/Attachments/Screenshot 2023-11-27 at 20.08.00.png",
+    "Dictionary",
+    "attachments",
+    "Archive",
+    "sources/Media",
+    "s/M",
+    "s",
+    "Shortcuts",
+    "Topics & Ideas/Shortcuts",
+    "Topics & Ideas/Dictionary",
+    "Untitled.canvas"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "trashOption": "system",
+  "attachmentFolderPath": "Obsidian items/Attachments",
+  "useMarkdownLinks": false,
+  "showUnsupportedFiles": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "newFileLocation": "root",
+  "mobilePullAction": "switcher:open"
+}

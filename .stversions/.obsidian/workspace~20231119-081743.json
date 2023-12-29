@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "e5a23b076ac90e9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e36336d6ed063fcc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a58d82d07b8c534",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily notes/2023/November/2023-11-17.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "db4caf46fb629c5f",
+    "type": "split",
+    "children": [
+      {
+        "id": "85fc749480832ec5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "013ae17ba75379d2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b641e44cce7a516b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "diary",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "217e8f49a28ce208",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "960392eedb6dcc21",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5aee7b421da6626a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 241.5
+  },
+  "right": {
+    "id": "32a9ed9c865d665c",
+    "type": "split",
+    "children": [
+      {
+        "id": "93f7de8c9d82423a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "adede84cb4dfa4c6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily notes/2023/November/2023-11-17.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "Julian",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "e3478fa193566ca3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daily notes/2023/November/2023-11-17.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7d9c02f28b7fb800",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9fbf41deea90d7e6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daily notes/2023/November/2023-11-17.md"
+              }
+            }
+          },
+          {
+            "id": "0e6cea3907565403",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "b7bccc4ccdc14884",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 304.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "audio-recorder:Start/stop recording": false
+    }
+  },
+  "active": "1a58d82d07b8c534",
+  "lastOpenFiles": [
+    "Richard and Julian.md",
+    "The Secret History folder/Richard.md",
+    "Daily notes/2023/November/2023-11-17.md",
+    "Daily notes/2023/November/2023-11-16.md",
+    "What is Julian play at?.md",
+    "Julian's game? What was his plan? How much did he know?.md",
+    "How much have Julian knew and planne.md",
+    "English/diary.md",
+    "How much have Julian knew/planned.md",
+    "How much have Julian knew",
+    "The Secret History folder/Julian.md",
+    "Francis.md",
+    "Attachments/Screenshot 2023-11-17 at 19.00.28.png",
+    "Attachments/Screenshot 2023-11-17 at 19.00.15.png",
+    "Attachments/IMG_20230916_130330.jpg",
+    "Attachments/IMG_20230916_124938.jpg",
+    "Attachments/Screenshot 2023-11-17 at 18.56.06.png",
+    "Attachments/Screenshot 2023-11-17 at 18.55.54.png",
+    "Attachments/Screenshot 2023-11-17 at 18.55.43 1.png",
+    "Attachments/Screenshot 2023-11-17 at 18.55.43.png",
+    "Attachments/Screenshot 2023-11-17 at 18.55.14.png",
+    "Attachments/Screenshot 2023-11-17 at 18.54.20.png",
+    "English",
+    "The Secret History folder",
+    "The Secret History2",
+    "The Secret History folder/Roland.md",
+    "English/Диктант.md",
+    "The Secret History folder/The Secret History.md",
+    "good_one.md",
+    "adsfsdf.md",
+    "2023.md",
+    "Daily notes/2023/November",
+    "Daily notes/2023",
+    "2023-11-16.md",
+    "Daily notes",
+    "2023-11-15.md",
+    "Attachments/about_us.html",
+    "Attachments/2023-11-15 16.18.47.ogg",
+    "Attachments/2023-11-15 16.18.47 1.ogg",
+    "Untitled.canvas",
+    "fjdlasj;lfja.md",
+    "Templates.md",
+    "2023-11-15.sync-conflict-20231115-103708-2VTUPCH.md",
+    "2023-11-12.md",
+    "dictionary.md",
+    "Cards.md",
+    "todolist.md"
+  ]
+}

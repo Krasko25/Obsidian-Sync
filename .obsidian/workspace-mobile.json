@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "31c4450334f2781c",
+    "type": "split",
+    "children": [
+      {
+        "id": "37ada77a88eacb43",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf923411cdb98fe4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily notes/2023/December/2023-12-28.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "24f679862ce38c44",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f1dfd73513974416",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "25dc52700d780a0c",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "b34c8b20dcd341b5",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "510185214108696f",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      },
+      {
+        "id": "27238e4a3bbc4765",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "a18102c3452431b6",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1e4f1e8bf750b3c1",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Daily notes/2023/December/2023-12-28.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": true,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "de557fe460514e57",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Daily notes/2023/December/2023-12-28.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "c5a2ba18347e9bfb",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Daily notes/2023/December/2023-12-28.md"
+          }
+        }
+      },
+      {
+        "id": "3ed0388d2c5bc012",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {}
+        }
+      },
+      {
+        "id": "27156ec282824b98",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "audio-recorder:Start/stop recording": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-spaced-repetition:Review flashcards": false
+    }
+  },
+  "active": "bf923411cdb98fe4",
+  "lastOpenFiles": [
+    "Daily notes/2023/December/2023-12-29.md",
+    "Archive/Tdiary.md",
+    "Daily notes/2023/December/2023-12-28.md",
+    "Archive/D_The Secret History.sync-conflict-20231229-110251-IVZSTAR.md",
+    "Archive/D_JoJo.sync-conflict-20231229-110251-IVZSTAR.md",
+    "Archive/D_Words from grammar.sync-conflict-20231229-110251-IVZSTAR.md",
+    "Archive/D_Mob Psycho 100.sync-conflict-20231229-110250-IVZSTAR.md",
+    "Archive/D_Shorts.sync-conflict-20231229-110250-IVZSTAR.md",
+    "Archive/D_Chainsaw man.sync-conflict-20231229-110249-IVZSTAR.md",
+    "Archive/D_Vagabond.sync-conflict-20231229-110251-IVZSTAR.md",
+    "Archive/D_Bojack Horseman.sync-conflict-20231229-110250-IVZSTAR.md",
+    "Daily notes/2023/December/2023-12-28.sync-conflict-20231229-110249-2VTUPCH.md",
+    "Daily notes/2023/December/2023-12-27.md",
+    "Archive/ON time and IN time.md",
+    "Daily notes/2023/December/2023-12-26.md",
+    "Daily notes/2023/December/2023-12-23.md",
+    "Daily notes/2023/November/2023-11-27.md",
+    "Archive/Автобусы в Крыму.md",
+    "Archive/Парадокс преодоления страданий.md",
+    "Daily notes/2023/November/2023-11-26.md",
+    "Daily notes/2023/November/2023-11-24.md",
+    "Archive/Как характеризуется состояние медитации.md",
+    "Archive/Разделение на жизнь и работу с точки зрения медитации.md",
+    "Archive/Почему медитация - это так приятно.md",
+    "Archive/Медитация в повседневной жизни.md",
+    "Daily notes/2023/November/2023-11-22.md",
+    "Sources/Media",
+    "Topics & Ideas/Dictionary",
+    "Topics & Ideas/Shortcuts",
+    "Shortcuts",
+    "Sources/Articles",
+    "Sources/Videos",
+    "Sources/Entertainment media",
+    "Sources/Books",
+    "Obsidian items/Attachments/2023-11-15 16.41.36.jpg",
+    "Obsidian items/Attachments/Screenshot 2023-11-17 at 18.41.47.png",
+    "Obsidian items/Attachments/Screenshot 2023-11-17 at 18.41.47 1.png",
+    "Obsidian items/Attachments/Screenshot 2023-11-17 at 18.41.47 2.png",
+    "Obsidian items/Attachments/Screenshot 2023-11-17 at 18.44.04.png",
+    "Obsidian items/Attachments/Screenshot 2023-11-17 at 18.44.04 1.png",
+    "Obsidian items/Attachments/Screenshot 2023-11-17 at 18.45.37.png",
+    "Obsidian items/Attachments/Screenshot 2023-11-17 at 18.46.01.png",
+    "Obsidian items/Attachments/Screenshot 2023-11-17 at 18.46.11.png",
+    "Obsidian items/Attachments/Screenshot 2023-11-17 at 18.47.08.png",
+    "Obsidian items/Attachments/about_us.html",
+    "Obsidian items/Templates",
+    "Untitled.canvas"
+  ]
+}

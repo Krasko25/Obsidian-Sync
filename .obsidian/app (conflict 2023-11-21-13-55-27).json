@@ -1,0 +1,8 @@
+{
+  "mobilePullAction": "switcher:open",
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Archive",
+  "smartIndentList": true
+}

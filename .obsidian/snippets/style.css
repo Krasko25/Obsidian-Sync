@@ -1,0 +1,39 @@
+.green {
+    color: green;
+}
+
+div[src$="#right"]{
+    text-align: right;
+}
+
+div[src$="#left"]{
+    text-align: left;
+}
+
+div[src$="#center"]{
+    width: 175%;
+    padding-left: 12.5%;
+}
+
+div[src$="#full"]{
+    width: 150%;
+}
+
+div[src$="inline_image"]{
+    display: inline-block;
+}
+
+img{
+    display: inline-block;
+    width: 49%;
+    padding: 5px;
+}
+
+
+@media(max-width: 700px){
+    img{
+        width: 100%;
+        text-align: center;
+        padding: 0;
+    }
+}

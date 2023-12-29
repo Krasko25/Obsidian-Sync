@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2023/December/2023-12-29.md",
+                "file": "Archive/Tdiary.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.51103591918945
+    "width": 200
   },
   "right": {
     "id": "32a9ed9c865d665c",
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily notes/2023/December/2023-12-29.md",
+                "file": "Archive/Tdiary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily notes/2023/December/2023-12-29.md",
+                "file": "Archive/Tdiary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily notes/2023/December/2023-12-29.md"
+                "file": "Archive/Tdiary.md"
               }
             }
           },
@@ -183,14 +183,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "remotely-save:Remotely Save": false
     }
   },
   "active": "5df7a1dc758aac29",
   "lastOpenFiles": [
+    "Daily notes/2023/December/2023-12-29.md",
     "Archive/2023 Zettelkasten Obsidian Workflow ⚡️ Simple Set Up.md",
     "Archive/test.md",
-    "Daily notes/2023/December/2023-12-29.md",
     "Archive/diary.md",
     "Obsidian items/Attachments/Screenshot 2023-11-29 at 14.24.56.png",
     "Obsidian items/Attachments/Screenshot 2023-11-17 at 18.48.23.png",

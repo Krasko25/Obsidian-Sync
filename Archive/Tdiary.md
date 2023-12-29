@@ -233,9 +233,16 @@ participate
 ==December 28th, 2023==
 Today I got another few final grades. I have solved almost all of my problems. At this point I only need to close one more subject, do one homework and a project for Synergy university and prepare for the Russian exam that will happen in the beginning of February.
 
-I can not say, that I did a lot today, but this day brought me some good news.
+I can not say, that I did a lot today, but this day brought me some good news. 
 
 
+
+==December 29th, 2023==
+Today I got my final grades for every subject. Right now I have almost no duties and learning assignments comparing to the situation on the beginning of this month. I did quite well. 
+
+Even if I have a lot of free time right now, I still should not weaken my grip. This day was not productive because I spend too much time procrastinating. I was not even resting. It happened not only because I was blaming myself, but as well because I was not allowing myself to do the fun stuff, I though that I did not earn it. All I was doing for the whole day is watching videos that I was not even interested in (+ English lesson, training and some program setups).
+
+I need to be more conscious with my choices. In the nearest few days I will came up with some new set of rules for myself and a plan for the next year.
 
 
 It is another type of note that I will try to do on a regular basis. I will try to find some moments, that are inspiring me. Not only it will help me not to forget about them, but as well to understand myself better.

@@ -5,8 +5,28 @@
       "path": "Archive/Tdiary.md"
     },
     {
+      "basename": "Note",
+      "path": "Obsidian items/Templates/Note.md"
+    },
+    {
+      "basename": "2023-11-21",
+      "path": "Daily notes/2023/November/2023-11-21.md"
+    },
+    {
       "basename": "2023-12-30",
       "path": "Daily notes/2023/December/2023-12-30.md"
+    },
+    {
+      "basename": "The map is not the Territory",
+      "path": "Archive/The map is not the Territory.md"
+    },
+    {
+      "basename": "Habitica",
+      "path": "Archive/Habitica.md"
+    },
+    {
+      "basename": "diary",
+      "path": "Archive/diary.md"
     },
     {
       "basename": "2023-12-29",
@@ -15,10 +35,6 @@
     {
       "basename": "2023 Zettelkasten Obsidian Workflow ⚡️ Simple Set Up",
       "path": "Archive/2023 Zettelkasten Obsidian Workflow ⚡️ Simple Set Up.md"
-    },
-    {
-      "basename": "diary",
-      "path": "Archive/diary.md"
     },
     {
       "basename": "D_Words from grammar",
@@ -51,10 +67,6 @@
     {
       "basename": "2023-12-27",
       "path": "Daily notes/2023/December/2023-12-27.md"
-    },
-    {
-      "basename": "2023-11-21",
-      "path": "Daily notes/2023/November/2023-11-21.md"
     },
     {
       "basename": "Cycles of seasons of a man",
@@ -187,18 +199,6 @@
     {
       "basename": "2023-12-14",
       "path": "Daily notes/2023/December/2023-12-14.md"
-    },
-    {
-      "basename": "Когда используется тире",
-      "path": "Archive/Когда используется тире.md"
-    },
-    {
-      "basename": "Запятая перед как (как будто, словно). Обособленное обстоятельство",
-      "path": "Archive/Запятая перед как (как будто, словно). Обособленное обстоятельство.md"
-    },
-    {
-      "basename": "Грамматика",
-      "path": "Archive/Грамматика.md"
     }
   ],
   "omittedPaths": [],

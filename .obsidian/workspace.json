@@ -8,19 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bd1f46f657df2242",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Archive/2023 Zettelkasten Obsidian Workflow ⚡️ Simple Set Up.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5df7a1dc758aac29",
+            "id": "eafdca33dbd8e249",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,11 +85,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 248.51103591918945
   },
   "right": {
     "id": "32a9ed9c865d665c",
@@ -188,14 +175,19 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "5df7a1dc758aac29",
+  "active": "eafdca33dbd8e249",
   "lastOpenFiles": [
+    "Daily notes/2023/December/2023-12-31.md",
+    "Obsidian items/Templates/Note.md",
+    "Daily notes/2023/November/2023-11-21.md",
     "Daily notes/2023/December/2023-12-30.md",
+    "Archive/The map is not the Territory.md",
+    "Archive/Habitica.md",
+    "Archive/diary.md",
     "Archive/Tdiary.md",
     "Daily notes/2023/December/2023-12-29.md",
     "Archive/2023 Zettelkasten Obsidian Workflow ⚡️ Simple Set Up.md",
     "Archive/test.md",
-    "Archive/diary.md",
     "Obsidian items/Attachments/Screenshot 2023-11-29 at 14.24.56.png",
     "Obsidian items/Attachments/Screenshot 2023-11-17 at 18.48.23.png",
     "Obsidian items/Attachments/Screenshot 2023-11-17 at 19.00.28.png",
@@ -208,7 +200,6 @@
     "Obsidian items/Attachments/Screenshot 2023-11-27 at 20.24.33.png",
     "Obsidian items/Attachments/Screenshot 2023-11-17 at 18.48.57.png",
     "Obsidian items/Attachments",
-    "Obsidian items/Templates/note.md",
     "Obsidian items/Templates",
     "Obsidian items",
     "Archive/D_Words from grammar.md",
@@ -226,10 +217,6 @@
     "Daily notes/2023/December/2023-12-28.md",
     "Daily notes/2023/December/2023-12-24.md",
     "Daily notes/2023/December/2023-12-23.md",
-    "Archive/D_Crime and Punishment.md",
-    "Daily notes/2023/December/2023-12-27.md",
-    "Daily notes/2023/November/2023-11-21.md",
-    "Archive/Cycles of seasons of a man.md",
     "Archive/Алёна Ивановна.md.tmp",
     "Archive/Медитация в повседневной жизни.md.tmp",
     "Archive/Парадокс преодоления страданий.md.tmp",

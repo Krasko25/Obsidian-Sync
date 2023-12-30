@@ -245,6 +245,13 @@ Even if I have a lot of free time right now, I still should not weaken my grip. 
 I need to be more conscious with my choices. In the nearest few days I will came up with some new set of rules for myself and a plan for the next year.
 
 
+==December 29th, 2023==
 It is another type of note that I will try to do on a regular basis. I will try to find some moments, that are inspiring me. Not only it will help me not to forget about them, but as well to understand myself better.
-1) In the Novgorod the Great 
-2) My grandmother loves me
+
+My sources of inspiration:
+1) I have been learning English for about 4 years now. Sometimes it seemed as if I was not making any progress. I knew that my level of English was not bad at all, but I often lacked confidence. In Novgorod the Great I met a native speaker and many students from linguistic universities. I had a lot of fun talking to these people. It really inspired me and gave me a lot of confidence in many things that I'm doing, especially in my English skills;
+2) The championship in Novgorod was really hard, but I did quite well. Even with my pathetic level of knowledge at that topic I did not give up, I was able to learn many things in the process. It made me realise that I'm capable of doing so much more, that I though was possible;
+3) Novgorod the Great is a really beautiful place, even with all the stress I was able to enjoy this trip. I believe that I was able to achieve the whole new level of meditation and understanding of things. Of course, I was able to do the same before and after Novgorod, but I was never able to do be in this kind of mindset for such a long time. I will work in this direction for sure;
+4) During the week without electricity and internet I had to visit many people to do my homework. They were really kind to me and were able to love me unconditionally. It made me happy and reminded me, how much I love them. That week and those people opened a whole new level of understanding of importance of connections with people for me (I used way too much "of's" here).
+5) Just the common stuff. Sometimes I have good days, days in which I manage to do a good job and find time for conscious leisure and rest. These days really make me feel refreshed. 
+Of course, it is not a full list, but I will do this kind of notes every now and then.

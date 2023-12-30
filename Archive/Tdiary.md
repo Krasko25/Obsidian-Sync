@@ -106,30 +106,30 @@ At about 10 am of December 16th (in a day after electricity was turned off) I de
 !!
 Let's put all the worldly (мирские) questions aside, today is the historical day. People from Habitica won't understand, but for the last 2 years I was not able to undertake one ordeal, no matter how hard I was trying. It even became some kind of a meme for me.
 
-On December 16th of 2023, 11:30 am at Moscow time I was on the bus stop, the bus was arriving 11:40 am at Moscow time. I was at the bus stop ON TIME and I did NOT even had to run. No wonder there was snow outside. For the last two years I was running to the bus stop, every time I was getting there at the very last second, sometimes I was even missing it. Maybe that was the compensation for all this troubles, maybe all my life was leading to this point.
+On December 16th of 2023, 11:30 am at Moscow time I was on the bus stop, the bus was arriving 11:40 am at Moscow time. I was at the bus stop ON TIME and I did NOT even had to run. No wonder there was snow outside. For the last two years I was running to the bus stop, every time I was getting there at the very last second, sometimes I was even missing it. Maybe that was the compensation for all these troubles, maybe all my life was leading to this point.
 !!
 
-Back to the land. I got to my grandfather's place, but there was no electricity in that part of town as well. My grandfather and his wife were happy to see me, we didn't see each other for a while, so I spend some time there.
+Back to the land. I got to my grandfather's place (Makeyevka), but there was no electricity in that part of the town as well. My grandfather and his wife were happy to see me, we didn't see each other for a while, so I spend some time there.
 
-My plan B was to go to the place of my mother's sister (I don't know, how this kind of relationship is called). For convenience, I will call her Alena. The way to her has proven to be troublesome (mainly because I was going to her place for the first time and I am bad when it comes to directions). 
+My plan B was to go to the place of my mother's sister in the other end of Makeyevka (I don't know, how this kind of relationship is called. For convenience, I will call her Alena. The way to her has proven to be troublesome (mainly because I was going to her place for the first time and I am bad when it comes to directions). 
 
-I was at Alena's place until evening. She was nice to me, was living together with her mom and the apartment was small. Further more, she was tired after her work week, so I decided to not do her any more troubles and leave. However, I was not planning to give up.
+I was at Alena's place until evening, she was nice to me. Alena is living together with her mom and the apartment is small. Further more, she was tired after her work week, so I decided not to do her any more troubles and leave. However, I was not planning to give up.
 
 I charged my devices in Alena's place beforehand and went back to my grandfather's place (they are quite happy to take me as a guest, so it is not a problem). Sure, there was no electricity, but there was mobile network. I decided to spend that night working on my course work there.
 ==December 17th, 2023==
-There was no electricity in my grandfather's place (his name is Pasha), however, mobile network was available. I stayed up at night to finish my course work as soon as possible. I managed to do that, but I still needed to do the report and presentation for my course work. I was not able to do that because my laptop was running out of charge.
+There was no electricity in my grandfather's place in Makeyevka (his name is Pasha), however, mobile network was available. I stayed up at night to finish my course work as soon as possible. I managed to do that, but I still needed to do the report and the presentation for my course work. I was not able to do that because my laptop was running out of charge.
 
 I was planning to go to another place to charge my devices, but Pasha offered me his help. He and his wife contacted with a few neighbours who had electricity generators. It didn't work out, but one of my grandfather's friends had a flat with electricity. I gave him my devices. All this running around took a lot of time, but at about 2 pm I got my laptop back.
 
 I finished my report and presentation at about 4 pm, but I was not able to find mobile network to upload my work until 4:30 pm. Pasha wanted me to stay another night there, but I needed to go home. I got there at about 6 pm.
 ==December 18th, 2023==
-I hoped to get electricity fixed until lunch. Of course, it didn't happen and there was no mobile network in my hope.  I was anticipating this result and wanted to go to my grandmother (not the one I was taking care of, her name is Nina). There was electricity and internet there. However, it is (still) hard to get there and my mother wanted me to congratulate one girl in the costume of cent Nikolay (christian version of Canta Claus) tomorrow (there was no point in going there for a couple of hours). 
+I hoped to get electricity fixed until lunch. Of course, it didn't happen and there was no mobile network in my home. I was anticipating this result and wanted to go to my grandmother (not the one I was taking care of. The one that I'm going to in is Nina). There was electricity and internet there. However, it is (still) hard to get there (to Nina) and my mother wanted me to congratulate one girl in the costume of cent Nikolay (christian version of Canta Claus) tomorrow (there was no point in going to my granny for a couple of hours). 
 
-During the day time I went to my friend. He had a generator of electricity (yes, I decided to use all my connections), but there was no internet.
+During the day time I went to my friend. He had an electricity generator (yes, I decided to use all my connections), but there was no internet.
 
-My mother decided that we will congratulate that girl tonight. We did that, I had no particular text or scenario, but this child was excited. It is fun to do such things, because kids are so emotional, they need so little to be happy.
+My mother decided that we should have congratulated that girl at that night. We did that, I had no particular text or scenario, but this child was excited and pleased. It is fun to do such things, because kids are so emotional, they need so little to be happy (be like kids).
 
-At night I was told that the electricity at my Nina's (my granny) place was turned off. I decided to go to my sister's work tomorrow. 
+At night I was told that the electricity at Nina's (my granny) place was turned off. I decided to go to my sister's work (Yasinovataya) tomorrow. 
 ==December 19th, 2023==
 > [!Success] Self-cultivation
 

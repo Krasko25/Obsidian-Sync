@@ -15,7 +15,7 @@ Was named after my mom>>_
 
 Ok, just don't live your life for Strib, or this baby, or anybody else. - Thank you. - {{I mean it}} (I was quite serious, take it serious) 
 
-Everything I {{pitch}} (**to throw something, esp. forcefully, promote)** he shoot down. <!--SR:!2023-12-29,3,254-->
+Everything I {{pitch}} (**to throw something, esp. forcefully, promote)** he shoots down. <!--SR:!2024-01-08,9,274-->
 
 Don't chew too loud, and collect your {{paycheck.}} (**a check used to pay an employee the amount of money the employee has earned).** <!--SR:!2024-01-08,15,290--> 
 

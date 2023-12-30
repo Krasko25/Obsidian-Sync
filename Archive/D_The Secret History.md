@@ -34,9 +34,9 @@ Even after all that had happened, the bitterness and disappointment in his voice
 
 Richard {{reinvented}} (re-experience something)  his experience with Julian.
 
-The author is trying to make an impression on the {{audience}} (аудитория) <!--SR:!2023-12-30,4,281-->
+The author is trying to make an impression on the {{audience}} (аудитория) <!--SR:!2024-01-09,10,281-->
 
-The doctor says that it's {{touch-and-go}} (**having an** **uncertain, and** **possibly** **bad** **result)**  **whether** Mary will be okay
+The doctor says that it's {{touch-and-go}} (**having an** **uncertain, and** **possibly** **bad** **result)**  **whether** Mary will be okay <!--SR:!2024-01-03,4,286-->
 
 He stopped at the {{next-to-last}} (next to the last) sheet
 
@@ -56,7 +56,7 @@ I told him everything as far as memory allowed>>_
 
 They kept saying that my friends – Henry and Charles – had {{ratted}} (настучать) on me.
 
-he decided {{to play along with}} (подыграть) him
+he decided {{to play along with}} (подыграть) him <!--SR:!2024-01-02,3,266-->
 
 Bunny {{walk in}} (**to go into a** **room** **and** **see** **what someone is doing, when they did not** **want** **to be** **seen**) on them
 
@@ -100,7 +100,7 @@ Breathing hard, he  **made his way**  across the room and fell heavily into an a
 
 My head begin to swim>>_
 
-off the top of one's head>>без справочной информации <!--SR:!2023-12-30,4,281-->
+off the top of one's head>>без справочной информации <!--SR:!2024-01-09,10,281-->
 
 If you don't mind my asking>>_
 
@@ -112,7 +112,7 @@ There was no {{signature}} (подпись (проверить произнош�
 
 You {{bet your boots}} (be certain about something) he has
 
-strangers were talking at me>>они говорили на меня, не со мной <!--SR:!2023-12-29,3,261-->
+strangers were talking at me>>они говорили на меня, не со мной <!--SR:!2024-01-10,11,281-->
 
 All my brothers were redheads and out of my boys there's not an {{honest-to-god}} (**used to** **emphasize** **that what you are saying is** **true)** redhead in the {{bunch}} (**a** **number** **of things of the same** **type** **fastened** **together or in a** **close** **group)**
 
@@ -171,13 +171,13 @@ I was ironing my clothes>>_
 
 Francis's voice came back to me again>>_ <!--SR:!2024-01-01,4,285-->
 
-ironing board>>гладильная доска
+ironing board>>гладильная доска <!--SR:!2024-01-03,4,286-->
 
 Once in the car, Henry lit a cigarette and didn't say a word. He'd been smoking a lot since he got back from Italy, almost a {{pack}} a day, which was rare for him.
 
 'No, no, don't go,' said Henry, taking a long gulp of his coffee and putting the cup in the {{sink}} (раковина). <!--SR:!2024-01-05,12,270-->
 
-But that's got them in debt to the eyebrows>>_
+But that's got them in debt to the eyebrows>>_ <!--SR:!2024-01-03,4,286-->
 
 'Well, hello there, Richard,' he said, shaking my hand heartily>>_
 
@@ -187,7 +187,7 @@ Footsteps went quietly toward the other end of the apartment.>>_
 
 with a struggle I would force my eyes open and all of a sudden the column of snow, standing bright and tall in its dark corner, would appear to me in its true whispering, smiling {{menace}} (**something that is likely to cause harm:)**, an airy angel of death
 
-I was always welcomed back as soon as he tired of the attention and allowed my mother to 'talk some sense' into him>>_ <!--SR:!2023-12-30,4,281-->
+I was always welcomed back as soon as he tired of the attention and allowed my mother to 'talk some sense' into him>>_ <!--SR:!2024-01-16,17,301-->
 
 He was **sentenced to** a 150-year prison {{term}} (**the fixed period of time that something lasts for)** for cheating thousands of ordinary people out of their savings.
 
@@ -211,7 +211,7 @@ It is difficult to believe that such an {{uproar}} (суматоха) took place
 
 walking away, unfortunately, has proved to be quite another, and though once I thought I had left that {{ravine}} (овраг) forever on an April afternoon long ago, now I am not so sure.
 
-That was a tale that told itself>>_ ad
+That was a tale that told itself>>_ <!--SR:!2024-01-03,4,286-->
 
 One of the boys has a {{freckle}} (веснушка) on his cheek.
 
@@ -230,7 +230,7 @@ She withdrew her eyes. - Она отвела глаза.
 He promised to withdraw from England. - Он обещал покинуть Англию.
 She withdrew $200 from her checking account.
 
-He took a last drag of thme cigarette and {{tossed}} (**to throw something carelessly)** it out the open window. <!--SR:!2023-12-30,4,281-->
+ <!--SR:!2023-12-30,4,281-->
 
 How could we use a word "straight"?>>in a classical way
 

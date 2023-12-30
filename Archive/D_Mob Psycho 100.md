@@ -4,7 +4,7 @@ It {{hit too close to home for me}} (больная тема), too
 
 But if you're not {{up to the task}} (good enough for this task), very well
 
-narrator>>рассказчик 
+narrator>>рассказчик <!--SR:!2024-01-02,3,254-->
 
 I'm going to make you pay {{dearly}} (заплатить сполна)!
 
@@ -47,7 +47,7 @@ man up>>**used to** **tell** **someone that they should** **deal** **with someth
 
 You're actually making me use my {{trump card}} (**an** **advantage** **that makes you more** **likely** **to** **succeed** **than other** **people,** **especially something that other** **people** **do not** **know** **about)** 
 
-Espers are hard to {{possess}} (**to have or own something, or to have a** **particular** **quality)** <!--SR:!2023-12-30,4,272--> 
+Espers are hard to {{possess}} (**to have or own something, or to have a** **particular** **quality)** <!--SR:!2024-01-09,10,272--> 
 
 You guys are still a {{small fries}} (**people** **or things that are not** **considered** **to be** **important)** 
 

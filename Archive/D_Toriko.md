@@ -1,6 +1,6 @@
 #cards/dictionary 
 
-Okey, dinner time. Don't be shy, {{chow down}} (to eat, especially in an informal situation) <!--SR:!2023-12-30,3,250-->  
+Okey, dinner time. Don't be shy, {{chow down}} (to eat, especially in an informal situation) <!--SR:!2024-01-05,6,250-->  
 
 I made sure to stick a tracker on them. My hair, {{remote}} (удаленный, дистанционный, отдаленный), hair!
 

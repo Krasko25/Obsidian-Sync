@@ -2,7 +2,7 @@
 
 As the four seasons between heaven and earth flow in an endless cycle, so too, must man work his way, through his own cycles of seasons continuous. If you are able to to endure a long hard winter, a fresh new spring is sure to follow, invigorating with  strength renewed.>>_ #quote <!--SR:!2023-12-31,3,256-->
 
-The great In'ei, he is in the class by himself>>_ <!--SR:!2023-12-30,4,272-->
+The great In'ei, he is in the class by himself>>_ <!--SR:!2024-01-08,9,272-->
 
 team up>>_ <!--SR:!2024-01-01,4,276-->
 
@@ -30,7 +30,7 @@ He had Yashioka Denshichiro in a {{deadlock}} (тупик, безвыходна�
 
 At this {{rate}} (темп), the fire will spread, {{tear down}} (**to** **intentionally** **destroy** **a** **building** **or other** **structure** **because it is not being used or it is not** **wanted** **any more)** what is left of it
 
-I want you to {{embrace}} (**to** **accept** **something** **enthusiastically)** the principle of not regretting what you have done, let go of the past, learn from your experiences. <!--SR:!2023-12-30,4,272-->
+I want you to {{embrace}} (**to** **accept** **something** **enthusiastically)** the principle of not regretting what you have done, let go of the past, learn from your experiences. <!--SR:!2024-01-09,10,272-->
 
 Her face is peaceful. We will see her off tomorrow>>_ 
 

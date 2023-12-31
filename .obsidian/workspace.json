@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "f211a768117f7224",
+        "id": "c12dae9a2cc2d9ff",
         "type": "tabs",
         "children": [
           {
-            "id": "eafdca33dbd8e249",
+            "id": "9bf0e809f6a9d8fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archive/Как характеризуется состояние медитации.md",
+                "file": "Daily notes/2023/December/2023-12-31.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c1994d804dd1f73a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian items/Templates/Book.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,8 +96,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -105,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archive/Как характеризуется состояние медитации.md",
+                "file": "Daily notes/2023/December/2023-12-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Archive/Как характеризуется состояние медитации.md",
+                "file": "Daily notes/2023/December/2023-12-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archive/Как характеризуется состояние медитации.md"
+                "file": "Daily notes/2023/December/2023-12-31.md"
               }
             }
           },
@@ -175,25 +186,34 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "b641e44cce7a516b",
+  "active": "9bf0e809f6a9d8fd",
   "lastOpenFiles": [
-    "Archive/Недеяние - это тоже действие.md",
-    "Archive/D_Vagabond.md",
-    "Daily notes/2023/December/2023-12-19.md",
-    "Archive/The moment Musashi understood, how small he is.md",
-    "Archive/The map is not the Territory.md",
-    "Archive/Как мне стоит организовывать мои записки в Obsidian.md",
-    "Archive/diary.md",
-    "Archive/Bunny's blindness.md",
-    "Daily notes/2023/December/2023-12-31.md",
-    "Archive/Tdiary.md",
-    "Obsidian items/Templates/Note.md",
-    "Daily notes/2023/November/2023-11-21.md",
-    "Daily notes/2023/December/2023-12-30.md",
-    "Archive/Habitica.md",
-    "Daily notes/2023/December/2023-12-29.md",
-    "Archive/2023 Zettelkasten Obsidian Workflow ⚡️ Simple Set Up.md",
-    "Archive/test.md",
+    "Archive/Cycles of seasons of a man.md",
+    "Archive/Robert Reimann.md",
+    "Archive/DuoAzul.md",
+    "Archive/LD.md",
+    "Archive/Second Brain.md",
+    "Archive/Articles-List.md",
+    "Obsidian items/Templates/Article.md",
+    "Obsidian items/Templates/Book.md",
+    "Archive/Entertainments-List.md",
+    "Archive/Entertainments-List.md",
+    "Archive/Lessons-List.md",
+    "Archive/Videos-List.md",
+    "Archive/Books-List.md",
+    "Archive/Videos Lobby.md",
+    "Archive/Entertainments Lobby.md",
+    "Archive/books-lobby.md",
+    "Obsidian items/Templates/Entertainments.md",
+    "Obsidian items/Templates/Lessons.md",
+    "Archive/People-List.md",
+    "Obsidian items/Templates/Person.md",
+    "Obsidian items/Templates/Video.md",
+    "Archive/People-SET.md",
+    "Archive/fdfasf.md",
+    "Archive/Crime and Punishment references in The Secret History.md",
+    "Archive/Раскольников ужасно печется о мнении окружающих его людей.md",
+    "Archive/Раскольников.md",
     "Obsidian items/Attachments/Screenshot 2023-11-29 at 14.24.56.png",
     "Obsidian items/Attachments/Screenshot 2023-11-17 at 18.48.23.png",
     "Obsidian items/Attachments/Screenshot 2023-11-17 at 19.00.28.png",
@@ -208,15 +228,6 @@
     "Obsidian items/Attachments",
     "Obsidian items/Templates",
     "Obsidian items",
-    "Archive/D_Words from grammar.md",
-    "Archive/D_Words from grammar.sync-conflict-20231229-110251-IVZSTAR.md",
-    "Archive/D_The Secret History.md",
-    "Archive/D_Vagabond.sync-conflict-20231229-110251-IVZSTAR.md",
-    "Daily notes/2023/November/2023-11-28.md",
-    "Daily notes/2023/December/2023-12-28.sync-conflict-20231229-110249-2VTUPCH.md",
-    "Archive/D_The Secret History.sync-conflict-20231229-110251-IVZSTAR.md",
-    "Archive/D_JoJo.sync-conflict-20231229-110251-IVZSTAR.md",
-    "Archive/D_Mob Psycho 100.sync-conflict-20231229-110250-IVZSTAR.md",
     "Archive/Алёна Ивановна.md.tmp",
     "Archive/Медитация в повседневной жизни.md.tmp",
     "Archive/Парадокс преодоления страданий.md.tmp",

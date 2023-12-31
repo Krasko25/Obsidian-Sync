@@ -1,4 +1,4 @@
-#Type/Topic #Use/Art 
+ 
 ###### [[The Secret History]]
 On the that lesson, [[Henry]] told nothing. [[Julian]] did not try to ask him directly. Maybe, Henry, as devoted student, already had the right mindset. 
 It seems, that Julian was directing his word right into Henry, he was talking about the civilized man, someone who holds his emotions, keeps his mask always on.

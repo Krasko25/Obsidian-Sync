@@ -1,4 +1,4 @@
-[[The Secret History]] #Use/Art  #Type/Topic 
+[[The Secret History]] 
 
 #### 1
 Richard and the twins were talking about Henry and Bunny, who actually were a good friend. Suddenly one of the twins pointed at the grave yard and started talking about how beautiful it is. As well he told, how beautiful this flowers, especially in the winter. 

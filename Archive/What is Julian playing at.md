@@ -1,3 +1,3 @@
-#Type/Topic #Use/Art [[Julian]]
+  [[Julian]]
 
 [[The Secret History]]

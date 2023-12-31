@@ -1,4 +1,4 @@
-#Type/Idea #Use/Separate
+
 
 # 2020
 ### September 

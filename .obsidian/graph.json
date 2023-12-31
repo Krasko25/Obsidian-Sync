@@ -27,6 +27,13 @@
         "a": 1,
         "rgb": 11657298
       }
+    },
+    {
+      "query": "file:Lobby",
+      "color": {
+        "a": 1,
+        "rgb": 5526240
+      }
     }
   ],
   "collapse-display": false,
@@ -39,6 +46,6 @@
   "repelStrength": 6.98079427083333,
   "linkStrength": 0.480061848958333,
   "linkDistance": 295,
-  "scale": 0.24525158741757017,
+  "scale": 0.18033331059596552,
   "close": false
 }

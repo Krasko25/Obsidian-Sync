@@ -1,4 +1,4 @@
-[[grammar]] #Use/Learning 
+[[grammar]]
 
 > He said that the agents would send us a telegram as soon as the steamer arrived.
 

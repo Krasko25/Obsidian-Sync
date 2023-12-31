@@ -1,5 +1,5 @@
 [[obsidian]]
-#Status/ToRead #Status/ToWatch #Status/ToCheck #Use/Learning 
+#Mark/ToRead #Mark/ToWatch #Mark/ToCheck
 ### Устарело
 Создать папки:
 - Идеи

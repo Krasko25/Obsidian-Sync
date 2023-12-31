@@ -1,5 +1,5 @@
 [[What is Julian playing at]] [[Julian]] [[The Secret History]] [[What was Julian's plan. How much did he know]]
-#Use/Art #Type/Topic 
+
 Julian told, that he was not interested in his pupils, because he could see through them. 
 As we know, it, mostly, was not true. He didn't know a lot about them, he was not able to find out about those events by himself, he needed a letter.
 

@@ -1,4 +1,4 @@
-#Use/Art  #Type/Topic #Status/Raw 
+  #Mark/Raw 
 ##### Temple [[vagabond]]
 [[Gion]] [[Musashi]] I noticed that Gion could be a double (двойник) of Musashi. I believe, that Gion can help us to understand the character of Musashi.
 

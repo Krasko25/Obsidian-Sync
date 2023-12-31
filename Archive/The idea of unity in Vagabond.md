@@ -1,2 +1,1 @@
-#Type/Topic #Use/Art 
-[[vagabond]]
+ [[vagabond]]

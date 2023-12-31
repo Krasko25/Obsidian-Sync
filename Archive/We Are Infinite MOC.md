@@ -1,4 +1,4 @@
-#Use/Art #Type/Topic 
+
 
 Maybe that is how it is supposed to be? Each path is perfectly decided and when you embrace it, you became free.
 

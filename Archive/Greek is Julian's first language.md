@@ -1,4 +1,4 @@
-#Type/Topic #Use/Art 
+ 
 
 [[What is Julian playing at]] [[The Secret History]]
 I will not teach you French, it is not my first language

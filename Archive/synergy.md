@@ -1,5 +1,5 @@
-time.time() - текущее время #Tool 
-np.full(5, 7) == [7, 7, 7, 7, 7] #Tool 
+time.time() - текущее время #Mark/Tool 
+np.full(5, 7) == [7, 7, 7, 7, 7] #Mark/Tool 
 
 np.zeros(4) == [0, 0, 0, 0]
 

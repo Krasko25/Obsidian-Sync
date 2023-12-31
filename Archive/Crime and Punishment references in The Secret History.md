@@ -1,4 +1,4 @@
-#Use/Art #Type/Topic #Status/Raw 
+ #Mark/Raw 
 [[The Secret History]] [[Преступление и наказание]] 
 ##### Doors
 Julian was opening door in the same manner as [[Алёна Ивановна]], without trust, as if we is waiting for something horrible to happen. 

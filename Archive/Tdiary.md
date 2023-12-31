@@ -245,7 +245,7 @@ Even if I have a lot of free time right now, I still should not weaken my grip. 
 I need to be more conscious with my choices. In the nearest few days I will came up with some new set of rules for myself and a plan for the next year.
 
 
-==December 29th, 2023==
+==December 30th, 2023==
 It is another type of note that I will try to do on a regular basis. I will try to find some moments, that are inspiring me. Not only it will help me not to forget about them, but as well to understand myself better.
 
 My sources of inspiration:

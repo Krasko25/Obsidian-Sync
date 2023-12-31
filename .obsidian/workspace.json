@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2023/December/2023-12-31.md",
+                "file": "Archive/Tdiary.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily notes/2023/December/2023-12-31.md",
+                "file": "Archive/Tdiary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily notes/2023/December/2023-12-31.md",
+                "file": "Archive/Tdiary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily notes/2023/December/2023-12-31.md"
+                "file": "Archive/Tdiary.md"
               }
             }
           },
@@ -188,6 +188,10 @@
   },
   "active": "9bf0e809f6a9d8fd",
   "lastOpenFiles": [
+    "Daily notes/2024/January/2024-01-01.md",
+    "Daily notes/2024/January",
+    "Daily notes/2024",
+    "Daily notes/2023/December/2023-12-31.md",
     "Archive/Cycles of seasons of a man.md",
     "Archive/Robert Reimann.md",
     "Archive/DuoAzul.md",
@@ -212,8 +216,6 @@
     "Archive/People-SET.md",
     "Archive/fdfasf.md",
     "Archive/Crime and Punishment references in The Secret History.md",
-    "Archive/Раскольников ужасно печется о мнении окружающих его людей.md",
-    "Archive/Раскольников.md",
     "Obsidian items/Attachments/Screenshot 2023-11-29 at 14.24.56.png",
     "Obsidian items/Attachments/Screenshot 2023-11-17 at 18.48.23.png",
     "Obsidian items/Attachments/Screenshot 2023-11-17 at 19.00.28.png",
@@ -232,8 +234,6 @@
     "Archive/Медитация в повседневной жизни.md.tmp",
     "Archive/Парадокс преодоления страданий.md.tmp",
     "Archive/Раскольников ужасно печется о мнении окружающих его людей.md.tmp",
-    "Archive/Куда бы ты ни шел - ты уже там. Осознанная медитация в повседневной жизни.md.tmp",
-    "Archive/Тишина. Спокойствие в мире, полном шуме.md.tmp",
     "Untitled.canvas"
   ]
 }

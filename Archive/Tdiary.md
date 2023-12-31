@@ -256,3 +256,8 @@ My sources of inspiration:
 5) Just the common stuff. Sometimes I have good days, days in which I manage to do a good job and find time for conscious leisure and rest. These days really make me feel refreshed. 
 Of course, it is not a full list, but I will do this kind of notes every now and then.
 ==December 31st, 2023==
+I spend quite a big part of this day playing with my friends, sleeping and spending time with my family.
+
+To do some conclusions for the last year I need to run through my notes and understand what I was doing and thinking about during this period of time. It will take a lot of time, so I will not be able to do today. 
+
+To get better in the upcoming year I need to understand myself better. Tomorrow I will try to find and list strong sides of my personality, that can help me to advance.

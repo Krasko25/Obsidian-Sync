@@ -5,6 +5,10 @@
       "path": "Archive/Tdiary.md"
     },
     {
+      "basename": "diary",
+      "path": "Archive/diary.md"
+    },
+    {
       "basename": "2023-12-31",
       "path": "Daily notes/2023/December/2023-12-31.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Eastern eggs in The Secret History",
       "path": "Archive/Eastern eggs in The Secret History.md"
-    },
-    {
-      "basename": "Gion",
-      "path": "Archive/Gion.md"
     }
   ],
   "omittedPaths": [],

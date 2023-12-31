@@ -1,6 +1,5 @@
 [[obsidian]]
-#Status/ToRead #Status/ToWatch #Status/Check #Status/Complete
-#Use/Social #Use/Learning 
+#Status/ToRead #Status/ToWatch #Status/ToCheck #Use/Learning 
 ### Устарело
 Создать папки:
 - Идеи

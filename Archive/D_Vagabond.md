@@ -1,6 +1,6 @@
 #cards/dictionary 
 
-As the four seasons between heaven and earth flow in an endless cycle, so too, must man work his way, through his own cycles of seasons continuous. If you are able to to endure a long hard winter, a fresh new spring is sure to follow, invigorating with  strength renewed.>>_ #quote <!--SR:!2023-12-31,3,256-->
+As the four seasons between heaven and earth flow in an endless cycle, so too, must man work his way, through his own cycles of seasons continuous. If you are able to to endure a long hard winter, a fresh new spring is sure to follow, invigorating with  strength renewed.>>_ #Type/Quote  <!--SR:!2023-12-31,3,256-->
 
 The great In'ei, he is in the class by himself>>_ <!--SR:!2024-01-08,9,272-->
 
@@ -14,7 +14,7 @@ I feel bad for everyone, you, guys, share this. - a tactful {{bribe}} (payment m
 
 Mushashi considers himself to be {{arrogant}} ( высокометный)
 
-overcoming difficulties and at times even risking one's life. These are the things that allow the soul to grow and mature>>allow #quote
+overcoming difficulties and at times even risking one's life. These are the things that allow the soul to grow and mature>>allow #Type/Quote
 
 {{unease}} ( physical discomfort, беспокойство, тревога) had taken over Musashi 
 

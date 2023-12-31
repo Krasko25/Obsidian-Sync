@@ -1,4 +1,4 @@
-ø#Use/Art #Type/Fleeting
+ø#Use/Art
 ###### [[Archive/vagabond]] [[Musashi]] Chapter 61 [[The idea of unity in Vagabond]]
 **Musashi** spend a few month in the forest, there is a huge element of meditation and reflection about it. 
 After that he met his fear in the face of his father, his lack of unintentional love, he backed up. 

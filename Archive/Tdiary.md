@@ -255,3 +255,4 @@ My sources of inspiration:
 4) During the week without electricity and internet I had to visit many people to do my homework. They were really kind to me and were able to love me unconditionally. It made me happy and reminded me, how much I love them. That week and those people opened a whole new level of understanding of importance of connections with people for me (I used way too much "of's" here).
 5) Just the common stuff. Sometimes I have good days, days in which I manage to do a good job and find time for conscious leisure and rest. These days really make me feel refreshed. 
 Of course, it is not a full list, but I will do this kind of notes every now and then.
+==December 31st, 2023==

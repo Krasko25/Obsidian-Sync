@@ -1,4 +1,4 @@
-[[obsidian]]
+[[obsidian MOC]]
 #Mark/ToRead #Mark/ToWatch #Mark/ToCheck
 ### Устарело
 Создать папки:

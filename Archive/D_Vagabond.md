@@ -1,10 +1,10 @@
 #cards/dictionary 
 
-As the four seasons between heaven and earth flow in an endless cycle, so too, must man work his way, through his own cycles of seasons continuous. If you are able to to endure a long hard winter, a fresh new spring is sure to follow, invigorating with  strength renewed.>>_ #Mark/Quote  <!--SR:!2023-12-31,3,256-->
+As the four seasons between heaven and earth flow in an endless cycle, so too, must man work his way, through his own cycles of seasons continuous. If you are able to to endure a long hard winter, a fresh new spring is sure to follow, invigorating with  strength renewed.>>_ #Mark/Quote <!--SR:!2024-01-09,8,256-->
 
 The great In'ei, he is in the class by himself>>_ <!--SR:!2024-01-08,9,272-->
 
-team up>>_ <!--SR:!2024-01-01,4,276-->
+team up>>_ <!--SR:!2024-01-16,15,296-->
 
 It's no crime to use a bit of his funds>>_ 
 
@@ -20,7 +20,7 @@ overcoming difficulties and at times even risking one's life. These are the thin
 
 eventually, I {{vow}} (**to make a** **determined** **decision** **or** **promise** **to do something) **to kill you
 
-You're still wet behind the ears>>_ <!--SR:!2024-01-01,4,276-->
+You're still wet behind the ears>>_ <!--SR:!2024-01-18,17,296-->
 
 He helps performers {{hone}} (**to** **direct** **something such as an** **ability** **to make it more** **effective)** their skills as dancers and singers.
 
@@ -48,7 +48,7 @@ Am I still strong? I want to know. - he exceeds (**to go past the level, limit, 
 
 Fighting for myself I won't {{pursue}} (**to follow someone or something, usually to try to catch him, her, or it)** my opponents.
 
-Even if you are {{crippled}} (**an extremely offensive word for a person whose legs or arms do not work in the usual way)**, you are still Musashi. She was {{crippled}} in a car accident. <!--SR:!2000-01-01,1,250!2023-12-31,3,256-->
+Even if you are {{crippled}} (**an extremely offensive word for a person whose legs or arms do not work in the usual way)**, you are still Musashi. She was {{crippled}} in a car accident. <!--SR:!2000-01-01,1,250!2024-01-09,8,256-->
 
 With this leg, this trip is three times as {{tiring}} (утомляющая) 
 While he is doing that, Musashi's reputation will reach the {{topmost}} (the highest point of something (reputation)) level.

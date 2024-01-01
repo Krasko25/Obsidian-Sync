@@ -14,11 +14,11 @@ Developing a web application {{requires}} (have need of) proficiency in various 
 
 Modern web developers often {{utilize}} (put into service; make work for a particular purpose or for its inherent or natural purpose) popular JavaScript libraries
 
-to build {{interactive}} (relating to a program or interface that responds to the user's input) user interfaces.
+to build {{interactive}} (relating to a program or interface that responds to the user's input) user interfaces. <!--SR:!2024-01-04,3,252-->
 
 To {{ensure}} (make certain of (гарантировать)) data storage and retrieval, databases play a crucial role in web development.
 
-Developers can {{consume}} (use) APIs to access external services and {{retrieve}} (извлечения) data.
+Developers can {{consume}} (use) APIs to access external services and {{retrieve}} (извлечения) data. <!--SR:!2024-01-05,4,272!2000-01-01,1,250-->
 
 backend↔server-side
 

@@ -10,7 +10,7 @@ They're {{appealing}} (**a request to the public for money, information, or help
 
 Depending on whether they name a {{**tangible**}} or an **in**{{**tangible**}} thing, nouns are classed as being either **concrete** or **abstract**.
 
-the lack of any {{concrete}} (бетонный, конкретный) evidence <!--SR:!2023-12-31,3,250-->
+the lack of any {{concrete}} (бетонный, конкретный) evidence <!--SR:!2024-01-11,10,270-->
 
 We can also use them with the indefinite **articles**  __a__  and  __an__  (which signify a single person or thing) or in their {{**plural**}}** (a word or form that expresses more than one (множественное)) forms**
 

@@ -25,7 +25,7 @@ He's already been brought back to this {{realm}} (сфера деятельно�
 
 Today you are {{on a high horse}} (быть в ударе)![](local:///Users/connect/remnote/remnote-62c2eac9d4b97a004623c386/files/lMsNfuPYeY55V_3ZQQvGiZ5vsU5ZqeN60QYC7MTFt54GT2X38EVDHVtKu4CWT1MrVdXpyJaofRH6FeKfiJOkgTX2kqL_aY0_oaPdSM1oLJrEUF8IFFIo_BWUckrWbjkO.png) 
 
-that is not enough! You won't {{ease}} (**to make or become less severe, difficult, unpleasant, painful, etc (**These pills should {{ease}} the **pain))** our hard feelings <!--SR:!2023-12-31,3,254!2000-01-01,1,250--> 
+that is not enough! You won't {{ease}} (**to make or become less severe, difficult, unpleasant, painful, etc (**These pills should {{ease}} the **pain))** our hard feelings <!--SR:!2024-01-13,12,274!2000-01-01,1,250--> 
 
 First, it will be convenient to draw a variety of thin patterns, the second - to make filling and {{ __thick lines__ }} __ (толстые линии)__ .
 
@@ -59,6 +59,6 @@ boss will be in a {{league of his own}} (someone who is on the whole different l
 
 when things go {{south}} (in a really bad direction), it's okay to run 
 
-Reigen {{gracefully}} (**in a** **smooth,** **relaxed,** **attractive** **way)** destroys enemies <!--SR:!2023-12-31,7,252--> 
+Reigen {{gracefully}} (**in a** **smooth,** **relaxed,** **attractive** **way)** destroys enemies <!--SR:!2024-01-25,24,272--> 
 
 It's {{give and take}} (взаимные уступки), got it? 

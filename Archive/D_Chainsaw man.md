@@ -7,7 +7,7 @@ once you grow up and you are ready to {{develop an addiction}} (взрастит
 
 How much of what happened today did you {{anticipate}} (**to imagine or expect that something will happen)**, Ms. Makima?
 
-A bleed weapon, huh? And aimed at the head. So, it's an {{ambush}} (**to suddenly attack someone after hiding and waiting for them)**. <!--SR:!2024-01-01,4,270-->
+A bleed weapon, huh? And aimed at the head. So, it's an {{ambush}} (**to suddenly attack someone after hiding and waiting for them)**. <!--SR:!2024-01-11,10,270-->
 
 Better {{head to}} (moving somewhere) work <!--SR:!2024-01-04,7,250-->
 
@@ -29,7 +29,7 @@ they will make a {{sour}} (**having a sharp, sometimes unpleasant, taste or smel
 
 Your job is to raise them and then put them to work, make sure not to grow {{attached}} (**to fasten, join, or connect something). **Use this cable to {{attach}} the printer **to** the computer <!--SR:!2024-01-03,4,272!2000-01-01,1,250--> 
 
-I think you'll make a good {{leash}} (**a piece of rope, chain, etc. tied to an animal, especially to a dog at its collar when taking it for a walk:)** for the two of them. <!--SR:!2023-12-31,3,250-->
+I think you'll make a good {{leash}} (**a piece of rope, chain, etc. tied to an animal, especially to a dog at its collar when taking it for a walk:)** for the two of them. <!--SR:!2024-01-10,9,270-->
 
 You don't need to worry. Power said she would {{behave}} (**to act in a particular way);** 
 Ghost! - No, that girl is {{dreadful}} (**causing fear, shock, or suffering).** 

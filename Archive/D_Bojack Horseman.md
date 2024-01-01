@@ -3,11 +3,11 @@ Well, it's one thing for a woman to {{weep}} (to cry with tears), but when they 
 
 red flags>>плохие предпосылки 
 
-l found your {{stashes}} (**to store or hide something, especially a large amount)** in the toilet paper rolls. How many of these do you take a day? <!--SR:!2023-12-31,3,255-->
+l found your {{stashes}} (**to store or hide something, especially a large amount)** in the toilet paper rolls. How many of these do you take a day? <!--SR:!2024-01-12,11,275-->
 
 Bojack {{overhear}} (подслушал) something about Flip and PC
 
-Sundays are the one day that are just for me and my {{craft}} (ремесло, the labor part of the art) <!--SR:!2023-12-31,3,255-->
+Sundays are the one day that are just for me and my {{craft}} (ремесло, the labor part of the art) <!--SR:!2024-01-08,7,255-->
 
 The man has come to call. He'd like to take you for a Sunday {{stroll}} (**o walk in a slow relaxed way, especially for pleasure)** 
 
@@ -25,7 +25,7 @@ Hey, Gina, I'm sorry. I was just {{teasing}} (**to laugh at someone or say unkin
 
 It's weird. Like we could totally {{make out}} right now. - What? - No, I'm not saying we should. NO. Pffff...
 
-You'll have to say, "I'm sad-sad girl with a dirty apartment", - but I'll let you {{crash}} (переночевать). <!--SR:!2023-12-31,3,255-->
+You'll have to say, "I'm sad-sad girl with a dirty apartment", - but I'll let you {{crash}} (переночевать). <!--SR:!2024-01-10,9,275-->
 
 What did you order? - The {{through}} (всё меню по одному блюду)! He wants the {{through}} (всё меню по одному блюду)
 

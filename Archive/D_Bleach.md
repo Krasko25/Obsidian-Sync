@@ -22,7 +22,7 @@ Hueco Mundo is already my {{domain}} (**an area of interest or an area over whic
 
 . <!--SR:!2023-12-10,9,280-->
 
-You are the one who chose to needlessly {{disregard}} (**the fact of showing no care or respect for something (пренебрегать))**my words <!--SR:!2024-01-01,8,260-->
+You are the one who chose to needlessly {{disregard}} (**the fact of showing no care or respect for something (пренебрегать))**my words <!--SR:!2024-01-05,4,240-->
 
 a man who has earned high {{regard}} (respect, attention). I have no ??? (do not pay any attention for his opinion) for his opinions. <!--SR:!2024-01-15,22,290-->
 

@@ -1,5 +1,7 @@
 #cards/dictionary 
 
+Each person is a vile, we get used to everything
+
 Land lady>>the owner of land
 
 Comfort somebody>>успокаивать кого-нибудь

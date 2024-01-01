@@ -36,11 +36,11 @@ your>>you are
 
 u>>you
 
-kk>>ok, ok <!--SR:!2023-12-31,3,262-->
+kk>>ok, ok <!--SR:!2024-01-10,9,282-->
 
 plz>>please
 
-thx>>thanks <!--SR:!2023-12-31,3,262-->
+thx>>thanks <!--SR:!2024-01-11,10,282-->
 
 IRL>>in real live
 

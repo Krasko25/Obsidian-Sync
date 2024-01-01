@@ -30,7 +30,7 @@ He was in a rambling, paranoid {{humor}} (mood) <!--SR:!2024-01-05,12,276-->
 'Why would he want to do that?' - 'Because I'm {{in the way}} (мешаю).'
 'You wouldn't {{go behind my back}} (действовать за моей спиной), would you?'
 
-Even after all that had happened, the bitterness and disappointment in his voice {{cut me to the heart}} (hurt me a lot). <!--SR:!2024-01-01,7,256-->
+Even after all that had happened, the bitterness and disappointment in his voice {{cut me to the heart}} (hurt me a lot). <!--SR:!2024-01-21,20,256-->
 
 Richard {{reinvented}} (re-experience something)  his experience with Julian.
 
@@ -94,7 +94,7 @@ Last night he was drunk, {{full of himself}} (**to** **think** **that you are ve
 
 he was testing the waters>>прощупывать почву
 
-new potatoes>>молодая картошка <!--SR:!2023-12-31,3,265-->
+new potatoes>>молодая картошка <!--SR:!2024-01-13,12,285-->
 
 Breathing hard, he  **made his way**  across the room and fell heavily into an armchair>>_ <!--SR:!2024-01-04,11,276-->
 
@@ -169,7 +169,7 @@ If you want to take some of your things back to school this afternoon, you're  _
 
 I was ironing my clothes>>_
 
-Francis's voice came back to me again>>_ <!--SR:!2024-01-01,4,285-->
+Francis's voice came back to me again>>_ <!--SR:!2024-01-19,18,305-->
 
 ironing board>>гладильная доска <!--SR:!2024-01-03,4,286-->
 
@@ -196,7 +196,7 @@ We'll have to {{postpone}} (**to delay an event and plan or decide that it shoul
 It wasn't far to school, only fifteen minutes, but it was getting cold and my head hurt and the whole evening had left me with a {{keen}} (**very sharp)** sense of ...
 They were very {{keen}} (**very interested, eager, or wanting (to do) something very much) to** start work as soon as possible <!--SR:!2000-01-01,1,250!2024-01-06,12,276-->
 
-The snow in the mountains was melting and Bunny had beendead for several weeks before we came to understand the {{gravity}} (**seriousness) **of our situation. <!--SR:!2024-01-01,4,285-->
+The snow in the mountains was melting and Bunny had beendead for several weeks before we came to understand the {{gravity}} (**seriousness) **of our situation. <!--SR:!2024-01-16,15,305-->
 
 The park was {{littered}} (**small pieces of rubbish that have been left lying on the ground in public places:) ** with bottles and cans. <!--SR:!2024-01-06,13,270-->
 

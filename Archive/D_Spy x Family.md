@@ -6,7 +6,7 @@ Your mission is to get close to him. In order to achieve this you will get marri
 
 But the shadier the establishment, the more likely those children have complicated pasts, so it'll be easier to {{alter}} (to change something, usually slightly, or to cause the characteristics of something to change)** **their stories.
 
-But the shadier the {{establishment}} ^^(a business or other organization, or the place where an organization operates)^^, the more likely those children have complicated pasts, so it'll be easier to alter** **their stories. <!--SR:!2024-01-01,4,277-->
+But the shadier the {{establishment}} ^^(a business or other organization, or the place where an organization operates)^^, the more likely those children have complicated pasts, so it'll be easier to alter** **their stories. <!--SR:!2024-01-17,16,297-->
 
 Your mission is to get close to him. In order to achieve this you will get married and have a child. The deadline is {{drawing near}} ^^(coming)^^, meaning you have one week to pull this off. Are you expect me to produce a child within SEVEN DAYS!?!
 
@@ -24,7 +24,7 @@ The bicycle gather speed as it went down the hill.
  
 You've been staring at me ever since I walked in. May I help you? - *imposibble. She could even sense my {{gaze}} (to look at something or someone for a long time, especially in surprise or admiration, or because you are thinking about something else)? *
 
-You have {{favorable}} (благоприятное) impression of my appearance?; May I ask you a {{favor}} ? ; it counts in {{favor}} (в ползу, во благо) of... <!--SR:!2024-01-01,4,277!2000-01-01,1,250!2000-01-01,1,250-->
+You have {{favorable}} (благоприятное) impression of my appearance?; May I ask you a {{favor}} ? ; it counts in {{favor}} (в ползу, во благо) of... <!--SR:!2024-01-10,9,277!2000-01-01,1,250!2000-01-01,1,250-->
 
 I've completed countless missions, yet once again I find myself {{losing heart}} (to stop believing that you can succeed) 
 

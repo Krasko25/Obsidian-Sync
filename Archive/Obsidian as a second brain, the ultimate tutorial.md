@@ -1,4 +1,4 @@
- [[obsidian]]
+ [[obsidian MOC]]
 <iframe widTh="560" heighT="315" src="hTTps://www.youTube.com/embed/WqKluXIra70?si=VN3aUOkZufYyXPv8" TiTle="YouTube video player" frameborder="0" allow="acceleromeTer; auToplay; clipboard-wriTe; encrypTed-media; gyroscope; picTure-in-picTure; web-share" allowfullscreen></iframe>
 
 ###### #Mark/Tool checkbox: 

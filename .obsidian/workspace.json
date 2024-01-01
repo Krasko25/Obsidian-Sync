@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c12dae9a2cc2d9ff",
+        "id": "fba9cc3be7312c78",
         "type": "tabs",
         "children": [
           {
-            "id": "9bf0e809f6a9d8fd",
+            "id": "3a9ac70bfd0c63f8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Archive/Tdiary.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c1994d804dd1f73a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian items/Templates/Book.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -60,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Type/Extraction",
+                "query": "tag:#Source/Entertainment-List",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archive/Tdiary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Archive/Tdiary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -144,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Archive/Tdiary.md"
-              }
+              "state": {}
             }
           },
           {
@@ -165,8 +145,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -186,36 +165,36 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "9bf0e809f6a9d8fd",
+  "active": "3a9ac70bfd0c63f8",
   "lastOpenFiles": [
-    "Archive/diary.md",
-    "Archive/Tdiary.md",
+    "Archive/LD.md",
+    "Obsidian items/Templates/Person.md",
+    "Obsidian items/Templates/Video.md",
+    "Obsidian items/Templates/Note.md",
+    "Obsidian items/Templates/Lessons.md",
+    "Obsidian items/Templates/Entertainments.md",
+    "Obsidian items/Templates/Book.md",
+    "Obsidian items/Templates/Article.md",
+    "Archive/The Secret History.md",
+    "Archive/Blue Lock.md",
     "Daily notes/2024/January/2024-01-01.md",
+    "Archive/Books-List.md",
+    "Archive/Second Brain.md",
+    "Archive/Videos-List.md",
+    "Archive/Entertainments-List.md",
+    "Archive/Ego is a good thing.md",
+    "Archive/ЭГО MOC.md",
+    "Archive/Tdiary.md",
+    "Archive/diary.md",
     "Daily notes/2024/January",
     "Daily notes/2024",
     "Daily notes/2023/December/2023-12-31.md",
     "Archive/Cycles of seasons of a man.md",
     "Archive/Robert Reimann.md",
     "Archive/DuoAzul.md",
-    "Archive/LD.md",
-    "Archive/Second Brain.md",
     "Archive/Articles-List.md",
-    "Obsidian items/Templates/Article.md",
-    "Obsidian items/Templates/Book.md",
-    "Archive/Entertainments-List.md",
-    "Archive/Entertainments-List.md",
     "Archive/Lessons-List.md",
-    "Archive/Videos-List.md",
-    "Archive/Books-List.md",
     "Archive/Videos Lobby.md",
-    "Archive/Entertainments Lobby.md",
-    "Archive/books-lobby.md",
-    "Obsidian items/Templates/Entertainments.md",
-    "Obsidian items/Templates/Lessons.md",
-    "Archive/People-List.md",
-    "Obsidian items/Templates/Person.md",
-    "Obsidian items/Templates/Video.md",
-    "Archive/People-SET.md",
     "Obsidian items/Attachments/Screenshot 2023-11-29 at 14.24.56.png",
     "Obsidian items/Attachments/Screenshot 2023-11-17 at 18.48.23.png",
     "Obsidian items/Attachments/Screenshot 2023-11-17 at 19.00.28.png",

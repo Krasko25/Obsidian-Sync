@@ -2,17 +2,12 @@
 
 
 
-### <span style="color:#0070c0">Compass</span>
-North (source):
+### <span style="color:#0070c0">Description</span>
+###### Easy way to remember the name
 
 
-West (similar):
+###### Appearance 
 
 
-East (opposite):
 
-
-South (topic):
-
-
-#Source/People-List
+#Source/People-List [[People-List]]

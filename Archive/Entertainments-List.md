@@ -1,3 +1,5 @@
 ---
-Aliases: [ "#Source/Entertainment-List" ]
+aliases:
+  - "#Source/Entertainment-List"
+File: Entertainments-List3
 ---

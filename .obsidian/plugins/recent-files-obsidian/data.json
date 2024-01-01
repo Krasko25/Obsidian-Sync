@@ -1,6 +1,74 @@
 {
   "recentFiles": [
     {
+      "basename": "LD",
+      "path": "Archive/LD.md"
+    },
+    {
+      "basename": "Person",
+      "path": "Obsidian items/Templates/Person.md"
+    },
+    {
+      "basename": "Video",
+      "path": "Obsidian items/Templates/Video.md"
+    },
+    {
+      "basename": "Note",
+      "path": "Obsidian items/Templates/Note.md"
+    },
+    {
+      "basename": "Lessons",
+      "path": "Obsidian items/Templates/Lessons.md"
+    },
+    {
+      "basename": "Entertainments",
+      "path": "Obsidian items/Templates/Entertainments.md"
+    },
+    {
+      "basename": "Book",
+      "path": "Obsidian items/Templates/Book.md"
+    },
+    {
+      "basename": "Article",
+      "path": "Obsidian items/Templates/Article.md"
+    },
+    {
+      "basename": "The Secret History",
+      "path": "Archive/The Secret History.md"
+    },
+    {
+      "basename": "Blue Lock",
+      "path": "Archive/Blue Lock.md"
+    },
+    {
+      "basename": "2024-01-01",
+      "path": "Daily notes/2024/January/2024-01-01.md"
+    },
+    {
+      "basename": "Books-List",
+      "path": "Archive/Books-List.md"
+    },
+    {
+      "basename": "Second Brain",
+      "path": "Archive/Second Brain.md"
+    },
+    {
+      "basename": "Videos-List",
+      "path": "Archive/Videos-List.md"
+    },
+    {
+      "basename": "Entertainments-List",
+      "path": "Archive/Entertainments-List.md"
+    },
+    {
+      "basename": "Ego is a good thing",
+      "path": "Archive/Ego is a good thing.md"
+    },
+    {
+      "basename": "ЭГО MOC",
+      "path": "Archive/ЭГО MOC.md"
+    },
+    {
       "basename": "Tdiary",
       "path": "Archive/Tdiary.md"
     },
@@ -25,60 +93,16 @@
       "path": "Archive/DuoAzul.md"
     },
     {
-      "basename": "LD",
-      "path": "Archive/LD.md"
-    },
-    {
-      "basename": "Second Brain",
-      "path": "Archive/Second Brain.md"
-    },
-    {
       "basename": "Articles-List",
       "path": "Archive/Articles-List.md"
-    },
-    {
-      "basename": "Article",
-      "path": "Obsidian items/Templates/Article.md"
-    },
-    {
-      "basename": "Book",
-      "path": "Obsidian items/Templates/Book.md"
-    },
-    {
-      "basename": "Entertainments-List",
-      "path": "Archive/Entertainments-List.md"
     },
     {
       "basename": "Lessons-List",
       "path": "Archive/Lessons-List.md"
     },
     {
-      "basename": "Videos-List",
-      "path": "Archive/Videos-List.md"
-    },
-    {
-      "basename": "Books-List",
-      "path": "Archive/Books-List.md"
-    },
-    {
-      "basename": "Entertainments",
-      "path": "Obsidian items/Templates/Entertainments.md"
-    },
-    {
-      "basename": "Lessons",
-      "path": "Obsidian items/Templates/Lessons.md"
-    },
-    {
       "basename": "People-List",
       "path": "Archive/People-List.md"
-    },
-    {
-      "basename": "Person",
-      "path": "Obsidian items/Templates/Person.md"
-    },
-    {
-      "basename": "Video",
-      "path": "Obsidian items/Templates/Video.md"
     },
     {
       "basename": "Crime and Punishment references in The Secret History",
@@ -137,10 +161,6 @@
       "path": "Archive/vagabond.md"
     },
     {
-      "basename": "The Secret History",
-      "path": "Archive/The Secret History.md"
-    },
-    {
       "basename": "Roland",
       "path": "Archive/Roland.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "Isenokami",
       "path": "Archive/Isenokami.md"
-    },
-    {
-      "basename": "Henry",
-      "path": "Archive/Henry.md"
-    },
-    {
-      "basename": "Greek is Julian's first language",
-      "path": "Archive/Greek is Julian's first language.md"
-    },
-    {
-      "basename": "Gion is a double of Musashi",
-      "path": "Archive/Gion is a double of Musashi.md"
-    },
-    {
-      "basename": "Francis",
-      "path": "Archive/Francis.md"
-    },
-    {
-      "basename": "Eastern eggs in The Secret History",
-      "path": "Archive/Eastern eggs in The Secret History.md"
     }
   ],
   "omittedPaths": [],

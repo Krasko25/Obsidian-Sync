@@ -4,17 +4,17 @@
 
 
 ### <span style="color:#0070c0">Compass</span>
-North (source):
-- Author>>_           #cards/names
+###### North (source):
+- Author>>_           #cards/names 
 
 
-West (similar):
+###### West (similar):
 
 
-East (opposite):
+###### East (opposite):
 
 
-South (topic):
+###### South (topic):
 
 
-#Source/Books-List 
+#Source/Books-List [[Books-List]]

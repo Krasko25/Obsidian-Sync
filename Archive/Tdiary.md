@@ -1,3 +1,25 @@
 [[diary]]
 ### January
 ==January 1st, 2023==
+Recently I started learning about one topic, about ego. Usually we are told, that it is a bad thing. However, is it really possible for one to improve oneself without ego? 
+
+Let's say that you want to win a school championship. For that, you need believe in yourself, believe, that you worth that. Not only that, but you also need to be ready to overstep a lot of people with the same ambition. Isn't it arrogant to believe that you are better that all these people, to put your ambitions above others?
+
+SOoou, as it seems to me, I have more accomplishments that an average person of my age, but I am not satisfied with myself, I think that I can and have to be much better. Isn't that greedy? Should I find a way to improve and rase to my standards or I should lower them (standards) and settle with what I'm now?
+
+P.S: I know, that the right answer is to move forward and love myself for all my wins and loses at the same time, but it's kind of hard.¯\\_(ツ)_/¯
+
+Anyway, to do either of those things I need to change and to change I need to use the strong sides of my personality. In this note I will try to think and find them.
+
+My trump cards (and how to improve them):
+1) My values are going along with self-improvement.
+- ability to accept everything as it is - sometimes I'm able to act according to this philosophy and it feels awesome, but for that I need to be more conscious with my actions and thoughts. Meditation is a training for that.
+- being open to a new experience - It is hard to train this, but I, once again, need to be more conscious so I don't miss those opportunities to widen my worldview.
+- being honest - when it comes to self-improvement, the most important part is to be honest to yourself, keep your promises to yourself. That is the tricky part for me, It is easy to keep my promises to other people, but I constantly let myself down. I have read an article, that told, that your believe in yourself strongly depends on the fact of how often you lie to yourself. In other words, to trust and be confident in yourself, you need to keep your words to yourself.
+- being mentally strong. It does sound silly, but this idea really inspires me.
+2) It is easier for me to do things for other people. Is it because I'm kind? Or I care too much about others opinion? Or I need people's gratitude to feel good about myself? Or, maybe, I just was raised in this way? Anyway, I can abuse it in some way.
+3) I have a lot of ambitions. Of course, it does not sound like a big advantage, but I have met an awful lot of people of my age, who had (did) not cared about their future.
+4) I'm flexible (I don't mean easily adaptive, of course, it is always takes me a lot of time to get used to new rules). What I mean is my ability and willingness to embrace new information and to alter my perception about the world and myself.
+5) My achievements inspire me a lot. In the moments when I do well with something, it makes me want to keep going. The better I do, the more inspiration I get (though, maybe, it works like this for everyone ¯\\_(ツ)_/¯)
+
+Maybe I have forgotten something, but I already want to go to bed.

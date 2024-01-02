@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "D_Vagabond",
+      "path": "Archive/D_Vagabond.md"
+    },
+    {
       "basename": "2024-01-02",
       "path": "Daily notes/2024/January/2024-01-02.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2023-11-29",
       "path": "Daily notes/2023/November/2023-11-29.md"
-    },
-    {
-      "basename": "synergy",
-      "path": "Archive/synergy.md"
     }
   ],
   "omittedPaths": [],

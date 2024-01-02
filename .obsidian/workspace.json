@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2024/January/2024-01-02.md",
+                "file": "Archive/D_Vagabond.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily notes/2024/January/2024-01-02.md",
+                "file": "Archive/D_Vagabond.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily notes/2024/January/2024-01-02.md",
+                "file": "Archive/D_Vagabond.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily notes/2024/January/2024-01-02.md"
+                "file": "Archive/D_Vagabond.md"
               }
             }
           },
@@ -176,6 +176,7 @@
   },
   "active": "3a9ac70bfd0c63f8",
   "lastOpenFiles": [
+    "Daily notes/2024/January/2024-01-02.md",
     "Archive/What was the purpose of Judy Poovey.md",
     "Archive/Julian.md",
     "Obsidian items/Templates/Book.md",
@@ -201,7 +202,6 @@
     "Archive/Cycles of seasons of a man.md",
     "Archive/Crime and Punishment references in The Secret History.md",
     "Archive/Bunny's blindness.md",
-    "Archive/Bunny ability to mess with people.md",
     "obsidian items/Templates",
     "Obsidian items/Attachments/Screenshot 2024-01-02 at 11.44.51.png",
     "Daily notes/2024/January",

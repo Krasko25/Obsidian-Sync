@@ -2,6 +2,10 @@
 
 As the four seasons between heaven and earth flow in an endless cycle, so too, must man work his way, through his own cycles of seasons continuous. If you are able to to endure a long hard winter, a fresh new spring is sure to follow, invigorating with  strength renewed.>>_ #Mark/Quote <!--SR:!2024-01-09,8,256-->
 
+His presence was {{sublime}} (of high moral or intellectual value; elevated in nature or style), as if his entire body were melting out into the sky
+
+the {{**sublime**}} (inspiring) beauty of the night
+
 The great In'ei, he is in the class by himself>>_ <!--SR:!2024-01-08,9,272-->
 
 team up>>_ <!--SR:!2024-01-16,15,296-->

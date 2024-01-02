@@ -12,7 +12,7 @@ Depending on whether they name a {{**tangible**}} or an **in**{{**tangible**}} t
 
 the lack of any {{concrete}} (бетонный, конкретный) evidence <!--SR:!2024-01-11,10,270-->
 
-We can also use them with the indefinite **articles**  __a__  and  __an__  (which signify a single person or thing) or in their {{**plural**}}** (a word or form that expresses more than one (множественное)) forms**
+We can also use them with the indefinite **articles**  __a__  and  __an__  (which signify a single person or thing) or in their {{**plural**}}** (a word or form that expresses more than one (множественное)) forms** <!--SR:!2024-01-06,4,272-->
 
 In the present tense we say "he sits", because the third person singular {{inflection}} (**a change in or addition to the form of a word that shows a change in the way it is used in sentences)** of the verb is -s
 

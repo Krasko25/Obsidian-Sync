@@ -33,7 +33,7 @@ The man is willing to give you a second chance, he is downstairs waiting, and yo
 
 'It smells terrible in here,' said Francis. 'Tomorrow, if it's warm, we'll {{air it out}} (wind) 
 
-The room has {{fabulous}} (**very good; excellent)** views across the lake.
+The room has a {{fabulous}} (**very good; excellent)** view across the lake. <!--SR:!2024-01-05,3,260-->
 
 This neckless is a family {{heirloom}} (**a valuable object that has been given by older members of a family to youngermembers of the same family over many years).** 
 

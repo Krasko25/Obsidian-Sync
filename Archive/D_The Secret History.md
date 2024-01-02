@@ -56,7 +56,7 @@ I told him everything as far as memory allowed>>_
 
 They kept saying that my friends – Henry and Charles – had {{ratted}} (настучать) on me.
 
-he decided {{to play along with}} (подыграть) him <!--SR:!2024-01-02,3,266-->
+he decided {{to play along with}} (подыграть) him <!--SR:!2024-01-11,9,286-->
 
 Bunny {{walk in}} (**to go into a** **room** **and** **see** **what someone is doing, when they did not** **want** **to be** **seen**) on them
 
@@ -74,7 +74,7 @@ the other day>>в другой день
 
 had just come back from the {{brink of Death}} (грани смерти) itself
 
-he was scared at a {{key point}} (the main part) of the ceremony
+he was scared at a {{key point}} (the main part) of the ceremony <!--SR:!2024-01-05,3,272-->
 
 He said through his teeth>>_
 
@@ -82,7 +82,7 @@ I fished around in my pocket, gave her my handkerchief.>>_
 
 umbrella was turned {{inside out}} (наизнанку)
 
-men's room>>мужской туалет <!--SR:!2024-01-02,9,270-->
+men's room>>мужской туалет <!--SR:!2024-01-29,27,270-->
 
 She decided to stop to {{collect her wits}} (собраться с мыслями)
 
@@ -191,7 +191,7 @@ I was always welcomed back as soon as he tired of the attention and allowed my m
 
 He was **sentenced to** a 150-year prison {{term}} (**the fixed period of time that something lasts for)** for cheating thousands of ordinary people out of their savings.
 
-We'll have to {{postpone}} (**to delay an event and plan or decide that it should happen at a later date or time)** buying a new computer until next year.
+We'll have to {{postpone}} (**to delay an event and plan or decide that it should happen at a later date or time)** buying a new computer until next year. <!--SR:!2024-01-05,3,272-->
 
 It wasn't far to school, only fifteen minutes, but it was getting cold and my head hurt and the whole evening had left me with a {{keen}} (**very sharp)** sense of ...
 They were very {{keen}} (**very interested, eager, or wanting (to do) something very much) to** start work as soon as possible <!--SR:!2000-01-01,1,250!2024-01-06,12,276-->
@@ -205,7 +205,7 @@ He had all the {{hallmarks}} (**a typical characteristic or feature of a person 
 
 He always listened to her {{prudent}} (**careful and avoiding risks)** advice.
 
-It is difficult to believe that Henry's modest plan could have worked so well despite these {{unforeseen}} (**not expected)** events.
+It is difficult to believe that Henry's modest plan could have worked so well despite these {{unforeseen}} (**not expected)** events. <!--SR:!2024-01-06,4,292-->
 
 It is difficult to believe that such an {{uproar}} (суматоха) took place over an act for which I was partially responsible
 

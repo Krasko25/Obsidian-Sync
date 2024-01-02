@@ -18,7 +18,7 @@ to build {{interactive}} (relating to a program or interface that responds to th
 
 To {{ensure}} (make certain of (гарантировать)) data storage and retrieval, databases play a crucial role in web development.
 
-Developers can {{consume}} (use) APIs to access external services and {{retrieve}} (извлечения) data. <!--SR:!2024-01-05,4,272!2000-01-01,1,250-->
+ <!--SR:!2024-01-05,4,272!2024-01-06,4,274-->
 
 backend↔server-side
 

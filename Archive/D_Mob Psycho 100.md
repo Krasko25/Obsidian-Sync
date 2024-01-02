@@ -4,7 +4,7 @@ It {{hit too close to home for me}} (больная тема), too
 
 But if you're not {{up to the task}} (good enough for this task), very well
 
-narrator>>рассказчик <!--SR:!2024-01-02,3,254-->
+narrator>>рассказчик <!--SR:!2024-01-12,10,274-->
 
 I'm going to make you pay {{dearly}} (заплатить сполна)!
 
@@ -49,11 +49,11 @@ You're actually making me use my {{trump card}} (**an** **advantage** **that mak
 
 Espers are hard to {{possess}} (**to have or own something, or to have a** **particular** **quality)** <!--SR:!2024-01-09,10,272--> 
 
-You guys are still a {{small fries}} (**people** **or things that are not** **considered** **to be** **important)** 
+You guys are still a {{small fries}} (**people** **or things that are not** **considered** **to be** **important)** <!--SR:!2024-01-05,3,258--> 
 
 HQ>>headquaters 
 
-boss will be in a {{league of his own}} (someone who is on the whole different level) 
+boss will be in a {{league of his own}} (someone who is on the whole different level) <!--SR:!2024-01-05,3,258--> 
 
 {{Fraud}} (**someone who** **deceive s** **people** **by saying that they are someone or something that they are not)** or not, you had the nerve to call yourself the boss
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archive/Tdiary.md",
+                "file": "Archive/Преступление и наказание.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archive/Tdiary.md",
+                "file": "Archive/Преступление и наказание.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Archive/Tdiary.md",
+                "file": "Archive/Преступление и наказание.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archive/Tdiary.md"
+                "file": "Archive/Преступление и наказание.md"
               }
             }
           },
@@ -176,6 +176,7 @@
   },
   "active": "3a9ac70bfd0c63f8",
   "lastOpenFiles": [
+    "Archive/Tdiary.md",
     "Daily notes/2024/January/2024-01-02.md",
     "Archive/D_Blue Lock.md",
     "Archive/D_Crime and Punishment.md",
@@ -201,7 +202,6 @@
     "Archive/Eastern eggs MOC.md",
     "Archive/Eastern eggs in The Secret History.md",
     "Obsidian items/Templates/Person.md",
-    "Obsidian items/Templates/Character.md",
     "obsidian items/Templates",
     "Obsidian items/Attachments/Screenshot 2024-01-02 at 11.44.51.png",
     "Daily notes/2024/January",

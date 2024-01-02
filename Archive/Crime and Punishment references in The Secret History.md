@@ -1,5 +1,4 @@
  #Mark/Raw 
-[[The Secret History]] [[Преступление и наказание]] 
 ##### Doors
 Julian was opening door in the same manner as [[Алёна Ивановна]], without trust, as if we is waiting for something horrible to happen. 
 
@@ -12,3 +11,17 @@ As well, I remember, that he was doing the same, when our company came to him an
 While reading Crime and Punishment (2x6), I noticed, that when Раскольников, was trying to "show his tongue", to turn himself in, he was trying to make a show out of it. He used such an epic words as "заявляю", "признаюсь", "свидетельствую", etc.
 
 Simply put, for Раскольников the opinion of other people is really important, he constantly tries to turn himself in, to put himself in danger. Sure, it is different from Henry's behavior, but I still find that to be some kind of inspiration or reference.
+
+### <span style="color:#0070c0">Compass</span>
+###### North (source):
+[[The Secret History]]
+[[Преступление и наказание]]
+
+###### West (similar):
+[[Live is show, tragedy]]
+
+###### East (opposite):
+
+
+###### South (topic):
+[[Eastern eggs MOC]]

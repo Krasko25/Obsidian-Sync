@@ -9,3 +9,20 @@ Question, Evidence and Conclusion
 Каждый вывод, идея должна быть полноценной сама по себе, так, чтобы не нужен был контекст, чтобы понять её.
 ### Connections
 Необходимо продумать то, как эта идея взаимодействует с прошлыми, как она связана с ними.
+
+
+
+
+
+### <span style="color:#0070c0">Compass</span>
+###### North (source):
+
+
+###### West (similar):
+
+
+###### East (opposite):
+
+
+###### South (topic):
+

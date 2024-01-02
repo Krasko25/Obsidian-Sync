@@ -7,3 +7,21 @@ Henry wanted Julian to be his only parent, he wanted to be clear blooded
 Does [[Julian]] believe, that Greek is his nature language? 
 
 Death is the mother of beauty ([[Henry]]). Julian is the father of Henry and the death is his mother. 
+
+
+
+
+### <span style="color:#0070c0">Compass</span>
+###### North (source):
+[[The Secret History]]
+[[Henry]]
+[[Julian]]
+
+###### West (similar):
+[[What is Julian playing at]]
+
+###### East (opposite):
+
+
+###### South (topic):
+

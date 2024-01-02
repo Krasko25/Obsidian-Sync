@@ -5,7 +5,7 @@
 
 ### <span style="color:#0070c0">Compass</span>
 ###### North (source):
-[[The Secret History]]
+
 
 ###### West (similar characters):
 
@@ -18,5 +18,4 @@
 
 
 #Source/Characters-List [[Characters-List]]
-
 

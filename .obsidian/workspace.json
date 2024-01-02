@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archive/Тренировочная зона.md",
+                "file": "Daily notes/2024/January/2024-01-02.md",
                 "mode": "source",
                 "source": false
               }
@@ -58,14 +58,6 @@
             }
           },
           {
-            "id": "217e8f49a28ce208",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
-          },
-          {
             "id": "7d9c02f28b7fb800",
             "type": "leaf",
             "state": {
@@ -81,6 +73,14 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "0e6cea3907565403",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
               "state": {}
             }
           }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archive/Тренировочная зона.md",
+                "file": "Daily notes/2024/January/2024-01-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Archive/Тренировочная зона.md",
+                "file": "Daily notes/2024/January/2024-01-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,16 +133,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archive/Тренировочная зона.md"
+                "file": "Daily notes/2024/January/2024-01-02.md"
               }
-            }
-          },
-          {
-            "id": "0e6cea3907565403",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
             }
           },
           {
@@ -152,8 +144,17 @@
               "type": "review-queue-list-view",
               "state": {}
             }
+          },
+          {
+            "id": "217e8f49a28ce208",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -175,32 +176,34 @@
   },
   "active": "3a9ac70bfd0c63f8",
   "lastOpenFiles": [
-    "Obsidian items/Attachments/Screenshot 2024-01-02 at 11.44.51.png",
-    "Archive/Преимущества тренировок с собственным весом.md",
-    "Archive/Training MOC.md",
-    "Archive/Тренировочная зона.md",
-    "Daily notes/2024/January/2024-01-02.md",
-    "Archive/diary.md",
-    "Archive/Tdiary.md",
-    "Daily notes/2024/January/2024-01-01.md",
-    "Archive/Когда равнодушие может стать преступлением.md",
-    "Archive/D_Crime and Punishment.md",
-    "Archive/Преступление и наказание.md",
-    "Obsidian items/Templates/Video.md",
-    "Archive/2023 Zettelkasten Obsidian Workflow ⚡️ Simple Set Up.md",
-    "Archive/obsidian MOC.md",
+    "Archive/What was the purpose of Judy Poovey.md",
+    "Archive/Julian.md",
+    "Obsidian items/Templates/Book.md",
+    "Archive/Judy Poovey.md",
+    "Archive/Isenokami.md",
+    "Archive/How To Take Smart Notes (3 methods no one's talking about).md",
+    "Archive/Henry.md",
+    "Archive/Habitica.md",
+    "Archive/Greek is Julian's first language.md",
+    "Archive/Gion is a double of Musashi.md",
+    "Archive/Gion.md",
+    "Archive/Francis.md",
     "Archive/Essays MOC.md",
-    "Archive/Недеяние - это тоже действие.md",
-    "Archive/Экзамен-сочинение по русскому языку.md",
-    "Daily notes/2023/November/2023-11-24.md",
-    "Archive/Obsidian as a second brain, the ultimate tutorial.md",
-    "Daily notes/2023/November/2023-11-29.md",
-    "Archive/synergy.md",
-    "Daily notes/2023/November/2023-11-21.md",
-    "Archive/D_Rick and Morty.md",
-    "Archive/LD.md",
+    "Archive/Entertainments-List.md",
+    "Archive/Ego is a good thing.md",
+    "Archive/Eastern eggs MOC.md",
+    "Archive/Eastern eggs in The Secret History.md",
     "Obsidian items/Templates/Person.md",
-    "Obsidian items/Templates/Note.md",
+    "Obsidian items/Templates/Character.md",
+    "Archive/DuoAzul.md",
+    "Archive/diary.md",
+    "Archive/D_Baki.md",
+    "Archive/Cycles of seasons of a man.md",
+    "Archive/Crime and Punishment references in The Secret History.md",
+    "Archive/Bunny's blindness.md",
+    "Archive/Bunny ability to mess with people.md",
+    "obsidian items/Templates",
+    "Obsidian items/Attachments/Screenshot 2024-01-02 at 11.44.51.png",
     "Daily notes/2024/January",
     "Daily notes/2024",
     "Obsidian items/Attachments/Screenshot 2023-11-29 at 14.24.56.png",
@@ -213,14 +216,12 @@
     "Obsidian items/Attachments/Screenshot 2023-11-17 at 18.54.20.png",
     "Obsidian items/Attachments/Screenshot 2023-11-17 at 18.41.47 1.png",
     "Obsidian items/Attachments/Screenshot 2023-11-27 at 20.24.33.png",
-    "Obsidian items/Attachments/Screenshot 2023-11-17 at 18.48.57.png",
     "Obsidian items/Attachments",
     "Obsidian items/Templates",
     "Obsidian items",
     "Archive/Алёна Ивановна.md.tmp",
     "Archive/Медитация в повседневной жизни.md.tmp",
     "Archive/Парадокс преодоления страданий.md.tmp",
-    "Archive/Раскольников ужасно печется о мнении окружающих его людей.md.tmp",
     "Untitled.canvas"
   ]
 }

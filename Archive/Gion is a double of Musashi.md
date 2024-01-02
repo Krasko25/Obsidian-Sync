@@ -14,4 +14,22 @@ I suppose, that Gion is a Musashi, that was not lucky enough to face Takuan and 
 By the way, Gion wanted to attack Yagyu from the ambush. Musashi wanted to attack Inshun at night in the same manner. Gion attacked him, when Yagyu didn't even have a sword. Both of them were not trying to win a fair fight, they were trying to just get over it. 
 
 ##### No man is an island by himself
-When Gion got scared and was too ashamed to continue living and too weak to deal with his emotion, he decided to die. He didn't go to his master, to his school, he was to ashamed to ask for help, he wanted to be independent, be complete by himself. It is really similar to the idea of being invincible of Musashi.
+When Gion got scared and was too ashamed to continue living and too weak to deal with his emotion, he decided to die. He didn't go to his master, to his school, he was to ashamed to ask for help, he wanted to be independent, be complete by himself. It is really similar to the idea of being invincible of Musashi
+
+
+
+
+### <span style="color:#0070c0">Compass</span>
+###### North (source):
+[[vagabond]]
+[[Gion]]
+[[Musashi]]
+
+###### West (similar):
+
+
+###### East (opposite):
+
+
+###### South (topic):
+

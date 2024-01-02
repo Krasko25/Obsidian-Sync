@@ -185,5 +185,13 @@
       ],
       "key": "C"
     }
+  ],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "T"
+    }
   ]
 }

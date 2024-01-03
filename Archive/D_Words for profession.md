@@ -16,7 +16,7 @@ Modern web developers often {{utilize}} (put into service; make work for a parti
 
 to build {{interactive}} (relating to a program or interface that responds to the user's input) user interfaces. <!--SR:!2024-01-04,3,252-->
 
-To {{ensure}} (make certain of (гарантировать)) data storage and retrieval, databases play a crucial role in web development.
+To {{ensure}} (make certain of (гарантировать)) data storage and retrieval, databases play a crucial role in web development. <!--SR:!2024-01-07,4,272-->
 
  <!--SR:!2024-01-05,4,272!2024-01-06,4,274-->
 

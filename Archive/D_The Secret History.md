@@ -28,7 +28,7 @@ He was in a rambling, paranoid {{humor}} (mood) <!--SR:!2024-01-05,12,276-->
 'Well,' he said, 'this is {{a hell of a note.}} (Surprising news, typically that which is negative or bad.)' He looked a bit {{stunned}} (in a state of mental numbness especially as resulting from shock).
 
 'Why would he want to do that?' - 'Because I'm {{in the way}} (мешаю).'
-'You wouldn't {{go behind my back}} (действовать за моей спиной), would you?'
+'You wouldn't {{go behind my back}} (действовать за моей спиной), would you?' <!--SR:!2000-01-01,1,250!2024-01-06,3,274-->
 
 Even after all that had happened, the bitterness and disappointment in his voice {{cut me to the heart}} (hurt me a lot). <!--SR:!2024-01-21,20,256-->
 
@@ -36,7 +36,7 @@ Richard {{reinvented}} (re-experience something)  his experience with Julian.
 
 The author is trying to make an impression on the {{audience}} (аудитория) <!--SR:!2024-01-09,10,281-->
 
-The doctor says that it's {{touch-and-go}} (**having an** **uncertain, and** **possibly** **bad** **result)**  **whether** Mary will be okay <!--SR:!2024-01-03,4,286-->
+The doctor says that it's {{touch-and-go}} (**having an** **uncertain, and** **possibly** **bad** **result)**  **whether** Mary will be okay <!--SR:!2024-01-16,13,286-->
 
 He stopped at the {{next-to-last}} (next to the last) sheet
 
@@ -78,7 +78,7 @@ he was scared at a {{key point}} (the main part) of the ceremony <!--SR:!2024-01
 
 He said through his teeth>>_
 
-I fished around in my pocket, gave her my handkerchief.>>_
+I fished around in my pocket, gave her my handkerchief.>>_ <!--SR:!2024-01-07,4,294-->
 
 umbrella was turned {{inside out}} (наизнанку)
 
@@ -120,7 +120,7 @@ and, on the {{pretext}} (**a** **pretended** **reason** **for doing something th
 
 The news of our friend's death has {{saddened}} (has made me more sad) me greatly
 
-absentminded>>рассеяный
+absentminded>>рассеяный <!--SR:!2024-01-07,4,294-->
 
 Cloke, who seemed to me close to a {{nervous breakdown}} (нервный срыв), went uninvited to stay at Charlesand Camilla's
 
@@ -149,7 +149,7 @@ I don't know, except that I was {{handier}} (**useful** **or** **convenient)** t
 
 we should be especially careful about turning into the logging road and coming out of it onto the {{highway}} (**a** **public** **road,** **especially** **an** **important** **road** **that** **joins** **cities** **or** **towns** **together).**
 
-This was a clever piece of {{groundwork}} (**work** **that is done as a** **preparation** **for** **work** **that will be done** **later)** on Henry's part.
+This was a clever piece of {{groundwork}} (**work** **that is done as a** **preparation** **for** **work** **that will be done** **later)** on Henry's part. <!--SR:!2024-01-06,3,274-->
 
 beat around the bush↔ходить вокруг да около
 
@@ -171,13 +171,13 @@ I was ironing my clothes>>_
 
 Francis's voice came back to me again>>_ <!--SR:!2024-01-19,18,305-->
 
-ironing board>>гладильная доска <!--SR:!2024-01-03,4,286-->
+ironing board>>гладильная доска <!--SR:!2024-01-20,17,306-->
 
 Once in the car, Henry lit a cigarette and didn't say a word. He'd been smoking a lot since he got back from Italy, almost a {{pack}} a day, which was rare for him.
 
 'No, no, don't go,' said Henry, taking a long gulp of his coffee and putting the cup in the {{sink}} (раковина). <!--SR:!2024-01-05,12,270-->
 
-But that's got them in debt to the eyebrows>>_ <!--SR:!2024-01-03,4,286-->
+But that's got them in debt to the eyebrows>>_ <!--SR:!2024-01-13,10,286-->
 
 'Well, hello there, Richard,' he said, shaking my hand heartily>>_
 
@@ -207,17 +207,17 @@ He always listened to her {{prudent}} (**careful and avoiding risks)** advice.
 
 It is difficult to believe that Henry's modest plan could have worked so well despite these {{unforeseen}} (**not expected)** events. <!--SR:!2024-01-06,4,292-->
 
-It is difficult to believe that such an {{uproar}} (суматоха) took place over an act for which I was partially responsible
+It is difficult to believe that such an {{uproar}} (суматоха) took place over an act for which I was partially responsible <!--SR:!2024-01-07,4,294-->
 
-walking away, unfortunately, has proved to be quite another, and though once I thought I had left that {{ravine}} (овраг) forever on an April afternoon long ago, now I am not so sure.
+walking away, unfortunately, has proved to be quite another, and though once I thought I had left that {{ravine}} (овраг) forever on an April afternoon long ago, now I am not so sure. <!--SR:!2024-01-06,3,274-->
 
-That was a tale that told itself>>_ <!--SR:!2024-01-03,4,286-->
+That was a tale that told itself>>_ <!--SR:!2024-01-13,10,286-->
 
 One of the boys has a {{freckle}} (веснушка) on his cheek.
 
 I {{tore out}} (вырвал) the information form in the back of the brochure andstarted to fill it in.
 
-Would you like some information on Financial {{Aid}} (**help or support)**
+Would you like some information on Financial {{Aid}} (**help or support)** <!--SR:!2024-01-07,4,294-->
 
 You will find it a {{delightful}} (**(something or someone that gives) great pleasure, satisfaction, or happiness)** to learn
 

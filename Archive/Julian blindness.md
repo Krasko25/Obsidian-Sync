@@ -10,3 +10,22 @@ He was surprised by that letter? Was it a total surprise for him or he was (? gr
 They run out of his control! He got afraid of that, he was not able to read them! Is it really true? Is it really the reason he run away? 
 
 Is it possible, that, as Dionysus, he have already done his job, he spited them, let them free? [[What is Julian playing at]]
+
+
+
+
+
+### <span style="color:#0070c0">Compass</span>
+###### North (source):
+[[Julian]]
+[[The Secret History]]
+[[What was Julian's plan. How much did he know]]
+
+###### West (similar):
+[[What is Julian playing at]]
+
+###### East (opposite):
+[[Julian's betreyal]]
+
+###### South (topic):
+

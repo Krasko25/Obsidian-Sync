@@ -19,7 +19,7 @@ Everything I {{pitch}} (**to throw something, esp. forcefully, promote)** he sho
 
 Don't chew too loud, and collect your {{paycheck.}} (**a check used to pay an employee the amount of money the employee has earned).** <!--SR:!2024-01-08,15,290--> 
 
-First of all, I don't hate {{Jews}} (иудей, еврей), If I did, would I be able to sit in the same room as my good friend, a {{Jew}}?
+First of all, I don't hate {{Jews}} (иудей, еврей), If I did, would I be able to sit in the same room as my good friend, a {{Jew}}? <!--SR:!2024-01-07,4,280!2000-01-01,1,250-->
 
 Hey, Gina, I'm sorry. I was just {{teasing}} (**to laugh at someone or say unkind things about them, either because you are jokingor because you want to upset that person)**. Gina, come out of the bathroom
 
@@ -59,7 +59,7 @@ I don't know how you {{put up}} (**to accept or continue to accept an unpleasant
 
 I'm good at driving sober, but I do not {{relish}} (**to like or enjoy something) **the opportunity. 
 
-Is he okay? - He recently found out that his brother is {{sick.}} -Oh, I'm sorry, but you know what else is {{sick}}? This floors!
+Is he okay? - He recently found out that his brother is {{sick.}} -Oh, I'm sorry, but you know what else is {{sick}}? This floors! <!--SR:!2000-01-01,1,250!2024-01-07,4,280-->
 
 You know, it's amazing that it's legal for kids to be actors. How is that not child {{labor}} (**practical work, esp. work that involves physical effort)**?
 Let's just go! - I can't leave until I make {{amends}} (**to change something, especially the words of a text (вносить правки))** 

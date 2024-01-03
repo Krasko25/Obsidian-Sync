@@ -15,7 +15,7 @@ West (similar):
 
 
 East (opposite):
-[[We Are Infinite MOC]]
+[[We Are Infinite]]
 [[The idea of unity in Vagabond]]
 
 South (topic):

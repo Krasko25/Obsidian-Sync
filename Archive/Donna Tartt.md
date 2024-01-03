@@ -1,7 +1,4 @@
 
-> That night, during the ritual, it was a cent madness, but in that party, it was just a daily one.
-
-
 
 
 
@@ -13,6 +10,6 @@
 
 
 ###### Source
-
+[[The Secret History]]
 
 #Source/People-List [[People-List]]

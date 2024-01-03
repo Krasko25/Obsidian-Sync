@@ -28,7 +28,7 @@ bff>>best friend forever
 
 bf>>boyfriend
 
-gf>>girlfriend
+gf>>girlfriend <!--SR:!2024-01-07,4,284-->
 
 btw>>by the way
 
@@ -54,7 +54,7 @@ TY>>thank you
 
 YW>>you're welcome <!--SR:!2024-01-05,11,274-->
 
-NBD>>no big deal <!--SR:!2024-01-03,9,270-->
+NBD>>no big deal <!--SR:!2024-02-05,33,290-->
 
 AKA>>also known as...
 

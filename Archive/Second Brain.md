@@ -5,6 +5,7 @@
 [[Articles-List]]
 [[Entertainments-List]]
 [[People-List]]
+[[Characters-List]]
 
 
 # My MOCs-Topics

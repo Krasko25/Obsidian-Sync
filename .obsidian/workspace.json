@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archive/Преступление и наказание.md",
+                "file": "Archive/The idea of unity in Vagabond.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a61f22dae9f0454f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily notes/2024/January/2024-01-03.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archive/Преступление и наказание.md",
+                "file": "Daily notes/2024/January/2024-01-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Archive/Преступление и наказание.md",
+                "file": "Daily notes/2024/January/2024-01-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archive/Преступление и наказание.md"
+                "file": "Daily notes/2024/January/2024-01-03.md"
               }
             }
           },
@@ -174,34 +187,34 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "3a9ac70bfd0c63f8",
+  "active": "a61f22dae9f0454f",
   "lastOpenFiles": [
-    "Daily notes/2024/January/2024-01-03.md",
-    "Archive/Tdiary.md",
-    "Daily notes/2024/January/2024-01-02.md",
-    "Archive/D_Blue Lock.md",
-    "Archive/D_Crime and Punishment.md",
-    "Archive/D_Vagabond.md",
-    "Archive/Раскольников - не является сверх человеком.md",
-    "Archive/Преступление и наказание.md",
+    "Archive/Когда равнодушие может стать преступлением.md",
+    "Archive/Вы не получите удовольствия от досуга, если вы его не заслужили.md",
     "Archive/Вы должны уметь воспроизводить свои успехи.md",
+    "Archive/Болезнь Раскольникова. Когда она проявлялась, по каким причинам.md",
+    "Archive/Алёна Ивановна.md",
+    "Archive/Автобусы в Крыму.md",
+    "Archive/Yagyu.md",
+    "Archive/Why Donna Tartt wrote this book for.md",
+    "Archive/Donna Tartt.md",
     "Archive/What was the purpose of Judy Poovey.md",
-    "Archive/Julian.md",
-    "Obsidian items/Templates/Book.md",
-    "Archive/Judy Poovey.md",
-    "Archive/Isenokami.md",
-    "Archive/How To Take Smart Notes (3 methods no one's talking about).md",
-    "Archive/Henry.md",
-    "Archive/Habitica.md",
-    "Archive/Greek is Julian's first language.md",
-    "Archive/Gion is a double of Musashi.md",
-    "Archive/Gion.md",
-    "Archive/Francis.md",
-    "Archive/Essays MOC.md",
-    "Archive/Entertainments-List.md",
+    "Archive/What was Julian's plan. How much did he know.md",
+    "Archive/What kind of relationship were between Richard and Judy Poovey..md",
+    "Archive/What is Julian playing at.md",
+    "Archive/What Inshun lacked.md",
+    "Archive/Inshun.md",
+    "Archive/We Are Infinite.md",
+    "Archive/Meditation MOC.md",
+    "Archive/Videos-List.md",
+    "Archive/vagabond.md",
+    "Archive/Training MOC.md",
+    "Archive/The Secret History.md",
+    "Archive/The moment Musashi understood, how small he is.md",
+    "Archive/The map is not the Territory.md",
+    "Archive/Obsidian as a second brain, the ultimate tutorial.md",
+    "Archive/The idea of unity in Vagabond.md",
     "Archive/Ego is a good thing.md",
-    "Archive/Eastern eggs MOC.md",
-    "Archive/Eastern eggs in The Secret History.md",
     "obsidian items/Templates",
     "Obsidian items/Attachments/Screenshot 2024-01-02 at 11.44.51.png",
     "Daily notes/2024/January",

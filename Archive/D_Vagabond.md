@@ -44,7 +44,7 @@ Last year the company **seemed/looked** {{invincible}} (impossible to defeat or 
 
 hoe>>тяпка, мотыга 
 
-I was to lazy to milk this idea for 10 minutes>>_ 
+I was to lazy to milk this idea for 10 minutes>>_ <!--SR:!2024-01-07,4,282-->
 
 Am I still strong? I want to know. - he exceeds (**to go past the level, limit, rate, etc. that you are allowed) **the rumors
 

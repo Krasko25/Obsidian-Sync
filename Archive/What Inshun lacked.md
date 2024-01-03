@@ -5,3 +5,23 @@ He is way to remoted from other people and monks. He does not feel other people,
 All his power stems from his technical skills and the lack of fear.
 
 > His studied technique in magnificent, but his heart, his soul, he focuses too much of his "self".
+
+
+
+
+
+
+### <span style="color:#0070c0">Compass</span>
+###### North (source):
+[[Inshun]]
+[[vagabond]]
+
+###### West (similar):
+
+
+###### East (opposite):
+
+
+###### South (topic):
+
+

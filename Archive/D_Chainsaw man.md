@@ -13,7 +13,7 @@ Better {{head to}} (moving somewhere) work <!--SR:!2024-01-04,7,250-->
 
 What is this? - my {{resignation}} (**the act of telling your employer that you are leaving your job)**. - You're quitting? - I figure the choice between quitting or getting killed
 
-If I tear it up until it can't take the pain no more, it will wanna kill itself! - A very devilish idea {{indeed}} (**really or certainly, often used to emphasize something).** 
+If I tear it up until it can't take the pain no more, it will wanna kill itself! - A very devilish idea {{indeed}} (**really or certainly, often used to emphasize something).** <!--SR:!2024-01-06,3,256--> 
 
 Those kind of terms hold a strong {{sway}} (**control or influence) **when a devil is involved.
 
@@ -27,7 +27,7 @@ okey, the journal is {{secure}} **(especially of objects, situations, etc.) able
 
 they will make a {{sour}} (**having a sharp, sometimes unpleasant, taste or smell, like a lemon, and not sweet**) face and live you alone
 
-Your job is to raise them and then put them to work, make sure not to grow {{attached}} (**to fasten, join, or connect something). **Use this cable to {{attach}} the printer **to** the computer <!--SR:!2024-01-03,4,272!2000-01-01,1,250--> 
+Your job is to raise them and then put them to work, make sure not to grow {{attached}} (**to fasten, join, or connect something). **Use this cable to {{attach}} the printer **to** the computer <!--SR:!2024-01-12,9,272!2000-01-01,1,250--> 
 
 I think you'll make a good {{leash}} (**a piece of rope, chain, etc. tied to an animal, especially to a dog at its collar when taking it for a walk:)** for the two of them. <!--SR:!2024-01-10,9,270-->
 

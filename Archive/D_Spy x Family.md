@@ -19,10 +19,10 @@ I'd be thrilled** **{{**to get her out of my hair**}}** (to get rid of her; **{{
 First, I'll have to ?? (to collect several things, often from different places or people; to put your arms around someone and hold or carry them in a careful or loving way) everything we'll need.
 ?
 I went to several libraries to gather information about the plans.
-She gather the children up and hurried into the house. 
+She gather the children up and hurried into the house.
 The bicycle gather speed as it went down the hill.
- 
-You've been staring at me ever since I walked in. May I help you? - *imposibble. She could even sense my {{gaze}} (to look at something or someone for a long time, especially in surprise or admiration, or because you are thinking about something else)? *
+
+You've been staring at me ever since I walked in. May I help you? - *imposibble. She could even sense my {{gaze}} (to look at something or someone for a long time, especially in surprise or admiration, or because you are thinking about something else)? * <!--SR:!2024-01-07,4,284-->
 
 You have {{favorable}} (благоприятное) impression of my appearance?; May I ask you a {{favor}} ? ; it counts in {{favor}} (в ползу, во благо) of... <!--SR:!2024-01-10,9,277!2000-01-01,1,250!2000-01-01,1,250-->
 

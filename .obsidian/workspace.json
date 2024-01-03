@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2024/January/2024-01-03.md",
+                "file": "Archive/Tdiary.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily notes/2024/January/2024-01-03.md",
+                "file": "Archive/Tdiary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily notes/2024/January/2024-01-03.md",
+                "file": "Archive/Tdiary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily notes/2024/January/2024-01-03.md"
+                "file": "Archive/Tdiary.md"
               }
             }
           },
@@ -189,6 +189,8 @@
   },
   "active": "a61f22dae9f0454f",
   "lastOpenFiles": [
+    "Archive/diary.md",
+    "Daily notes/2024/January/2024-01-03.md",
     "Archive/Когда равнодушие может стать преступлением.md",
     "Archive/Вы не получите удовольствия от досуга, если вы его не заслужили.md",
     "Archive/Вы должны уметь воспроизводить свои успехи.md",
@@ -213,8 +215,6 @@
     "Archive/The moment Musashi understood, how small he is.md",
     "Archive/The map is not the Territory.md",
     "Archive/Obsidian as a second brain, the ultimate tutorial.md",
-    "Archive/The idea of unity in Vagabond.md",
-    "Archive/Ego is a good thing.md",
     "obsidian items/Templates",
     "Obsidian items/Attachments/Screenshot 2024-01-02 at 11.44.51.png",
     "Daily notes/2024/January",

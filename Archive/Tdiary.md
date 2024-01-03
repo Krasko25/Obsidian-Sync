@@ -24,4 +24,7 @@ My trump cards (and how to improve them):
 
 Maybe I have forgotten something, but I already want to go to bed.
 
-==January 2nd, 2023==
+==January 3rd, 2023==
+For the last few days I was not awfully productive. It happened for many reason, of them is because I started watching a new anime (I'm not recording it in English). It was always hard for me to do small amount of things per a time. When it comes to entertainment contents I either consume nothing or an awful amount. I put some limitation rules for myself, let's see if it works.
+
+I was delaying my year plans for a few days already. I will do my best to write about it tomorrow.

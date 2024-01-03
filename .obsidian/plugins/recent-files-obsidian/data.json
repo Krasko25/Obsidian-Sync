@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Tdiary",
+      "path": "Archive/Tdiary.md"
+    },
+    {
+      "basename": "diary",
+      "path": "Archive/diary.md"
+    },
+    {
       "basename": "2024-01-03",
       "path": "Daily notes/2024/January/2024-01-03.md"
     },
@@ -109,10 +117,6 @@
       "path": "Archive/Ego is a good thing.md"
     },
     {
-      "basename": "Tdiary",
-      "path": "Archive/Tdiary.md"
-    },
-    {
       "basename": "Sequence of tenses",
       "path": "Archive/Sequence of tenses.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "How To Take Smart Notes (3 methods no one's talking about)",
       "path": "Archive/How To Take Smart Notes (3 methods no one's talking about).md"
-    },
-    {
-      "basename": "Henry",
-      "path": "Archive/Henry.md"
     }
   ],
   "omittedPaths": [],

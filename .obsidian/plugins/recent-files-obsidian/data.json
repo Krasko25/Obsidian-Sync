@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "DuoAzul",
+      "path": "Archive/DuoAzul.md"
+    },
+    {
       "basename": "Тренировочная зона",
       "path": "Archive/Тренировочная зона.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Musashi",
       "path": "Archive/Musashi.md"
-    },
-    {
-      "basename": "Live is show, tragedy",
-      "path": "Archive/Live is show, tragedy.md"
     }
   ],
   "omittedPaths": [],

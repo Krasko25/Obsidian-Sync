@@ -57,12 +57,12 @@ Jesus Christ! Juda, do you ever {{read a room}} (**to be or become aware of the 
 
 I don't know how you {{put up}} (**to accept or continue to accept an unpleasant situation or experience, or someone who behaves unpleasantly) **{{wit}}h me. I didn't {{put up with}} you.
 
-I'm good at driving sober, but I do not {{relish}} (**to like or enjoy something) **the opportunity. 
+I'm good at driving sober, but I do not {{relish}} (**to like or enjoy something) **the opportunity. <!--SR:!2024-01-08,4,282--> 
 
 Is he okay? - He recently found out that his brother is {{sick.}} -Oh, I'm sorry, but you know what else is {{sick}}? This floors! <!--SR:!2000-01-01,1,250!2024-01-07,4,280-->
 
 You know, it's amazing that it's legal for kids to be actors. How is that not child {{labor}} (**practical work, esp. work that involves physical effort)**?
-Let's just go! - I can't leave until I make {{amends}} (**to change something, especially the words of a text (вносить правки))** 
+Let's just go! - I can't leave until I make {{amends}} (**to change something, especially the words of a text (вносить правки))** <!--SR:!2024-01-08,4,282!2000-01-01,1,250--> 
 
 Wait, did we just go to Ana's house? Did I get {{closure}} (**the feeling or act of bringing an unpleasant situation, time, or experience to an end, so that you are able to start new activities:)?** 
 

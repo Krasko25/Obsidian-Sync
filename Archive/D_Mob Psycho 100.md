@@ -13,7 +13,7 @@ she has a nerve to speak like this in her position? - {{splendid}} (**excellent,
 
 her head got turned into the {{bulb}} (**a light bulb)** 
 
-People call them {{psychics}} (медиумы) 
+People call them {{psychics}} (медиумы) <!--SR:!2024-01-07,3,261--> 
 
 Salt {{splash}} (**to move in water so that drops of it go in all directions)** 
 
@@ -41,7 +41,7 @@ you seem down>>_
 
 Don't {{twist}} (to change the meaning of the words) my words 
 
-for the fun of it>>_ 
+for the fun of it>>_ <!--SR:!2024-01-08,4,281-->
 
 man up>>**used to** **tell** **someone that they should** **deal** **with something more** **bravely** 
 
@@ -55,7 +55,7 @@ HQ>>headquaters <!--SR:!2024-01-07,4,279-->
 
 boss will be in a {{league of his own}} (someone who is on the whole different level) <!--SR:!2024-01-05,3,258--> 
 
-{{Fraud}} (**someone who** **deceive s** **people** **by saying that they are someone or something that they are not)** or not, you had the nerve to call yourself the boss
+{{Fraud}} (**someone who** **deceive s** **people** **by saying that they are someone or something that they are not)** or not, you had the nerve to call yourself the boss <!--SR:!2024-01-08,4,281-->
 
 when things go {{south}} (in a really bad direction), it's okay to run 
 

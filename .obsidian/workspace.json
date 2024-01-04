@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archive/Преступление и наказание.md",
+                "file": "Archive/When we do not use articles.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d02a36fce72744b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Archive/diary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1c026ccfcfb7672e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Archive/Как мне стоит организовывать мои записки в Obsidian.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "28f98d43b2d99421",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Archive/Как характеризуется состояние медитации.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -33,7 +70,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "013ae17ba75379d2",
+            "id": "82fe3d5068ff8931",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -84,8 +121,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -105,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archive/Преступление и наказание.md",
+                "file": "Archive/Как характеризуется состояние медитации.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Archive/Преступление и наказание.md",
+                "file": "Archive/Как характеризуется состояние медитации.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archive/Преступление и наказание.md"
+                "file": "Archive/Как характеризуется состояние медитации.md"
               }
             }
           },
@@ -175,34 +211,34 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "bbad9b403cdacfa3",
+  "active": "82fe3d5068ff8931",
   "lastOpenFiles": [
-    "Daily notes/2024/January/2024-01-04.md",
-    "Archive/Раскольников.md",
-    "Archive/Преступление и наказание.md",
-    "Archive/Раскольников непредсказуем и это прекрасно.md",
+    "Archive/Как мне стоит организовывать мои записки в Obsidian.md",
+    "Archive/Идея о двух узлах и о свободе.md",
     "Archive/DuoAzul.md",
-    "Archive/Тренировочная зона.md",
-    "Archive/The idea of unity in Vagabond.md",
-    "Archive/Совершенство - это путь, а не цель.md",
-    "Archive/Субъективный и объективный идеал.md",
-    "Archive/Детерминированность вселенной.md",
-    "Archive/Большая шестерка. Отжимания.md",
-    "Archive/Tdiary.md",
+    "Archive/Habitica.md",
+    "Archive/Robert Reimann.md",
+    "Archive/К себе нежно. Книга о том, как ценить и беречь себя.md",
+    "Archive/Из чего состоит дисциплина.md",
+    "Archive/Запятая при (кроме).md",
+    "Archive/Запятая перед как (как будто, словно). Обособленное обстоятельство.md",
+    "Archive/Знаки препинания.md",
     "Archive/diary.md",
-    "Daily notes/2024/January/2024-01-03.md",
-    "Archive/Когда равнодушие может стать преступлением.md",
-    "Archive/Вы не получите удовольствия от досуга, если вы его не заслужили.md",
+    "Archive/When we do not use articles.md",
+    "Archive/Заметов.md",
+    "Archive/Для чего нужно саморазвитие.md",
+    "Archive/Energy MOC.md",
+    "Archive/Will power MOC.md",
+    "Archive/Детерминированность вселенной.md",
+    "Archive/Грамматика MOC.md",
+    "Archive/Говори красиво и уверенно. Постановка голоса и речи.md",
+    "Archive/Большая шестерка. Отжимания.md",
     "Archive/Вы должны уметь воспроизводить свои успехи.md",
+    "Archive/Вы не получите удовольствия от досуга, если вы его не заслужили.md",
     "Archive/Болезнь Раскольникова. Когда она проявлялась, по каким причинам.md",
     "Archive/Алёна Ивановна.md",
     "Archive/Автобусы в Крыму.md",
-    "Archive/Yagyu.md",
     "Archive/Why Donna Tartt wrote this book for.md",
-    "Archive/Donna Tartt.md",
-    "Archive/What was the purpose of Judy Poovey.md",
-    "Archive/What was Julian's plan. How much did he know.md",
-    "Archive/What kind of relationship were between Richard and Judy Poovey..md",
     "obsidian items/Templates",
     "Obsidian items/Attachments/Screenshot 2024-01-02 at 11.44.51.png",
     "Daily notes/2024/January",

@@ -4,7 +4,7 @@ He was the company's {{go-to}} (**used to** **describe** **the** **best** **pers
 
 commit>>фиксировать, помещать (изменения)
 
-It {{enables}} (makes something possible) tracking changes, managing branches, and merging code with ease.
+It {{enables}} (makes something possible) tracking changes, managing branches, and merging code with ease. <!--SR:!2024-01-07,3,254-->
 
 our groups were {{merged}} (flowing together)
 
@@ -14,7 +14,7 @@ Developing a web application {{requires}} (have need of) proficiency in various 
 
 Modern web developers often {{utilize}} (put into service; make work for a particular purpose or for its inherent or natural purpose) popular JavaScript libraries
 
-to build {{interactive}} (relating to a program or interface that responds to the user's input) user interfaces. <!--SR:!2024-01-04,3,252-->
+to build {{interactive}} (relating to a program or interface that responds to the user's input) user interfaces. <!--SR:!2024-01-10,6,252-->
 
 To {{ensure}} (make certain of (гарантировать)) data storage and retrieval, databases play a crucial role in web development. <!--SR:!2024-01-07,4,272-->
 
@@ -28,4 +28,4 @@ backend↔server-side
 A man with deep-set eyes
 Her college is set in the countryside
 The novel is set ^^(действие разворачивается)^^ in France
-We are set^^ (готовы)^^ to go at any time.
+We are set^^ (готовы)^^ to go at any time. <!--SR:!2024-01-08,4,274-->

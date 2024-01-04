@@ -28,3 +28,12 @@ Maybe I have forgotten something, but I already want to go to bed.
 For the last few days I was not awfully productive. It happened for many reason, of them is because I started watching a new anime (I'm not recording it in English). It was always hard for me to do small amount of things per a time. When it comes to entertainment contents I either consume nothing or an awful amount. I put some limitation rules for myself, let's see if it works.
 
 I was delaying my year plans for a few days already. I will do my best to write about it tomorrow.
+==January 4nd, 2023==
+In this note I will try to sum up the results of the last year. I will use my old daily notes to do that.
+
+First thing that I noticed is the inconsistency of my notes, in some months I was writing less than 1 note per a week. This aspect was improved greatly. The quality and length of notes has improved as well. I started writing more about my feelings and plans, make up some conclusions and takeaways from my experienсes. I consider this to be a really important improvement.
+
+Let's talk about the way how I started each of those years. I totally can not name my start of this year to be successful, but it is way better than the start of one. I have done more work. Each of the notes from the last year up to January 25th is full of regrets. I became not only more productive, but, more importantly, I learned to be more positive.
+
+
+

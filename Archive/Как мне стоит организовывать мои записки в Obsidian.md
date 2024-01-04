@@ -20,3 +20,20 @@
 - ForPeople/Social
 - ForTheSelf/Personal
 - те записки, к которым я не собираюсь возвращаться, можно оставлять без области применения
+
+
+
+
+
+### <span style="color:#0070c0">Compass</span>
+###### North (source):
+
+
+###### West (similar):
+
+
+###### East (opposite):
+
+
+###### South (topic):
+[[Habitica MOC]]

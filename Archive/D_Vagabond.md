@@ -59,13 +59,13 @@ While he is doing that, Musashi's reputation will reach the {{topmost}} (the hig
 
 give up the lying already>>_ 
 
-Your thoughts are quite {{profound}} (**felt or experienced very strongly or in an extreme way (очеь глубокое понимание))**, aren't they?
+Your thoughts are quite {{profound}} (**felt or experienced very strongly or in an extreme way (очеь глубокое понимание))**, aren't they? <!--SR:!2024-01-07,3,263-->
 
-I won't forgive you. {{Talking ill}} (плохо отзваться) about my teacher
+I won't forgive you. {{Talking ill}} (плохо отзваться) about my teacher <!--SR:!2024-01-07,3,263-->
 
 You're determined to {{advance}} (**to go or move something forward, or to develop or improve something)... **so you want this sword of yours back.
 
-I'll not forgive you if you're weak. You have defeated Sadakore. I pray you're the strongest man I have yet to {{encounter}} (**a meeting, especially one that happens by chance (натолкнуться).**
+I'll not forgive you if you're weak. You have defeated Sadakore. I pray you're the strongest man I have yet to {{encounter}} (**a meeting, especially one that happens by chance (натолкнуться).** <!--SR:!2024-01-08,4,283-->
 
 Was you looking for a way to die the ??? (**moral in an honest, brave, and kind way) **death of a swordsman.
 ?

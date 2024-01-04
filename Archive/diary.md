@@ -1065,7 +1065,10 @@ To be honest, there is no way I could be proud about the way I spend all of the 
 ![[Screenshot 2023-11-17 at 18.53.19.png|500]]
 ==January 23rd, 2023==
 Today I was lazy all day. The first half I spend watching some anime. After having dinner I was trying to do some work, but I couldn't find any will power for that. 
-Therefore, I chose to fix the kitchen tap as an interesting form of procrastination. For some reason, water was not able to go away from the sink. I took apart some pipes, but it appears that plug drew itself in the pipe that was behind the heavy furniture. I clean it as good as it was possible without moving the objects. I assemble everything and water got the path. After that I walked with the dog, but still was not able to force myself to do the homework. With that in mind I fixed the tap in the bathroom (this one was much easier). Right after that I spend some time with my friends, had a training, write one lecture (which was not nearly enough) and had a lesson with LD.
+
+Therefore, I chose to fix the kitchen tap as an interesting form of procrastination. For some reason, water was not able to go away from the sink. I took apart some pipes, but it appears that plug drew itself in the pipe that was behind the heavy furniture. I clean it as good as it was possible without moving the objects. I assemble everything and water got the path. 
+
+After that I walked with the dog, but still was not able to force myself to do the homework. With that in mind I fixed the tap in the bathroom (this one was much easier). Right after that I spend some time with my friends, had a training, write one lecture (which was not nearly enough) and had a lesson with LD.
 ==January 24th, 2023==
 Today was another wasted day. I wrote 2 lectures, had a training, english lesson, played with dog and my friends. I surely did something, but it can not be called a good result. Tomorrow I'm 18, I don't give a big meaning for dates, but I really want to use it as an extra motivation to change my life.
 ==January 25th, 2023==

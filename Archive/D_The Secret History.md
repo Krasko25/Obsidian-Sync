@@ -42,7 +42,7 @@ He stopped at the {{next-to-last}} (next to the last) sheet
 
 You must {{hide your eyes}} (закрыть глаза) and count to ten and she'll come back.
 
-Because it was obvious, now, that his decision to tell me was a {{calculated move}} (просчитанное действие).
+Because it was obvious, now, that his decision to tell me was a {{calculated move}} (просчитанное действие). <!--SR:!2024-01-08,4,297-->
 
 But all sorts of things had begun to {{occur}} (come to one's mind; suggest itself) to me.
 
@@ -96,7 +96,7 @@ he was testing the waters>>прощупывать почву
 
 new potatoes>>молодая картошка <!--SR:!2024-01-13,12,285-->
 
-Breathing hard, he  **made his way**  across the room and fell heavily into an armchair>>_ <!--SR:!2024-01-04,11,276-->
+Breathing hard, he  **made his way**  across the room and fell heavily into an armchair>>_ <!--SR:!2024-02-02,29,276-->
 
 My head begin to swim>>_
 
@@ -131,7 +131,7 @@ hoarse voiсe>>хриплый голос
 quite out of the blue>>_
 
 The car crossed the road and hit a truck {{head-on}} (**direct** **or** **directly)**
-volunteer>>_
+volunteer>>_ <!--SR:!2024-01-08,4,297-->
 
 a break in the weather>>a change from unpleasant to more pleasant weather / **a** **short** **period** **of** **good** **weather** **during a long** **period** **of** **bad** **weather**
 
@@ -155,7 +155,7 @@ beat around the bush↔ходить вокруг да около
 
 looking over my shoulder into yet another fruitless {{cabinet}} (**a piece of furniture with shelves, cupboards, or drawers, used for storing or showing things)**
 
-Bunny's jailhouse jokes had, for some reason, {{unsettled}}(выбить из колеи) me, though I remembered him telling an awful lot of jokes likethat, back in the fall.
+Bunny's jailhouse jokes had, for some reason, {{unsettled}}(выбить из колеи) me, though I remembered him telling an awful lot of jokes likethat, back in the fall. <!--SR:!2024-01-08,4,297-->
 
 I must have a few minutes to {{tidy}} (**having everything ordered and arranged in the right place, or liking to keep things like this)** myself up. Keep your room tidy.
 
@@ -201,7 +201,7 @@ The snow in the mountains was melting and Bunny had beendead for several weeks b
 The park was {{littered}} (**small pieces of rubbish that have been left lying on the ground in public places:) ** with bottles and cans. <!--SR:!2024-01-06,13,270-->
 
 He works as a camp {{counselor }}(вожатый, руководитель, куратор).
-He had all the {{hallmarks}} (**a typical characteristic or feature of a person or thing)** of a great baseball player.
+He had all the {{hallmarks}} (**a typical characteristic or feature of a person or thing)** of a great baseball player. <!--SR:!2024-01-08,4,297!2000-01-01,1,250-->
 
 He always listened to her {{prudent}} (**careful and avoiding risks)** advice.
 
@@ -236,4 +236,4 @@ How could we use a word "straight"?>>in a classical way
 
 more or less↔более менее
 
-But one night, when my curiosity had {{got the better of me}} (**to defeat someone in a competition)**, I asked him
+But one night, when my curiosity had {{got the better of me}} (**to defeat someone in a competition)**, I asked him <!--SR:!2024-01-08,4,297-->

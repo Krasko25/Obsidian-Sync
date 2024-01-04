@@ -13,6 +13,6 @@ Was in depression since the start of 2023, started self-improvement, liked it. H
 
 
 ###### Source
-[[Habitica]]
+[[Habitica MOC]]
 
 #Source/People-List [[People-List]]

@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Преступление и наказание",
+      "path": "Archive/Преступление и наказание.md"
+    },
+    {
+      "basename": "2024-01-04",
+      "path": "Daily notes/2024/January/2024-01-04.md"
+    },
+    {
+      "basename": "Раскольников",
+      "path": "Archive/Раскольников.md"
+    },
+    {
+      "basename": "Раскольников непредсказуем и это прекрасно",
+      "path": "Archive/Раскольников непредсказуем и это прекрасно.md"
+    },
+    {
       "basename": "DuoAzul",
       "path": "Archive/DuoAzul.md"
     },
@@ -23,10 +39,6 @@
     {
       "basename": "Детерминированность вселенной",
       "path": "Archive/Детерминированность вселенной.md"
-    },
-    {
-      "basename": "2024-01-04",
-      "path": "Daily notes/2024/January/2024-01-04.md"
     },
     {
       "basename": "Большая шестерка. Отжимания",
@@ -187,18 +199,6 @@
     {
       "basename": "People-List",
       "path": "Archive/People-List.md"
-    },
-    {
-      "basename": "ON time and IN time",
-      "path": "Archive/ON time and IN time.md"
-    },
-    {
-      "basename": "obsidian MOC",
-      "path": "Archive/obsidian MOC.md"
-    },
-    {
-      "basename": "Musashi",
-      "path": "Archive/Musashi.md"
     }
   ],
   "omittedPaths": [],

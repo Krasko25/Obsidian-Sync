@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fba9cc3be7312c78",
+        "id": "9f73e1d8b4ad5dd9",
         "type": "tabs",
         "children": [
           {
-            "id": "3a9ac70bfd0c63f8",
+            "id": "bbad9b403cdacfa3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archive/DuoAzul.md",
+                "file": "Archive/Преступление и наказание.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archive/DuoAzul.md",
+                "file": "Archive/Преступление и наказание.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Archive/DuoAzul.md",
+                "file": "Archive/Преступление и наказание.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archive/DuoAzul.md"
+                "file": "Archive/Преступление и наказание.md"
               }
             }
           },
@@ -175,14 +175,18 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "3a9ac70bfd0c63f8",
+  "active": "bbad9b403cdacfa3",
   "lastOpenFiles": [
+    "Daily notes/2024/January/2024-01-04.md",
+    "Archive/Раскольников.md",
+    "Archive/Преступление и наказание.md",
+    "Archive/Раскольников непредсказуем и это прекрасно.md",
+    "Archive/DuoAzul.md",
     "Archive/Тренировочная зона.md",
     "Archive/The idea of unity in Vagabond.md",
     "Archive/Совершенство - это путь, а не цель.md",
     "Archive/Субъективный и объективный идеал.md",
     "Archive/Детерминированность вселенной.md",
-    "Daily notes/2024/January/2024-01-04.md",
     "Archive/Большая шестерка. Отжимания.md",
     "Archive/Tdiary.md",
     "Archive/diary.md",
@@ -199,10 +203,6 @@
     "Archive/What was the purpose of Judy Poovey.md",
     "Archive/What was Julian's plan. How much did he know.md",
     "Archive/What kind of relationship were between Richard and Judy Poovey..md",
-    "Archive/What is Julian playing at.md",
-    "Archive/What Inshun lacked.md",
-    "Archive/Inshun.md",
-    "Archive/We Are Infinite.md",
     "obsidian items/Templates",
     "Obsidian items/Attachments/Screenshot 2024-01-02 at 11.44.51.png",
     "Daily notes/2024/January",

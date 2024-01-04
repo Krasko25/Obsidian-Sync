@@ -7,7 +7,7 @@ In 1 part, 2:29:38, Bunny have ate a lot lamp chopsticks, henry did the same bef
 
 ### <span style="color:#0070c0">Compass</span>
 ###### North (source):
-- Author>>Donna Tartt         #cards/names <!--SR:!2024-01-04,3,250-->
+- Author>>Donna Tartt         #cards/names <!--SR:!2024-01-11,7,250-->
 
 
 ###### West (similar):

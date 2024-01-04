@@ -4,7 +4,8 @@
     "flashcardGoodText": "Good",
     "flashcardHardText": "Hard",
     "flashcardTags": [
-      "#cards"
+      "#cards",
+      "#Mark/Quote"
     ],
     "convertFoldersToDecks": false,
     "cardCommentOnSameLine": true,
@@ -40,7 +41,7 @@
     "maxLinkFactor": 1,
     "showDebugMessages": false
   },
-  "buryDate": "2024-01-01",
+  "buryDate": "2024-01-04",
   "buryList": [],
   "historyDeck": null
 }

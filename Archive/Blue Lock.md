@@ -5,7 +5,7 @@
 
 ### <span style="color:#0070c0">Compass</span>
 ###### North (source):
-- Author>>Muneyuki Kaneshiro          #cards/names <!--SR:!2024-01-02,1,230-->
+- Author>>Muneyuki Kaneshiro          #cards/names <!--SR:!2024-01-05,1,210-->
 
 
 ###### West (similar):

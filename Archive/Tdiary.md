@@ -55,6 +55,5 @@ Daily portion of gratitude:
 - for the fact, that I finally started my preparation for the math exam,
 - for being a bit more conscious,
 - for going to bed earlier, than usually.
-
-
-
+==January 5th, 2023==
+I'm training for some time already. 

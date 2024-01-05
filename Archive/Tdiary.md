@@ -56,4 +56,15 @@ Daily portion of gratitude:
 - for being a bit more conscious,
 - for going to bed earlier, than usually.
 ==January 5th, 2023==
-I'm training for some time already. 
+Almost all my life I had some portion of sport in my life. I was playing football, cycling, participating in some school sport activities, doing some stupid sport challenges, etc. However, I gain consistency with my individual trainings only two years ago. 
+
+After these two years I got a normal level of physical shape and a good amount of knowledge about training. My training sessions are consistent and I'm trying to give it all up in each set. Though, Iately, It seems to me that I make no progress. I am not gaining weight, my strength is not increasing and it is hard to track the grow of my muscles. 
+
+I believe that there are three main factors:
+- I don't eat enough. Recently I started tracking my calories and it is hard for me to hit my daily norm.
+- I can not choose the direction in which I want to move, I'm trying to gain muscle size, calisthenics strength (ability to move your body in space (pull ups, dips, etc)), weighted calisthenics strength, flexibility, endurance and learn a few hard technical exercises.
+- I was told, that I should not lift heavy weights because of my spine problems, it is bad for my health. Because of this limitation it is hard to work on my muscle size, especially when it comes to legs.
+
+I decided to make up my mind and shift my focus on something more narrow. I decided to work to achieve the calisthenics type of strength and flexibility. It will not only be beneficial for my health, but will also allow me to track my progress easily. I will be able to do that thanks to different progressions in hard exercises. 
+
+A bit of gratitude: I think that I can safely say now that I'm doing my trainings before the lunch, just as I planned, it is also good that I had a lesson with LD today and that I continue to analyse my experiences in different arias.

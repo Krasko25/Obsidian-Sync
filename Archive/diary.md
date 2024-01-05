@@ -1108,10 +1108,14 @@ Anyway, I have a lot of work ahead and still can not guaranty, that I will be ab
 I got the grade for the project that I was doing for the last three weeks. I was not able to complete this project, I overestimated my abilities, however, I still got 5. Anyway, I'm going to finish this project in my free time (if I will have some). I have learned a lot during this work and have a lot to learn to life it completely, moreover I will be able to use this project as my diploma one.
 ==April 18th, 2023==
 A few days ago one event have happened with Hanter. That morning I fed and closed him in the cage. Right after that he started growling at me, he was trembling. Immediately I bring this information to my parents. The dog was growling at my father as well. We were scared that it could be rabies (бешенство). 
+
 Vet said that it was not the case, but we still needed to check his temperature, there was a chance of him being infected with something else. We wore thick clothes and came to Hanter, he was positive. I let him out. He laid on his back and wanted us to pet him. 
+
 My father started giving him pets, the dog was happy. However, suddenly, he turn angry and bit my dad a few times with the serious intention of harming him. I threw some food for the dog to distract him and my father run into the house. Right after this I closed Hanter in the cage (he was not aggressive towards me).
 My father did get a bruise, but the dog was not able to bite through the clothes. Obviously, we weren't gonna measure his temperature anymore, moreover, the idea of getting rid of Hanter slipped into consideration.
+
 Vet said that the dog was after getting the leadership over my father and that it was normal behaviour for his age. It was not the kind of explanation that could ease us, the vase of trust in the dog was crushed into pieces.
+
 Talking about now, Hanter's behaviour is normal, he obeys my commands and shows no aggression. The vase was put back together, but nothing can heal the cracks (pretend as if it was some kind of tolerable analogy).
 ==April 21st, 2023==
 Yesterday I got an invitation to the English olympic. This competition has an international status. During the test, I will have to undertake a few ordeals: dictionary, speaking, reading and listening.

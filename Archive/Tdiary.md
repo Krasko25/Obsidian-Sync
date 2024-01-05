@@ -35,7 +35,25 @@ First thing that I noticed is the inconsistency of my notes, in some months I wa
 
 Let's talk about the way how I started each of those years. I totally can not name my start of this year to be successful, but it is way better than the start of one. I have done more work. Each of the notes from the last year up to January 25th is full of regrets. I became not only more productive, but, more importantly, also more positive.
 
+At January of previous year I decided to meditate on a stable basis and progress in that. I still did not achieve the good results in this direction, especially when it comes to quality. This information is something between "really funny" and "depressing" to me. Obviously, I'm exaggerating my disappointment, but it is still not a good result. I need to work in that direction.
 
+I read many note from this year and was surprised, I was always writing about things that went wrong and almost never about why and how to change/avoid it (maybe, I was thinking about it, but was not expressing my thoughts in text). I started to dig deeper only recently. I will do my best to keep moving in that direction.
+
+Some of interesting things, that I have experienced during this year:
+- my attempt to work on the project with Mikhail Georgievich and other people. We were trying to create a program for decision analysis. I made a program with Saaty method. However, we were not able to get a grant for developing this project because of slow work with documentation from the side of university.
+- Some adventures that I had to go through because I lost my phone.
+- My trip to Novgorod the Great.
+- The time that I spend taking care of my granny.
+- The week without electricity and internet.
+
+I'm grateful to this note, because of it I found out that I have made some progress not only with my studying, but also with my mindset.
+
+Daily portion of gratitude: 
+- I'm grateful to myself for the fact that I renewed my habit of reading books ("Crime and Punishment" doesn't count, because it is not stable),
+- for my work on my new training system, that will be better for my health,
+- for the fact, that I finally started my preparation for the math exam,
+- for being a bit more conscious,
+- for going to bed earlier, than usually.
 
 
 

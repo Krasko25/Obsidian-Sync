@@ -6,3 +6,4 @@ If you survived the last round because you got lucky with teammates, prepare you
 
 But the remaining 29 will have just the one chance to play. This is the final task of the {{revised}} (revise or reorganize, especially for the purpose of updating and improving) third selection.
 
+Kind guys like him mush be an {{endangered}} (вымирающие) species here in blue lock.

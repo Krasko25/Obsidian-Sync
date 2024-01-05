@@ -4,7 +4,7 @@ a breath of fresh air, that's a {{ticket}} (an opportunity)
 
 I see, you didn't get to {{met with a razor}} (shave) today
 
-'I'm telling you, Milly.' It was a pet name he had for her,  _one_  he seldom used.>>_ <!--SR:!2024-01-05,11,276-->
+'I'm telling you, Milly.' It was a pet name he had for her,  _one_  he seldom used.>>_ <!--SR:!2024-02-03,29,276-->
 
 The talk turned to Charles>>turned 
 
@@ -23,7 +23,7 @@ It was the little Beretta that Francis's aunt kept in the {{night table}} (ту�
 
 Just for the hell of it↔for the fun of it, без особой причины 
 
-He was in a rambling, paranoid {{humor}} (mood) <!--SR:!2024-01-05,12,276--> 
+He was in a rambling, paranoid {{humor}} (mood) <!--SR:!2024-02-08,34,276--> 
 
 'Well,' he said, 'this is {{a hell of a note.}} (Surprising news, typically that which is negative or bad.)' He looked a bit {{stunned}} (in a state of mental numbness especially as resulting from shock).
 
@@ -74,7 +74,7 @@ the other day>>в другой день
 
 had just come back from the {{brink of Death}} (грани смерти) itself
 
-he was scared at a {{key point}} (the main part) of the ceremony <!--SR:!2024-01-05,3,272-->
+he was scared at a {{key point}} (the main part) of the ceremony <!--SR:!2024-01-12,7,272-->
 
 He said through his teeth>>_
 
@@ -128,7 +128,7 @@ They are the type of parents, that would {{sue}} (**to take** **legal** **action
 
 hoarse voiсe>>хриплый голос
 
-quite out of the blue>>_
+quite out of the blue>>_ <!--SR:!2024-01-08,3,280-->
 
 The car crossed the road and hit a truck {{head-on}} (**direct** **or** **directly)**
 volunteer>>_ <!--SR:!2024-01-08,4,297-->
@@ -175,7 +175,7 @@ ironing board>>гладильная доска <!--SR:!2024-01-20,17,306-->
 
 Once in the car, Henry lit a cigarette and didn't say a word. He'd been smoking a lot since he got back from Italy, almost a {{pack}} a day, which was rare for him.
 
-'No, no, don't go,' said Henry, taking a long gulp of his coffee and putting the cup in the {{sink}} (раковина). <!--SR:!2024-01-05,12,270-->
+'No, no, don't go,' said Henry, taking a long gulp of his coffee and putting the cup in the {{sink}} (раковина). <!--SR:!2024-01-10,5,250-->
 
 But that's got them in debt to the eyebrows>>_ <!--SR:!2024-01-13,10,286-->
 
@@ -191,7 +191,7 @@ I was always welcomed back as soon as he tired of the attention and allowed my m
 
 He was **sentenced to** a 150-year prison {{term}} (**the fixed period of time that something lasts for)** for cheating thousands of ordinary people out of their savings.
 
-We'll have to {{postpone}} (**to delay an event and plan or decide that it should happen at a later date or time)** buying a new computer until next year. <!--SR:!2024-01-05,3,272-->
+We'll have to {{postpone}} (**to delay an event and plan or decide that it should happen at a later date or time)** buying a new computer until next year. <!--SR:!2024-01-12,7,272-->
 
 It wasn't far to school, only fifteen minutes, but it was getting cold and my head hurt and the whole evening had left me with a {{keen}} (**very sharp)** sense of ...
 They were very {{keen}} (**very interested, eager, or wanting (to do) something very much) to** start work as soon as possible <!--SR:!2000-01-01,1,250!2024-01-06,12,276-->

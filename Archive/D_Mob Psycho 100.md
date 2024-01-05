@@ -9,7 +9,7 @@ narrator>>рассказчик <!--SR:!2024-01-12,10,274-->
 I'm going to make you pay {{dearly}} (заплатить сполна)!
 
 all the negative emotions are {{welling up}} (накапливаются) within you
-she has a nerve to speak like this in her position? - {{splendid}} (**excellent, or beautiful and impressive:)** <!--SR:!2024-01-05,11,270!2000-01-01,1,250--> 
+she has a nerve to speak like this in her position? - {{splendid}} (**excellent, or beautiful and impressive:)** <!--SR:!2024-02-02,28,270!2000-01-01,1,250--> 
 
 her head got turned into the {{bulb}} (**a light bulb)** 
 
@@ -49,11 +49,11 @@ You're actually making me use my {{trump card}} (**an** **advantage** **that mak
 
 Espers are hard to {{possess}} (**to have or own something, or to have a** **particular** **quality)** <!--SR:!2024-01-09,10,272--> 
 
-You guys are still a {{small fries}} (**people** **or things that are not** **considered** **to be** **important)** <!--SR:!2024-01-05,3,258--> 
+You guys are still {{small fries}} (**people** **or things that are not** **considered** **to be** **important)** <!--SR:!2024-01-11,6,258--> 
 
 HQ>>headquaters <!--SR:!2024-01-07,4,279-->
 
-boss will be in a {{league of his own}} (someone who is on the whole different level) <!--SR:!2024-01-05,3,258--> 
+boss will be in a {{league of his own}} (someone who is on the whole different level) <!--SR:!2024-01-13,8,258--> 
 
 {{Fraud}} (**someone who** **deceive s** **people** **by saying that they are someone or something that they are not)** or not, you had the nerve to call yourself the boss <!--SR:!2024-01-08,4,281-->
 

@@ -4,7 +4,7 @@ Both of them were happy to {{part}} (split)
 
 Each person is a vile, we get used to everything
 
-Land lady>>the owner of land <!--SR:!2024-01-05,3,250-->
+Landlady>>the owner of land <!--SR:!2024-01-18,13,270-->
 
 Comfort somebody>>успокаивать кого-нибудь
 
@@ -14,7 +14,7 @@ As if it were a matter of his own father>>_
 
 Дубровский made a {{proposal}} (confession) for Маша <!--SR:!2024-01-06,4,270-->
 
-Remember your place>>_ <!--SR:!2024-01-05,6,250-->
+Remember your place>>_ <!--SR:!2024-01-21,16,250-->
 
 Neighbours were  happy to see their cat-fight (an intense fight or argument especially between two women)
 

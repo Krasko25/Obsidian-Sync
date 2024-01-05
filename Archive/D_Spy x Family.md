@@ -8,7 +8,7 @@ But the shadier the establishment, the more likely those children have complicat
 
 But the shadier the {{establishment}} ^^(a business or other organization, or the place where an organization operates)^^, the more likely those children have complicated pasts, so it'll be easier to alter** **their stories. <!--SR:!2024-01-17,16,297-->
 
-Your mission is to get close to him. In order to achieve this you will get married and have a child. The deadline is {{drawing near}} ^^(coming)^^, meaning you have one week to pull this off. Are you expect me to produce a child within SEVEN DAYS!?! <!--SR:!2024-01-05,3,264-->
+Your mission is to get close to him. In order to achieve this you will get married and have a child. The deadline is {{drawing near}} ^^(coming)^^, meaning you have one week to pull this off. Are you expect me to produce a child within SEVEN DAYS!?! <!--SR:!2024-01-12,7,264-->
 
 I would've preferred to handle it all on my own but I can't {{disguise}} (to give a new appearance to a person or thing, especially in order to hide its true form) myself as a child. 
 

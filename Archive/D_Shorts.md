@@ -4,7 +4,7 @@ Imma>>I am gonna (I am going to)
 
 Lmao>>laughing my ass off <!--SR:!2024-01-08,14,290-->
 
-otw>>on the way
+otw>>on the way <!--SR:!2024-01-09,4,289-->
 
 bb>>byebye
 
@@ -38,7 +38,7 @@ u>>you
 
 kk>>ok, ok <!--SR:!2024-01-10,9,282-->
 
-plz>>please <!--SR:!2024-01-05,3,264-->
+plz>>please <!--SR:!2024-01-16,11,284-->
 
 thx>>thanks <!--SR:!2024-01-11,10,282-->
 
@@ -52,7 +52,7 @@ tbh>>to be honest
 
 TY>>thank you
 
-YW>>you're welcome <!--SR:!2024-01-05,11,274-->
+YW>>you're welcome <!--SR:!2024-02-03,29,274-->
 
 NBD>>no big deal <!--SR:!2024-02-05,33,290-->
 

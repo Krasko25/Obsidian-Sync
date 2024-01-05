@@ -3,7 +3,7 @@ Tokugawa, do you plan on {{breaking the promise}} (нарушить обещан
 
 They sat to the most {{remarkable}} (worthy of notice) midnight snack ever served
 
-the happiness of finally letting {{loose}} (turn loose or free from restraint) <!--SR:!2024-01-05,4,270-->
+the happiness of finally letting {{loose}} (turn loose or free from restraint) <!--SR:!2024-01-16,11,270-->
 
 he stayed here on his own {{accord}} (desire) <!--SR:!2024-01-11,7,250--> 
 

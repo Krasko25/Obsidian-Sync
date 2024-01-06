@@ -69,3 +69,13 @@ I decided to make up my mind and shift my focus on something more narrow. I deci
 
 A bit of gratitude: I think that I can safely say now that I'm doing my trainings before the lunch, just as I planned, it is also good that I had a lesson with LD today and that I continue to analyse my experiences in different arias.
 ==January 6th, 2023==
+This day was not successful. I don't know how to balance between work and leisure time. It seems to me that once I start doing some kind of entertainment, It is hard for me to get out of it. Once I start, I keep making weak decisions. It is as if I can either be really productive or do nothing useful at all (of course, I am being a bit too dramatic here, I do something, but that is not enough).
+
+For the last few days I was reading one book about training with my bodyweight. It inspires me a lot. Though, I don't have trainings neither today or tomorrow, so I am trying not to overdo it and let my body rest a bit.
+
+Tomorrow I will write my plans for this year.
+
+Some gratitude:
+- I inspired LD (my English teacher) to work on herself more, physically and mentally, it is good.
+- I am grateful to myself for keep reading books;
+- I'm consistent with my trainings, it is good. I also don't forget about the rest for my body, it is really important.

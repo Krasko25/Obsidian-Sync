@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archive/Tdiary.md",
+                "file": "Archive/D_Vagabond.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archive/Tdiary.md",
+                "file": "Archive/D_Vagabond.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Archive/Tdiary.md",
+                "file": "Archive/D_Vagabond.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archive/Tdiary.md"
+                "file": "Archive/D_Vagabond.md"
               }
             }
           },
@@ -176,9 +176,9 @@
   },
   "active": "001e87cf766b8184",
   "lastOpenFiles": [
+    "Archive/Tdiary.md",
     "Archive/D_Blue Lock.md",
     "Archive/diary.md",
-    "Archive/Tdiary.md",
     "Daily notes/2024/January/2024-01-06.md",
     "Archive/D_Crime and Punishment.md",
     "Archive/Большая шестёрка. Приседания.md",

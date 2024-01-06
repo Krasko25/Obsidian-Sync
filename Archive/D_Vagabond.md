@@ -1,5 +1,9 @@
 #cards/dictionary 
 
+We admired your strength, we all wanted to {{befriend}} (help someone and be friendly) you.
+
+I {{concede}} (give up), you are stronger
+
 As the four seasons between heaven and earth flow in an endless cycle, so too, must man work his way, through his own cycles of seasons continuous. If you are able to to endure a long hard winter, a fresh new spring is sure to follow, invigorating with  strength renewed.>>_ #Mark/Quote <!--SR:!2024-01-09,8,256-->
 
 I feel {{overwhelmed}} (overcome by superior force) by this man's great presence?

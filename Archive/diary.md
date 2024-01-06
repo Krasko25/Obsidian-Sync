@@ -1635,7 +1635,7 @@ Today I got some unexpected news. Tomorrow at 9 am I will have to pass examinati
 
 Anyway, I will have to urgently move back after my father gets here. One of my friends told me, that there will be an opportunity to retake exam, if they find my reasons to be valid.
 ==December 6th, 2023==
-###### Monthly note (the one, that I had to write at December 1st)
+Monthly note (the one, that I had to write at December 1st)
 
 My goals:
 1. advance with my meditation;
@@ -1739,31 +1739,31 @@ I was planning to go to another place to charge my devices, but Pasha offered me
 
 I finished my report and presentation at about 4 pm, but I was not able to find mobile network to upload my work until 4:30 pm. Pasha wanted me to stay another night there, but I needed to go home. I got there at about 6 pm.
 ==December 18th, 2023==
-I hoped to get electricity fixed until lunch. Of course, it didn't happen and there was no mobile network in my home. I was anticipating this result and wanted to go to my grandmother (not the one I was taking care of. The one that I'm going to in is Nina). There was electricity and internet there. However, it is (still) hard to get there (to Nina) and my mother wanted me to congratulate one girl in the costume of cent Nikolay (christian version of Canta Claus) tomorrow (there was no point in going to my granny for a couple of hours). 
+I hoped to get electricity fixed until lunch. Of course, it didn't happen and there was no mobile network in my home. I was anticipating this result and wanted to go to my grandmother (not the one I was taking care of. The one that I'm going to. Her name is Nina). There was electricity and internet there. However, it is (still) hard to get there (to Nina) and my mother wanted me to congratulate one girl in the costume of cent Nikolay (the christian version of Canta Claus) tomorrow (there was no point in going to my granny for a couple of hours). 
 
 During the day time I went to my friend. He had an electricity generator (yes, I decided to use all my connections), but there was no internet.
 
-My mother decided that we should have congratulated that girl at that night. We did that, I had no particular text or scenario, but this child was excited and pleased. It is fun to do such things, because kids are so emotional, they need so little to be happy (be like kids).
+My mother decided that we should would congratulate that girl tonight. We did that, I had no particular text or scenario, but this child was excited and pleased. It is fun to do such things, because kids are so emotional, they need so little to be happy (be like kids).
 
 At night I was told that the electricity at Nina's (my granny) place was turned off. I decided to go to my sister's work (Yasinovataya) tomorrow. 
 ==December 19th, 2023==
 > [!Success] Self-cultivation
 
-Today I got to my sister work place, there was light, but no internet. I was hoping to catch some mobile internet. I succeed to do that outside of the building for a few minutes, but, mostly all my attempts were vain. 
+Today I got to my sister work place, there was electricity, but no internet. I hoped to catch some mobile internet. I succeed to do that outside of the building for a few minutes, but mostly all my attempts were vain. 
 
-My sister told that yesterday there was internet, so I was waiting there until the end of my sister's work day. She gave me a ride to my home.  During that time I was writing English notes, reading books and meditating.
+My sister told that yesterday there had been internet, so I was waiting there until the end of my sister's work day. She gave me a ride to my home.  During that time I was writing English notes, reading books and meditating.
 
-I spend quite a big part of my day reading book about meditation and doing the meditation itself. I liked it a lot. It happened many times to me, I spend some time with more consciousness than usually, enjoy it a lot and then... go back to information noice and other stuff, that makes me feel bad. This time I will try to not repeat the same mistake.
+I spend quite a big part of my day reading book about meditation and doing the meditation itself. I liked it a lot. It happened many times to me, I spend some time with more consciousness than usually, enjoy it a lot and then... go back to information noice and other stuff, that makes me feel bad. This time I will try not to repeat the same mistake.
 
 I hope that these experiences will help me to value common opportunities more.
 
 I decided to make a new rule for myself: I will do three conscious breaths before each unlock of my phone.
 
-I got home and found out that Nina (my granny) got electricity and internet turned on at her place today. They were not able to contact me. I just forgot to check this option, I could literally get there without any transport. Nina lives 5 or 6 kilometers away form my sister's work place.
+I got home and found out that Nina (my granny) got electricity and internet turned on at her place today. They were not able to contact me. I just forgot to check this option, I could literally get there without any transport. Nina lives 5 or 6 kilometers away from my sister's work place.
 
 I know that it is a great training for some of my values, I know that I should accept things as they are. However, sometimes, it is just too hard for me to embrace my decisions and not to regret about them.
 
-I all this running around made me realise, how much I need the help of other people. Of course, I had no doubts about that, but this situation made me value my connections even more. Because of these problems, I met and spend a lot of time with important people, I would never find time for that under different circumstances. I guess, one can never know, where his life is leading him.
+All this running around made me realise, how much I need the help of other people. Of course, I had no doubts about that, but this situation made me value my connections even more. Because of these problems, I met and spend a lot of time with important people, I would never find time for that under different circumstances. I guess, one can never know, where his life is leading him.
 ==December 20th, 2023==
 Today I went to my grandmother(Nina). One friend of my mother gave me a ride near my granny. I was not able to contact at the morning. When I came, there was no electricity, mobile network was not available as well. 
 

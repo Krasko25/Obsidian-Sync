@@ -1,5 +1,9 @@
 #cards/dictionary 
 
+He was wearing a {{house jacket}} (пальто для дома)
+
+
+
 Both of them were happy to {{part}} (split)
 
 Each person is a vile, we get used to everything
@@ -12,7 +16,7 @@ Comfort somebody>>успокаивать кого-нибудь
 
 As if it were a matter of his own father>>_
 
-Дубровский made a {{proposal}} (confession) for Маша <!--SR:!2024-01-06,4,270-->
+Дубровский made a {{proposal}} (confession) for Маша <!--SR:!2024-01-16,10,270-->
 
 Remember your place>>_ <!--SR:!2024-01-21,16,250-->
 

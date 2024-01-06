@@ -14,7 +14,7 @@ team up>>_ <!--SR:!2024-01-16,15,296-->
 
 It's no crime to use a bit of his funds>>_ 
 
-I {{vow}} (make a vow; promise) to deliver it to your parents <!--SR:!2024-01-06,13,270-->
+I {{vow}} (make a vow; promise) to deliver it to your parents <!--SR:!2024-02-11,36,270-->
 
 I feel bad for everyone, you, guys, share this. - a tactful {{bribe}} (payment made to a person in a position of trust to corrupt his judgment), eh?
 
@@ -34,7 +34,7 @@ I thought you might have matured a little. Don't you realise how {{precious}} (�
 
 He had Yashioka Denshichiro in a {{deadlock}} (тупик, безвыходная ситуация)
 
-At this {{rate}} (темп), the fire will spread, {{tear down}} (**to** **intentionally** **destroy** **a** **building** **or other** **structure** **because it is not being used or it is not** **wanted** **any more)** what is left of it
+At this {{rate}} (темп), the fire will spread, {{tear down}} (**to** **intentionally** **destroy** **a** **building** **or other** **structure** **because it is not being used or it is not** **wanted** **any more)** what is left of it <!--SR:!2000-01-01,1,250!2024-01-09,3,264-->
 
 I want you to {{embrace}} (**to** **accept** **something** **enthusiastically)** the principle of not regretting what you have done, let go of the past, learn from your experiences. <!--SR:!2024-01-09,10,272-->
 

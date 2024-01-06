@@ -28,6 +28,6 @@ But I can't reach Jolyne by myself. I need {{backup}} (**(someone or something t
 
 You said you are {{willing}} (**to be happy to do something if it is needed) **to do anything? Then give us your {{blessing}}  (благословение). <!--SR:!2024-01-23,24,270!2000-01-01,1,250-->
 
-It's fight club time! Let's {{brawl}} (**a noisy, rough, uncontrolled fight)**! <!--SR:!2024-01-06,7,252--> 
+It's fight club time! Let's {{brawl}} (**a noisy, rough, uncontrolled fight)**! <!--SR:!2024-01-23,17,252--> 
 
 We went through to the ultimate time beyond the {{acceleration}} (**to start to happen more quickly, or to make something start to happen more quickly)** 

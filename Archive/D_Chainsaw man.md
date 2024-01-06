@@ -13,7 +13,7 @@ Better {{head to}} (moving somewhere) work <!--SR:!2024-01-28,24,270-->
 
 What is this? - my {{resignation}} (**the act of telling your employer that you are leaving your job)**. - You're quitting? - I figure the choice between quitting or getting killed
 
-If I tear it up until it can't take the pain no more, it will wanna kill itself! - A very devilish idea {{indeed}} (**really or certainly, often used to emphasize something).** <!--SR:!2024-01-06,3,256--> 
+If I tear it up until it can't take the pain no more, it will wanna kill itself! - A very devilish idea {{indeed}} (**really or certainly, often used to emphasize something).** <!--SR:!2024-01-13,7,256--> 
 
 Those kind of terms hold a strong {{sway}} (**control or influence) **when a devil is involved.
 

@@ -34,7 +34,7 @@ btw>>by the way
 
 your>>you are
 
-u>>you
+u>>you <!--SR:!2024-01-10,4,290-->
 
 kk>>ok, ok <!--SR:!2024-01-10,9,282-->
 

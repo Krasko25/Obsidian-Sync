@@ -28,7 +28,8 @@ He was in a rambling, paranoid {{humor}} (mood) <!--SR:!2024-02-08,34,276-->
 'Well,' he said, 'this is {{a hell of a note.}} (Surprising news, typically that which is negative or bad.)' He looked a bit {{stunned}} (in a state of mental numbness especially as resulting from shock).
 
 'Why would he want to do that?' - 'Because I'm {{in the way}} (мешаю).'
-'You wouldn't {{go behind my back}} (действовать за моей спиной), would you?' <!--SR:!2000-01-01,1,250!2024-01-06,3,274-->
+
+'You wouldn't {{go behind my back}} (действовать за моей спиной), would you?' <!--SR:!2000-01-01,1,250!2024-01-16,10,294-->
 
 Even after all that had happened, the bitterness and disappointment in his voice {{cut me to the heart}} (hurt me a lot). <!--SR:!2024-01-21,20,256-->
 
@@ -98,7 +99,7 @@ new potatoes>>молодая картошка <!--SR:!2024-01-13,12,285-->
 
 Breathing hard, he  **made his way**  across the room and fell heavily into an armchair>>_ <!--SR:!2024-02-02,29,276-->
 
-My head begin to swim>>_
+My head begin to swim>>_ <!--SR:!2024-01-10,4,300-->
 
 off the top of one's head>>без справочной информации <!--SR:!2024-01-09,10,281-->
 
@@ -149,7 +150,7 @@ I don't know, except that I was {{handier}} (**useful** **or** **convenient)** t
 
 we should be especially careful about turning into the logging road and coming out of it onto the {{highway}} (**a** **public** **road,** **especially** **an** **important** **road** **that** **joins** **cities** **or** **towns** **together).**
 
-This was a clever piece of {{groundwork}} (**work** **that is done as a** **preparation** **for** **work** **that will be done** **later)** on Henry's part. <!--SR:!2024-01-06,3,274-->
+This was a clever piece of {{groundwork}} (**work** **that is done as a** **preparation** **for** **work** **that will be done** **later)** on Henry's part. <!--SR:!2024-01-19,13,294-->
 
 beat around the bush↔ходить вокруг да около
 
@@ -194,22 +195,22 @@ He was **sentenced to** a 150-year prison {{term}} (**the fixed period of time t
 We'll have to {{postpone}} (**to delay an event and plan or decide that it should happen at a later date or time)** buying a new computer until next year. <!--SR:!2024-01-12,7,272-->
 
 It wasn't far to school, only fifteen minutes, but it was getting cold and my head hurt and the whole evening had left me with a {{keen}} (**very sharp)** sense of ...
-They were very {{keen}} (**very interested, eager, or wanting (to do) something very much) to** start work as soon as possible <!--SR:!2000-01-01,1,250!2024-01-06,12,276-->
+They were very {{keen}} (**very interested, eager, or wanting (to do) something very much) to** start work as soon as possible <!--SR:!2000-01-01,1,250!2024-02-07,32,276-->
 
 The snow in the mountains was melting and Bunny had beendead for several weeks before we came to understand the {{gravity}} (**seriousness) **of our situation. <!--SR:!2024-01-16,15,305-->
 
-The park was {{littered}} (**small pieces of rubbish that have been left lying on the ground in public places:) ** with bottles and cans. <!--SR:!2024-01-06,13,270-->
+The park was {{littered}} (**small pieces of rubbish that have been left lying on the ground in public places:) ** with bottles and cans. <!--SR:!2024-02-23,48,290-->
 
 He works as a camp {{counselor }}(вожатый, руководитель, куратор).
 He had all the {{hallmarks}} (**a typical characteristic or feature of a person or thing)** of a great baseball player. <!--SR:!2024-01-08,4,297!2000-01-01,1,250-->
 
 He always listened to her {{prudent}} (**careful and avoiding risks)** advice.
 
-It is difficult to believe that Henry's modest plan could have worked so well despite these {{unforeseen}} (**not expected)** events. <!--SR:!2024-01-06,4,292-->
+It is difficult to believe that Henry's modest plan could have worked so well despite these {{unforeseen}} (**not expected)** events. <!--SR:!2024-01-21,15,312-->
 
 It is difficult to believe that such an {{uproar}} (суматоха) took place over an act for which I was partially responsible <!--SR:!2024-01-07,4,294-->
 
-walking away, unfortunately, has proved to be quite another, and though once I thought I had left that {{ravine}} (овраг) forever on an April afternoon long ago, now I am not so sure. <!--SR:!2024-01-06,3,274-->
+walking away, unfortunately, has proved to be quite another, and though once I thought I had left that {{ravine}} (овраг) forever on an April afternoon long ago, now I am not so sure. <!--SR:!2024-01-15,9,294-->
 
 That was a tale that told itself>>_ <!--SR:!2024-01-13,10,286-->
 

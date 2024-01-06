@@ -68,3 +68,4 @@ I believe that there are three main factors:
 I decided to make up my mind and shift my focus on something more narrow. I decided to work to achieve the calisthenics type of strength and flexibility. It will not only be beneficial for my health, but will also allow me to track my progress easily. I will be able to do that thanks to different progressions in hard exercises. 
 
 A bit of gratitude: I think that I can safely say now that I'm doing my trainings before the lunch, just as I planned, it is also good that I had a lesson with LD today and that I continue to analyse my experiences in different arias.
+==January 6th, 2023==

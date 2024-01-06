@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archive/D_Blue Lock.md",
+                "file": "Archive/Tdiary.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archive/D_Blue Lock.md",
+                "file": "Archive/Tdiary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Archive/D_Blue Lock.md",
+                "file": "Archive/Tdiary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archive/D_Blue Lock.md"
+                "file": "Archive/Tdiary.md"
               }
             }
           },
@@ -176,6 +176,7 @@
   },
   "active": "001e87cf766b8184",
   "lastOpenFiles": [
+    "Archive/D_Blue Lock.md",
     "Archive/diary.md",
     "Archive/Tdiary.md",
     "Daily notes/2024/January/2024-01-06.md",
@@ -183,7 +184,6 @@
     "Archive/Большая шестёрка. Приседания.md",
     "Archive/Тренировки ног с собственным весом неэффективны.md",
     "Archive/Большая шестерка. Отжимания.md",
-    "Archive/D_Blue Lock.md",
     "Daily notes/2024/January/2024-01-05.md",
     "Archive/When we do not use articles.md",
     "Archive/D_LD.md",

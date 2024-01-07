@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2024/January/2024-01-07.md",
+                "file": "Archive/Некрасивых чувств не бывает.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "918a519c54d79d1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Archive/Некрасивых чувств не бывает.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily notes/2024/January/2024-01-07.md",
+                "file": "Archive/Некрасивых чувств не бывает.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily notes/2024/January/2024-01-07.md",
+                "file": "Archive/Некрасивых чувств не бывает.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily notes/2024/January/2024-01-07.md"
+                "file": "Archive/Некрасивых чувств не бывает.md"
               }
             }
           },
@@ -174,10 +187,20 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "001e87cf766b8184",
+  "active": "918a519c54d79d1f",
   "lastOpenFiles": [
-    "Archive/D_Vagabond.md",
+    "Archive/Проблемы из-за неправильных ожиданий. Мы страдаем, потому что ожидаем от людей того, чем они не являются..md",
+    "Archive/Мелкие проблемы других (по нашему мнению) могут быть очень важны для них. Чужие проблемы - это не чепуха.md",
+    "Templates/К себе нежно.md",
+    "Archive/Emotions MOC.md",
+    "Templates/Article.md",
+    "Archive/Love MOC.md",
+    "Archive/Love to yourself MOC.md",
+    "Archive/Support MOC.md",
+    "Archive/Некрасивых чувств не бывает.md",
+    "Archive/К себе нежно. Книга о том, как ценить и беречь себя.md",
     "Daily notes/2024/January/2024-01-07.md",
+    "Archive/D_Vagabond.md",
     "Archive/Tdiary.md",
     "Archive/D_Blue Lock.md",
     "Archive/diary.md",
@@ -192,32 +215,22 @@
     "Archive/D_School words.md",
     "Daily notes/2024/January/2024-01-04.md",
     "Archive/Как мне стоит организовывать мои записки в Obsidian.md",
-    "Archive/Как характеризуется состояние медитации.md",
-    "Archive/Идея о двух узлах и о свободе.md",
-    "Archive/DuoAzul.md",
-    "Archive/Habitica.md",
-    "Archive/Robert Reimann.md",
-    "Archive/К себе нежно. Книга о том, как ценить и беречь себя.md",
-    "Archive/Из чего состоит дисциплина.md",
-    "Archive/Запятая при (кроме).md",
-    "Archive/Запятая перед как (как будто, словно). Обособленное обстоятельство.md",
-    "Archive/Знаки препинания.md",
     "obsidian items/Templates",
-    "Obsidian items/Attachments/Screenshot 2024-01-02 at 11.44.51.png",
+    "Attachments/Screenshot 2024-01-02 at 11.44.51.png",
     "Daily notes/2024/January",
     "Daily notes/2024",
-    "Obsidian items/Attachments/Screenshot 2023-11-29 at 14.24.56.png",
-    "Obsidian items/Attachments/Screenshot 2023-11-17 at 18.48.23.png",
-    "Obsidian items/Attachments/Screenshot 2023-11-17 at 19.00.28.png",
-    "Obsidian items/Attachments/about_us.html",
-    "Obsidian items/Attachments/Screenshot 2023-12-23 at 17.38.41.png",
-    "Obsidian items/Attachments/Screenshot 2023-11-17 at 19.00.15.png",
-    "Obsidian items/Attachments/Screenshot 2023-11-17 at 18.47.49.png",
-    "Obsidian items/Attachments/Screenshot 2023-11-17 at 18.54.20.png",
-    "Obsidian items/Attachments/Screenshot 2023-11-17 at 18.41.47 1.png",
-    "Obsidian items/Attachments/Screenshot 2023-11-27 at 20.24.33.png",
-    "Obsidian items/Attachments",
-    "Obsidian items/Templates",
+    "Attachments/Screenshot 2023-11-29 at 14.24.56.png",
+    "Attachments/Screenshot 2023-11-17 at 18.48.23.png",
+    "Attachments/Screenshot 2023-11-17 at 19.00.28.png",
+    "Attachments/about_us.html",
+    "Attachments/Screenshot 2023-12-23 at 17.38.41.png",
+    "Attachments/Screenshot 2023-11-17 at 19.00.15.png",
+    "Attachments/Screenshot 2023-11-17 at 18.47.49.png",
+    "Attachments/Screenshot 2023-11-17 at 18.54.20.png",
+    "Attachments/Screenshot 2023-11-17 at 18.41.47 1.png",
+    "Attachments/Screenshot 2023-11-27 at 20.24.33.png",
+    "Attachments",
+    "Templates",
     "Obsidian items",
     "Archive/Алёна Ивановна.md.tmp",
     "Archive/Медитация в повседневной жизни.md.tmp",

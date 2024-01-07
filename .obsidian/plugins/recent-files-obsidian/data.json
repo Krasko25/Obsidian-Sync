@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "D_Youtube",
+      "path": "Archive/D_Youtube.md"
+    },
+    {
+      "basename": "2024-01-08",
+      "path": "Daily notes/2024/January/2024-01-08.md"
+    },
+    {
+      "basename": "Tdiary",
+      "path": "Archive/Tdiary.md"
+    },
+    {
+      "basename": "Тренировочная зона",
+      "path": "Archive/Тренировочная зона.md"
+    },
+    {
+      "basename": "2024-01-07",
+      "path": "Daily notes/2024/January/2024-01-07.md"
+    },
+    {
+      "basename": "Meditation MOC",
+      "path": "Archive/Meditation MOC.md"
+    },
+    {
       "basename": "Некрасивых чувств не бывает",
       "path": "Archive/Некрасивых чувств не бывает.md"
     },
@@ -41,16 +65,8 @@
       "path": "Archive/К себе нежно. Книга о том, как ценить и беречь себя.md"
     },
     {
-      "basename": "2024-01-07",
-      "path": "Daily notes/2024/January/2024-01-07.md"
-    },
-    {
       "basename": "D_Vagabond",
       "path": "Archive/D_Vagabond.md"
-    },
-    {
-      "basename": "Tdiary",
-      "path": "Archive/Tdiary.md"
     },
     {
       "basename": "D_Blue Lock",
@@ -183,22 +199,6 @@
     {
       "basename": "What Inshun lacked",
       "path": "Archive/What Inshun lacked.md"
-    },
-    {
-      "basename": "Training MOC",
-      "path": "Archive/Training MOC.md"
-    },
-    {
-      "basename": "Obsidian as a second brain, the ultimate tutorial",
-      "path": "Archive/Obsidian as a second brain, the ultimate tutorial.md"
-    },
-    {
-      "basename": "Julian's first lesson",
-      "path": "Archive/Julian's first lesson.md"
-    },
-    {
-      "basename": "Blue Lock",
-      "path": "Archive/Blue Lock.md"
     }
   ],
   "omittedPaths": [],

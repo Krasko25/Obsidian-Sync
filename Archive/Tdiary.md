@@ -79,3 +79,39 @@ Some gratitude:
 - I inspired LD (my English teacher) to work on herself more, physically and mentally, it is good.
 - I am grateful to myself for keep reading books;
 - I'm consistent with my trainings, it is good. I also don't forget about the rest for my body, it is really important.
+
+==January 7th, 2023==
+My plans for this year. 
+___
+This year is going to be quite troublesome and unpredictable for me. I will graduate from my technical school this year and will have to deal with military service. Most likely, I will go to some university to delay my military service (I want to win some time, because there is a war in our country right now).
+
+At this point, I'm not sure, where I should go, I don't even choose the town. I can learn in the same place where I live right now, but universities here are not considered to be good. Learning at my grandma's place is an another option, but I will have to spend at very least 4 hours to get from home to university. There are 2 more options.
+
+Here are some of my plans about studying for this year:
+1) Finish reading Crime and Punishment until February 7th.
+2) Successfully pass my exam on February 7th.
+3) I want to save my habit of reading everyday.
+4) Start working on my diploma project before the end of January.
+5) Finish my diploma and all the other stuff. This time I will aim to do all of this ON time (not IN time).
+6) Find a company for my industrial practice, successfully finish working there with a new experience and whatnot.
+7) Finish my studying in my technical school.
+8) Finish my online course in Synergy university.
+9) Successfully pass my math, Russian and computer science exams.
+10) All the other stuff is quite unpredictable, so I will try to concentrate on something, that I have more control over. 
+
+Of course, the most control I have over my own mind (or, at least, I should). I think that this is actually going to be my main priority. I do so many weak decision and it is really hard to feel good about myself sometimes. I want not only to become more disciplined, conscious, but also to love myself more, be able to understand myself, my feelings, the reasons of my actions and emotions.
+
+Also I want to put more emphasis to my trainings. I'm not sure how much progress I have mare in the last year, because I was shifting my priorities all the time. It is not good. I will try to do better job this time to understand my progress and my body better. Here are some of my goals:
+1) 10 (at very least 5) one arm push ups with a good form on each arm. Right now I can do 1-2 reps with bearable form.
+2) 3 (at least 1) one armed pull ups on each arm. 
+3) 50 pistol squats on each leg. Right now I can do about 25 reps on each leg
+4) 5 dragon pistol squats on each leg. At the moment I can do 0-2 reps.
+5) 20 (at least 10) handstand push ups without a wall. Right now I can do 7 reps with a wall.
+6) work on my core muscles and grip strength. 
+
+This training goal can look a bit ambitious, but I think, that I will be able to achieve them.
+
+**Gratitude time**: 
+- this note in not bad, it can be quite useful in the future,
+- good work with reading,
+- for the last few days I finally use my obsidian setup. All this notes can be useful not only in the future, but it also helps to understand information better.

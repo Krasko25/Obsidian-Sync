@@ -4,35 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "9f73e1d8b4ad5dd9",
+        "id": "d929d1bb1c0d1e19",
         "type": "tabs",
         "children": [
           {
-            "id": "001e87cf766b8184",
+            "id": "da6ca1b384cf67a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archive/Некрасивых чувств не бывает.md",
+                "file": "Archive/D_Youtube.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "918a519c54d79d1f",
+            "id": "2497b338d9e69cca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archive/Некрасивых чувств не бывает.md",
+                "file": "Archive/Тренировочная зона.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archive/Некрасивых чувств не бывает.md",
+                "file": "Archive/D_Youtube.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Archive/Некрасивых чувств не бывает.md",
+                "file": "Archive/D_Youtube.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archive/Некрасивых чувств не бывает.md"
+                "file": "Archive/D_Youtube.md"
               }
             }
           },
@@ -187,8 +186,15 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "918a519c54d79d1f",
+  "active": "da6ca1b384cf67a5",
   "lastOpenFiles": [
+    "Daily notes/2024/January/2024-01-08.md",
+    "Archive/D_Youtube.md",
+    "Archive/Tdiary.md",
+    "Archive/Тренировочная зона.md",
+    "Daily notes/2024/January/2024-01-07.md",
+    "Archive/Meditation MOC.md",
+    "Archive/Некрасивых чувств не бывает.md",
     "Archive/Проблемы из-за неправильных ожиданий. Мы страдаем, потому что ожидаем от людей того, чем они не являются..md",
     "Archive/Мелкие проблемы других (по нашему мнению) могут быть очень важны для них. Чужие проблемы - это не чепуха.md",
     "Templates/К себе нежно.md",
@@ -197,11 +203,8 @@
     "Archive/Love MOC.md",
     "Archive/Love to yourself MOC.md",
     "Archive/Support MOC.md",
-    "Archive/Некрасивых чувств не бывает.md",
     "Archive/К себе нежно. Книга о том, как ценить и беречь себя.md",
-    "Daily notes/2024/January/2024-01-07.md",
     "Archive/D_Vagabond.md",
-    "Archive/Tdiary.md",
     "Archive/D_Blue Lock.md",
     "Archive/diary.md",
     "Daily notes/2024/January/2024-01-06.md",
@@ -211,10 +214,6 @@
     "Archive/Большая шестерка. Отжимания.md",
     "Daily notes/2024/January/2024-01-05.md",
     "Archive/When we do not use articles.md",
-    "Archive/D_LD.md",
-    "Archive/D_School words.md",
-    "Daily notes/2024/January/2024-01-04.md",
-    "Archive/Как мне стоит организовывать мои записки в Obsidian.md",
     "obsidian items/Templates",
     "Attachments/Screenshot 2024-01-02 at 11.44.51.png",
     "Daily notes/2024/January",

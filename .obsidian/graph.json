@@ -25,18 +25,25 @@
       "query": "file:MOC",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 5909699
       }
     },
     {
       "query": "file:List",
       "color": {
         "a": 1,
-        "rgb": 5526240
+        "rgb": 6021202
+      }
+    },
+    {
+      "query": "tag:#Source/Books-List  ",
+      "color": {
+        "a": 1,
+        "rgb": 7115708
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0.7,
   "nodeSizeMultiplier": 1.49127272727273,
@@ -46,6 +53,6 @@
   "repelStrength": 7.35584415584416,
   "linkStrength": 0.247272727272727,
   "linkDistance": 295,
-  "scale": 0.10187808332203689,
+  "scale": 0.10431643961590165,
   "close": false
 }

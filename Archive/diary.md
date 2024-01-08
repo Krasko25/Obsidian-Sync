@@ -1765,23 +1765,23 @@ I know that it is a great training for some of my values, I know that I should a
 
 All this running around made me realise, how much I need the help of other people. Of course, I had no doubts about that, but this situation made me value my connections even more. Because of these problems, I met and spend a lot of time with important people, I would never find time for that under different circumstances. I guess, one can never know, where his life is leading him.
 ==December 20th, 2023==
-Today I went to my grandmother(Nina). One friend of my mother gave me a ride near my granny. I was not able to contact at the morning. When I came, there was no electricity, mobile network was not available as well. 
+Today I went to my grandmother(Nina). One friend of my mother gave me a ride near my granny. I was not able to contact with her at the morning. When I came, there was no electricity, mobile network was not available as well. 
 
-My granny decided that we could not just wait for electricity to appear, so we were running from place to place. It took us a lot of time, but we found a spot in the tax office, where we were allowed to use electricity and there was mobile network. However, right after that, we got a phone call from my granny's husband, that electricity and internet appeared in their place. 
+My granny decided that we could not just wait for electricity to appear, so we were running from place to place. It took us a lot of time, but we found a spot in the EC meeting office, where we were allowed to use electricity and there was mobile network. However, right after that, we got a phone call from my granny's husband. Electricity and internet appeared in their place. 
 
-We got home around 3:30 pm. I was trying to work at night, but got tired because of all the adventures and fall asleep.
+We got home around 3:30 pm. I was trying to work at night, but got tired because of all the adventures and fall asleep around 11:30pm.
 
-It seems that there will be electricity and internet for about 8 to 12 hours per a day. I think I will be living with my granny for a while.
+It seems that there will be electricity and internet for about 8 to 12 hours per a day. I think I will stay with my granny for a while.
 ==December 21st, 2023==
-Today light was turned on until 11 am. During the time without internet I wrote some notes, rested and did my training.
+Today light was turned off after 11 am. During the time without internet I wrote some notes, rested and did my training.
 
-I wanted to go to the tax office again, but my granny (Nina) and her husband did not let me go alone, because the were worried. I already knew the way so there was no need for that, but my granny decided to walk me a few kilometers to that place. 
+I wanted to go to theEC meeting office again, but my granny (Nina) and her husband did not let me go alone, because they were worried. I already knew the way so there was no need for that, but my granny decided to accompany me for a few kilometers to that place. 
 
-In the middle of the way we got a phone call, electricity appeared. I went back home and was doing my homework for the rest of the day. 
+In the middle of the way we got a phone call. Electricity appeared. I went back home and was doing my homework for the rest of the day. 
 ==December 22nd, 2023==
-I spend this whole day doing my homework for the learning practice. Today also started online lectures in my technical school. Surely, teachers are not doing full time lessons, but they are still generous with the amount of homework. 
+I spend this whole day doing my homework for the learning practice. Also online lectures in my technical school have started today. Surely, teachers are not doing full time lessons, but they are still generous with the amount of homework. 
 
-Today I was able to finally contact my English teacher (LD). I was not able to do that for the last 7 days and was worried. I didn't know the exact place she was living in and was moving from place to place, so I was not able check if she was alright. As well, obviously, we were not able to do our lessons. It is quite bad for my preparation for the exam. We will try to make a Russian class tomorrow using mobile network.
+Today I was able to finally contact with my English teacher (LD). I was not able to do that for the last 7 days and was worried. I didn't know the exact place where she is living and was moving from place to place, so I was not able check personally if she was alright. As well, obviously, we were not able to do our lessons. It is quite bad for my preparation for the exam. We will try to make a Russian class tomorrow using mobile network.
 ==December 23rd, 2023==
 > [!Success] Self-cultivation
 

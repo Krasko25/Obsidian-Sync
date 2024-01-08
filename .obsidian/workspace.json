@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archive/Стремление Раскольникова \"высунуть язык\".md",
+                "file": "Daily notes/2024/January/2024-01-08.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/5Video (видео).md",
+                "file": "Archive/diary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2470aa4e73a903c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Archive/D_Blue Lock.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archive/Стремление Раскольникова \"высунуть язык\".md",
+                "file": "Archive/diary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Archive/Стремление Раскольникова \"высунуть язык\".md",
+                "file": "Archive/diary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archive/Стремление Раскольникова \"высунуть язык\".md"
+                "file": "Archive/diary.md"
               }
             }
           },
@@ -186,20 +199,24 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "da6ca1b384cf67a5",
+  "active": "58b64527cc54f082",
   "lastOpenFiles": [
-    "Archive/Раскольников.md",
+    "Archive/D_Blue Lock.md",
+    "Archive/diary.md",
+    "Templates/5Video (видео).md",
+    "Archive/Blue Lock.md",
+    "Daily notes/2024/January/2024-01-08.md",
+    "Archive/D_Crime and Punishment.md",
     "Archive/Стремление Раскольникова \"высунуть язык\".md",
+    "Archive/Раскольников.md",
     "Archive/Преступление и наказание.md",
     "Archive/Свидригайлов.md",
     "obsidian items",
     "Archive/Религия Раскольникова.md",
-    "Templates/5Video (видео).md",
     "Templates/4Person (Человек).md",
     "Templates/3Lessons (Урок).md",
     "Templates/2Character (Персонаж).md",
     "Templates/1Note (Записка).md",
-    "Daily notes/2024/January/2024-01-08.md",
     "Archive/Марфа Петровна.md",
     "Templates/Entertainments (Разновидность развлечения).md",
     "Templates/Book (Книга).md",
@@ -211,10 +228,6 @@
     "Archive/Большая шестёрка. Мостик.md",
     "Archive/Большая шестёрка. Приседания.md",
     "Archive/Большая шестёрка. Подъем ног.md",
-    "Archive/Большая шестерка. Отжимания.md",
-    "Archive/D_Youtube.md",
-    "Archive/Tdiary.md",
-    "Daily notes/2024/January/2024-01-07.md",
     "obsidian items/Templates",
     "Attachments/Screenshot 2024-01-02 at 11.44.51.png",
     "Daily notes/2024/January",

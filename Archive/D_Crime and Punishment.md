@@ -2,7 +2,7 @@
 
 He was wearing a {{house jacket}} (пальто для дома)
 
-
+They spit in my {{mug}} (my face) quite openly
 
 Both of them were happy to {{part}} (split)
 

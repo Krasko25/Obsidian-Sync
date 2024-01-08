@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "diary",
+      "path": "Archive/diary.md"
+    },
+    {
+      "basename": "D_Blue Lock",
+      "path": "Archive/D_Blue Lock.md"
+    },
+    {
+      "basename": "5Video (видео)",
+      "path": "Templates/5Video (видео).md"
+    },
+    {
+      "basename": "Blue Lock",
+      "path": "Archive/Blue Lock.md"
+    },
+    {
+      "basename": "2024-01-08",
+      "path": "Daily notes/2024/January/2024-01-08.md"
+    },
+    {
+      "basename": "D_Crime and Punishment",
+      "path": "Archive/D_Crime and Punishment.md"
+    },
+    {
       "basename": "Стремление Раскольникова \"высунуть язык\"",
       "path": "Archive/Стремление Раскольникова \"высунуть язык\".md"
     },
@@ -21,10 +45,6 @@
       "path": "Archive/Религия Раскольникова.md"
     },
     {
-      "basename": "5Video (видео)",
-      "path": "Templates/5Video (видео).md"
-    },
-    {
       "basename": "4Person (Человек)",
       "path": "Templates/4Person (Человек).md"
     },
@@ -39,10 +59,6 @@
     {
       "basename": "1Note (Записка)",
       "path": "Templates/1Note (Записка).md"
-    },
-    {
-      "basename": "2024-01-08",
-      "path": "Daily notes/2024/January/2024-01-08.md"
     },
     {
       "basename": "Марфа Петровна",
@@ -145,20 +161,8 @@
       "path": "Archive/D_Vagabond.md"
     },
     {
-      "basename": "D_Blue Lock",
-      "path": "Archive/D_Blue Lock.md"
-    },
-    {
-      "basename": "diary",
-      "path": "Archive/diary.md"
-    },
-    {
       "basename": "2024-01-06",
       "path": "Daily notes/2024/January/2024-01-06.md"
-    },
-    {
-      "basename": "D_Crime and Punishment",
-      "path": "Archive/D_Crime and Punishment.md"
     },
     {
       "basename": "Тренировки ног с собственным весом неэффективны",
@@ -195,10 +199,6 @@
     {
       "basename": "DuoAzul",
       "path": "Archive/DuoAzul.md"
-    },
-    {
-      "basename": "Habitica",
-      "path": "Archive/Habitica.md"
     }
   ],
   "omittedPaths": [],

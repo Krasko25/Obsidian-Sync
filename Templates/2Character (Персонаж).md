@@ -7,10 +7,10 @@
 ###### North (source):
 
 
-###### West (similar characters):
+###### West (similar/connected characters):
 
 
-###### East (opposite characters):
+###### East (opposite/connected characters):
 
 
 ###### South (topic):

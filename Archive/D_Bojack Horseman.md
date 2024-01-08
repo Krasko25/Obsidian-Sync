@@ -7,7 +7,7 @@ l found your {{stashes}} (**to store or hide something, especially a large amoun
 
 Bojack {{overhear}} (подслушал) something about Flip and PC
 
-Sundays are the one day that are just for me and my {{craft}} (ремесло, the labor part of the art) <!--SR:!2024-01-08,7,255-->
+Sundays are the one day that are just for me and my {{craft}} (ремесло, the labor part of the art) <!--SR:!2024-02-03,26,275-->
 
 The man has come to call. He'd like to take you for a Sunday {{stroll}} (**o walk in a slow relaxed way, especially for pleasure)** 
 
@@ -17,9 +17,9 @@ Ok, just don't live your life for Strib, or this baby, or anybody else. - Thank 
 
 Everything I {{pitch}} (**to throw something, esp. forcefully, promote)** he shoots down. <!--SR:!2024-01-08,9,274-->
 
-Don't chew too loud, and collect your {{paycheck.}} (**a check used to pay an employee the amount of money the employee has earned).** <!--SR:!2024-01-08,15,290--> 
+Don't chew too loud, and collect your {{paycheck.}} (**a check used to pay an employee the amount of money the employee has earned).** <!--SR:!2024-02-20,43,290--> 
 
-First of all, I don't hate {{Jews}} (иудей, еврей), If I did, would I be able to sit in the same room as my good friend, a {{Jew}}? <!--SR:!2024-01-07,4,280!2000-01-01,1,250-->
+First of all, I don't hate {{Jews}} (иудей, еврей), If I did, would I be able to sit in the same room as my good friend, a {{Jew}}? <!--SR:!2024-01-24,16,300!2000-01-01,1,250-->
 
 Hey, Gina, I'm sorry. I was just {{teasing}} (**to laugh at someone or say unkind things about them, either because you are jokingor because you want to upset that person)**. Gina, come out of the bathroom
 
@@ -57,12 +57,12 @@ Jesus Christ! Juda, do you ever {{read a room}} (**to be or become aware of the 
 
 I don't know how you {{put up}} (**to accept or continue to accept an unpleasant situation or experience, or someone who behaves unpleasantly) **{{wit}}h me. I didn't {{put up with}} you. <!--SR:!2000-01-01,1,250!2024-01-07,1,244!2000-01-01,1,250-->
 
-I'm good at driving sober, but I do not {{relish}} (**to like or enjoy something) **the opportunity. <!--SR:!2024-01-08,4,282--> 
+I'm good at driving sober, but I do not {{relish}} (**to like or enjoy something) **the opportunity. <!--SR:!2024-01-25,17,302--> 
 
-Is he okay? - He recently found out that his brother is {{sick.}} -Oh, I'm sorry, but you know what else is {{sick}}? This floors! <!--SR:!2000-01-01,1,250!2024-01-07,4,280-->
+Is he okay? - He recently found out that his brother is {{sick.}} -Oh, I'm sorry, but you know what else is {{sick}}? This floors! <!--SR:!2000-01-01,1,250!2024-01-23,15,300-->
 
 You know, it's amazing that it's legal for kids to be actors. How is that not child {{labor}} (**practical work, esp. work that involves physical effort)**?
-Let's just go! - I can't leave until I make {{amends}} (**to change something, especially the words of a text (вносить правки))** <!--SR:!2024-01-08,4,282!2000-01-01,1,250--> 
+Let's just go! - I can't leave until I make {{amends}} (**to change something, especially the words of a text (вносить правки))** <!--SR:!2024-01-23,15,302!2000-01-01,1,250--> 
 
 Wait, did we just go to Ana's house? Did I get {{closure}} (**the feeling or act of bringing an unpleasant situation, time, or experience to an end, so that you are able to start new activities:)?** 
 

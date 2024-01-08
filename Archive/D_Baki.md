@@ -7,6 +7,6 @@ the happiness of finally letting {{loose}} (turn loose or free from restraint) <
 
 he stayed here on his own {{accord}} (desire) <!--SR:!2024-01-11,7,250--> 
 
-How would you like to drink that, straight up or with ice?>>_ <!--SR:!2024-01-08,4,274-->
+How would you like to drink that, straight up or with ice?>>_ <!--SR:!2024-01-25,17,294-->
 
-has a father ever had a more {{devoted}} (преданный) son? <!--SR:!2024-01-07,4,272-->
+has a father ever had a more {{devoted}} (преданный) son? <!--SR:!2024-01-22,14,292-->

@@ -2,7 +2,7 @@
 
 Imma>>I am gonna (I am going to)
 
-Lmao>>laughing my ass off <!--SR:!2024-01-08,14,290-->
+Lmao>>laughing my ass off <!--SR:!2024-03-03,55,310-->
 
 otw>>on the way <!--SR:!2024-01-09,4,289-->
 
@@ -28,7 +28,7 @@ bff>>best friend forever
 
 bf>>boyfriend <!--SR:!2024-01-08,4,287-->
 
-gf>>girlfriend <!--SR:!2024-01-07,4,284-->
+gf>>girlfriend <!--SR:!2024-01-18,10,284-->
 
 btw>>by the way
 

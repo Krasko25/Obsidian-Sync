@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archive/Свидригайлов.md",
+                "file": "Archive/Стремление Раскольникова \"высунуть язык\".md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archive/Свидригайлов.md",
+                "file": "Archive/Стремление Раскольникова \"высунуть язык\".md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Archive/Свидригайлов.md",
+                "file": "Archive/Стремление Раскольникова \"высунуть язык\".md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archive/Свидригайлов.md"
+                "file": "Archive/Стремление Раскольникова \"высунуть язык\".md"
               }
             }
           },
@@ -188,14 +188,17 @@
   },
   "active": "da6ca1b384cf67a5",
   "lastOpenFiles": [
+    "Archive/Раскольников.md",
+    "Archive/Стремление Раскольникова \"высунуть язык\".md",
+    "Archive/Преступление и наказание.md",
+    "Archive/Свидригайлов.md",
+    "obsidian items",
     "Archive/Религия Раскольникова.md",
     "Templates/5Video (видео).md",
     "Templates/4Person (Человек).md",
     "Templates/3Lessons (Урок).md",
     "Templates/2Character (Персонаж).md",
     "Templates/1Note (Записка).md",
-    "Archive/Раскольников.md",
-    "Archive/Свидригайлов.md",
     "Daily notes/2024/January/2024-01-08.md",
     "Archive/Марфа Петровна.md",
     "Templates/Entertainments (Разновидность развлечения).md",
@@ -212,8 +215,6 @@
     "Archive/D_Youtube.md",
     "Archive/Tdiary.md",
     "Daily notes/2024/January/2024-01-07.md",
-    "Archive/Meditation MOC.md",
-    "Archive/Некрасивых чувств не бывает.md",
     "obsidian items/Templates",
     "Attachments/Screenshot 2024-01-02 at 11.44.51.png",
     "Daily notes/2024/January",
@@ -233,7 +234,6 @@
     "Obsidian items",
     "Archive/Алёна Ивановна.md.tmp",
     "Archive/Медитация в повседневной жизни.md.tmp",
-    "Archive/Парадокс преодоления страданий.md.tmp",
     "Untitled.canvas"
   ]
 }

@@ -4,7 +4,7 @@ proper noun―имя собственное
 
 If you're going to walk long distances you need {{proper}} (**showing standards of behaviour that are socially and morally acceptable) **walking boots.
 
-Laws of privacy are designed to protect the {{dignity}} (**the quality of a person that makes him or her deserving of respect, sometimes shown in behavior or appearance; титул; сан) **of individuals <!--SR:!2024-01-07,3,255-->
+Laws of privacy are designed to protect the {{dignity}} (**the quality of a person that makes him or her deserving of respect, sometimes shown in behavior or appearance; титул; сан) **of individuals <!--SR:!2024-01-15,7,255-->
 
 They're {{appealing}} (**a request to the public for money, information, or help) **for clothes and blankets to send to the devastated region
 

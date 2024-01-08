@@ -4,7 +4,7 @@ He was the company's {{go-to}} (**used to** **describe** **the** **best** **pers
 
 commit>>фиксировать, помещать (изменения)
 
-It {{enables}} (makes something possible) tracking changes, managing branches, and merging code with ease. <!--SR:!2024-01-07,3,254-->
+It {{enables}} (makes something possible) tracking changes, managing branches, and merging code with ease. <!--SR:!2024-01-17,9,254-->
 
 our groups were {{merged}} (flowing together)
 
@@ -28,4 +28,4 @@ backend↔server-side
 A man with deep-set eyes
 Her college is set in the countryside
 The novel is set ^^(действие разворачивается)^^ in France
-We are set^^ (готовы)^^ to go at any time. <!--SR:!2024-01-08,4,274-->
+We are set^^ (готовы)^^ to go at any time. <!--SR:!2024-01-21,13,294-->

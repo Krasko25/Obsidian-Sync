@@ -43,7 +43,7 @@ He stopped at the {{next-to-last}} (next to the last) sheet
 
 You must {{hide your eyes}} (закрыть глаза) and count to ten and she'll come back.
 
-Because it was obvious, now, that his decision to tell me was a {{calculated move}} (просчитанное действие). <!--SR:!2024-01-08,4,297-->
+Because it was obvious, now, that his decision to tell me was a {{calculated move}} (просчитанное действие). <!--SR:!2024-01-21,13,297-->
 
 But all sorts of things had begun to {{occur}} (come to one's mind; suggest itself) to me.
 
@@ -79,7 +79,7 @@ he was scared at a {{key point}} (the main part) of the ceremony <!--SR:!2024-01
 
 He said through his teeth>>_
 
-I fished around in my pocket, gave her my handkerchief.>>_ <!--SR:!2024-01-07,4,294-->
+I fished around in my pocket, gave her my handkerchief.>>_ <!--SR:!2024-01-25,17,314-->
 
 umbrella was turned {{inside out}} (наизнанку)
 
@@ -121,7 +121,7 @@ and, on the {{pretext}} (**a** **pretended** **reason** **for doing something th
 
 The news of our friend's death has {{saddened}} (has made me more sad) me greatly
 
-absentminded>>рассеяный <!--SR:!2024-01-07,4,294-->
+absentminded>>рассеяный <!--SR:!2024-01-22,14,314-->
 
 Cloke, who seemed to me close to a {{nervous breakdown}} (нервный срыв), went uninvited to stay at Charlesand Camilla's
 
@@ -129,10 +129,10 @@ They are the type of parents, that would {{sue}} (**to take** **legal** **action
 
 hoarse voiсe>>хриплый голос
 
-quite out of the blue>>_ <!--SR:!2024-01-08,3,280-->
+quite out of the blue>>_ <!--SR:!2024-01-14,6,280-->
 
 The car crossed the road and hit a truck {{head-on}} (**direct** **or** **directly)**
-volunteer>>_ <!--SR:!2024-01-08,4,297-->
+volunteer>>_ <!--SR:!2024-01-22,14,317-->
 
 a break in the weather>>a change from unpleasant to more pleasant weather / **a** **short** **period** **of** **good** **weather** **during a long** **period** **of** **bad** **weather**
 
@@ -156,7 +156,7 @@ beat around the bush↔ходить вокруг да около
 
 looking over my shoulder into yet another fruitless {{cabinet}} (**a piece of furniture with shelves, cupboards, or drawers, used for storing or showing things)**
 
-Bunny's jailhouse jokes had, for some reason, {{unsettled}}(выбить из колеи) me, though I remembered him telling an awful lot of jokes likethat, back in the fall. <!--SR:!2024-01-08,4,297-->
+ <!--SR:!2024-01-08,4,297-->
 
 I must have a few minutes to {{tidy}} (**having everything ordered and arranged in the right place, or liking to keep things like this)** myself up. Keep your room tidy.
 
@@ -202,13 +202,13 @@ The snow in the mountains was melting and Bunny had beendead for several weeks b
 The park was {{littered}} (**small pieces of rubbish that have been left lying on the ground in public places:) ** with bottles and cans. <!--SR:!2024-02-23,48,290-->
 
 He works as a camp {{counselor }}(вожатый, руководитель, куратор).
-He had all the {{hallmarks}} (**a typical characteristic or feature of a person or thing)** of a great baseball player. <!--SR:!2024-01-08,4,297!2000-01-01,1,250-->
+He had all the {{hallmarks}} (**a typical characteristic or feature of a person or thing)** of a great baseball player. <!--SR:!2024-01-25,17,317!2000-01-01,1,250-->
 
 He always listened to her {{prudent}} (**careful and avoiding risks)** advice.
 
 It is difficult to believe that Henry's modest plan could have worked so well despite these {{unforeseen}} (**not expected)** events. <!--SR:!2024-01-21,15,312-->
 
-It is difficult to believe that such an {{uproar}} (суматоха) took place over an act for which I was partially responsible <!--SR:!2024-01-07,4,294-->
+It is difficult to believe that such an {{uproar}} (суматоха) took place over an act for which I was partially responsible <!--SR:!2024-01-19,11,294-->
 
 walking away, unfortunately, has proved to be quite another, and though once I thought I had left that {{ravine}} (овраг) forever on an April afternoon long ago, now I am not so sure. <!--SR:!2024-01-15,9,294-->
 
@@ -218,7 +218,7 @@ One of the boys has a {{freckle}} (веснушка) on his cheek.
 
 I {{tore out}} (вырвал) the information form in the back of the brochure andstarted to fill it in.
 
-Would you like some information on Financial {{Aid}} (**help or support)** <!--SR:!2024-01-07,4,294-->
+Would you like some information on Financial {{Aid}} (**help or support)** <!--SR:!2024-01-23,15,314-->
 
 You will find it a {{delightful}} (**(something or someone that gives) great pleasure, satisfaction, or happiness)** to learn
 
@@ -237,4 +237,4 @@ How could we use a word "straight"?>>in a classical way
 
 more or less↔более менее
 
-But one night, when my curiosity had {{got the better of me}} (**to defeat someone in a competition)**, I asked him <!--SR:!2024-01-08,4,297-->
+But one night, when my curiosity had {{got the better of me}} (**to defeat someone in a competition)**, I asked him <!--SR:!2024-01-22,14,317-->

@@ -29,7 +29,7 @@ He was in a rambling, paranoid {{humor}} (mood) <!--SR:!2024-02-08,34,276-->
 
 'Why would he want to do that?' - 'Because I'm {{in the way}} (мешаю).'
 
-'You wouldn't {{go behind my back}} (действовать за моей спиной), would you?' <!--SR:!2000-01-01,1,250!2024-01-16,10,294-->
+'You wouldn't {{go behind my back}} (действовать за моей спиной), would you?'
 
 Even after all that had happened, the bitterness and disappointment in his voice {{cut me to the heart}} (hurt me a lot). <!--SR:!2024-01-21,20,256-->
 

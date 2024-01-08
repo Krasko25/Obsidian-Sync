@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Состояние потока (версия из Blue lock)",
+      "path": "Archive/Состояние потока (версия из Blue lock).md"
+    },
+    {
       "basename": "diary",
       "path": "Archive/diary.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Идея о двух узлах и о свободе",
       "path": "Archive/Идея о двух узлах и о свободе.md"
-    },
-    {
-      "basename": "DuoAzul",
-      "path": "Archive/DuoAzul.md"
     }
   ],
   "omittedPaths": [],

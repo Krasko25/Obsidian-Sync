@@ -115,3 +115,15 @@ This training goal can look a bit ambitious, but I think, that I will be able to
 - this note in not bad, it can be quite useful in the future,
 - good work with reading,
 - for the last few days I finally use my obsidian setup. All this notes can be useful not only in the future, but it also helps to understand information better.
+==January 8th, 2023==
+Today was not a greatly productive day, but this time I have an excuse. The real winter finally started in our country and I had to spend a lot of time and efforts to clean off snow out of our house's territory. I had to do it twice, because the snow was not stopping. It seems, that I also caught a cold.
+
+Today I got the information about my next learning semester. It will start at January 12th.
+
+Right now I have to choose between trying to do some progress with the Synergy project of going to sleep. I guess, that I need to build some kind of sleeping pattern, that is more important right now.
+
+Gratitude punch:
+1) I keep reading books, it's good;
+2) I think that the quality of my meditations has improved a bit;
+3) I continue my preparation for the exam on February 7th;
+4) I train according to my new training program, it is going good for now.

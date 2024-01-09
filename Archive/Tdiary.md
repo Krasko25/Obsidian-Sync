@@ -128,3 +128,11 @@ Gratitude punch:
 3) I continue my preparation for the exam on February 7th;
 4) I train according to my new training program, it is going good for now.
 ==January 9th, 2024==
+I continue to train according to my new program. Though, I have to change it every once in a while. It happens because I use a few sources of information to build my training program and I'm yet to finish reading one book, that I use as a main source of information (maybe, I should have changed my workouts after finishing my system, but I was way to excited to wait).
+
+Today I got information about the upcoming call in Habitica, I'm looking forward to it.
+
+Gratitude splash:
+1) I don't betray my new habits and keep taking care of them daily.
+2) I currently working on the quality of my reps doing training. I slow down to learn to fell the work of my muscles and avoid traumas. All this is lowering the amount of reps and it hurts my ego so I want to praise myself for doing it.
+3) I manage to complete my list of calories each day for a few days in a row.

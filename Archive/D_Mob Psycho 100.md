@@ -6,7 +6,7 @@ But if you're not {{up to the task}} (good enough for this task), very well
 
 narrator>>рассказчик <!--SR:!2024-01-12,10,274-->
 
-I'm going to make you pay {{dearly}} (заплатить сполна)!
+I'm going to make you pay {{dearly}} (заплатить сполна)! <!--SR:!2024-01-13,4,285-->
 
 all the negative emotions are {{welling up}} (накапливаются) within you
 she has a nerve to speak like this in her position? - {{splendid}} (**excellent, or beautiful and impressive:)** <!--SR:!2024-02-02,28,270!2000-01-01,1,250--> 
@@ -19,7 +19,7 @@ Salt {{splash}} (**to move in water so that drops of it go in all directions)**
 
 I just got bored on my old job and started this office on a {{whim}} (**a sudden wish or idea, especially one that cannot be reasonably explained (прихоть))** 
 
-My {{holy}} blade(**related to a religion or a god)! It's broken.** 
+My {{holy}} blade(**related to a religion or a god)! It's broken.** <!--SR:!2024-01-12,3,265--> 
 
 He's already been brought back to this {{realm}} (сфера деятельности (new discoveries in the realm of medicine, in the {{realm}} of electronic states) 
 
@@ -43,11 +43,11 @@ Don't {{twist}} (to change the meaning of the words) my words
 
 for the fun of it>>_ <!--SR:!2024-01-26,18,301-->
 
-man up>>**used to** **tell** **someone that they should** **deal** **with something more** **bravely** 
+man up>>**used to** **tell** **someone that they should** **deal** **with something more** **bravely** <!--SR:!2024-01-12,3,265-->
 
 You're actually making me use my {{trump card}} (**an** **advantage** **that makes you more** **likely** **to** **succeed** **than other** **people,** **especially something that other** **people** **do not** **know** **about)** 
 
-Espers are hard to {{possess}} (**to have or own something, or to have a** **particular** **quality)** <!--SR:!2024-01-09,10,272--> 
+Espers are hard to {{possess}} (**to have or own something, or to have a** **particular** **quality)** <!--SR:!2024-02-03,25,272--> 
 
 You guys are still {{small fries}} (**people** **or things that are not** **considered** **to be** **important)** <!--SR:!2024-01-11,6,258--> 
 
@@ -55,7 +55,7 @@ HQ>>headquaters <!--SR:!2024-01-26,18,299-->
 
 boss will be in a {{league of his own}} (someone who is on the whole different level) <!--SR:!2024-01-13,8,258--> 
 
-{{Fraud}} (**someone who** **deceive s** **people** **by saying that they are someone or something that they are not)** or not, you had the nerve to call yourself the boss <!--SR:!2024-01-08,4,281-->
+ <!--SR:!2024-01-26,17,301-->
 
 when things go {{south}} (in a really bad direction), it's okay to run 
 

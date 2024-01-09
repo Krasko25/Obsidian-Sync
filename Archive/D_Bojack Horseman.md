@@ -15,7 +15,7 @@ Was named after my mom>>_
 
 Ok, just don't live your life for Strib, or this baby, or anybody else. - Thank you. - {{I mean it}} (I was quite serious, take it serious) 
 
-Everything I {{pitch}} (**to throw something, esp. forcefully, promote)** he shoots down. <!--SR:!2024-01-08,9,274-->
+Everything I {{pitch}} (**to throw something, esp. forcefully, promote)** he shoots down. <!--SR:!2024-02-11,33,294-->
 
 Don't chew too loud, and collect your {{paycheck.}} (**a check used to pay an employee the amount of money the employee has earned).** <!--SR:!2024-02-20,43,290--> 
 
@@ -55,7 +55,7 @@ Well, do you think it's true? Do I think L.A. is a tar {{pit}} (**a large hole i
 
 Jesus Christ! Juda, do you ever {{read a room}} (**to be or become aware of the opinions and attitudes of a group of people that you are talking to)**!? I'm sorry, is this a bad time?
 
-I don't know how you {{put up}} (**to accept or continue to accept an unpleasant situation or experience, or someone who behaves unpleasantly) **{{wit}}h me. I didn't {{put up with}} you. <!--SR:!2000-01-01,1,250!2024-01-07,1,244!2000-01-01,1,250-->
+I don't know how you {{put up}} (**to accept or continue to accept an unpleasant situation or experience, or someone who behaves unpleasantly) **{{wit}}h me. I didn't {{put up with}} you. <!--SR:!2000-01-01,1,250!2024-01-12,3,264!2000-01-01,1,250-->
 
 I'm good at driving sober, but I do not {{relish}} (**to like or enjoy something) **the opportunity. <!--SR:!2024-01-25,17,302--> 
 

@@ -10,7 +10,7 @@ Everyone called me {{rookie}} (**a person with little experience who is just sta
 
 In this race, the exchange of horses is {{prohibited}} (**to officially refuse to allow something)** and result in disqualification
 
-I'm not going to {{charge }} (**to make a formal statement saying that someone is accused of a crime (обвинять)) **him. I'll forget about it... let him go and give him the gun back <!--SR:!2024-01-08,4,274-->
+I'm not going to {{charge }} (**to make a formal statement saying that someone is accused of a crime (обвинять)) **him. I'll forget about it... let him go and give him the gun back <!--SR:!2024-01-24,15,294-->
 
 But still, 60 to 80 days is the {{estimated}} (**to guess or calculate the cost, size, value, etc. of something (оценить, предположить))** competition time.
 
@@ -20,7 +20,7 @@ Are you looking {{down on us}} (смотреть свысока) like that?
 
 You can't protect him anymore, "the white man's books", they were hidden in his {{tent}} (палатка). <!--SR:!2024-02-13,39,290-->
 
-A syndrome where he has the urge to dis{{assemble}} (**to separate something into its different parts) **everything. When he was ten, he dis{{assembled}} his neighbours car. <!--SR:!2024-01-08,3,259!2000-01-01,1,250-->
+A syndrome where he has the urge to dis{{assemble}} (**to separate something into its different parts) **everything. When he was ten, he dis{{assembled}} his neighbours car. <!--SR:!2024-01-21,12,279!2000-01-01,1,250-->
 
 But I can't reach Jolyne by myself. I need {{backup}} (**(someone or something that provides) support or help, or something that you have arranged in case your main plans, equipment, etc. go wrong)** 
 

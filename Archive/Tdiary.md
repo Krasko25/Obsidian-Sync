@@ -1,6 +1,6 @@
 [[diary]]
 ### January
-==January 1st, 2023==
+==January 1st, 2024==
 Recently I started learning about one topic, about ego. Usually we are told, that it is a bad thing. However, is it really possible for one to improve oneself without ego? 
 
 Let's say that you want to win a school championship. For that you need to believe in yourself, believe, that you worth that. You also need to be ready to overstep a lot of people with the same ambitions. Isn't it arrogant to believe that you are better than all these people, to put your ambitions above others?
@@ -25,11 +25,11 @@ My trump cards (and how to improve them):
 
 Maybe I have forgotten something, but I already want to go to bed.
 
-==January 3rd, 2023==
+==January 3rd, 2024==
 For the last few days I was not awfully productive. It happened for many reason, of them is because I started watching a new anime (I'm not recording it in English). It was always hard for me to do small amount of things per a time. When it comes to entertainment contents I either consume nothing or an awful amount. I put some limitation rules for myself, let's see if it works.
 
 I was delaying my year plans for a few days already. I will do my best to write about it tomorrow.
-==January 4nd, 2023==
+==January 4nd, 2024==
 In this note I will try to sum up the results of the last year. I will use my old daily notes to do that.
 
 First thing that I noticed is the inconsistency of my notes, in some months I was writing less than 1 note per a week. This aspect was improved greatly. The quality and length of notes has improved as well. I started writing more about my feelings and plans, make up some conclusions and takeaways from my experienсes. I consider this to be a really important improvement.
@@ -55,7 +55,7 @@ Daily portion of gratitude:
 - for the fact, that I finally started my preparation for the math exam,
 - for being a bit more conscious,
 - for going to bed earlier, than usually.
-==January 5th, 2023==
+==January 5th, 2024==
 Almost all my life I had some portion of sport in my life. I was playing football, cycling, participating in some school sport activities, doing some stupid sport challenges, etc. However, I gain consistency with my individual trainings only two years ago. 
 
 After these two years I got a normal level of physical shape and a good amount of knowledge about training. My training sessions are consistent and I'm trying to give it all up in each set. Though, Iately, It seems to me that I make no progress. I am not gaining weight, my strength is not increasing and it is hard to track the grow of my muscles. 
@@ -68,7 +68,7 @@ I believe that there are three main factors:
 I decided to make up my mind and shift my focus on something more narrow. I decided to work to achieve the calisthenics type of strength and flexibility. It will not only be beneficial for my health, but will also allow me to track my progress easily. I will be able to do that thanks to different progressions in hard exercises. 
 
 A bit of gratitude: I think that I can safely say now that I'm doing my trainings before the lunch, just as I planned, it is also good that I had a lesson with LD today and that I continue to analyse my experiences in different arias.
-==January 6th, 2023==
+==January 6th, 2024==
 This day was not successful. I don't know how to balance between work and leisure time. It seems to me that once I start doing some kind of entertainment, It is hard for me to get out of it. Once I start, I keep making weak decisions. It is as if I can either be really productive or do nothing useful at all (of course, I am being a bit too dramatic here, I do something, but that is not enough).
 
 For the last few days I was reading one book about training with my bodyweight. It inspires me a lot. Though, I don't have trainings neither today or tomorrow, so I am trying not to overdo it and let my body rest a bit.
@@ -80,7 +80,7 @@ Some gratitude:
 - I am grateful to myself for keep reading books;
 - I'm consistent with my trainings, it is good. I also don't forget about the rest for my body, it is really important.
 
-==January 7th, 2023==
+==January 7th, 2024==
 My plans for this year. 
 ___
 This year is going to be quite troublesome and unpredictable for me. I will graduate from my technical school this year and will have to deal with military service. Most likely, I will go to some university to delay my military service (I want to win some time, because there is a war in our country right now).
@@ -115,7 +115,7 @@ This training goal can look a bit ambitious, but I think, that I will be able to
 - this note in not bad, it can be quite useful in the future,
 - good work with reading,
 - for the last few days I finally use my obsidian setup. All this notes can be useful not only in the future, but it also helps to understand information better.
-==January 8th, 2023==
+==January 8th, 2024==
 Today was not a greatly productive day, but this time I have an excuse. The real winter finally started in our country and I had to spend a lot of time and efforts to clean off snow out of our house's territory. I had to do it twice, because the snow was not stopping. It seems, that I also caught a cold.
 
 Today I got the information about my next learning semester. It will start at January 12th.
@@ -127,3 +127,4 @@ Gratitude punch:
 2) I think that the quality of my meditations has improved a bit;
 3) I continue my preparation for the exam on February 7th;
 4) I train according to my new training program, it is going good for now.
+==January 9th, 2024==

@@ -1797,7 +1797,7 @@ One friend of my mother gave me and my brother a ride to our village. It saved u
 
 My mother had some guests today, I helped with cleaning. At about 7 pm I had a lesson with my teacher (LD). To be honest, other than that, I did almost nothing useful today.
 ==December 25th, 2023==
-Yesterday at night I finally got a grade for my course work (I was waiting for it to be checked for a long time). After I have done some small corrections I got 5 (it is the highest grade), but I will still need to print my work and bring it to my school. I will do it tomorrow and it will take more than three hours to get there and back.
+Yesterday at night I finally got a grade for my course work (I was waiting for it to be checked for a long time). After I have done some small corrections I got 5 point (it is the highest grade), but I will still need to print my work and bring it to my school. I will do it tomorrow and it will take more than three hours to get there and back.
 
 The teacher also checked all the learning practice assignments, but at that moment I didn't manage to do them all. I asked the teacher about that, she told that I could do some assignments until 11 am of the next day. 
 

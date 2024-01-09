@@ -4,7 +4,7 @@ We admired your strength, we all wanted to {{befriend}} (help someone and be fri
 
 I {{concede}} (give up), you are stronger
 
-As the four seasons between heaven and earth flow in an endless cycle, so too, must man work his way, through his own cycles of seasons continuous. If you are able to to endure a long hard winter, a fresh new spring is sure to follow, invigorating with  strength renewed.>>_ #Mark/Quote <!--SR:!2024-01-09,8,256-->
+As the four seasons between heaven and earth flow in an endless cycle, so too, must man work his way, through his own cycles of seasons continuous. If you are able to to endure a long hard winter, a fresh new spring is sure to follow, invigorating with  strength renewed.>>_ #Mark/Quote <!--SR:!2024-01-27,18,256-->
 
 I feel {{overwhelmed}} (overcome by superior force) by this man's great presence?
 
@@ -20,7 +20,7 @@ It's no crime to use a bit of his funds>>_
 
 I {{vow}} (make a vow; promise) to deliver it to your parents <!--SR:!2024-02-11,36,270-->
 
-I feel bad for everyone, you, guys, share this. - a tactful {{bribe}} (payment made to a person in a position of trust to corrupt his judgment), eh?
+I feel bad for everyone, you, guys, share this. - a tactful {{bribe}} (payment made to a person in a position of trust to corrupt his judgment), eh? <!--SR:!2024-01-13,4,287-->
 
 Mushashi considers himself to be {{arrogant}} ( высокометный)
 
@@ -38,9 +38,9 @@ I thought you might have matured a little. Don't you realise how {{precious}} (�
 
 He had Yashioka Denshichiro in a {{deadlock}} (тупик, безвыходная ситуация)
 
-At this {{rate}} (темп), the fire will spread, {{tear down}} (**to** **intentionally** **destroy** **a** **building** **or other** **structure** **because it is not being used or it is not** **wanted** **any more)** what is left of it <!--SR:!2000-01-01,1,250!2024-01-09,3,264-->
+At this {{rate}} (темп), the fire will spread, {{tear down}} (**to** **intentionally** **destroy** **a** **building** **or other** **structure** **because it is not being used or it is not** **wanted** **any more)** what is left of it <!--SR:!2000-01-01,1,250!2024-01-21,12,284-->
 
-I want you to {{embrace}} (**to** **accept** **something** **enthusiastically)** the principle of not regretting what you have done, let go of the past, learn from your experiences. <!--SR:!2024-01-09,10,272-->
+I want you to {{embrace}} (**to** **accept** **something** **enthusiastically)** the principle of not regretting what you have done, let go of the past, learn from your experiences. <!--SR:!2024-02-15,37,292-->
 
 Her face is peaceful. We will see her off tomorrow>>_ 
 
@@ -58,7 +58,7 @@ Am I still strong? I want to know. - he exceeds (**to go past the level, limit, 
 
 Fighting for myself I won't {{pursue}} (**to follow someone or something, usually to try to catch him, her, or it)** my opponents.
 
-Even if you are {{crippled}} (**an extremely offensive word for a person whose legs or arms do not work in the usual way)**, you are still Musashi. She was {{crippled}} in a car accident. <!--SR:!2000-01-01,1,250!2024-01-09,8,256-->
+Even if you are {{crippled}} (**an extremely offensive word for a person whose legs or arms do not work in the usual way)**, you are still Musashi. She was {{crippled}} in a car accident. <!--SR:!2000-01-01,1,250!2024-01-28,19,256-->
 
 With this leg, this trip is three times as {{tiring}} (утомляющая) 
 While he is doing that, Musashi's reputation will reach the {{topmost}} (the highest point of something (reputation)) level.

@@ -5,19 +5,19 @@ Depending on how you {{play}} (как вы это обыграете) this, we a
 
 once you grow up and you are ready to {{develop an addiction}} (взрастить зависимость), I'll give it back.
 
-How much of what happened today did you {{anticipate}} (**to imagine or expect that something will happen)**, Ms. Makima? <!--SR:!2024-01-07,3,256-->
+How much of what happened today did you {{anticipate}} (**to imagine or expect that something will happen)**, Ms. Makima? <!--SR:!2024-01-18,9,276-->
 
 A bleed weapon, huh? And aimed at the head. So, it's an {{ambush}} (**to suddenly attack someone after hiding and waiting for them)**. <!--SR:!2024-01-11,10,270-->
 
 Better {{head to}} (moving somewhere) work <!--SR:!2024-01-28,24,270-->
 
-What is this? - my {{resignation}} (**the act of telling your employer that you are leaving your job)**. - You're quitting? - I figure the choice between quitting or getting killed
+What is this? - my {{resignation}} (**the act of telling your employer that you are leaving your job)**. - You're quitting? - I figure the choice between quitting or getting killed <!--SR:!2024-01-13,4,278-->
 
 If I tear it up until it can't take the pain no more, it will wanna kill itself! - A very devilish idea {{indeed}} (**really or certainly, often used to emphasize something).** <!--SR:!2024-01-13,7,256--> 
 
 Those kind of terms hold a strong {{sway}} (**control or influence) **when a devil is involved.
 
-Not like I could invite a girl to this {{dump }}(**a place where people are allowed to leave their rubbish)** 
+Not like I could invite a girl to this {{dump }}(**a place where people are allowed to leave their rubbish)** <!--SR:!2024-01-13,4,278--> 
 
 You're as loyal as a dog, and you work for cheap like one, too. Only problem with dogs is I can't stand the {{stench}} (**a strong, unpleasant smell)** 
 

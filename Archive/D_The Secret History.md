@@ -1,8 +1,8 @@
 #cards/dictionary 
 
-a breath of fresh air, that's a {{ticket}} (an opportunity)
+a breath of fresh air, that's a {{ticket}} (an opportunity) <!--SR:!2024-01-13,4,305-->
 
-I see, you didn't get to {{met with a razor}} (shave) today
+I see, you didn't get to {{met with a razor}} (shave) today <!--SR:!2024-01-13,4,305-->
 
 'I'm telling you, Milly.' It was a pet name he had for her,  _one_  he seldom used.>>_ <!--SR:!2024-02-03,29,276-->
 
@@ -35,13 +35,13 @@ Even after all that had happened, the bitterness and disappointment in his voice
 
 Richard {{reinvented}} (re-experience something)  his experience with Julian.
 
-The author is trying to make an impression on the {{audience}} (аудитория) <!--SR:!2024-01-09,10,281-->
+The author is trying to make an impression on the {{audience}} (аудитория) <!--SR:!2024-02-19,41,301-->
 
 The doctor says that it's {{touch-and-go}} (**having an** **uncertain, and** **possibly** **bad** **result)**  **whether** Mary will be okay <!--SR:!2024-01-16,13,286-->
 
 He stopped at the {{next-to-last}} (next to the last) sheet
 
-You must {{hide your eyes}} (закрыть глаза) and count to ten and she'll come back.
+You must {{hide your eyes}} (закрыть глаза) and count to ten and she'll come back. <!--SR:!2024-01-13,4,305-->
 
 Because it was obvious, now, that his decision to tell me was a {{calculated move}} (просчитанное действие). <!--SR:!2024-01-21,13,297-->
 
@@ -101,13 +101,13 @@ Breathing hard, he  **made his way**  across the room and fell heavily into an a
 
 My head begin to swim>>_ <!--SR:!2024-01-10,4,300-->
 
-off the top of one's head>>без справочной информации <!--SR:!2024-01-09,10,281-->
+off the top of one's head>>без справочной информации <!--SR:!2024-02-16,38,301-->
 
 If you don't mind my asking>>_
 
 That if  _one_  is to read Dante, and understand him,  _one_  must become a Christian if only for a few hours?>>_
 
-they say  that you should become a monster to be a champion>>_
+they say  that you should become a monster to be a champion>>_ <!--SR:!2024-01-13,4,305-->
  
 There was no {{signature}} (подпись (проверить произношение))
 

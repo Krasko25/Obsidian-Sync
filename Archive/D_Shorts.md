@@ -4,7 +4,7 @@ Imma>>I am gonna (I am going to)
 
 Lmao>>laughing my ass off <!--SR:!2024-03-03,55,310-->
 
-otw>>on the way <!--SR:!2024-01-09,4,289-->
+otw>>on the way <!--SR:!2024-01-20,11,289-->
 
 bb>>byebye
 
@@ -26,7 +26,7 @@ lmn>>let me know
 
 bff>>best friend forever
 
-bf>>boyfriend <!--SR:!2024-01-08,4,287-->
+bf>>boyfriend <!--SR:!2024-01-26,17,307-->
 
 gf>>girlfriend <!--SR:!2024-01-18,10,284-->
 

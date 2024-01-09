@@ -1,8 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "Tdiary",
+      "path": "Archive/Tdiary.md"
+    },
+    {
+      "basename": "diary",
+      "path": "Archive/diary.md"
+    },
+    {
+      "basename": "Большая шестёрка. Приседания",
+      "path": "Archive/Большая шестёрка. Приседания.md"
+    },
+    {
+      "basename": "D_Rick and Morty",
+      "path": "Archive/D_Rick and Morty.md"
+    },
+    {
+      "basename": "Спорт как способ вывода стресса из организма",
+      "path": "Archive/Спорт как способ вывода стресса из организма.md"
+    },
+    {
       "basename": "2024-01-09",
       "path": "Daily notes/2024/January/2024-01-09.md"
+    },
+    {
+      "basename": "D_Youtube",
+      "path": "Archive/D_Youtube.md"
+    },
+    {
+      "basename": "2024-01-06",
+      "path": "Daily notes/2024/January/2024-01-06.md"
+    },
+    {
+      "basename": "К себе нежно. Книга о том, как ценить и беречь себя",
+      "path": "Archive/К себе нежно. Книга о том, как ценить и беречь себя.md"
+    },
+    {
+      "basename": "Стремление Раскольникова высунуть язык",
+      "path": "Archive/Стремление Раскольникова высунуть язык.md"
     },
     {
       "basename": "Состояние потока (версия из Blue lock)",
@@ -11,14 +47,6 @@
     {
       "basename": "2024-01-08",
       "path": "Daily notes/2024/January/2024-01-08.md"
-    },
-    {
-      "basename": "Tdiary",
-      "path": "Archive/Tdiary.md"
-    },
-    {
-      "basename": "diary",
-      "path": "Archive/diary.md"
     },
     {
       "basename": "D_Blue Lock",
@@ -35,10 +63,6 @@
     {
       "basename": "D_Crime and Punishment",
       "path": "Archive/D_Crime and Punishment.md"
-    },
-    {
-      "basename": "Стремление Раскольникова \"высунуть язык\"",
-      "path": "Archive/Стремление Раскольникова \"высунуть язык\".md"
     },
     {
       "basename": "Раскольников",
@@ -105,20 +129,12 @@
       "path": "Archive/Большая шестёрка. Мостик.md"
     },
     {
-      "basename": "Большая шестёрка. Приседания",
-      "path": "Archive/Большая шестёрка. Приседания.md"
-    },
-    {
       "basename": "Большая шестёрка. Подъем ног",
       "path": "Archive/Большая шестёрка. Подъем ног.md"
     },
     {
       "basename": "Большая шестерка. Отжимания",
       "path": "Archive/Большая шестерка. Отжимания.md"
-    },
-    {
-      "basename": "D_Youtube",
-      "path": "Archive/D_Youtube.md"
     },
     {
       "basename": "2024-01-07",
@@ -161,16 +177,8 @@
       "path": "Archive/Support MOC.md"
     },
     {
-      "basename": "К себе нежно. Книга о том, как ценить и беречь себя",
-      "path": "Archive/К себе нежно. Книга о том, как ценить и беречь себя.md"
-    },
-    {
       "basename": "D_Vagabond",
       "path": "Archive/D_Vagabond.md"
-    },
-    {
-      "basename": "2024-01-06",
-      "path": "Daily notes/2024/January/2024-01-06.md"
     },
     {
       "basename": "Тренировки ног с собственным весом неэффективны",
@@ -191,14 +199,6 @@
     {
       "basename": "D_School words",
       "path": "Archive/D_School words.md"
-    },
-    {
-      "basename": "2024-01-04",
-      "path": "Daily notes/2024/January/2024-01-04.md"
-    },
-    {
-      "basename": "Как мне стоит организовывать мои записки в Obsidian",
-      "path": "Archive/Как мне стоит организовывать мои записки в Obsidian.md"
     }
   ],
   "omittedPaths": [],

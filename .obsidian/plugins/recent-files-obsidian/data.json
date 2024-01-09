@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-01-09",
+      "path": "Daily notes/2024/January/2024-01-09.md"
+    },
+    {
       "basename": "Состояние потока (версия из Blue lock)",
       "path": "Archive/Состояние потока (версия из Blue lock).md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Как мне стоит организовывать мои записки в Obsidian",
       "path": "Archive/Как мне стоит организовывать мои записки в Obsidian.md"
-    },
-    {
-      "basename": "Идея о двух узлах и о свободе",
-      "path": "Archive/Идея о двух узлах и о свободе.md"
     }
   ],
   "omittedPaths": [],

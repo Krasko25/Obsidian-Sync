@@ -1,3 +1,7 @@
+Isagi Yoichi>>_
+Shidou>>_
+Ego Jinpachi>>_
+Itoshi Rin>>_
 
 
 

@@ -136,3 +136,14 @@ Gratitude splash:
 1) I don't betray my new habits and keep taking care of them daily.
 2) I currently working on the quality of my reps doing training. I slow down to learn to fell the work of my muscles and avoid traumas. All this is lowering the amount of reps and it hurts my ego so I want to praise myself for doing it.
 3) I manage to complete my list of calories each day for a few days in a row.
+==January 10th, 2024==
+For the last few days my sleeping schedule was a mess. I fall asleep at about 2 am and wake up at about 11 or 12 am. Not only it takes me more time to sleep, but it also violates my level of energy. 
+
+I also did no progress in my learning project. I don't have to do it. It gives me only 5 points out of a 100, but I want to do it anyway. I think that is will help me to understand the topic better. Not to mention, I already promised myself to do it, so it will hurt my ego to give up on this.
+
+Today I finally did some progress on the project, I hope to finish it tomorrow. Though, I had to give up on reading and math today. Of course, I could do a bit of it today, but in this case I would have to fall asleep at about 11:45 pm, which is not good enough.
+
+A gratitude dive:
+1) I'm grateful to myself for putting my sleep above other things.
+2) Being able not to be angry with myself for missing my dailies is also a good thing.
+3) I do routines to fix my scoliosis every day (though, I do it in different time because of my inconsistent sleep).

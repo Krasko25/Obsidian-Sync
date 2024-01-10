@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Blue Lock",
-      "path": "Archive/Blue Lock.md"
-    },
-    {
       "basename": "Tdiary",
       "path": "Archive/Tdiary.md"
+    },
+    {
+      "basename": "2024-01-10",
+      "path": "Daily notes/2024/January/2024-01-10.md"
+    },
+    {
+      "basename": "Blue Lock",
+      "path": "Archive/Blue Lock.md"
     },
     {
       "basename": "D_Blue Lock",
@@ -195,10 +199,6 @@
     {
       "basename": "D_LD",
       "path": "Archive/D_LD.md"
-    },
-    {
-      "basename": "D_School words",
-      "path": "Archive/D_School words.md"
     }
   ],
   "omittedPaths": [],

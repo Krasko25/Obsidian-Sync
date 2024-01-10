@@ -34,9 +34,9 @@ btw>>by the way
 
 your>>you are
 
-u>>you <!--SR:!2024-01-10,4,290-->
+u>>you <!--SR:!2024-01-28,18,310-->
 
-kk>>ok, ok <!--SR:!2024-01-10,9,282-->
+kk>>ok, ok <!--SR:!2024-02-15,36,302-->
 
 plz>>please <!--SR:!2024-01-16,11,284-->
 
@@ -62,6 +62,6 @@ TMI>>too much information
 
 CU>>see you
 
-IDC>>I don't care
+IDC>>I don't care <!--SR:!2024-01-14,4,293-->
 
 sus>>suspicious

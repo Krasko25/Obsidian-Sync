@@ -1,4 +1,4 @@
-#cards/dictionary 
+ <!--SR:!2024-01-14,4,308-->#cards/dictionary 
 
 a breath of fresh air, that's a {{ticket}} (an opportunity) <!--SR:!2024-01-13,4,305-->
 
@@ -12,14 +12,14 @@ I think that my fatal {{flaw}} (defect or weakness in a person's character) is "
 
 They were very happy, they said.>>_ 
 
-Still, he lived more than twelve hours, a {{feat}} (achievement) which amazed the doctors. 
+Still, he lived more than twelve hours, a {{feat}} (achievement) which amazed the doctors. <!--SR:!2024-01-13,3,288--> 
 
 Then, with the pistol on him, he stepped to the windows and drew the {{shades}} (blinds ).
 
 But if he saw the letterhead, the {{game was up}} (game was over), because he knew as well as we did that Bunny and Henry had stayed at
 
-It was the little Beretta that Francis's aunt kept in the {{night table}} (тумбочка) 
-'I'm afraid he'll have a wreck. Or a cop will {{pull him over.}} (stop him) 
+It was the little Beretta that Francis's aunt kept in the {{night table}} (тумбочка)
+'I'm afraid he'll have a wreck. Or a cop will {{pull him over.}} (stop him) <!--SR:!2024-01-14,4,308!2000-01-01,1,250-->
 
 Just for the hell of it↔for the fun of it, без особой причины 
 
@@ -65,7 +65,7 @@ Once Bunny's body was found, though, the administration just wanted to {{hush}} 
 
 They told Henry they had enough probable cause to arrest half a dozen people, including himself, either for conspiracy or {{withholding}} (hold back; refuse to hand over or share) evidence.'
 
-I saw him last and from all of us I think you are {{on the best terms with}} (лучше всего ладят).
+I saw him last and from all of us I think you are {{on the best terms with}} (лучше всего ладят). <!--SR:!2024-01-13,3,288-->
 
 he had to {{shoulder}} (взвалить на плечи) more, than his share of the burden
 
@@ -176,7 +176,7 @@ ironing board>>гладильная доска <!--SR:!2024-01-20,17,306-->
 
 Once in the car, Henry lit a cigarette and didn't say a word. He'd been smoking a lot since he got back from Italy, almost a {{pack}} a day, which was rare for him.
 
-'No, no, don't go,' said Henry, taking a long gulp of his coffee and putting the cup in the {{sink}} (раковина). <!--SR:!2024-01-10,5,250-->
+'No, no, don't go,' said Henry, taking a long gulp of his coffee and putting the cup in the {{sink}} (раковина). <!--SR:!2024-01-23,13,250-->
 
 But that's got them in debt to the eyebrows>>_ <!--SR:!2024-01-13,10,286-->
 
@@ -216,7 +216,7 @@ That was a tale that told itself>>_ <!--SR:!2024-01-13,10,286-->
 
 One of the boys has a {{freckle}} (веснушка) on his cheek.
 
-I {{tore out}} (вырвал) the information form in the back of the brochure andstarted to fill it in.
+
 
 Would you like some information on Financial {{Aid}} (**help or support)** <!--SR:!2024-01-23,15,314-->
 

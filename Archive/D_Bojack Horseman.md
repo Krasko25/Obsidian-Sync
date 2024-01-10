@@ -11,7 +11,7 @@ Sundays are the one day that are just for me and my {{craft}} (ремесло, t
 
 The man has come to call. He'd like to take you for a Sunday {{stroll}} (**o walk in a slow relaxed way, especially for pleasure)** 
 
-Was named after my mom>>_ 
+Was named after my mom>>_ <!--SR:!2024-01-14,4,291-->
 
 Ok, just don't live your life for Strib, or this baby, or anybody else. - Thank you. - {{I mean it}} (I was quite serious, take it serious) 
 
@@ -25,7 +25,7 @@ Hey, Gina, I'm sorry. I was just {{teasing}} (**to laugh at someone or say unkin
 
 It's weird. Like we could totally {{make out}} right now. - What? - No, I'm not saying we should. NO. Pffff...
 
-You'll have to say, "I'm sad-sad girl with a dirty apartment", - but I'll let you {{crash}} (переночевать). <!--SR:!2024-01-10,9,275-->
+You'll have to say, "I'm sad-sad girl with a dirty apartment", - but I'll let you {{crash}} (переночевать). <!--SR:!2024-02-07,28,275-->
 
 What did you order? - The {{through}} (всё меню по одному блюду)! He wants the {{through}} (всё меню по одному блюду)
 

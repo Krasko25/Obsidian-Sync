@@ -26,7 +26,7 @@ Mushashi considers himself to be {{arrogant}} ( высокометный)
 
 overcoming difficulties and at times even risking one's life. These are the things that allow the soul to grow and mature>>allow #Mark/Quote
 
-{{unease}} ( physical discomfort, беспокойство, тревога) had taken over Musashi 
+{{unease}} ( physical discomfort, беспокойство, тревога) had taken over Musashi <!--SR:!2024-01-13,3,270--> 
 
 eventually, I {{vow}} (**to make a** **determined** **decision** **or** **promise** **to do something) **to kill you
 
@@ -79,7 +79,7 @@ We entered into a noble forest.
 He was a man of noble character.
 She was descended from an old Italian noble family.
 
-The body learns and {{acquires}} (**to gradually learn or gain something such as a language or skill) **it. That is how I survived.
+The body learns and {{acquires}} (**to gradually learn or gain something such as a language or skill) **it. That is how I survived. <!--SR:!2024-01-13,3,270-->
 
 I have never met a person like you... a person purely {{devoted}} (**to give all of something, especially your time, effort, or love, or yourself, to something you believe in or to a person (посвещать))** to the sword.
 

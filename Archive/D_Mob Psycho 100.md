@@ -1,6 +1,6 @@
 #cards/dictionary 
 
-It {{hit too close to home for me}} (больная тема), too
+It {{hit too close to home for me}} (больная тема), too <!--SR:!2024-01-13,3,265-->
 
 But if you're not {{up to the task}} (good enough for this task), very well
 
@@ -33,7 +33,7 @@ Dimple {{despise}} (**to feel a strong dislike for someone or something because 
 
 Our muscles don't exist for something so {{petty}} (**not important and not worth giving attention to (мелкое, жалкое))** 
 
-You are just {{seeing things}} (тебе кажется)
+You are just {{seeing things}} (тебе кажется) <!--SR:!2024-01-13,3,265-->
 
 Why do you have to {{belittle}} (**to make a person or an action seem as if he, she or it is not important)** everyone
 

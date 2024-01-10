@@ -4,7 +4,7 @@ Nanami is on his {{last leg}} (one of his feet is already in the grave)
 
 turned the tables on someone↔**to change a situation so that you now have an advantage over someone who previously had an advantage over you** 
 
-but lately, the value of non-sorcerers had been {{wavering}} (being in doubt; undetermined; indecisive; uncertain; unsteady.) in my mind
+but lately, the value of non-sorcerers had been {{wavering}} (being in doubt; undetermined; indecisive; uncertain; unsteady.) in my mind <!--SR:!2024-01-14,4,272-->
 
 I will be able to use those technics {{perpetually}} (**continuing** **forever, or** **happening** **all the** **time)** 
 

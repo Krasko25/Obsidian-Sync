@@ -1,14 +1,14 @@
-#cards/dictionary 
+ <!--SR:!2000-01-01,1,250!2024-01-14,4,277-->#cards/dictionary 
 
 proper noun―имя собственное
 
-If you're going to walk long distances you need {{proper}} (**showing standards of behaviour that are socially and morally acceptable) **walking boots.
+If you're going to walk long distances you need {{proper}} (**showing standards of behaviour that are socially and morally acceptable) **walking boots. <!--SR:!2024-01-14,4,277-->
 
 Laws of privacy are designed to protect the {{dignity}} (**the quality of a person that makes him or her deserving of respect, sometimes shown in behavior or appearance; титул; сан) **of individuals <!--SR:!2024-01-15,7,255-->
 
 They're {{appealing}} (**a request to the public for money, information, or help) **for clothes and blankets to send to the devastated region
 
-Depending on whether they name a {{**tangible**}} or an **in**{{**tangible**}} thing, nouns are classed as being either **concrete** or **abstract**.
+
 
 the lack of any {{concrete}} (бетонный, конкретный) evidence <!--SR:!2024-01-11,10,270-->
 

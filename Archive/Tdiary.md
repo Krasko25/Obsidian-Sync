@@ -26,28 +26,28 @@ My trump cards (and how to improve them):
 Maybe I have forgotten something, but I already want to go to bed.
 
 ==January 3rd, 2024==
-For the last few days I was not awfully productive. It happened for many reason, of them is because I started watching a new anime (I'm not recording it in English). It was always hard for me to do small amount of things per a time. When it comes to entertainment contents I either consume nothing or an awful amount. I put some limitation rules for myself, let's see if it works.
+For the last few days I was not awfully productive. It happened for many reasons, a big one of them is because I started watching a new anime (I'm not recording it in English). It was always hard for me to do small amount of things per a time. When it comes to entertainment contents I either consume nothing or an awful amount. I put some limitation rules for myself, let's see if they work.
 
 I was delaying my year plans for a few days already. I will do my best to write about it tomorrow.
 ==January 4nd, 2024==
-In this note I will try to sum up the results of the last year. I will use my old daily notes to do that.
+In this note I will try to sum up the results of this last year. I will use my old daily notes to do that.
 
 First thing that I noticed is the inconsistency of my notes, in some months I was writing less than 1 note per a week. This aspect was improved greatly. The quality and length of notes has improved as well. I started writing more about my feelings and plans, make up some conclusions and takeaways from my experienсes. I consider this to be a really important improvement.
 
-Let's talk about the way how I started each of those years. I totally can not name my start of this year to be successful, but it is way better than the start of one. I have done more work. Each of the notes from the last year up to January 25th is full of regrets. I became not only more productive, but, more importantly, also more positive.
+Let's talk about the way how I started each of those years. I totally can not name my start of this year to be successful, but it is way better than the start of the previous one. I have done more work. Each of the notes from the last year up to January 25th is full of regrets. I became not only more productive, but, more importantly, more positive.
 
-At January of previous year I decided to meditate on a stable basis and progress in that. I still did not achieve the good results in this direction, especially when it comes to quality. This information is something between "really funny" and "depressing" to me. Obviously, I'm exaggerating my disappointment, but it is still not a good result. I need to work in that direction.
+In January of previous year I decided to meditate on a stable basis and progress in that. I still did not achieve the good results in this direction, especially when it comes to quality. This information is something between "really funny" and "depressing" to me. Obviously, I'm exaggerating my disappointment, but it is still not a good result. I need to work in that direction.
 
-I read many note from this year and was surprised, I was always writing about things that went wrong and almost never about why and how to change/avoid it (maybe, I was thinking about it, but was not expressing my thoughts in text). I started to dig deeper only recently. I will do my best to keep moving in that direction.
+I read many notes from this year and was surprised, I was always writing about things that went wrong and almost never about WHY and HOW to change/avoid it (maybe, I was thinking about it, but was not expressing my thoughts in text form). I started to dig deeper only recently. I will do my best to keep moving in that direction.
 
 Some of interesting things, that I have experienced during this year:
-- my attempt to work on the project with Mikhail Georgievich and other people. We were trying to create a program for decision analysis. I made a program with Saaty method. However, we were not able to get a grant for developing this project because of slow work with documentation from the side of university.
+- my attempt to work on the project with Mikhail Georgievich and other people. We were trying to create a program for decision analysis. I made a program that used Saaty's method. However we were not able to get a grant for developing this project because of slow work with documentation from the side of university.
 - Some adventures that I had to go through because I lost my phone.
 - My trip to Novgorod the Great.
 - The time that I spend taking care of my granny.
 - The week without electricity and internet.
 
-I'm grateful to this note, because of it I found out that I have made some progress not only with my studying, but also with my mindset.
+I'm grateful to this note, because of it I found out that I had made some progress not only with my studying, but also with my mindset.
 
 Daily portion of gratitude: 
 - I'm grateful to myself for the fact that I renewed my habit of reading books ("Crime and Punishment" doesn't count, because it is not stable),

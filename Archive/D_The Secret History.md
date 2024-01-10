@@ -99,7 +99,7 @@ new potatoes>>молодая картошка <!--SR:!2024-01-13,12,285-->
 
 Breathing hard, he  **made his way**  across the room and fell heavily into an armchair>>_ <!--SR:!2024-02-02,29,276-->
 
-My head begin to swim>>_ <!--SR:!2024-01-10,4,300-->
+My head begin to swim>>_ <!--SR:!2024-01-26,16,320-->
 
 off the top of one's head>>без справочной информации <!--SR:!2024-02-16,38,301-->
 
@@ -113,7 +113,7 @@ There was no {{signature}} (подпись (проверить произнош�
 
 You {{bet your boots}} (be certain about something) he has
 
-strangers were talking at me>>они говорили на меня, не со мной <!--SR:!2024-01-10,11,281-->
+strangers were talking at me>>они говорили на меня, не со мной <!--SR:!2024-02-09,30,281-->
 
 All my brothers were redheads and out of my boys there's not an {{honest-to-god}} (**used to** **emphasize** **that what you are saying is** **true)** redhead in the {{bunch}} (**a** **number** **of things of the same** **type** **fastened** **together or in a** **close** **group)**
 

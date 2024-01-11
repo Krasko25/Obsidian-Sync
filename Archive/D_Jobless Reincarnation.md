@@ -1,4 +1,5 @@
 #cards/dictionary 
+
 you better take this L>>L = lose
 
 That was a big W for everybody>>W = win

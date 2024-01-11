@@ -7,7 +7,7 @@ once you grow up and you are ready to {{develop an addiction}} (взрастит
 
 How much of what happened today did you {{anticipate}} (**to imagine or expect that something will happen)**, Ms. Makima? <!--SR:!2024-01-18,9,276-->
 
-A bleed weapon, huh? And aimed at the head. So, it's an {{ambush}} (**to suddenly attack someone after hiding and waiting for them)**. <!--SR:!2024-01-11,10,270-->
+A bleed weapon, huh? And aimed at the head. So, it's an {{ambush}} (**to suddenly attack someone after hiding and waiting for them)**. <!--SR:!2024-02-04,24,270-->
 
 Better {{head to}} (moving somewhere) work <!--SR:!2024-01-28,24,270-->
 

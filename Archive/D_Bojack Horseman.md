@@ -5,7 +5,7 @@ red flags>>плохие предпосылки
 
 l found your {{stashes}} (**to store or hide something, especially a large amount)** in the toilet paper rolls. How many of these do you take a day? <!--SR:!2024-01-12,11,275-->
 
-Bojack {{overhear}} (подслушал) something about Flip and PC
+Bojack {{overhear}} (подслушал) something about Flip and PC <!--SR:!2024-01-14,3,272-->
 
 Sundays are the one day that are just for me and my {{craft}} (ремесло, the labor part of the art) <!--SR:!2024-02-03,26,275-->
 
@@ -27,7 +27,7 @@ It's weird. Like we could totally {{make out}} right now. - What? - No, I'm not 
 
 You'll have to say, "I'm sad-sad girl with a dirty apartment", - but I'll let you {{crash}} (переночевать). <!--SR:!2024-02-07,28,275-->
 
-What did you order? - The {{through}} (всё меню по одному блюду)! He wants the {{through}} (всё меню по одному блюду)
+What did you order? - The {{through}} (всё меню по одному блюду)! He wants the {{through}} (всё меню по одному блюду) <!--SR:!2000-01-01,1,250!2024-01-15,4,293-->
 
 The man is willing to give you a second chance, he is downstairs waiting, and you will be {{civil}} (будешь вежливой) to him.
 
@@ -47,7 +47,7 @@ Oh, don't {{be cross}} (ругаться) with mother.
 
 You really {{let me down}} (**to disappoint someone by failing to do what you agreed to do or were expected to do) **, BoJack. You really {{let me down}}, Diane.
 
-I feel like we can beat this {{font}} (**a set of letters and symbols in a particular design and size (шрифт))** 
+I feel like we can beat this {{font}} (**a set of letters and symbols in a particular design and size (шрифт))** <!--SR:!2024-01-15,4,292--> 
 
 And did you know there are {{orphans}} (**a child whose parents are dead) **in Sudan. - You take this job, you can buy all the {{orphans}} you want. - No, I don't want to buy them. 
 
@@ -64,6 +64,6 @@ Is he okay? - He recently found out that his brother is {{sick.}} -Oh, I'm sorry
 You know, it's amazing that it's legal for kids to be actors. How is that not child {{labor}} (**practical work, esp. work that involves physical effort)**?
 Let's just go! - I can't leave until I make {{amends}} (**to change something, especially the words of a text (вносить правки))** <!--SR:!2024-01-23,15,302!2000-01-01,1,250--> 
 
-Wait, did we just go to Ana's house? Did I get {{closure}} (**the feeling or act of bringing an unpleasant situation, time, or experience to an end, so that you are able to start new activities:)?** 
+Wait, did we just go to Ana's house? Did I get {{closure}} (**the feeling or act of bringing an unpleasant situation, time, or experience to an end, so that you are able to start new activities:)?** <!--SR:!2024-01-15,4,292--> 
 
 I have poison inside me,  and I destroy everything I touch. That's my {{legacy}} (**something that is a part of your history or that remains from an earlier time)**.

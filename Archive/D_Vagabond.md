@@ -36,7 +36,7 @@ He helps performers {{hone}} (**to** **direct** **something such as an** **abili
 
 I thought you might have matured a little. Don't you realise how {{precious}} (драгоценна) the life is
 
-He had Yashioka Denshichiro in a {{deadlock}} (тупик, безвыходная ситуация)
+He had Yashioka Denshichiro in a {{deadlock}} (тупик, безвыходная ситуация) <!--SR:!2024-01-15,4,290-->
 
 At this {{rate}} (темп), the fire will spread, {{tear down}} (**to** **intentionally** **destroy** **a** **building** **or other** **structure** **because it is not being used or it is not** **wanted** **any more)** what is left of it <!--SR:!2000-01-01,1,250!2024-01-21,12,284-->
 
@@ -46,7 +46,7 @@ Her face is peaceful. We will see her off tomorrow>>_
 
 the villagers grow weary of you and your incompetence 
 
-Last year the company **seemed/looked** {{invincible}} (impossible to defeat or prevent from doing what is intended) but in recent weeks has begun to have problems.
+Last year the company **seemed/looked** {{invincible}} (impossible to defeat or prevent from doing what is intended) but in recent weeks has begun to have problems. <!--SR:!2024-01-14,3,270-->
 
 hoe>>тяпка, мотыга 
 
@@ -58,10 +58,10 @@ Am I still strong? I want to know. - he exceeds (**to go past the level, limit, 
 
 Fighting for myself I won't {{pursue}} (**to follow someone or something, usually to try to catch him, her, or it)** my opponents.
 
-Even if you are {{crippled}} (**an extremely offensive word for a person whose legs or arms do not work in the usual way)**, you are still Musashi. She was {{crippled}} in a car accident. <!--SR:!2000-01-01,1,250!2024-01-28,19,256-->
+Even if you are {{crippled}} (**an extremely offensive word for a person whose legs or arms do not work in the usual way)**, you are still Musashi. She was {{crippled}} in a car accident. <!--SR:!2024-01-14,3,270!2024-01-28,19,256-->
 
-With this leg, this trip is three times as {{tiring}} (утомляющая) 
-While he is doing that, Musashi's reputation will reach the {{topmost}} (the highest point of something (reputation)) level.
+With this leg, this trip is three times as {{tiring}} (утомляющая)
+While he is doing that, Musashi's reputation will reach the {{topmost}} (the highest point of something (reputation)) level. <!--SR:!2000-01-01,1,250!2024-01-15,4,290-->
 
 give up the lying already>>_ 
 

@@ -1,4 +1,6 @@
- <!--SR:!2023-12-29,3,264-->#cards/dictionary 
+ <!--SR:!2023-12-29,3,264-->
+ 
+#cards/dictionary 
 
 Don't {{dilly-dally}} (**to** **waste** **time,** **especially** **by being** **slow, or by not being** **able** **to make a** **decision)** - just get your bags and let's go!
 

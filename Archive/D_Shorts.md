@@ -20,11 +20,11 @@ omg>>oh my God!
 
 rip>>rest in peace
 
-omfg>>Oh my f... God!
+omfg>>Oh my f... God! <!--SR:!2024-01-15,4,296-->
 
-lmn>>let me know
+lmn>>let me know <!--SR:!2024-01-15,4,296-->
 
-bff>>best friend forever
+bff>>best friend forever <!--SR:!2024-01-15,4,299-->
 
 bf>>boyfriend <!--SR:!2024-01-26,17,307-->
 
@@ -40,7 +40,7 @@ kk>>ok, ok <!--SR:!2024-02-15,36,302-->
 
 plz>>please <!--SR:!2024-01-16,11,284-->
 
-thx>>thanks <!--SR:!2024-01-11,10,282-->
+thx>>thanks <!--SR:!2024-02-18,38,302-->
 
 IRL>>in real live
 

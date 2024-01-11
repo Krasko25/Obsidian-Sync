@@ -16,7 +16,7 @@ But still, 60 to 80 days is the {{estimated}} (**to guess or calculate the cost,
 
 He's escaping into the rocky hills! Don't let him get close to these {{cliffs}} (**a high area of rock with a very steep side, often on a coast (утёсы))**
 
-Are you looking {{down on us}} (смотреть свысока) like that?
+Are you looking {{down on us}} (смотреть свысока) like that? <!--SR:!2024-01-14,3,262-->
 
 You can't protect him anymore, "the white man's books", they were hidden in his {{tent}} (палатка). <!--SR:!2024-02-13,39,290-->
 

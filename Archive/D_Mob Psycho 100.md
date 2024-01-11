@@ -39,7 +39,7 @@ Why do you have to {{belittle}} (**to make a person or an action seem as if he, 
 
 you seem down>>_ 
 
-Don't {{twist}} (to change the meaning of the words) my words 
+Don't {{twist}} (to change the meaning of the words) my words <!--SR:!2024-01-14,3,265--> 
 
 for the fun of it>>_ <!--SR:!2024-01-26,18,301-->
 
@@ -49,7 +49,7 @@ You're actually making me use my {{trump card}} (**an** **advantage** **that mak
 
 Espers are hard to {{possess}} (**to have or own something, or to have a** **particular** **quality)** <!--SR:!2024-02-03,25,272--> 
 
-You guys are still {{small fries}} (**people** **or things that are not** **considered** **to be** **important)** <!--SR:!2024-01-11,6,258--> 
+You guys are still {{small fries}} (**people** **or things that are not** **considered** **to be** **important)** <!--SR:!2024-02-01,21,278--> 
 
 HQ>>headquaters <!--SR:!2024-01-26,18,299-->
 

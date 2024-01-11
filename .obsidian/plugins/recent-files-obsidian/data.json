@@ -1,12 +1,64 @@
 {
   "recentFiles": [
     {
-      "basename": "Tdiary",
-      "path": "Archive/Tdiary.md"
+      "basename": "2024-01-11",
+      "path": "Daily notes/2024/January/2024-01-11.md"
     },
     {
-      "basename": "diary",
-      "path": "Archive/diary.md"
+      "basename": "Разделение на жизнь и работу с точки зрения медитации",
+      "path": "Archive/Разделение на жизнь и работу с точки зрения медитации.md"
+    },
+    {
+      "basename": "Раскольников",
+      "path": "Archive/Раскольников.md"
+    },
+    {
+      "basename": "Раскольников - не является сверх человеком",
+      "path": "Archive/Раскольников - не является сверх человеком.md"
+    },
+    {
+      "basename": "Раскольников непредсказуем и это прекрасно",
+      "path": "Archive/Раскольников непредсказуем и это прекрасно.md"
+    },
+    {
+      "basename": "Раскольников ужасно печется о мнении окружающих его людей",
+      "path": "Archive/Раскольников ужасно печется о мнении окружающих его людей.md"
+    },
+    {
+      "basename": "Совершенство - это путь, а не цель",
+      "path": "Archive/Совершенство - это путь, а не цель.md"
+    },
+    {
+      "basename": "Макет, преступление и наказание",
+      "path": "Templates/Макет, преступление и наказание.md"
+    },
+    {
+      "basename": "Религия Раскольникова",
+      "path": "Archive/Религия Раскольникова.md"
+    },
+    {
+      "basename": "Свидригайлов",
+      "path": "Archive/Свидригайлов.md"
+    },
+    {
+      "basename": "Состояние потока (версия из Blue lock)",
+      "path": "Archive/Состояние потока (версия из Blue lock).md"
+    },
+    {
+      "basename": "Спорт как способ вывода стресса из организма",
+      "path": "Archive/Спорт как способ вывода стресса из организма.md"
+    },
+    {
+      "basename": "Страдания необходимы",
+      "path": "Archive/Страдания необходимы.md"
+    },
+    {
+      "basename": "Субъективный и объективный идеал",
+      "path": "Archive/Субъективный и объективный идеал.md"
+    },
+    {
+      "basename": "Стремление Раскольникова высунуть язык",
+      "path": "Archive/Стремление Раскольникова высунуть язык.md"
     },
     {
       "basename": "Тишина. Спокойствие в мире, полном шуме",
@@ -25,16 +77,20 @@
       "path": "Archive/Чему человек может научиться у природы, медитируя.md"
     },
     {
+      "basename": "Tdiary",
+      "path": "Archive/Tdiary.md"
+    },
+    {
+      "basename": "diary",
+      "path": "Archive/diary.md"
+    },
+    {
       "basename": "ЭГО MOC",
       "path": "Archive/ЭГО MOC.md"
     },
     {
       "basename": "Экзамен-сочинение по русскому языку",
       "path": "Archive/Экзамен-сочинение по русскому языку.md"
-    },
-    {
-      "basename": "2024-01-11",
-      "path": "Daily notes/2024/January/2024-01-11.md"
     },
     {
       "basename": "D_Other Sources",
@@ -129,10 +185,6 @@
       "path": "Archive/D_Rick and Morty.md"
     },
     {
-      "basename": "Спорт как способ вывода стресса из организма",
-      "path": "Archive/Спорт как способ вывода стресса из организма.md"
-    },
-    {
       "basename": "2024-01-09",
       "path": "Daily notes/2024/January/2024-01-09.md"
     },
@@ -147,58 +199,6 @@
     {
       "basename": "К себе нежно. Книга о том, как ценить и беречь себя",
       "path": "Archive/К себе нежно. Книга о том, как ценить и беречь себя.md"
-    },
-    {
-      "basename": "Стремление Раскольникова высунуть язык",
-      "path": "Archive/Стремление Раскольникова высунуть язык.md"
-    },
-    {
-      "basename": "Состояние потока (версия из Blue lock)",
-      "path": "Archive/Состояние потока (версия из Blue lock).md"
-    },
-    {
-      "basename": "2024-01-08",
-      "path": "Daily notes/2024/January/2024-01-08.md"
-    },
-    {
-      "basename": "5Video (видео)",
-      "path": "Templates/5Video (видео).md"
-    },
-    {
-      "basename": "Раскольников",
-      "path": "Archive/Раскольников.md"
-    },
-    {
-      "basename": "Преступление и наказание",
-      "path": "Archive/Преступление и наказание.md"
-    },
-    {
-      "basename": "Свидригайлов",
-      "path": "Archive/Свидригайлов.md"
-    },
-    {
-      "basename": "Религия Раскольникова",
-      "path": "Archive/Религия Раскольникова.md"
-    },
-    {
-      "basename": "4Person (Человек)",
-      "path": "Templates/4Person (Человек).md"
-    },
-    {
-      "basename": "3Lessons (Урок)",
-      "path": "Templates/3Lessons (Урок).md"
-    },
-    {
-      "basename": "2Character (Персонаж)",
-      "path": "Templates/2Character (Персонаж).md"
-    },
-    {
-      "basename": "1Note (Записка)",
-      "path": "Templates/1Note (Записка).md"
-    },
-    {
-      "basename": "Марфа Петровна",
-      "path": "Archive/Марфа Петровна.md"
     }
   ],
   "omittedPaths": [],

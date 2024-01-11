@@ -147,3 +147,12 @@ A gratitude dive:
 1) I'm grateful to myself for putting my sleep above other things.
 2) Being able not to be angry with myself for missing my dailies is also a good thing.
 3) I do routines to fix my scoliosis every day (though, I do it in different time because of my inconsistent sleep).
+==January 11th, 2023==
+Today I was able to wake up way earlier than I usually do. I did all my dailies and had a lesson with my English teacher (actually I have one almost every day, but usually don't write about it). Though, I was not able to finish the project, that I was talking about, because I spend quite some time playing with friends. 
+
+Tomorrow my online classes are starting. It will be hard to combine my new habits and preparation for exams together with doing homework for my school, but I'll do my best.
+
+A gesture of gratitude:
+- I am grateful to myself for being able to spare some time to spend with my friends.
+- I did a good job reading today. I flew into the process and was reading for 70 minutes, which is more than usual.
+- I will fall asleep at relatively early time.

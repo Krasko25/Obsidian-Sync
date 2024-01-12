@@ -8,18 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "58b64527cc54f082",
+            "id": "a7745c1d12d07901",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archive/Расставлять приоритеты - это важно.md",
+                "file": "Daily notes/2024/January/2024-01-12.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "6d491e7b01d386f2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +113,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archive/Расставлять приоритеты - это важно.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +129,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Archive/Расставлять приоритеты - это важно.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -132,9 +139,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Archive/Расставлять приоритеты - это важно.md"
-              }
+              "state": {}
             }
           },
           {
@@ -174,9 +179,17 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "58b64527cc54f082",
+  "active": "6d491e7b01d386f2",
   "lastOpenFiles": [
     "Daily notes/2024/January/2024-01-12.md",
+    "Archive/Вы не можете быть счастливым, если вы жертва.md",
+    "Archive/Чему человек может научиться у природы, медитируя.md",
+    "Archive/Тишина. Спокойствие в мире, полном шуме.md",
+    "Archive/Идея о двух узлах и о свободе.md",
+    "Archive/Meditation MOC.md",
+    "Archive/Challenge and Adventure MOC.md",
+    "Templates/Заготовка. К себе нежно.md",
+    "Archive/Тонкое искусство пофигизма. Парадоксальный способ жить счастливо.md",
     "Archive/Расставлять приоритеты - это важно.md",
     "Archive/Tdiary.md",
     "Archive/diary.md",
@@ -194,14 +207,6 @@
     "Archive/Спорт как способ вывода стресса из организма.md",
     "Archive/Страдания необходимы.md",
     "Archive/Субъективный и объективный идеал.md",
-    "Archive/Стремление Раскольникова высунуть язык.md",
-    "Archive/Тишина. Спокойствие в мире, полном шуме.md",
-    "Archive/Тренировки ног с собственным весом неэффективны.md",
-    "Archive/Тренировочная зона.md",
-    "Archive/Чему человек может научиться у природы, медитируя.md",
-    "Archive/ЭГО MOC.md",
-    "Archive/Экзамен-сочинение по русскому языку.md",
-    "Archive/D_Other Sources.md",
     "Attachments/Screenshot 2024-01-11 at 11.31.46 AM.png",
     "Attachments/Screenshot 2024-01-08 at 21.27.20.png",
     "obsidian items",

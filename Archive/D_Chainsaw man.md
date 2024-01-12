@@ -27,7 +27,7 @@ okey, the journal is {{secure}} **(especially of objects, situations, etc.) able
 
 they will make a {{sour}} (**having a sharp, sometimes unpleasant, taste or smell, like a lemon, and not sweet**) face and live you alone
 
-Your job is to raise them and then put them to work, make sure not to grow {{attached}} (**to fasten, join, or connect something). **Use this cable to {{attach}} the printer **to** the computer <!--SR:!2024-01-12,9,272!2000-01-01,1,250--> 
+Your job is to raise them and then put them to work, make sure not to grow {{attached}} (**to fasten, join, or connect something). **Use this cable to {{attach}} the printer **to** the computer <!--SR:!2024-02-02,21,272!2000-01-01,1,250--> 
 
 I think you'll make a good {{leash}} (**a piece of rope, chain, etc. tied to an animal, especially to a dog at its collar when taking it for a walk:)** for the two of them. <!--SR:!2024-02-02,23,270-->
 

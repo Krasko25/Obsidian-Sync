@@ -3,7 +3,7 @@ Well, it's one thing for a woman to {{weep}} (to cry with tears), but when they 
 
 red flags>>плохие предпосылки 
 
-l found your {{stashes}} (**to store or hide something, especially a large amount)** in the toilet paper rolls. How many of these do you take a day? <!--SR:!2024-01-12,11,275-->
+l found your {{stashes}} (**to store or hide something, especially a large amount)** in the toilet paper rolls. How many of these do you take a day? <!--SR:!2024-02-10,29,275-->
 
 Bojack {{overhear}} (подслушал) something about Flip and PC <!--SR:!2024-01-14,3,272-->
 
@@ -55,7 +55,7 @@ Well, do you think it's true? Do I think L.A. is a tar {{pit}} (**a large hole i
 
 Jesus Christ! Juda, do you ever {{read a room}} (**to be or become aware of the opinions and attitudes of a group of people that you are talking to)**!? I'm sorry, is this a bad time?
 
-I don't know how you {{put up}} (**to accept or continue to accept an unpleasant situation or experience, or someone who behaves unpleasantly) **{{wit}}h me. I didn't {{put up with}} you. <!--SR:!2000-01-01,1,250!2024-01-12,3,264!2000-01-01,1,250-->
+I don't know how you {{put up}} (**to accept or continue to accept an unpleasant situation or experience, or someone who behaves unpleasantly) **{{wit}}h me. I didn't {{put up with}} you. <!--SR:!2000-01-01,1,250!2024-01-24,12,284!2000-01-01,1,250-->
 
 I'm good at driving sober, but I do not {{relish}} (**to like or enjoy something) **the opportunity. <!--SR:!2024-01-25,17,302--> 
 

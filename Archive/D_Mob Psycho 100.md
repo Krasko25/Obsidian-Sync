@@ -4,7 +4,7 @@ It {{hit too close to home for me}} (больная тема), too <!--SR:!2024-
 
 But if you're not {{up to the task}} (good enough for this task), very well
 
-narrator>>рассказчик <!--SR:!2024-01-12,10,274-->
+narrator>>рассказчик <!--SR:!2024-02-18,37,294-->
 
 I'm going to make you pay {{dearly}} (заплатить сполна)! <!--SR:!2024-01-13,4,285-->
 
@@ -19,7 +19,7 @@ Salt {{splash}} (**to move in water so that drops of it go in all directions)**
 
 I just got bored on my old job and started this office on a {{whim}} (**a sudden wish or idea, especially one that cannot be reasonably explained (прихоть))** 
 
-My {{holy}} blade(**related to a religion or a god)! It's broken.** <!--SR:!2024-01-12,3,265--> 
+My {{holy}} blade(**related to a religion or a god)! It's broken.** <!--SR:!2024-01-21,9,265--> 
 
 He's already been brought back to this {{realm}} (сфера деятельности (new discoveries in the realm of medicine, in the {{realm}} of electronic states) 
 
@@ -43,7 +43,7 @@ Don't {{twist}} (to change the meaning of the words) my words <!--SR:!2024-01-14
 
 for the fun of it>>_ <!--SR:!2024-01-26,18,301-->
 
-man up>>**used to** **tell** **someone that they should** **deal** **with something more** **bravely** <!--SR:!2024-01-12,3,265-->
+man up>>**used to** **tell** **someone that they should** **deal** **with something more** **bravely** <!--SR:!2024-01-21,9,265-->
 
 You're actually making me use my {{trump card}} (**an** **advantage** **that makes you more** **likely** **to** **succeed** **than other** **people,** **especially something that other** **people** **do not** **know** **about)** 
 

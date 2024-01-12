@@ -6,7 +6,7 @@ Don't {{dilly-dally}} (**to** **waste** **time,** **especially** **by being** **
 
 He's a {{crafty}} (хитрый, коварный) old devil.
 
-I'm afraid to {{second-guess}} (**to** **guess** **what someone will do in the** **future)**, but I think that it is healthy <!--SR:!2024-01-01,7,254-->
+I'm afraid to {{second-guess}} (**to** **guess** **what someone will do in the** **future)**, but I think that it is healthy <!--SR:!2024-01-31,19,254-->
 
 He, as it fits his character, was {{short-spoken}} (немногословен)
 
@@ -24,7 +24,7 @@ spill>>проболтаться
 
 staff and stuff>>сотрудники и хлам
 
-He had been {{grilling}} (**to** **ask** **someone a lot of** **questions** **for a** **long** **time)** me <!--SR:!2023-12-30,4,284-->
+He had been {{grilling}} (**to** **ask** **someone a lot of** **questions** **for a** **long** **time)** me <!--SR:!2024-01-22,10,284-->
 
 norm>>критерий, норматив
 
@@ -52,7 +52,7 @@ What do you think makes a {{compelling}}  character (interesting)?
 
 With flying colors>>**very easily**
 
-When I lived in Spain, I used to {{eat out}} (**to eat in a restaurant)** all the time <!--SR:!2024-01-02,8,254-->
+When I lived in Spain, I used to {{eat out}} (**to eat in a restaurant)** all the time <!--SR:!2024-02-10,29,274-->
 
 lift your ear up to that guy (god)>>_
 
@@ -66,7 +66,7 @@ one never knows what his answer may be>>_
 
 one should be careful when crossing the street>>_
 
-one must always keep one's word>>_ <!--SR:!2023-12-29,3,264-->
+one must always keep one's word>>_ <!--SR:!2024-01-22,10,284-->
 
 between the three of us>>_
 
@@ -82,7 +82,7 @@ to view a situation from a new perspective>>с новой точки зрени�
 
 Second class-citizen person>>_
 
-give it a shot>>_ <!--SR:!2024-01-03,10,274-->
+give it a shot>>_ <!--SR:!2024-02-17,36,294-->
 
 As is stated above>>_
 
@@ -109,7 +109,7 @@ Thee>>тебя (древнее)
 
 Thy>>твой (древнее)
 
-press on pity>>_ <!--SR:!2024-01-06,13,274-->
+press on pity>>_ <!--SR:!2024-03-01,49,294-->
 
 He left just after {{nightfall}} (the time in the evening when it becomes dark).
 
@@ -129,7 +129,7 @@ but it involves an extremely {{blue}} (пошлая, грубая) __ joke__ .
 
 I've been feeling kind of {{blue}} (perfect blue).
 
-The {{womb}} (утроба матери) represents the very first place in which life takes form. <!--SR:!2023-12-29,3,264-->
+The {{womb}} (утроба матери) represents the very first place in which life takes form. <!--SR:!2024-01-20,8,264-->
 
 We were playing {{board games}} (table games) on that tree a lot.
 
@@ -158,11 +158,11 @@ I was told that my suit is {{spoiled}} (to destroy or reduce the pleasure, inter
 - sometimes life is a {{bumpy ride}} (to have a difficult time), but you continue to life... It's a nice night, huh?
 - Yeh, it's nice.
 
-They {{set off}} (to start on a trip) again, the class looking at Pr. Lupin with increased respect. <!--SR:!2023-12-30,4,284-->
+They {{set off}} (to start on a trip) again, the class looking at Pr. Lupin with increased respect. <!--SR:!2024-01-23,11,284-->
 
 {{troop}} (a group of solders) have ended
 
-{{Don't mind me}} (Don't pay me attention) _,_  said Denji to Makima <!--SR:!2023-12-29,3,264-->
+{{Don't mind me}} (Don't pay me attention) _,_  said Denji to Makima <!--SR:!2024-01-19,7,264-->
 
 {{hear me our}} (listen to me)!! I I'm here to help you.
 
@@ -178,7 +178,7 @@ No Tom was there>>_
 
 {{adolescence}} (the time period between the beginning of puberty and adulthood) is a dangerous period
 
-{{confused identity}} (нечеткая самоидентификация) is a common teenager problem <!--SR:!2024-01-03,10,270-->
+{{confused identity}} (нечеткая самоидентификация) is a common teenager problem <!--SR:!2024-02-05,24,270-->
 
 You never know how {{puberty}} (Developmental stage at which a person becomes capable of reproduction.) will change you.
 
@@ -196,9 +196,9 @@ Hanter is good at {{endear}} (make kind) people
 
 Hanter is the most {{generous}} (very giving, as if born with plenty of money) with attention person
 
-He drew himself as a {{gifted student}} (talented student) <!--SR:!2024-01-04,11,274-->
+He drew himself as a {{gifted student}} (talented student) <!--SR:!2024-02-22,41,294-->
 
-He {{lure}} (To tempt or attract with the promise of something good) you into the trap! <!--SR:!2023-12-30,4,284-->
+He {{lure}} (To tempt or attract with the promise of something good) you into the trap! <!--SR:!2024-01-22,10,284-->
 
 He mastered the art of {{hotfooting}} (run for life)
 
@@ -214,15 +214,15 @@ It seems I'm going to {{obtein a scholarship}}(get a grant)
 
 It was a {{white lie}} (lie which a person feels is not serious or has few consequences). He won't be punished.
 
-Kill him!!! He is an {{accomplice}} (a person who takes part in a crime) <!--SR:!2024-01-04,11,274-->
+Kill him!!! He is an {{accomplice}} (a person who takes part in a crime) <!--SR:!2024-02-22,41,294-->
 
-Some people hate {{shooting}} (taking photos). Especially old people. <!--SR:!2023-12-30,4,284-->
+Some people hate {{shooting}} (taking photos). Especially old people. <!--SR:!2024-01-29,17,304-->
 
 Stop water my flowers with your {{snot}} (сопли)
 
 
 
-Thanks for {{upbrinпing}} (воспитание) me <!--SR:!2024-01-02,9,274-->
+Thanks for {{upbrinпing}} (воспитание) me <!--SR:!2024-02-04,23,274-->
 
 The {{fruitless}} (not producing the desired results, unsuccessful) tree should be burned down
 
@@ -233,7 +233,7 @@ This {{frame}} (The lines and borders that contain the panels) of berserk is a m
 
 This is our frendship {{tie}} (a set of stories that explains our relationship to the other members of our network, галстуг).
 
-This snake {{tempted}} (try to get someone to do something; test; invite (искушать)) me, it's her fault. <!--SR:!2023-12-30,4,284-->
+This snake {{tempted}} (try to get someone to do something; test; invite (искушать)) me, it's its fault. <!--SR:!2024-01-21,9,284-->
 
 Today he looks to be {{initiating}} (to begin (приступать)) the war
 We can't trust him, we don't know what he {{is up to (to be up to)}} (going to do).
@@ -276,9 +276,9 @@ Hunter is a way cuter {{compared }}(to put things together to see how they ate t
 
 He got his tooth out {{on a dare}} (на спор)
 
-He was {{listing}} (A sentence with multiple phrases that create a list) his rewords for today and yesterday and the day before yesterday <!--SR:!2023-12-29,3,264-->
+He was {{listing}} (A sentence with multiple phrases that create a list) his rewords for today and yesterday and the day before yesterday <!--SR:!2024-01-21,9,284-->
 
-I am {{assure}} (make sure) you, you will got terrifying death, once I got home <!--SR:!2024-01-03,9,274-->
+I am {{assure}} (make sure) you, you will got terrifying death, once I got home <!--SR:!2024-02-05,24,274-->
 
 I am capable to {{talk up}} (to make something sound very attractive) this product
 
@@ -326,9 +326,9 @@ Such a {{demeanour}} (behaviour, manner of conduction oneself) is out of the soc
 
 The {{invasion}} (a situation when a large number of people came to a place in an annoying and unwanted way) of smart dogs put the end to humanity
 
-The {{immortal}} (living forever) ones want the global warming <!--SR:!2023-12-30,4,284-->
+The {{immortal}} (living forever) ones want the global warming <!--SR:!2024-01-30,18,304-->
 
-The ghost of that ink {{spot}} (a small, usually round area of colour that has different colour than the surface around it) still is the part of that carpet. <!--SR:!2024-01-01,8,254-->
+The ghost of that ink {{spot}} (a small, usually round area of colour that has different colour than the surface around it) still is the part of that carpet. <!--SR:!2024-02-08,27,274-->
 
 there is a {{pure}} (not mixed with anything else) evil in this book...
 
@@ -352,7 +352,7 @@ Yesterday we had {{deploy}} (to move soldiers or equipment to a place where they
 
 You mustn't {{reveal}} (to make known or show something that is surprising or that was previously secret) government secrets.
 
-This {{concept}} (a principle or idea) is broader than you think. <!--SR:!2023-12-29,4,282-->
+This {{concept}} (a principle or idea) is broader than you think. <!--SR:!2024-01-22,10,282-->
 
 This concept (a principle or idea) is more {{narrow}} (having a small distance from one side to the other, especially in comparison with the length) than you think.
 
@@ -371,7 +371,7 @@ go swimming
 Глагол PLAY используется с названиями командных видов спорта, игр, когда итогом соревнования является победа одного участника или команды над другим, а не результат.
 play football
 play basketball
-play tennis <!--SR:!2023-12-29,3,264-->
+play tennis <!--SR:!2024-01-18,6,264-->
 
 В каком случае занятия спортом употребляется do?
 ?
@@ -380,7 +380,7 @@ do box
 
 Brain is going to use economic {{mode}} (режим).
 
-пульт>>remote <!--SR:!2024-01-03,10,274-->
+пульт>>remote <!--SR:!2024-02-18,37,294-->
 
 Male {{cattle}} (скот) are bulls
 
@@ -399,13 +399,13 @@ Game with {{finite}} (something that can end) resources
 
 to make separating from the {{tribe}} (племя) and nature unreal
 
-Is this Pope claiming a {{ __divine status__ }} __ (божественный статус)__ ? <!--SR:!2024-01-08,14,294-->
+Is this Pope claiming a {{ __divine status__ }} __ (божественный статус)__ ? <!--SR:!2024-02-21,40,294-->
 
 The new law provides for {{equality}} (**the right of different groups of people to have a similar social position and receive the same treatment)** of human rights.
 
 Many people in this area are {{descendants}} (**a person who is related to you and who lives after you, such as your child or grandchild (потомок))** of German immigrants.
 
-She has a right to the {{property}} (собственность). <!--SR:!2024-01-06,13,270-->
+She has a right to the {{property}} (собственность). <!--SR:!2024-02-15,34,270-->
 
 Also I will consider the {{regularity}} (закономерности) between development of individual, humanity in general and religion.
 

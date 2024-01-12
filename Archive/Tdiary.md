@@ -71,13 +71,13 @@ A bit of gratitude: I think that I can safely say now that I'm doing my training
 ==January 6th, 2024==
 This day was not successful. I don't know how to balance between work and leisure time. It seems to me that once I start doing some kind of entertainment, It is hard for me to get out of it. Once I start, I keep making weak decisions. It is as if I can either be really productive or do nothing useful at all (of course, I am being a bit too dramatic here, I do something, but that is not enough).
 
-For the last few days I was reading one book about training with my bodyweight. It inspires me a lot. Though, I don't have trainings neither today or tomorrow, so I am trying not to overdo it and let my body rest a bit.
+For the last few days I was reading one book about training with my bodyweight. It inspires me a lot. Though I don't have trainings neither today or tomorrow, so I am trying not to overdo it and let my body rest a bit.
 
 Tomorrow I will write my plans for this year.
 
 Some gratitude:
 - I inspired LD (my English teacher) to work on herself more, physically and mentally, it is good.
-- I am grateful to myself for keep reading books;
+- I am grateful to myself, because I keep reading books;
 - I'm consistent with my trainings, it is good. I also don't forget about the rest for my body, it is really important.
 
 ==January 7th, 2024==
@@ -147,7 +147,7 @@ A gratitude dive:
 1) I'm grateful to myself for putting my sleep above other things.
 2) Being able not to be angry with myself for missing my dailies is also a good thing.
 3) I do routines to fix my scoliosis every day (though, I do it in different time because of my inconsistent sleep).
-==January 11th, 2023==
+==January 11th, 2024==
 Today I was able to wake up way earlier than I usually do. I did all my dailies and had a lesson with my English teacher (actually I have one almost every day, but usually don't write about it). Though, I was not able to finish the project, that I was talking about, because I spend quite some time playing with friends. 
 
 Tomorrow my online classes are starting. It will be hard to combine my new habits and preparation for exams together with doing homework for my school, but I'll do my best.
@@ -156,3 +156,8 @@ A gesture of gratitude:
 - I am grateful to myself for being able to spare some time to spend with my friends.
 - I did a good job reading today. I flew into the process and was reading for 70 minutes, which is more than usual.
 - I will fall asleep at relatively early time.
+==January 12th, 2024==
+
+
+
+Grrratitude time:

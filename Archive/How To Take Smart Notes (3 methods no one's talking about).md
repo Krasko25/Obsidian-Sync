@@ -25,4 +25,4 @@ Question, Evidence and Conclusion
 
 
 ###### South (topic):
-
+[[obsidian MOC]]

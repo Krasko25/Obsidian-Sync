@@ -2,6 +2,10 @@
 
 He was wearing a {{house jacket}} (пальто для дома)
 
+He {{outrun}} (перегнал) this old man 
+
+From a {{distance}} (издалека) he looked like a woman
+
 They spit in my {{mug}} (my face) quite openly
 
 Both of them were happy to {{part}} (split)
@@ -22,5 +26,5 @@ Remember your place>>_ <!--SR:!2024-01-21,16,250-->
 
 Neighbours were  happy to see their cat-fight (an intense fight or argument especially between two women)
 
-Dunya said, that Razumikhin will {{carry out}} (be true to his word) his promise <!--SR:!2024-01-12,1,234-->
+Dunya said, that Razumikhin will {{carry out}} (be true to his word) his promise <!--SR:!2024-01-13,1,214-->
 

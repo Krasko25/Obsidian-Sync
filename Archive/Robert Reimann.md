@@ -7,7 +7,8 @@ Was in depression since the start of 2023, started self-improvement, liked it. H
 
 ### <span style="color:#0070c0">Description</span>
 ###### Easy way to remember the name
-
+Reimann ~ rain man
+Robert Downey Junior
 
 ###### Appearance 
 

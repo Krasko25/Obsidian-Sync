@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d929d1bb1c0d1e19",
+        "id": "404c41a4089f32ca",
         "type": "tabs",
         "children": [
           {
-            "id": "a7745c1d12d07901",
+            "id": "2f6e8fbda4e13929",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,17 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6d491e7b01d386f2",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily notes/2024/January/2024-01-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily notes/2024/January/2024-01-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Daily notes/2024/January/2024-01-12.md"
+              }
             }
           },
           {
@@ -179,34 +174,34 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "6d491e7b01d386f2",
+  "active": "2f6e8fbda4e13929",
   "lastOpenFiles": [
-    "Daily notes/2024/January/2024-01-12.md",
     "Archive/Вы не можете быть счастливым, если вы жертва.md",
-    "Archive/Чему человек может научиться у природы, медитируя.md",
-    "Archive/Тишина. Спокойствие в мире, полном шуме.md",
-    "Archive/Идея о двух узлах и о свободе.md",
-    "Archive/Meditation MOC.md",
-    "Archive/Challenge and Adventure MOC.md",
-    "Templates/Заготовка. К себе нежно.md",
-    "Archive/Тонкое искусство пофигизма. Парадоксальный способ жить счастливо.md",
-    "Archive/Расставлять приоритеты - это важно.md",
     "Archive/Tdiary.md",
     "Archive/diary.md",
-    "Daily notes/2024/January/2024-01-11.md",
-    "Archive/Разделение на жизнь и работу с точки зрения медитации.md",
-    "Archive/Раскольников.md",
-    "Archive/Раскольников - не является сверх человеком.md",
-    "Archive/Раскольников непредсказуем и это прекрасно.md",
-    "Archive/Раскольников ужасно печется о мнении окружающих его людей.md",
-    "Archive/Совершенство - это путь, а не цель.md",
-    "Templates/Макет, преступление и наказание.md",
-    "Archive/Религия Раскольникова.md",
-    "Archive/Свидригайлов.md",
-    "Archive/Состояние потока (версия из Blue lock).md",
-    "Archive/Спорт как способ вывода стресса из организма.md",
-    "Archive/Страдания необходимы.md",
-    "Archive/Субъективный и объективный идеал.md",
+    "Daily notes/2024/January/2024-01-12.md",
+    "Archive/Грамматика MOC.md",
+    "Archive/Grammar MOC.md",
+    "Archive/2023 Zettelkasten Obsidian Workflow ⚡️ Simple Set Up.md",
+    "Archive/Art MOC.md",
+    "Archive/Articles-List.md",
+    "Archive/Blue Lock.md",
+    "Archive/Body structure MOC.md",
+    "Archive/Books-List.md",
+    "Archive/Bunny.md",
+    "Archive/Bunny ability to mess with people.md",
+    "Archive/Bunny's blindness.md",
+    "Archive/Challenge and Adventure MOC.md",
+    "Archive/Characters-List.md",
+    "Archive/Crime and Punishment references in The Secret History.md",
+    "Archive/Cycles of seasons of a man.md",
+    "Archive/Donna Tartt.md",
+    "Archive/DuoAzul.md",
+    "Archive/Eastern eggs in The Secret History.md",
+    "Archive/Eastern eggs MOC.md",
+    "Archive/Ego is a good thing.md",
+    "Archive/Emotions MOC.md",
+    "Archive/Energy MOC.md",
     "Attachments/Screenshot 2024-01-11 at 11.31.46 AM.png",
     "Attachments/Screenshot 2024-01-08 at 21.27.20.png",
     "obsidian items",

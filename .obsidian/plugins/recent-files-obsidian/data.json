@@ -9,38 +9,6 @@
       "path": "Archive/Вы не можете быть счастливым, если вы жертва.md"
     },
     {
-      "basename": "Чему человек может научиться у природы, медитируя",
-      "path": "Archive/Чему человек может научиться у природы, медитируя.md"
-    },
-    {
-      "basename": "Тишина. Спокойствие в мире, полном шуме",
-      "path": "Archive/Тишина. Спокойствие в мире, полном шуме.md"
-    },
-    {
-      "basename": "Идея о двух узлах и о свободе",
-      "path": "Archive/Идея о двух узлах и о свободе.md"
-    },
-    {
-      "basename": "Meditation MOC",
-      "path": "Archive/Meditation MOC.md"
-    },
-    {
-      "basename": "Challenge and Adventure MOC",
-      "path": "Archive/Challenge and Adventure MOC.md"
-    },
-    {
-      "basename": "Заготовка. К себе нежно",
-      "path": "Templates/Заготовка. К себе нежно.md"
-    },
-    {
-      "basename": "Тонкое искусство пофигизма. Парадоксальный способ жить счастливо",
-      "path": "Archive/Тонкое искусство пофигизма. Парадоксальный способ жить счастливо.md"
-    },
-    {
-      "basename": "Расставлять приоритеты - это важно",
-      "path": "Archive/Расставлять приоритеты - это важно.md"
-    },
-    {
       "basename": "Tdiary",
       "path": "Archive/Tdiary.md"
     },
@@ -49,156 +17,188 @@
       "path": "Archive/diary.md"
     },
     {
-      "basename": "2024-01-11",
-      "path": "Daily notes/2024/January/2024-01-11.md"
+      "basename": "Грамматика MOC",
+      "path": "Archive/Грамматика MOC.md"
     },
     {
-      "basename": "Разделение на жизнь и работу с точки зрения медитации",
-      "path": "Archive/Разделение на жизнь и работу с точки зрения медитации.md"
+      "basename": "Grammar MOC",
+      "path": "Archive/Grammar MOC.md"
     },
     {
-      "basename": "Раскольников",
-      "path": "Archive/Раскольников.md"
+      "basename": "2023 Zettelkasten Obsidian Workflow ⚡️ Simple Set Up",
+      "path": "Archive/2023 Zettelkasten Obsidian Workflow ⚡️ Simple Set Up.md"
     },
     {
-      "basename": "Раскольников - не является сверх человеком",
-      "path": "Archive/Раскольников - не является сверх человеком.md"
+      "basename": "Art MOC",
+      "path": "Archive/Art MOC.md"
     },
     {
-      "basename": "Раскольников непредсказуем и это прекрасно",
-      "path": "Archive/Раскольников непредсказуем и это прекрасно.md"
-    },
-    {
-      "basename": "Раскольников ужасно печется о мнении окружающих его людей",
-      "path": "Archive/Раскольников ужасно печется о мнении окружающих его людей.md"
-    },
-    {
-      "basename": "Совершенство - это путь, а не цель",
-      "path": "Archive/Совершенство - это путь, а не цель.md"
-    },
-    {
-      "basename": "Макет, преступление и наказание",
-      "path": "Templates/Макет, преступление и наказание.md"
-    },
-    {
-      "basename": "Религия Раскольникова",
-      "path": "Archive/Религия Раскольникова.md"
-    },
-    {
-      "basename": "Свидригайлов",
-      "path": "Archive/Свидригайлов.md"
-    },
-    {
-      "basename": "Состояние потока (версия из Blue lock)",
-      "path": "Archive/Состояние потока (версия из Blue lock).md"
-    },
-    {
-      "basename": "Спорт как способ вывода стресса из организма",
-      "path": "Archive/Спорт как способ вывода стресса из организма.md"
-    },
-    {
-      "basename": "Страдания необходимы",
-      "path": "Archive/Страдания необходимы.md"
-    },
-    {
-      "basename": "Субъективный и объективный идеал",
-      "path": "Archive/Субъективный и объективный идеал.md"
-    },
-    {
-      "basename": "Стремление Раскольникова высунуть язык",
-      "path": "Archive/Стремление Раскольникова высунуть язык.md"
-    },
-    {
-      "basename": "Тренировки ног с собственным весом неэффективны",
-      "path": "Archive/Тренировки ног с собственным весом неэффективны.md"
-    },
-    {
-      "basename": "Тренировочная зона",
-      "path": "Archive/Тренировочная зона.md"
-    },
-    {
-      "basename": "ЭГО MOC",
-      "path": "Archive/ЭГО MOC.md"
-    },
-    {
-      "basename": "Экзамен-сочинение по русскому языку",
-      "path": "Archive/Экзамен-сочинение по русскому языку.md"
-    },
-    {
-      "basename": "D_Other Sources",
-      "path": "Archive/D_Other Sources.md"
-    },
-    {
-      "basename": "D_Jobless Reincarnation",
-      "path": "Archive/D_Jobless Reincarnation.md"
-    },
-    {
-      "basename": "D_My Adventures with Superman",
-      "path": "Archive/D_My Adventures with Superman.md"
-    },
-    {
-      "basename": "D_Erased",
-      "path": "Archive/D_Erased.md"
-    },
-    {
-      "basename": "D_Crime and Punishment",
-      "path": "Archive/D_Crime and Punishment.md"
-    },
-    {
-      "basename": "D_Chainsaw man",
-      "path": "Archive/D_Chainsaw man.md"
-    },
-    {
-      "basename": "D_Bojack Horseman",
-      "path": "Archive/D_Bojack Horseman.md"
-    },
-    {
-      "basename": "D_Bocchi the Rock",
-      "path": "Archive/D_Bocchi the Rock.md"
-    },
-    {
-      "basename": "D_Blue Lock",
-      "path": "Archive/D_Blue Lock.md"
-    },
-    {
-      "basename": "D_Baki",
-      "path": "Archive/D_Baki.md"
-    },
-    {
-      "basename": "D_Bleach",
-      "path": "Archive/D_Bleach.md"
-    },
-    {
-      "basename": "The Secret History",
-      "path": "Archive/The Secret History.md"
-    },
-    {
-      "basename": "Большая шестёрка. Приседания",
-      "path": "Archive/Большая шестёрка. Приседания.md"
-    },
-    {
-      "basename": "Большая шестерка. Отжимания",
-      "path": "Archive/Большая шестерка. Отжимания.md"
-    },
-    {
-      "basename": "Большая шестёрка. Подтягивания",
-      "path": "Archive/Большая шестёрка. Подтягивания.md"
-    },
-    {
-      "basename": "Body structure MOC",
-      "path": "Archive/Body structure MOC.md"
+      "basename": "Articles-List",
+      "path": "Archive/Articles-List.md"
     },
     {
       "basename": "Blue Lock",
       "path": "Archive/Blue Lock.md"
     },
     {
-      "basename": "Love MOC",
-      "path": "Archive/Love MOC.md"
+      "basename": "Body structure MOC",
+      "path": "Archive/Body structure MOC.md"
+    },
+    {
+      "basename": "Books-List",
+      "path": "Archive/Books-List.md"
+    },
+    {
+      "basename": "Bunny",
+      "path": "Archive/Bunny.md"
+    },
+    {
+      "basename": "Bunny ability to mess with people",
+      "path": "Archive/Bunny ability to mess with people.md"
+    },
+    {
+      "basename": "Bunny's blindness",
+      "path": "Archive/Bunny's blindness.md"
+    },
+    {
+      "basename": "Challenge and Adventure MOC",
+      "path": "Archive/Challenge and Adventure MOC.md"
+    },
+    {
+      "basename": "Characters-List",
+      "path": "Archive/Characters-List.md"
+    },
+    {
+      "basename": "Crime and Punishment references in The Secret History",
+      "path": "Archive/Crime and Punishment references in The Secret History.md"
+    },
+    {
+      "basename": "Cycles of seasons of a man",
+      "path": "Archive/Cycles of seasons of a man.md"
+    },
+    {
+      "basename": "Donna Tartt",
+      "path": "Archive/Donna Tartt.md"
+    },
+    {
+      "basename": "DuoAzul",
+      "path": "Archive/DuoAzul.md"
+    },
+    {
+      "basename": "Eastern eggs in The Secret History",
+      "path": "Archive/Eastern eggs in The Secret History.md"
+    },
+    {
+      "basename": "Eastern eggs MOC",
+      "path": "Archive/Eastern eggs MOC.md"
+    },
+    {
+      "basename": "Ego is a good thing",
+      "path": "Archive/Ego is a good thing.md"
+    },
+    {
+      "basename": "Emotions MOC",
+      "path": "Archive/Emotions MOC.md"
     },
     {
       "basename": "Energy MOC",
       "path": "Archive/Energy MOC.md"
+    },
+    {
+      "basename": "Entertainments-List",
+      "path": "Archive/Entertainments-List.md"
+    },
+    {
+      "basename": "Essays MOC",
+      "path": "Archive/Essays MOC.md"
+    },
+    {
+      "basename": "Francis",
+      "path": "Archive/Francis.md"
+    },
+    {
+      "basename": "Gion",
+      "path": "Archive/Gion.md"
+    },
+    {
+      "basename": "Gion is a double of Musashi",
+      "path": "Archive/Gion is a double of Musashi.md"
+    },
+    {
+      "basename": "Greek is Julian's first language",
+      "path": "Archive/Greek is Julian's first language.md"
+    },
+    {
+      "basename": "Habitica",
+      "path": "Archive/Habitica.md"
+    },
+    {
+      "basename": "Happiness MOC",
+      "path": "Archive/Happiness MOC.md"
+    },
+    {
+      "basename": "Henry",
+      "path": "Archive/Henry.md"
+    },
+    {
+      "basename": "How To Take Smart Notes (3 methods no one's talking about)",
+      "path": "Archive/How To Take Smart Notes (3 methods no one's talking about).md"
+    },
+    {
+      "basename": "Inshun",
+      "path": "Archive/Inshun.md"
+    },
+    {
+      "basename": "Isenokami",
+      "path": "Archive/Isenokami.md"
+    },
+    {
+      "basename": "Judy Poovey",
+      "path": "Archive/Judy Poovey.md"
+    },
+    {
+      "basename": "Julian",
+      "path": "Archive/Julian.md"
+    },
+    {
+      "basename": "Julian blindness",
+      "path": "Archive/Julian blindness.md"
+    },
+    {
+      "basename": "Julian's betreyal",
+      "path": "Archive/Julian's betreyal.md"
+    },
+    {
+      "basename": "Julian's first lesson",
+      "path": "Archive/Julian's first lesson.md"
+    },
+    {
+      "basename": "LD",
+      "path": "Archive/LD.md"
+    },
+    {
+      "basename": "Lessons-List",
+      "path": "Archive/Lessons-List.md"
+    },
+    {
+      "basename": "Live is show, tragedy",
+      "path": "Archive/Live is show, tragedy.md"
+    },
+    {
+      "basename": "Love MOC",
+      "path": "Archive/Love MOC.md"
+    },
+    {
+      "basename": "Love to yourself MOC",
+      "path": "Archive/Love to yourself MOC.md"
+    },
+    {
+      "basename": "Meditation MOC",
+      "path": "Archive/Meditation MOC.md"
+    },
+    {
+      "basename": "Musashi",
+      "path": "Archive/Musashi.md"
     }
   ],
   "omittedPaths": [],

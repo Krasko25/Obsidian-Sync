@@ -160,4 +160,7 @@ A gesture of gratitude:
 It snowed today. I was finishing a cleaning process at the moment when my mother got home from work. 
 
 
+
+
+
 Grrratitude time:

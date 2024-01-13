@@ -166,9 +166,13 @@ It snowed today. I was finishing a cleaning process at the moment when my mother
 
 
 ==January 13th, 2024==
+Today our Habitica party had a call. It got to talk to each other, that, in my opinion, will help us to be more motivated not to let each other down. Not only that, I finally got to talk to like minded people in English and it was really interesting. I'm learning this language for about 4 years now and I like English a lot. It can sound silly, but it feels kind of lonely to be not able to talk to almost anyone on it. 
 
+I decided that my main goal for this week is to build my sleeping schedule. Today I'm going to bed only 1.5 hours later, that I had to. Not matter how funny it sound, but it is already some kind of a progress.
 
+P.S: yes, I'm not talking about everything else today, because there is almost nothing good to talk about, I wasted the whole day.
 
-
-
-Grrratitude time:
+GRrrratitude time:
+- I keep doing exercises for my scoliosis every day;
+- I am falling asleep today;
+- I spare some time to play with my friends.

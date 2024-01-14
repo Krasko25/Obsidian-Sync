@@ -2,7 +2,7 @@
 
 You know he is the type who'd never ask anyone out even on a {{cold day in hell}} (extremely rare).
 
-And what did I say? - {{I turned him down!?}} (**to refuse an offer or request).** <!--SR:!2024-01-14,4,270--> 
+And what did I say? - {{I turned him down!?}} (**to refuse an offer or request).** <!--SR:!2024-01-27,13,270--> 
 
 I never had such a {{shallow}} (поверхностная идея) thought in my mind.
 

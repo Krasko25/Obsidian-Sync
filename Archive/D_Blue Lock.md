@@ -10,4 +10,4 @@ Kind guys like him mush be an {{endangered}} (вымирающие) species here
 
 I see that you have {{dipped}} (погрузил) your toe into the realm where miracles occur, Isagi
 
-It's time to do some {{substitutions}} (the act of putting one thing or person in the place of another). <!--SR:!2024-01-14,3,250-->
+It's time to do some {{substitutions}} (the act of putting one thing or person in the place of another). <!--SR:!2024-01-22,8,250-->

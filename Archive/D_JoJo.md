@@ -16,7 +16,7 @@ But still, 60 to 80 days is the {{estimated}} (**to guess or calculate the cost,
 
 He's escaping into the rocky hills! Don't let him get close to these {{cliffs}} (**a high area of rock with a very steep side, often on a coast (утёсы))**
 
-Are you looking {{down on us}} (смотреть свысока) like that? <!--SR:!2024-01-14,3,262-->
+Are you looking {{down on us}} (смотреть свысока) like that? <!--SR:!2024-01-20,6,262-->
 
 You can't protect him anymore, "the white man's books", they were hidden in his {{tent}} (палатка). <!--SR:!2024-02-13,39,290-->
 
@@ -30,4 +30,4 @@ You said you are {{willing}} (**to be happy to do something if it is needed) **t
 
 It's fight club time! Let's {{brawl}} (**a noisy, rough, uncontrolled fight)**! <!--SR:!2024-01-23,17,252--> 
 
-We went through to the ultimate time beyond the {{acceleration}} (**to start to happen more quickly, or to make something start to happen more quickly)** <!--SR:!2024-01-13,3,262--> 
+We went through to the ultimate time beyond the {{acceleration}} (**to start to happen more quickly, or to make something start to happen more quickly)** <!--SR:!2024-01-23,9,282--> 

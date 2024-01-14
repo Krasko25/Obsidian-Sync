@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "LD",
+      "path": "Archive/LD.md"
+    },
+    {
+      "basename": "D_LD",
+      "path": "Archive/D_LD.md"
+    },
+    {
+      "basename": "2024-01-14",
+      "path": "Daily notes/2024/January/2024-01-14.md"
+    },
+    {
       "basename": "Tdiary",
       "path": "Archive/Tdiary.md"
     },
@@ -177,10 +189,6 @@
       "path": "Archive/Julian's first lesson.md"
     },
     {
-      "basename": "LD",
-      "path": "Archive/LD.md"
-    },
-    {
       "basename": "Lessons-List",
       "path": "Archive/Lessons-List.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Love MOC",
       "path": "Archive/Love MOC.md"
-    },
-    {
-      "basename": "Love to yourself MOC",
-      "path": "Archive/Love to yourself MOC.md"
-    },
-    {
-      "basename": "Meditation MOC",
-      "path": "Archive/Meditation MOC.md"
     }
   ],
   "omittedPaths": [],

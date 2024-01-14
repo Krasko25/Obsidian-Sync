@@ -11,13 +11,13 @@ A bleed weapon, huh? And aimed at the head. So, it's an {{ambush}} (**to suddenl
 
 Better {{head to}} (moving somewhere) work <!--SR:!2024-01-28,24,270-->
 
-What is this? - my {{resignation}} (**the act of telling your employer that you are leaving your job)**. - You're quitting? - I figure the choice between quitting or getting killed <!--SR:!2024-01-13,4,278-->
+What is this? - my {{resignation}} (**the act of telling your employer that you are leaving your job)**. - You're quitting? - I figure the choice between quitting or getting killed <!--SR:!2024-01-26,12,278-->
 
-If I tear it up until it can't take the pain no more, it will wanna kill itself! - A very devilish idea {{indeed}} (**really or certainly, often used to emphasize something).** <!--SR:!2024-01-13,7,256--> 
+If I tear it up until it can't take the pain no more, it will wanna kill itself! - A very devilish idea {{indeed}} (**really or certainly, often used to emphasize something).** <!--SR:!2024-02-01,18,256--> 
 
 Those kind of terms hold a strong {{sway}} (**control or influence) **when a devil is involved.
 
-Not like I could invite a girl to this {{dump }}(**a place where people are allowed to leave their rubbish)** <!--SR:!2024-01-13,4,278--> 
+Not like I could invite a girl to this {{dump }}(**a place where people are allowed to leave their rubbish)** <!--SR:!2024-01-24,10,278--> 
 
 You're as loyal as a dog, and you work for cheap like one, too. Only problem with dogs is I can't stand the {{stench}} (**a strong, unpleasant smell)** 
 

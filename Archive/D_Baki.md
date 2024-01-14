@@ -2,7 +2,7 @@
 
 Tokugawa, do you plan on {{breaking the promise}} (нарушить обещание) made to Pickle?
 
-They sat to the most {{remarkable}} (worthy of notice) midnight snack ever served <!--SR:!2024-01-14,3,260-->
+They sat to the most {{remarkable}} (worthy of notice) midnight snack ever served <!--SR:!2024-01-21,7,260-->
 
 the happiness of finally letting {{loose}} (turn loose or free from restraint) <!--SR:!2024-01-16,11,270-->
 

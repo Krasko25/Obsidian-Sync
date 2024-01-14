@@ -1,12 +1,12 @@
 #cards/dictionary 
 
-It {{hit too close to home for me}} (больная тема), too <!--SR:!2024-01-13,3,265-->
+It {{hit too close to home for me}} (больная тема), too <!--SR:!2024-01-20,6,265-->
 
 But if you're not {{up to the task}} (good enough for this task), very well
 
 narrator>>рассказчик <!--SR:!2024-02-18,37,294-->
 
-I'm going to make you pay {{dearly}} (заплатить сполна)! <!--SR:!2024-01-13,4,285-->
+I'm going to make you pay {{dearly}} (заплатить сполна)! <!--SR:!2024-01-24,10,285-->
 
 all the negative emotions are {{welling up}} (накапливаются) within you
 she has a nerve to speak like this in her position? - {{splendid}} (**excellent, or beautiful and impressive:)** <!--SR:!2024-02-02,28,270!2000-01-01,1,250--> 
@@ -25,7 +25,7 @@ He's already been brought back to this {{realm}} (сфера деятельно�
 
 Today you are {{on a high horse}} (быть в ударе)![](local:///Users/connect/remnote/remnote-62c2eac9d4b97a004623c386/files/lMsNfuPYeY55V_3ZQQvGiZ5vsU5ZqeN60QYC7MTFt54GT2X38EVDHVtKu4CWT1MrVdXpyJaofRH6FeKfiJOkgTX2kqL_aY0_oaPdSM1oLJrEUF8IFFIo_BWUckrWbjkO.png) 
 
-that is not enough! You won't {{ease}} (**to make or become less severe, difficult, unpleasant, painful, etc (**These pills should {{ease}} the **pain))** our hard feelings <!--SR:!2024-01-13,12,274!2024-01-17,9,279--> 
+that is not enough! You won't {{ease}} (**to make or become less severe, difficult, unpleasant, painful, etc (**These pills should {{ease}} the **pain))** our hard feelings <!--SR:!2024-02-28,45,294!2024-01-17,9,279--> 
 
 First, it will be convenient to draw a variety of thin patterns, the second - to make filling and {{ __thick lines__ }} __ (толстые линии)__ .
 
@@ -33,13 +33,13 @@ Dimple {{despise}} (**to feel a strong dislike for someone or something because 
 
 Our muscles don't exist for something so {{petty}} (**not important and not worth giving attention to (мелкое, жалкое))** 
 
-You are just {{seeing things}} (тебе кажется) <!--SR:!2024-01-13,3,265-->
+You are just {{seeing things}} (тебе кажется) <!--SR:!2024-01-22,8,265-->
 
 Why do you have to {{belittle}} (**to make a person or an action seem as if he, she or it is not important)** everyone
 
 you seem down>>_ 
 
-Don't {{twist}} (to change the meaning of the words) my words <!--SR:!2024-01-14,3,265--> 
+Don't {{twist}} (to change the meaning of the words) my words <!--SR:!2024-01-20,6,265--> 
 
 for the fun of it>>_ <!--SR:!2024-01-26,18,301-->
 
@@ -53,7 +53,7 @@ You guys are still {{small fries}} (**people** **or things that are not** **cons
 
 HQ>>headquaters <!--SR:!2024-01-26,18,299-->
 
-boss will be in a {{league of his own}} (someone who is on the whole different level) <!--SR:!2024-01-13,8,258--> 
+boss will be in a {{league of his own}} (someone who is on the whole different level) <!--SR:!2024-02-11,28,278--> 
 
  <!--SR:!2024-01-26,17,301-->
 

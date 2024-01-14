@@ -20,13 +20,13 @@ It's no crime to use a bit of his funds>>_
 
 I {{vow}} (make a vow; promise) to deliver it to your parents <!--SR:!2024-02-11,36,270-->
 
-I feel bad for everyone, you, guys, share this. - a tactful {{bribe}} (payment made to a person in a position of trust to corrupt his judgment), eh? <!--SR:!2024-01-13,4,287-->
+I feel bad for everyone, you, guys, share this. - a tactful {{bribe}} (payment made to a person in a position of trust to corrupt his judgment), eh? <!--SR:!2024-01-27,13,287-->
 
 Mushashi considers himself to be {{arrogant}} ( высокометный)
 
 overcoming difficulties and at times even risking one's life. These are the things that allow the soul to grow and mature>>allow #Mark/Quote
 
-{{unease}} ( physical discomfort, беспокойство, тревога) had taken over Musashi <!--SR:!2024-01-13,3,270--> 
+{{unease}} ( physical discomfort, беспокойство, тревога) had taken over Musashi <!--SR:!2024-01-25,11,290--> 
 
 eventually, I {{vow}} (**to make a** **determined** **decision** **or** **promise** **to do something) **to kill you
 
@@ -46,7 +46,7 @@ Her face is peaceful. We will see her off tomorrow>>_
 
 the villagers grow weary of you and your incompetence 
 
-Last year the company **seemed/looked** {{invincible}} (impossible to defeat or prevent from doing what is intended) but in recent weeks has begun to have problems. <!--SR:!2024-01-14,3,270-->
+Last year the company **seemed/looked** {{invincible}} (impossible to defeat or prevent from doing what is intended) but in recent weeks has begun to have problems. <!--SR:!2024-01-20,6,270-->
 
 hoe>>тяпка, мотыга 
 
@@ -58,7 +58,7 @@ Am I still strong? I want to know. - he exceeds (**to go past the level, limit, 
 
 Fighting for myself I won't {{pursue}} (**to follow someone or something, usually to try to catch him, her, or it)** my opponents.
 
-Even if you are {{crippled}} (**an extremely offensive word for a person whose legs or arms do not work in the usual way)**, you are still Musashi. She was {{crippled}} in a car accident. <!--SR:!2024-01-14,3,270!2024-01-28,19,256-->
+Even if you are {{crippled}} (**an extremely offensive word for a person whose legs or arms do not work in the usual way)**, you are still Musashi. She was {{crippled}} in a car accident. <!--SR:!2024-01-26,12,290!2024-01-28,19,256-->
 
 With this leg, this trip is three times as {{tiring}} (утомляющая)
 While he is doing that, Musashi's reputation will reach the {{topmost}} (the highest point of something (reputation)) level. <!--SR:!2000-01-01,1,250!2024-01-15,4,290-->
@@ -79,7 +79,7 @@ We entered into a noble forest.
 He was a man of noble character.
 She was descended from an old Italian noble family.
 
-The body learns and {{acquires}} (**to gradually learn or gain something such as a language or skill) **it. That is how I survived. <!--SR:!2024-01-13,3,270-->
+The body learns and {{acquires}} (**to gradually learn or gain something such as a language or skill) **it. That is how I survived. <!--SR:!2024-01-23,9,270-->
 
 I have never met a person like you... a person purely {{devoted}} (**to give all of something, especially your time, effort, or love, or yourself, to something you believe in or to a person (посвещать))** to the sword.
 

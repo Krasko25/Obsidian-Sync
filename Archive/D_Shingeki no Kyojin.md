@@ -4,4 +4,4 @@ I lost count just how many times I feel like to kill you. - I {{admire}} (**to r
 
 Levi reports to you now, so {{work him to the bone}} (make him work hard), okey?
 
-Your face looks more  _kickable_  than ever>>_ <!--SR:!2024-01-13,4,270-->
+Your face looks more  _kickable_  than ever>>_ <!--SR:!2024-01-24,10,270-->

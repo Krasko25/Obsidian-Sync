@@ -5,13 +5,13 @@ red flags>>плохие предпосылки
 
 l found your {{stashes}} (**to store or hide something, especially a large amount)** in the toilet paper rolls. How many of these do you take a day? <!--SR:!2024-02-10,29,275-->
 
-Bojack {{overhear}} (подслушал) something about Flip and PC <!--SR:!2024-01-14,3,272-->
+Bojack {{overhear}} (подслушал) something about Flip and PC <!--SR:!2024-01-27,13,292-->
 
 Sundays are the one day that are just for me and my {{craft}} (ремесло, the labor part of the art) <!--SR:!2024-02-03,26,275-->
 
 The man has come to call. He'd like to take you for a Sunday {{stroll}} (**o walk in a slow relaxed way, especially for pleasure)** 
 
-Was named after my mom>>_ <!--SR:!2024-01-14,4,291-->
+Was named after my mom>>_ <!--SR:!2024-01-26,12,291-->
 
 Ok, just don't live your life for Strib, or this baby, or anybody else. - Thank you. - {{I mean it}} (I was quite serious, take it serious) 
 
@@ -33,7 +33,7 @@ The man is willing to give you a second chance, he is downstairs waiting, and yo
 
 'It smells terrible in here,' said Francis. 'Tomorrow, if it's warm, we'll {{air it out}} (wind) 
 
-The room has a {{fabulous}} (**very good; excellent)** view across the lake. <!--SR:!2024-01-14,9,260-->
+The room has a {{fabulous}} (**very good; excellent)** view across the lake. <!--SR:!2024-02-07,24,260-->
 
 This neckless is a family {{heirloom}} (**a valuable object that has been given by older members of a family to youngermembers of the same family over many years).** 
 

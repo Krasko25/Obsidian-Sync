@@ -62,6 +62,6 @@ TMI>>too much information
 
 CU>>see you
 
-IDC>>I don't care <!--SR:!2024-01-14,4,293-->
+IDC>>I don't care <!--SR:!2024-01-28,14,293-->
 
 sus>>suspicious

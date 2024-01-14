@@ -176,3 +176,8 @@ GRrrratitude time:
 - I keep doing exercises for my scoliosis every day;
 - I am falling asleep today;
 - I spare some time to play with my friends.
+==January 14th, 2024==
+This day was a bit more productive. I was reading Crime and Punishment, having my English lesson, did some preparation for my math exam. Though I did not manage to fall asleep on time. 
+
+Some praise:
+- I 

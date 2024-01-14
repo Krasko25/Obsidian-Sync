@@ -180,4 +180,6 @@ GRrrratitude time:
 This day was a bit more productive. I was reading Crime and Punishment, having my English lesson, did some preparation for my math exam. Though I did not manage to fall asleep on time. 
 
 Some praise:
-- I 
+- I did a good job reading Crime and Punishment and breaking down it's chapters;
+- I manage to eat enough calories for the last few days;
+- I play with my dog every day, even if it is really cold outside.

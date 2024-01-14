@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Преступление и наказание",
+      "path": "Archive/Преступление и наказание.md"
+    },
+    {
+      "basename": "2024-01-14",
+      "path": "Daily notes/2024/January/2024-01-14.md"
+    },
+    {
+      "basename": "diary",
+      "path": "Archive/diary.md"
+    },
+    {
       "basename": "LD",
       "path": "Archive/LD.md"
     },
     {
       "basename": "D_LD",
       "path": "Archive/D_LD.md"
-    },
-    {
-      "basename": "2024-01-14",
-      "path": "Daily notes/2024/January/2024-01-14.md"
     },
     {
       "basename": "Tdiary",
@@ -31,10 +39,6 @@
     {
       "basename": "Вы не можете быть счастливым, если вы жертва",
       "path": "Archive/Вы не можете быть счастливым, если вы жертва.md"
-    },
-    {
-      "basename": "diary",
-      "path": "Archive/diary.md"
     },
     {
       "basename": "Грамматика MOC",
@@ -195,10 +199,6 @@
     {
       "basename": "Live is show, tragedy",
       "path": "Archive/Live is show, tragedy.md"
-    },
-    {
-      "basename": "Love MOC",
-      "path": "Archive/Love MOC.md"
     }
   ],
   "omittedPaths": [],

@@ -70,7 +70,7 @@ one must always keep one's word>>_ <!--SR:!2024-01-22,10,284-->
 
 between the three of us>>_
 
-Michael was on a good run with his homework>>_
+Michael was on a good run with his homework>>_ <!--SR:!2024-01-18,3,275-->
 
 I'm {{indifferent}} (безразличен) to his words
 
@@ -324,13 +324,13 @@ Strike pressed Bristow's {{chest cage}} (грудная клетка) with his b
 
 Such a {{demeanour}} (behaviour, manner of conduction oneself) is out of the social norms
 
-The {{invasion}} (a situation when a large number of people came to a place in an annoying and unwanted way) of smart dogs put the end to humanity
+The {{invasion}} (a situation when a large number of people came to a place in an annoying and unwanted way) of smart dogs put the end to humanity <!--SR:!2024-01-19,4,295-->
 
 The {{immortal}} (living forever) ones want the global warming <!--SR:!2024-01-30,18,304-->
 
 The ghost of that ink {{spot}} (a small, usually round area of colour that has different colour than the surface around it) still is the part of that carpet. <!--SR:!2024-02-08,27,274-->
 
-there is a {{pure}} (not mixed with anything else) evil in this book...
+there is a {{pure}} (not mixed with anything else) evil in this book... <!--SR:!2024-01-19,4,295-->
 
 There's also DJ, who likes to DJ>>_
 
@@ -425,7 +425,7 @@ Ten years of {{separation}} (**existing or happening independently or in a diffe
 
 His reputation was {{irreversibly}} (not possible to change; impossible to return to a previous condition) damaged by the affair.
 
-Cold weather {{retards}} (**to make something slower)** the growth of many plants.
+Cold weather {{retards}} (**to make something slower)** the growth of many plants. <!--SR:!2024-01-19,4,295-->
 
 Identificate↔отождествлять
 

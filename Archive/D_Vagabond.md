@@ -36,7 +36,7 @@ He helps performers {{hone}} (**to** **direct** **something such as an** **abili
 
 I thought you might have matured a little. Don't you realise how {{precious}} (драгоценна) the life is
 
-He had Yashioka Denshichiro in a {{deadlock}} (тупик, безвыходная ситуация) <!--SR:!2024-01-15,4,290-->
+He had Yashioka Denshichiro in a {{deadlock}} (тупик, безвыходная ситуация) <!--SR:!2024-01-25,10,290-->
 
 At this {{rate}} (темп), the fire will spread, {{tear down}} (**to** **intentionally** **destroy** **a** **building** **or other** **structure** **because it is not being used or it is not** **wanted** **any more)** what is left of it <!--SR:!2000-01-01,1,250!2024-01-21,12,284-->
 
@@ -54,18 +54,18 @@ I was to lazy to milk this idea for 10 minutes>>_ <!--SR:!2024-01-18,10,282-->
 
 Am I still strong? I want to know. - he exceeds (**to go past the level, limit, rate, etc. that you are allowed) **the rumors
 
-{{Flee}} (**to escape by running away, especially because of danger or fear)** now, while you have a chance.
+{{Flee}} (**to escape by running away, especially because of danger or fear)** now, while you have a chance. <!--SR:!2024-01-18,3,273-->
 
 Fighting for myself I won't {{pursue}} (**to follow someone or something, usually to try to catch him, her, or it)** my opponents.
 
 Even if you are {{crippled}} (**an extremely offensive word for a person whose legs or arms do not work in the usual way)**, you are still Musashi. She was {{crippled}} in a car accident. <!--SR:!2024-01-26,12,290!2024-01-28,19,256-->
 
 With this leg, this trip is three times as {{tiring}} (утомляющая)
-While he is doing that, Musashi's reputation will reach the {{topmost}} (the highest point of something (reputation)) level. <!--SR:!2000-01-01,1,250!2024-01-15,4,290-->
+While he is doing that, Musashi's reputation will reach the {{topmost}} (the highest point of something (reputation)) level. <!--SR:!2000-01-01,1,250!2024-01-25,10,290-->
 
 give up the lying already>>_ 
 
-Your thoughts are quite {{profound}} (**felt or experienced very strongly or in an extreme way (очеь глубокое понимание))**, aren't they? <!--SR:!2024-01-15,7,263-->
+Your thoughts are quite {{profound}} (**felt or experienced very strongly or in an extreme way (очеь глубокое понимание))**, aren't they? <!--SR:!2024-02-01,17,263-->
 
 I won't forgive you. {{Talking ill}} (плохо отзваться) about my teacher <!--SR:!2024-01-18,10,283-->
 

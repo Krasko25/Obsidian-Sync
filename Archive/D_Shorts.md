@@ -6,7 +6,7 @@ Lmao>>laughing my ass off <!--SR:!2024-03-03,55,310-->
 
 otw>>on the way <!--SR:!2024-01-20,11,289-->
 
-bb>>byebye
+bb>>byebye <!--SR:!2024-01-18,3,280-->
 
 Lmbfao>>laughing my big f... ass off
 
@@ -20,11 +20,11 @@ omg>>oh my God!
 
 rip>>rest in peace
 
-omfg>>Oh my f... God! <!--SR:!2024-01-15,4,296-->
+omfg>>Oh my f... God! <!--SR:!2024-01-26,11,296-->
 
-lmn>>let me know <!--SR:!2024-01-15,4,296-->
+lmn>>let me know <!--SR:!2024-01-26,11,296-->
 
-bff>>best friend forever <!--SR:!2024-01-15,4,299-->
+bff>>best friend forever <!--SR:!2024-01-28,13,299-->
 
 bf>>boyfriend <!--SR:!2024-01-26,17,307-->
 
@@ -44,7 +44,7 @@ thx>>thanks <!--SR:!2024-02-18,38,302-->
 
 IRL>>in real live
 
-lol>>laughing out loud
+lol>>laughing out loud <!--SR:!2024-01-19,4,300-->
 
 IMO>>in my opinion
 

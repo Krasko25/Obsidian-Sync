@@ -1,7 +1,7 @@
 #cards/dictionary 
 Well, it's one thing for a woman to {{weep}} (to cry with tears), but when they do in a such a volume, you can hear it through the door, then you know they are doing it just for attention.
 
-red flags>>плохие предпосылки 
+red flags>>плохие предпосылки <!--SR:!2024-01-19,4,296-->
 
 l found your {{stashes}} (**to store or hide something, especially a large amount)** in the toilet paper rolls. How many of these do you take a day? <!--SR:!2024-02-10,29,275-->
 
@@ -27,7 +27,7 @@ It's weird. Like we could totally {{make out}} right now. - What? - No, I'm not 
 
 You'll have to say, "I'm sad-sad girl with a dirty apartment", - but I'll let you {{crash}} (переночевать). <!--SR:!2024-02-07,28,275-->
 
-What did you order? - The {{through}} (всё меню по одному блюду)! He wants the {{through}} (всё меню по одному блюду) <!--SR:!2000-01-01,1,250!2024-01-15,4,293-->
+What did you order? - The {{through}} (всё меню по одному блюду)! He wants the {{through}} (всё меню по одному блюду) <!--SR:!2000-01-01,1,250!2024-01-26,11,293-->
 
 The man is willing to give you a second chance, he is downstairs waiting, and you will be {{civil}} (будешь вежливой) to him.
 
@@ -47,7 +47,7 @@ Oh, don't {{be cross}} (ругаться) with mother.
 
 You really {{let me down}} (**to disappoint someone by failing to do what you agreed to do or were expected to do) **, BoJack. You really {{let me down}}, Diane.
 
-I feel like we can beat this {{font}} (**a set of letters and symbols in a particular design and size (шрифт))** <!--SR:!2024-01-15,4,292--> 
+I feel like we can beat this {{font}} (**a set of letters and symbols in a particular design and size (шрифт))** <!--SR:!2024-01-26,11,292--> 
 
 And did you know there are {{orphans}} (**a child whose parents are dead) **in Sudan. - You take this job, you can buy all the {{orphans}} you want. - No, I don't want to buy them. 
 
@@ -55,7 +55,7 @@ Well, do you think it's true? Do I think L.A. is a tar {{pit}} (**a large hole i
 
 Jesus Christ! Juda, do you ever {{read a room}} (**to be or become aware of the opinions and attitudes of a group of people that you are talking to)**!? I'm sorry, is this a bad time?
 
-I don't know how you {{put up}} (**to accept or continue to accept an unpleasant situation or experience, or someone who behaves unpleasantly) **{{wit}}h me. I didn't {{put up with}} you. <!--SR:!2000-01-01,1,250!2024-01-24,12,284!2000-01-01,1,250-->
+I don't know how you {{put up}} (**to accept or continue to accept an unpleasant situation or experience, or someone who behaves unpleasantly) **{{wit}}h me. I didn't {{put up with}} you. <!--SR:!2024-01-19,4,296!2024-01-24,12,284!2000-01-01,1,250-->
 
 I'm good at driving sober, but I do not {{relish}} (**to like or enjoy something) **the opportunity. <!--SR:!2024-01-25,17,302--> 
 
@@ -64,6 +64,6 @@ Is he okay? - He recently found out that his brother is {{sick.}} -Oh, I'm sorry
 You know, it's amazing that it's legal for kids to be actors. How is that not child {{labor}} (**practical work, esp. work that involves physical effort)**?
 Let's just go! - I can't leave until I make {{amends}} (**to change something, especially the words of a text (вносить правки))** <!--SR:!2024-01-23,15,302!2000-01-01,1,250--> 
 
-Wait, did we just go to Ana's house? Did I get {{closure}} (**the feeling or act of bringing an unpleasant situation, time, or experience to an end, so that you are able to start new activities:)?** <!--SR:!2024-01-15,4,292--> 
+Wait, did we just go to Ana's house? Did I get a {{closure}} (**the feeling or act of bringing an unpleasant situation, time, or experience to an end, so that you are able to start new activities:)?** <!--SR:!2024-01-29,14,292--> 
 
 I have poison inside me,  and I destroy everything I touch. That's my {{legacy}} (**something that is a part of your history or that remains from an earlier time)**.

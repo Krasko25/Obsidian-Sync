@@ -24,7 +24,7 @@ Hueco Mundo is already my {{domain}} (**an area of interest or an area over whic
 
 You are the one who chose to needlessly {{disregard}} (**the fact of showing no care or respect for something (пренебрегать))**my words <!--SR:!2024-02-04,21,240-->
 
-a man who has earned high {{regard}} (respect, attention). I have no ??? (do not pay any attention for his opinion) for his opinions. <!--SR:!2024-01-15,22,290-->
+a man who has earned high {{regard}} (respect, attention). I have no ??? (do not pay any attention for his opinion) for his opinions. <!--SR:!2024-03-18,63,290-->
 
 everything that is happening now {{stems}} (**a central part of something from which other parts can develop or grow, or which forms a support) **from the fact that you, head captain, couldn't kill that man 1000 years ago. Her success ??? from hard work <!--SR:!2024-01-16,17,250-->
 

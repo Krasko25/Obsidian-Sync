@@ -5,6 +5,14 @@
       "path": "Daily notes/2024/January/2024-01-15.md"
     },
     {
+      "basename": "Tdiary",
+      "path": "Archive/Tdiary.md"
+    },
+    {
+      "basename": "Robert Reimann",
+      "path": "Archive/Robert Reimann.md"
+    },
+    {
       "basename": "2024-01-14",
       "path": "Daily notes/2024/January/2024-01-14.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "Преступление и наказание",
       "path": "Archive/Преступление и наказание.md"
-    },
-    {
-      "basename": "Tdiary",
-      "path": "Archive/Tdiary.md"
     },
     {
       "basename": "diary",
@@ -195,10 +199,6 @@
     {
       "basename": "Julian's first lesson",
       "path": "Archive/Julian's first lesson.md"
-    },
-    {
-      "basename": "Lessons-List",
-      "path": "Archive/Lessons-List.md"
     }
   ],
   "omittedPaths": [],

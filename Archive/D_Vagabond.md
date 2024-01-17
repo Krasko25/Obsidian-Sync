@@ -14,7 +14,7 @@ the {{**sublime**}} (inspiring) beauty of the night
 
 The great In'ei, he is in the class by himself>>_ <!--SR:!2024-02-10,33,292-->
 
-team up>>_ <!--SR:!2024-01-16,15,296-->
+team up>>_ <!--SR:!2024-03-18,61,316-->
 
 It's no crime to use a bit of his funds>>_ 
 
@@ -34,7 +34,7 @@ You're still wet behind the ears>>_ <!--SR:!2024-01-18,17,296-->
 
 He helps performers {{hone}} (**to** **direct** **something such as an** **ability** **to make it more** **effective)** their skills as dancers and singers.
 
-I thought you might have matured a little. Don't you realise how {{precious}} (драгоценна) the life is
+I thought you might have matured a little. Don't you realise how {{precious}} (драгоценна) the life is <!--SR:!2024-01-21,4,293-->
 
 He had Yashioka Denshichiro in a {{deadlock}} (тупик, безвыходная ситуация) <!--SR:!2024-01-25,10,290-->
 
@@ -61,7 +61,7 @@ Fighting for myself I won't {{pursue}} (**to follow someone or something, usuall
 Even if you are {{crippled}} (**an extremely offensive word for a person whose legs or arms do not work in the usual way)**, you are still Musashi. She was {{crippled}} in a car accident. <!--SR:!2024-01-26,12,290!2024-01-28,19,256-->
 
 With this leg, this trip is three times as {{tiring}} (утомляющая)
-While he is doing that, Musashi's reputation will reach the {{topmost}} (the highest point of something (reputation)) level. <!--SR:!2000-01-01,1,250!2024-01-25,10,290-->
+While he is doing that, Musashi's reputation will reach the {{topmost}} (the highest point of something (reputation)) level. <!--SR:!2024-01-21,4,293!2024-01-25,10,290-->
 
 give up the lying already>>_ 
 
@@ -77,7 +77,7 @@ Was you looking for a way to die the ??? (**moral in an honest, brave, and kind 
 ?
 We entered into a noble forest.
 He was a man of noble character.
-She was descended from an old Italian noble family.
+She was descended from an old Italian noble family. <!--SR:!2024-01-21,4,293-->
 
 The body learns and {{acquires}} (**to gradually learn or gain something such as a language or skill) **it. That is how I survived. <!--SR:!2024-01-23,9,270-->
 

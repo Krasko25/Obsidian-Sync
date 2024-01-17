@@ -26,6 +26,6 @@ You are the one who chose to needlessly {{disregard}} (**the fact of showing no 
 
 a man who has earned high {{regard}} (respect, attention). I have no ??? (do not pay any attention for his opinion) for his opinions. <!--SR:!2024-03-18,63,290-->
 
-everything that is happening now {{stems}} (**a central part of something from which other parts can develop or grow, or which forms a support) **from the fact that you, head captain, couldn't kill that man 1000 years ago. Her success ??? from hard work <!--SR:!2024-01-16,17,250-->
+everything that is happening now {{stems}} (**a central part of something from which other parts can develop or grow, or which forms a support) **from the fact that you, head captain, couldn't kill that man 1000 years ago. Her success ??? from hard work <!--SR:!2024-02-28,42,250-->
 
 conflict is such an unpleasant {{affair}} (**a situation or subject that is being dealt with or considered). **The whole ??? was a disaster. <!--SR:!2024-01-20,21,280-->

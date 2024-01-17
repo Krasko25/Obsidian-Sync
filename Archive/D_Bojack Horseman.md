@@ -9,7 +9,7 @@ Bojack {{overhear}} (подслушал) something about Flip and PC <!--SR:!202
 
 Sundays are the one day that are just for me and my {{craft}} (ремесло, the labor part of the art) <!--SR:!2024-02-03,26,275-->
 
-The man has come to call. He'd like to take you for a Sunday {{stroll}} (**o walk in a slow relaxed way, especially for pleasure)** 
+The man has come to call. He'd like to take you for a Sunday {{stroll}} (**o walk in a slow relaxed way, especially for pleasure)** <!--SR:!2024-01-21,4,298--> 
 
 Was named after my mom>>_ <!--SR:!2024-01-26,12,291-->
 
@@ -29,7 +29,7 @@ You'll have to say, "I'm sad-sad girl with a dirty apartment", - but I'll let yo
 
 What did you order? - The {{through}} (всё меню по одному блюду)! He wants the {{through}} (всё меню по одному блюду) <!--SR:!2000-01-01,1,250!2024-01-26,11,293-->
 
-The man is willing to give you a second chance, he is downstairs waiting, and you will be {{civil}} (будешь вежливой) to him.
+The man is willing to give you a second chance, he is downstairs waiting, and you will be {{civil}} (будешь вежливой) to him. <!--SR:!2024-01-20,3,278-->
 
 'It smells terrible in here,' said Francis. 'Tomorrow, if it's warm, we'll {{air it out}} (wind) 
 

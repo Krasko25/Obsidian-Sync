@@ -13,7 +13,7 @@ she has a nerve to speak like this in her position? - {{splendid}} (**excellent,
 
 her head got turned into the {{bulb}} (**a light bulb)** 
 
-People call them {{psychics}} (медиумы) <!--SR:!2024-01-16,8,261--> 
+People call them {{psychics}} (медиумы) <!--SR:!2024-02-06,20,261--> 
 
 Salt {{splash}} (**to move in water so that drops of it go in all directions)** 
 
@@ -25,7 +25,7 @@ He's already been brought back to this {{realm}} (сфера деятельно�
 
 Today you are {{on a high horse}} (быть в ударе)![](local:///Users/connect/remnote/remnote-62c2eac9d4b97a004623c386/files/lMsNfuPYeY55V_3ZQQvGiZ5vsU5ZqeN60QYC7MTFt54GT2X38EVDHVtKu4CWT1MrVdXpyJaofRH6FeKfiJOkgTX2kqL_aY0_oaPdSM1oLJrEUF8IFFIo_BWUckrWbjkO.png) 
 
-that is not enough! You won't {{ease}} (**to make or become less severe, difficult, unpleasant, painful, etc (**These pills should {{ease}} the **pain))** our hard feelings <!--SR:!2024-02-28,45,294!2024-01-17,9,279--> 
+that is not enough! You won't {{ease}} (**to make or become less severe, difficult, unpleasant, painful, etc (**These pills should {{ease}} the **pain))** our hard feelings <!--SR:!2024-02-28,45,294!2024-02-10,24,279--> 
 
 First, it will be convenient to draw a variety of thin patterns, the second - to make filling and {{ __thick lines__ }} __ (толстые линии)__ .
 

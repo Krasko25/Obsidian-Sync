@@ -2,9 +2,9 @@
 
 He was the company's {{go-to}} (**used to** **describe** **the** **best** **person, thing, or** **place** **for a** **particular** **purpose** **or need**) **guy** for new ideas.
 
-commit>>фиксировать, помещать (изменения)
+commit>>фиксировать, помещать (изменения) <!--SR:!2024-01-20,3,261-->
 
-It {{enables}} (makes something possible) tracking changes, managing branches, and merging code with ease. <!--SR:!2024-01-17,9,254-->
+It {{enables}} (makes something possible) tracking changes, managing branches, and merging code with ease. <!--SR:!2024-02-08,22,254-->
 
 our groups were {{merged}} (flowing together)
 

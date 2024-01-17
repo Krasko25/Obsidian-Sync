@@ -1,4 +1,4 @@
- <!--SR:!2023-12-29,3,264-->
+ <!--SR:!2000-01-01,1,250!2024-01-21,4,297--> <!--SR:!2023-12-29,3,264-->
  
 #cards/dictionary 
 
@@ -14,7 +14,7 @@ Nanotechnology. Ah, you have {{outdone}} (be or do something to a greater degree
 
 Vegita! Stop vegiting it! You are making it worse! - Don't you verb me!>>_
 
-next-to-last; second last; last, but one>>_
+next-to-last; second last; last, but one>>_ <!--SR:!2024-01-20,3,277-->
 
 What can I do to make up to you?>>помириться
 
@@ -30,7 +30,7 @@ norm>>критерий, норматив
 
 maid>>горничная
 
-mop the floor>>мыть полы
+mop the floor>>мыть полы <!--SR:!2024-01-20,3,277-->
 
 She hired a lawyer who {{specializes}} (**to** **stud y** **or** **work** **on a** **particular** **subject** **or** **skill** **more than any** **others, so that you** **become** **an** **expert** **in it (адаптация))** in divorce cases.
 
@@ -68,7 +68,7 @@ one should be careful when crossing the street>>_
 
 one must always keep one's word>>_ <!--SR:!2024-01-22,10,284-->
 
-between the three of us>>_
+between the three of us>>_ <!--SR:!2024-01-20,3,277-->
 
 Michael was on a good run with his homework>>_ <!--SR:!2024-01-18,3,275-->
 
@@ -152,11 +152,7 @@ You will read a {{passage}} (a part of the text (отрывок)) of between 75 
 I was told that my suit is {{spoiled}} (to destroy or reduce the pleasure, interest, or beauty of something)
 
 
-- I'll meat you there at...
-- 9:15?
-- {{it works for me}} _ (it is comfortable for me)_  I'll see you there.
-- sometimes life is a {{bumpy ride}} (to have a difficult time), but you continue to life... It's a nice night, huh?
-- Yeh, it's nice.
+
 
 They {{set off}} (to start on a trip) again, the class looking at Pr. Lupin with increased respect. <!--SR:!2024-01-23,11,284-->
 
@@ -166,7 +162,7 @@ They {{set off}} (to start on a trip) again, the class looking at Pr. Lupin with
 
 {{hear me our}} (listen to me)!! I I'm here to help you.
 
-{{adoration}} is very strong love of worship for someone
+{{adoration}} is very strong love of worship for someone <!--SR:!2024-01-21,4,297-->
 
 adjective (adj.)↔прилагательное
 
@@ -174,7 +170,7 @@ adverb (adv.)↔наречие
 
 articles↔артикли
 
-No Tom was there>>_
+No Tom was there>>_ <!--SR:!2024-01-21,4,297-->
 
 {{adolescence}} (the time period between the beginning of puberty and adulthood) is a dangerous period
 
@@ -208,7 +204,7 @@ His {{background}} (past experience) makes everyone tremble
 
 I have the {{warrant}} (A legal paper, issued by a court, giving police permission to make an arrest, seizure, or search.), to search here.
 
-Is my {{whereabouts}} (The place in or near which a person or thing is.) important?
+Is my {{whereabouts}} (The place in or near which a person or thing is.) important? <!--SR:!2024-01-20,3,277-->
 
 It seems I'm going to {{obtein a scholarship}}(get a grant)
 
@@ -229,7 +225,7 @@ The {{fruitless}} (not producing the desired results, unsuccessful) tree should 
 There is too much {{luxury}} (The state of great comfort and extravagant living)![](local:///Users/connect/remnote/remnote-62c2eac9d4b97a004623c386/files/ZFWUGk_cOXMkVTGDQ0-7vKqQ48p_nfPyb5rPkaC7WMVry3OxX81F6ofArxUhKxIMUH-tZQ0h0-zznlJJMkfEF7MsxXQ653yjxsmBQDTg-4XE6p6PIYSoozthmVWkrDln.jpeg)
 
 There wouldn't be so hot if you hadn't thrown out the {{blinds}} (шторы)
-This {{frame}} (The lines and borders that contain the panels) of berserk is a masterpiece!! ![](local:///Users/connect/remnote/remnote-62c2eac9d4b97a004623c386/files/OTeS6UvUp8XKOMV5Elpln-MQGGRy4X5YTX3FLF7BqRzjaZezMzPPAH0qYeI9rNS_JhWGn9qLDB4YtXFy8474mPlm2GgOkAA4QAXhOijj8eNgsbqJDQAPAgbNrC7g9bUc.webp)
+This {{frame}} (The lines and borders that contain the panels) of berserk is a masterpiece!! ![](local:///Users/connect/remnote/remnote-62c2eac9d4b97a004623c386/files/OTeS6UvUp8XKOMV5Elpln-MQGGRy4X5YTX3FLF7BqRzjaZezMzPPAH0qYeI9rNS_JhWGn9qLDB4YtXFy8474mPlm2GgOkAA4QAXhOijj8eNgsbqJDQAPAgbNrC7g9bUc.webp) <!--SR:!2000-01-01,1,250!2024-01-20,3,277-->
 
 This is our frendship {{tie}} (a set of stories that explains our relationship to the other members of our network, галстуг).
 
@@ -264,7 +260,7 @@ Classroom teacher have to {{scold}} (to find fault with angrily) after every exa
 
 conjunction (conj.)↔союз
 
-Don't {{stretch, exaggerate}} (преувеличивать) this problem
+Don't {{stretch, exaggerate}} (преувеличивать) this problem <!--SR:!2024-01-21,4,297-->
 
 Don't put this {{dilly-dally}} (финти флюшки) on my workspace
 
@@ -284,7 +280,7 @@ I am capable to {{talk up}} (to make something sound very attractive) this produ
 
 I am sick of {{military action}} (военные действия)
 
-I dream Nikita to get the second English wind.>>second wind
+I dream Nikita to get the second English wind.>>second wind <!--SR:!2024-01-20,3,277-->
 
 I suppose him to be a great {{scapegoat}} (a person or thing carrying the blame for others)
 
@@ -306,7 +302,7 @@ Leila was expected to be  {{charm}} (a pleasing quality that attracts others)
 
 Mom likes to cook something out of {{flour}} (мука, порошок)
 
-My phone is THE BEGGEST {{distraction}} (something that draws attention away) for me
+My phone is THE BEGGEST {{distraction}} (something that draws attention away) for me <!--SR:!2024-01-21,4,297-->
 
 My teacher hates when I put {{exclamation mark}} (восклицательный знак) at the end of each sentence.
 
@@ -386,7 +382,7 @@ Male {{cattle}} (скот) are bulls
 
 His business is {{poultry}} (домашняя птица, живность) farming.
 
-Foxes are considered {{vermin}} (паразиты, вредители).
+Foxes are considered {{vermin}} (паразиты, вредители). <!--SR:!2024-01-21,4,297-->
 
 This idea I {{extract}} (**to remove or take out something) **out of books...
 автор Person>>Альфред Ленглэ
@@ -407,13 +403,13 @@ Many people in this area are {{descendants}} (**a person who is related to you a
 
 She has a right to the {{property}} (собственность). <!--SR:!2024-02-15,34,270-->
 
-Also I will consider the {{regularity}} (закономерности) between development of individual, humanity in general and religion.
+Also I will consider the {{regularity}} (закономерности) between development of individual, humanity in general and religion. <!--SR:!2024-01-20,3,277-->
 
 Despite having a large family, they still had no **son and** {{heir}} (**a person who will legally receive money, property, or a title from another person, especially an older member of the same family, when that other person dies).**
 
-It's important not to {{jump to conclusions}} (спешить с выводами).
+It's important not to {{jump to conclusions}} (спешить с выводами). <!--SR:!2024-01-21,4,297-->
 
-She worked her way up through the corporate {{hierarchy}} (**a system in which people or things are arranged according to their importance)** to become president.
+She worked her way up through the corporate {{hierarchy}} (**a system in which people or things are arranged according to their importance)** to become president. <!--SR:!2024-01-20,3,277-->
 
 he happens to be in Moscow>>_
 

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Tdiary",
+      "path": "Archive/Tdiary.md"
+    },
+    {
+      "basename": "diary",
+      "path": "Archive/diary.md"
+    },
+    {
       "basename": "2024-01-17",
       "path": "Daily notes/2024/January/2024-01-17.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "2024-01-16",
       "path": "Daily notes/2024/January/2024-01-16.md"
-    },
-    {
-      "basename": "Tdiary",
-      "path": "Archive/Tdiary.md"
     },
     {
       "basename": "2024-01-15",
@@ -31,10 +35,6 @@
     {
       "basename": "LD",
       "path": "Archive/LD.md"
-    },
-    {
-      "basename": "diary",
-      "path": "Archive/diary.md"
     },
     {
       "basename": "D_LD",

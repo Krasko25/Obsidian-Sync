@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archive/Tdiary.md",
+                "file": "Daily notes/2024/January/2024-01-19.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archive/Tdiary.md",
+                "file": "Daily notes/2024/January/2024-01-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Archive/Tdiary.md",
+                "file": "Daily notes/2024/January/2024-01-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archive/Tdiary.md"
+                "file": "Daily notes/2024/January/2024-01-19.md"
               }
             }
           },
@@ -176,12 +176,13 @@
   },
   "active": "2f6e8fbda4e13929",
   "lastOpenFiles": [
+    "Archive/Tdiary.md",
+    "Daily notes/2024/January/2024-01-19.md",
     "Daily notes/2024/January/2024-01-18.md",
     "Archive/LD.md",
     "Archive/Моя главная цель в жизни.md",
     "Archive/D_Dr Stone.md",
     "Archive/Преступление и наказание.md",
-    "Archive/Tdiary.md",
     "Archive/diary.md",
     "Daily notes/2024/January/2024-01-17.md",
     "Daily notes/2024/January/2024-01-16.md",
@@ -201,7 +202,6 @@
     "Archive/Blue Lock.md",
     "Archive/Body structure MOC.md",
     "Archive/Books-List.md",
-    "Archive/Bunny.md",
     "Attachments/Screenshot 2024-01-11 at 11.31.46 AM.png",
     "Attachments/Screenshot 2024-01-08 at 21.27.20.png",
     "obsidian items",

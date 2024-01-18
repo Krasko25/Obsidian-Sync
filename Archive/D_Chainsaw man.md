@@ -33,4 +33,4 @@ I think you'll make a good {{leash}} (**a piece of rope, chain, etc. tied to an 
 
 You don't need to worry. Power said she would {{behave}} (**to act in a particular way);**
 
-Ghost! - No, that girl is {{dreadful}} (**causing fear, shock, or suffering).** <!--SR:!2024-02-13,27,276!2000-01-01,1,250-->
+Ghost! - No, that girl is {{dreadful}} (**causing fear, shock, or suffering).** <!--SR:!2024-02-13,27,276-->

@@ -196,3 +196,5 @@ The part with gratitude to myself:
 ==January 19th, 2024==
 Today I finally started my day exactly how I wanted. I woke up at 5:30 am, did a quick stretching, did some morning duties outside of the house, did my scoliosis routine, had a meditation and a breakfast. I had my entire morning routine finished at 6:45 am. It feels awesome.
 
+After the successful morning I did some good job with my homework and reading the book for my exam. I was even doing stretches between learning process. It was about 10 am and I had a lot of job done, so I decided to take a little break.
+

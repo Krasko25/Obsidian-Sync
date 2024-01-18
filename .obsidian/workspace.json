@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archive/LD.md",
+                "file": "Archive/Tdiary.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archive/LD.md",
+                "file": "Archive/Tdiary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Archive/LD.md",
+                "file": "Archive/Tdiary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archive/LD.md"
+                "file": "Archive/Tdiary.md"
               }
             }
           },
@@ -176,8 +176,9 @@
   },
   "active": "2f6e8fbda4e13929",
   "lastOpenFiles": [
-    "Archive/Моя главная цель в жизни.md",
     "Daily notes/2024/January/2024-01-18.md",
+    "Archive/LD.md",
+    "Archive/Моя главная цель в жизни.md",
     "Archive/D_Dr Stone.md",
     "Archive/Преступление и наказание.md",
     "Archive/Tdiary.md",
@@ -187,7 +188,6 @@
     "Daily notes/2024/January/2024-01-15.md",
     "Archive/Robert Reimann.md",
     "Daily notes/2024/January/2024-01-14.md",
-    "Archive/LD.md",
     "Archive/D_LD.md",
     "Daily notes/2024/January/2024-01-13.md",
     "Archive/Habitica.md",

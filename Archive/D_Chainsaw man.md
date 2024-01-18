@@ -5,7 +5,7 @@ Depending on how you {{play}} (как вы это обыграете) this, we a
 
 once you grow up and you are ready to {{develop an addiction}} (взрастить зависимость), I'll give it back.
 
-How much of what happened today did you {{anticipate}} (**to imagine or expect that something will happen)**, Ms. Makima? <!--SR:!2024-01-18,9,276-->
+How much of what happened today did you {{anticipate}} (**to imagine or expect that something will happen)**, Ms. Makima? <!--SR:!2024-02-11,24,276-->
 
 A bleed weapon, huh? And aimed at the head. So, it's an {{ambush}} (**to suddenly attack someone after hiding and waiting for them)**. <!--SR:!2024-02-04,24,270-->
 
@@ -31,6 +31,6 @@ Your job is to raise them and then put them to work, make sure not to grow {{att
 
 I think you'll make a good {{leash}} (**a piece of rope, chain, etc. tied to an animal, especially to a dog at its collar when taking it for a walk:)** for the two of them. <!--SR:!2024-02-02,23,270-->
 
-You don't need to worry. Power said she would {{behave}} (**to act in a particular way);**
+You don't need to worry. Power said she would {{behave}} (**to act in a particular way);** <!--SR:!2024-01-21,3,262-->
 
 Ghost! - No, that girl is {{dreadful}} (**causing fear, shock, or suffering).** <!--SR:!2024-02-13,27,276-->

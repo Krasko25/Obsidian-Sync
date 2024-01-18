@@ -37,7 +37,7 @@ The room has a {{fabulous}} (**very good; excellent)** view across the lake. <!-
 
 This neckless is a family {{heirloom}} (**a valuable object that has been given by older members of a family to youngermembers of the same family over many years).** 
 
-You look tired, Veronica. - Amazing {{burn}} (прожарка, подкол), Princess Carolyn. 
+You look tired, Veronica. - Amazing {{burn}} (прожарка, подкол), Princess Carolyn. <!--SR:!2024-01-22,4,299--> 
 
 I went through hell and back today, but it was worth it>>_
 

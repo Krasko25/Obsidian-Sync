@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archive/Моя главная цель в жизни.md",
+                "file": "Archive/LD.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archive/Моя главная цель в жизни.md",
+                "file": "Archive/LD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Archive/Моя главная цель в жизни.md",
+                "file": "Archive/LD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archive/Моя главная цель в жизни.md"
+                "file": "Archive/LD.md"
               }
             }
           },
@@ -176,8 +176,8 @@
   },
   "active": "2f6e8fbda4e13929",
   "lastOpenFiles": [
-    "Daily notes/2024/January/2024-01-18.md",
     "Archive/Моя главная цель в жизни.md",
+    "Daily notes/2024/January/2024-01-18.md",
     "Archive/D_Dr Stone.md",
     "Archive/Преступление и наказание.md",
     "Archive/Tdiary.md",

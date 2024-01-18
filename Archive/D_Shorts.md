@@ -6,7 +6,7 @@ Lmao>>laughing my ass off <!--SR:!2024-03-03,55,310-->
 
 otw>>on the way <!--SR:!2024-01-20,11,289-->
 
-bb>>byebye <!--SR:!2024-01-18,3,280-->
+bb>>byebye <!--SR:!2024-01-31,13,300-->
 
 Lmbfao>>laughing my big f... ass off
 
@@ -28,7 +28,7 @@ bff>>best friend forever <!--SR:!2024-01-28,13,299-->
 
 bf>>boyfriend <!--SR:!2024-01-26,17,307-->
 
-gf>>girlfriend <!--SR:!2024-01-18,10,284-->
+gf>>girlfriend <!--SR:!2024-02-26,39,304-->
 
 btw>>by the way
 

@@ -1,10 +1,10 @@
- <!--SR:!2000-01-01,1,250!2024-01-21,4,297--> <!--SR:!2023-12-29,3,264-->
+ <!--SR:!2024-01-22,4,301--> <!--SR:!2000-01-01,1,250!2024-01-21,4,297--> <!--SR:!2023-12-29,3,264-->
  
 #cards/dictionary 
 
-Don't {{dilly-dally}} (**to** **waste** **time,** **especially** **by being** **slow, or by not being** **able** **to make a** **decision)** - just get your bags and let's go!
 
-He's a {{crafty}} (хитрый, коварный) old devil.
+
+He's a {{crafty}} (хитрый, коварный) old devil. <!--SR:!2024-01-21,3,281-->
 
 I'm afraid to {{second-guess}} (**to** **guess** **what someone will do in the** **future)**, but I think that it is healthy <!--SR:!2024-01-31,19,254-->
 
@@ -22,7 +22,7 @@ I'm going to {{speak my mind}} (to tell what you are thinking about) and you are
 
 spill>>проболтаться
 
-staff and stuff>>сотрудники и хлам
+staff and stuff>>сотрудники и хлам <!--SR:!2024-01-21,3,281-->
 
 He had been {{grilling}} (**to** **ask** **someone a lot of** **questions** **for a** **long** **time)** me <!--SR:!2024-01-22,10,284-->
 
@@ -54,11 +54,11 @@ With flying colors>>**very easily**
 
 When I lived in Spain, I used to {{eat out}} (**to eat in a restaurant)** all the time <!--SR:!2024-02-10,29,274-->
 
-lift your ear up to that guy (god)>>_
+lift your ear up to that guy (god)>>_ <!--SR:!2024-01-22,4,301-->
 
 in a nutshell>>simply put, giving only the main points
 
-There was nothing between the lines>>.
+There was nothing between the lines>>. <!--SR:!2024-01-22,4,301-->
 
 at the top of one's voice>>во весь голос
 
@@ -70,7 +70,7 @@ one must always keep one's word>>_ <!--SR:!2024-01-22,10,284-->
 
 between the three of us>>_ <!--SR:!2024-01-20,3,277-->
 
-Michael was on a good run with his homework>>_ <!--SR:!2024-01-18,3,275-->
+Michael was on a good run with his homework>>_ <!--SR:!2024-01-26,8,275-->
 
 I'm {{indifferent}} (безразличен) to his words
 
@@ -78,7 +78,7 @@ Negative bonds gives temporary effects, it do not solve the problems and {{binds
 
 From my {{perspective}}, this was not a crime.
 
-to view a situation from a new perspective>>с новой точки зрения
+to view a situation from a new perspective>>с новой точки зрения <!--SR:!2024-01-22,4,301-->
 
 Second class-citizen person>>_
 
@@ -105,7 +105,7 @@ thy - твой (зай)
 
 Thou>>ты (древнее) (Зау)
 
-Thee>>тебя (древнее)
+Thee>>тебя (древнее) <!--SR:!2024-01-21,3,281-->
 
 Thy>>твой (древнее)
 
@@ -115,7 +115,7 @@ He left just after {{nightfall}} (the time in the evening when it becomes dark).
 
 The wolf is a {{predator}} (хищник)
 
-I am willing to try anything at this point>>_
+I am willing to try anything at this point>>_ <!--SR:!2024-01-21,3,281-->
 
 The man was {{well over}} (сильно больше) eighty
 
@@ -160,7 +160,7 @@ They {{set off}} (to start on a trip) again, the class looking at Pr. Lupin with
 
 {{Don't mind me}} (Don't pay me attention) _,_  said Denji to Makima <!--SR:!2024-01-19,7,264-->
 
-{{hear me our}} (listen to me)!! I I'm here to help you.
+{{hear me our}} (listen to me)!! I I'm here to help you. <!--SR:!2024-01-21,3,281-->
 
 {{adoration}} is very strong love of worship for someone <!--SR:!2024-01-21,4,297-->
 
@@ -190,13 +190,13 @@ Go to work once you {{recover}} (get better)
 
 Hanter is good at {{endear}} (make kind) people
 
-Hanter is the most {{generous}} (very giving, as if born with plenty of money) with attention person
+Hanter is the most {{generous}} (very giving, as if born with plenty of money) with attention person <!--SR:!2024-01-22,4,301-->
 
 He drew himself as a {{gifted student}} (talented student) <!--SR:!2024-02-22,41,294-->
 
 He {{lure}} (To tempt or attract with the promise of something good) you into the trap! <!--SR:!2024-01-22,10,284-->
 
-He mastered the art of {{hotfooting}} (run for life)
+He mastered the art of {{hotfooting}} (run for life) <!--SR:!2024-01-22,4,301-->
 
 He swallowed his drink in one {{gulp}} (to swallow).
 
@@ -367,12 +367,12 @@ go swimming
 Глагол PLAY используется с названиями командных видов спорта, игр, когда итогом соревнования является победа одного участника или команды над другим, а не результат.
 play football
 play basketball
-play tennis <!--SR:!2024-01-18,6,264-->
+play tennis <!--SR:!2024-02-02,15,264-->
 
 В каком случае занятия спортом употребляется do?
 ?
 остальные виды спорта, йога, боевые искусства
-do box
+do box <!--SR:!2024-01-22,4,301-->
 
 Brain is going to use economic {{mode}} (режим).
 

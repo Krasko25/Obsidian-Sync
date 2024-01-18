@@ -17,7 +17,7 @@ People call them {{psychics}} (медиумы) <!--SR:!2024-02-06,20,261-->
 
 Salt {{splash}} (**to move in water so that drops of it go in all directions)** 
 
-I just got bored on my old job and started this office on a {{whim}} (**a sudden wish or idea, especially one that cannot be reasonably explained (прихоть))** 
+I just got bored on my old job and started this office on a {{whim}} (**a sudden wish or idea, especially one that cannot be reasonably explained (прихоть))** <!--SR:!2024-01-22,4,289--> 
 
 My {{holy}} blade(**related to a religion or a god)! It's broken.** <!--SR:!2024-01-21,9,265--> 
 

@@ -30,7 +30,7 @@ overcoming difficulties and at times even risking one's life. These are the thin
 
 eventually, I {{vow}} (**to make a** **determined** **decision** **or** **promise** **to do something) **to kill you
 
-You're still wet behind the ears>>_ <!--SR:!2024-01-18,17,296-->
+You're still wet behind the ears>>_ <!--SR:!2024-03-07,49,296-->
 
 He helps performers {{hone}} (**to** **direct** **something such as an** **ability** **to make it more** **effective)** their skills as dancers and singers.
 
@@ -50,11 +50,11 @@ Last year the company **seemed/looked** {{invincible}} (impossible to defeat or 
 
 hoe>>тяпка, мотыга 
 
-I was to lazy to milk this idea for 10 minutes>>_ <!--SR:!2024-01-18,10,282-->
+I was to lazy to milk this idea for 10 minutes>>_ <!--SR:!2024-02-17,30,282-->
 
 Am I still strong? I want to know. - he exceeds (**to go past the level, limit, rate, etc. that you are allowed) **the rumors
 
-{{Flee}} (**to escape by running away, especially because of danger or fear)** now, while you have a chance. <!--SR:!2024-01-18,3,273-->
+{{Flee}} (**to escape by running away, especially because of danger or fear)** now, while you have a chance. <!--SR:!2024-01-25,7,273-->
 
 Fighting for myself I won't {{pursue}} (**to follow someone or something, usually to try to catch him, her, or it)** my opponents.
 
@@ -67,7 +67,7 @@ give up the lying already>>_
 
 Your thoughts are quite {{profound}} (**felt or experienced very strongly or in an extreme way (очеь глубокое понимание))**, aren't they? <!--SR:!2024-02-01,17,263-->
 
-I won't forgive you. {{Talking ill}} (плохо отзваться) about my teacher <!--SR:!2024-01-18,10,283-->
+I won't forgive you. {{Talking ill}} (плохо отзваться) about my teacher <!--SR:!2024-02-16,29,283-->
 
 You're determined to {{advance}} (**to go or move something forward, or to develop or improve something)... **so you want this sword of yours back.
 

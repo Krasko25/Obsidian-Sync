@@ -170,8 +170,7 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "remotely-save:Remotely Save": false
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
   "active": "2f6e8fbda4e13929",

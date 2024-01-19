@@ -55,6 +55,7 @@ Daily portion of gratitude:
 - for the fact, that I finally started my preparation for the math exam,
 - for being a bit more conscious,
 - for going to bed earlier, than usually.
+
 ==January 5th, 2024==
 Almost all my life I had some portion of sport in my life. I was playing football, cycling, participating in some school sport activities, doing some stupid sport challenges, etc. However, I gain consistency with my individual trainings only two years ago. 
 
@@ -115,6 +116,7 @@ Those training goals can look a bit ambitious, but I think, that I will be able 
 - this note in not bad, it can be quite useful in the future,
 - good work with reading,
 - for the last few days I finally use my obsidian setup. All those notes can be useful not only in the future, but it also helps to understand information better.
+
 ==January 8th, 2024==
 Today was not a greatly productive day, but this time I have an excuse. The real winter finally started in our country and I had to spend a lot of time and efforts to clean off the snow out of our house territory. I had to do it twice, because the snow was not stopping. It seems, that I also caught a cold.
 
@@ -127,6 +129,7 @@ Gratitude punch:
 2) I think that the quality of my meditations has improved a bit;
 3) I continue my preparation for the exam on February 7th;
 4) I train according to my new training program, it is going good for now.
+
 ==January 9th, 2024==
 I continue to train according to my new program. Though I have to change it every once in a while. It happens because I use a few sources of information to build my training program and I'm yet to finish reading one book, that I use as a main source of information (maybe, I should have changed my workouts after finishing my system, but I was way to excited to wait).
 
@@ -136,6 +139,7 @@ Gratitude splash:
 1) I don't betray my new habits and keep taking care of them daily.
 2) I currently working on the quality of my reps during training. I slow down to learn to feel the work on my muscles and avoid traumas. All this is lowering the amount of reps and it hurts my ego so I want to praise myself for doing it.
 3) I manage to complete my list of calories each day for a few days in a row.
+
 ==January 10th, 2024==
 For the last few days my sleeping schedule was a mess. I fall asleep at about 2 am and wake up at about 11 or 12 am. Not only it takes me more time to sleep, but it also violates my level of energy. 
 
@@ -147,6 +151,7 @@ A gratitude dive:
 1) I'm grateful to myself for putting my sleep above other things.
 2) Being able not to be angry with myself for missing my dailies is also a good thing.
 3) I do routines to fix my scoliosis every day (though, I do it in different time because of my inconsistent sleep).
+
 ==January 11th, 2024==
 Today I was able to wake up way earlier than I usually do. I did all my dailies and had a lesson with my English teacher (actually I have one almost every day, but usually don't write about it). Though, I was not able to finish the project, that I was talking about, because I spend quite some time playing with friends. 
 
@@ -156,6 +161,7 @@ A gesture of gratitude:
 - I am grateful to myself for being able to spare some time to spend with my friends.
 - I did a good job reading today. I flew into the process and was reading for 70 minutes, which is more than usual.
 - I will fall asleep at relatively early time.
+
 ==January 12th, 2024==
 It snowed today. I was finishing a cleaning process at the moment when my mother got home from work. 
 
@@ -176,6 +182,7 @@ GRrrratitude time:
 - I keep doing exercises for my scoliosis every day;
 - I am falling asleep today;
 - I spare some time to play with my friends.
+
 ==January 14th, 2024==
 This day was a bit more productive. I was reading Crime and Punishment, having my English lesson, did some preparation for my math exam. Though I did not manage to fall asleep on time. 
 
@@ -183,6 +190,7 @@ Some praise:
 - I did a good job reading Crime and Punishment and breaking down it's chapters;
 - I manage to eat enough calories for the last few days;
 - I play with my dog every day, even if it is really cold outside.
+
 ==January 15th, 2024==
 Today was the second day of a new semester of my college learning. Today we had 5 lessons planed, but only 3 teachers decided to do theirs. I had a hard time listening to teacher during the first lesson, because of my sleeping schedule. The English lesson today was interesting, we were talking a lot about computer science stuff and also assured teacher to watch one anime.
 
@@ -191,9 +199,21 @@ The part with gratitude to myself:
 - I helped my parents by cleaning snow on our territory.
 - I wasted less time than yesterday (if we will not count a few hour of extra sleep).
 
+==January 16, 2024==
+Today I finally woke up relatively early (3 hours earlier than usual, but 2 hours later than according to my plan). I feel like this day was more successful, than the precious ones.
 
+After lessons in my college I had a workout and spent more time with my dog than usual. I made some progress reading the book, that I need to finish for my exam and did some homework.
 
-==January 19th, 2024==
+ Though I was not able to send it to teachers, because the electricity was turned off in the evening. I hope that we will get it back soon. On the bright side, thanks to the absence of electricity, today I will finally fall asleep on time.
+
+Today I also got a phone call about the exams. I will need to solve some problems with documents this week.
+
+Time to praise myself:
+1) I'm happy, that I am able to be positive even when talking about hardships.
+2) I continue to find creative ways to challenge myself during workouts.
+3) I will finally fall asleep on time. 
+
+==January 18th, 2024==
 Today I finally started my day exactly how I wanted. I woke up at 5:30 am, did a quick stretching, did some morning duties outside of the house, did my scoliosis routine, had a meditation and a breakfast. I had my entire morning routine finished at 6:45 am. It feels awesome.
 
 After the successful morning I did some good job with my homework and reading the book for my exam. I was even doing stretches between learning process. It was about 10 am and I had a lot of job done, so I decided to take a little break and... ... I wasted almost the entire day. The only useful things, that I have done during the rest of the day are taking an English lesson, training and providing some help to my parents.

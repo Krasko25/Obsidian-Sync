@@ -5,6 +5,14 @@
       "path": "Daily notes/2024/January/2024-01-19.md"
     },
     {
+      "basename": "D_Vagabond",
+      "path": "Archive/D_Vagabond.md"
+    },
+    {
+      "basename": "vagabond",
+      "path": "Archive/vagabond.md"
+    },
+    {
       "basename": "Tdiary",
       "path": "Archive/Tdiary.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Henry",
       "path": "Archive/Henry.md"
-    },
-    {
-      "basename": "How To Take Smart Notes (3 methods no one's talking about)",
-      "path": "Archive/How To Take Smart Notes (3 methods no one's talking about).md"
-    },
-    {
-      "basename": "Inshun",
-      "path": "Archive/Inshun.md"
     }
   ],
   "omittedPaths": [],

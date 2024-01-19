@@ -4,6 +4,8 @@ We admired your strength, we all wanted to {{befriend}} (help someone and be fri
 
 I {{concede}} (give up), you are stronger
 
+I though I was {{striving}} (attempt by {{employing}} (put into service) effort) to become stronger, but I was just covering things up with sand
+
 As the four seasons between heaven and earth flow in an endless cycle, so too, must man work his way, through his own cycles of seasons continuous. If you are able to to endure a long hard winter, a fresh new spring is sure to follow, invigorating with  strength renewed.>>_ #Mark/Quote <!--SR:!2024-01-27,18,256-->
 
 I feel {{overwhelmed}} (overcome by superior force) by this man's great presence?

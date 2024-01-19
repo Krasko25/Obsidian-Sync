@@ -6,7 +6,7 @@ sorry for the lack of {{clarity}} (the quality of being easily understood)
 
 And so I was wandering around if search for a {{foe}} (**an enemy) ** who could please my sword. <!--SR:!2024-01-24,22,260--> 
 
-I {{commend}} (**to formally praise or mention with approval someone or something)** you for removing your eyepatch from the start. <!--SR:!2024-01-19,26,270-->
+I {{commend}} (**to formally praise or mention with approval someone or something)** you for removing your eyepatch from the start. <!--SR:!2024-03-28,69,270-->
 
  <!--SR:!2023-12-10,9,287-->
 

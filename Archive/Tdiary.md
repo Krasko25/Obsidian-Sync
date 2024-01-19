@@ -234,4 +234,3 @@ For now my plan is simple, I will create some precise rules. I will have a right
 Tomorrow I will use a timer to measure my work periods. After each work session I will have an opportunity to choose the amount of time for leisure. It is impossible to extend a break time in that app, you can choose the duration only one time after your work session. I will have to pay for this leisure time with my Habitica coins according to my rates. I will also have a right to spend as much time as I want (for free) on stretching and other activities without electronic devices.
 
 I know, that those rules are way too easy to follow, but I think that it would be better to follow easy rules than breaking the hard ones.
-

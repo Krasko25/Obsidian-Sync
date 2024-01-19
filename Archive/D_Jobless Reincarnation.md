@@ -2,7 +2,7 @@
 
 you better take this L>>L = lose
 
-That was a big W for everybody>>W = win
+That was a big W for everybody>>W = win <!--SR:!2024-01-22,3,255-->
 
 I did it! I figured it out! - Hey, Sylph, {{wait up}} (go more slowly or stop until someone catches up.) 
 

@@ -16,7 +16,7 @@ Vegita! Stop vegiting it! You are making it worse! - Don't you verb me!>>_
 
 next-to-last; second last; last, but one>>_ <!--SR:!2024-01-20,3,277-->
 
-What can I do to make up to you?>>помириться
+What can I do to make up to you?>>помириться <!--SR:!2024-01-23,4,304-->
 
 I'm going to {{speak my mind}} (to tell what you are thinking about) and you are going to listen
 
@@ -149,7 +149,7 @@ I'll be doing {{bandage}} (a long, narrow piece of cloth that is tied around an 
 
 You will read a {{passage}} (a part of the text (отрывок)) of between 75 and 100 words regarding issue
 
-I was told that my suit is {{spoiled}} (to destroy or reduce the pleasure, interest, or beauty of something)
+I was told that my suit is {{spoiled}} (to destroy or reduce the pleasure, interest, or beauty of something) <!--SR:!2024-01-22,3,284-->
 
 
 
@@ -158,7 +158,7 @@ They {{set off}} (to start on a trip) again, the class looking at Pr. Lupin with
 
 {{troop}} (a group of solders) have ended
 
-{{Don't mind me}} (Don't pay me attention) _,_  said Denji to Makima <!--SR:!2024-01-19,7,264-->
+{{Don't mind me}} (Don't pay me attention) _,_  said Denji to Makima <!--SR:!2024-02-07,19,264-->
 
 {{hear me our}} (listen to me)!! I I'm here to help you. <!--SR:!2024-01-21,3,281-->
 
@@ -225,7 +225,7 @@ The {{fruitless}} (not producing the desired results, unsuccessful) tree should 
 There is too much {{luxury}} (The state of great comfort and extravagant living)![](local:///Users/connect/remnote/remnote-62c2eac9d4b97a004623c386/files/ZFWUGk_cOXMkVTGDQ0-7vKqQ48p_nfPyb5rPkaC7WMVry3OxX81F6ofArxUhKxIMUH-tZQ0h0-zznlJJMkfEF7MsxXQ653yjxsmBQDTg-4XE6p6PIYSoozthmVWkrDln.jpeg)
 
 There wouldn't be so hot if you hadn't thrown out the {{blinds}} (шторы)
-This {{frame}} (The lines and borders that contain the panels) of berserk is a masterpiece!! ![](local:///Users/connect/remnote/remnote-62c2eac9d4b97a004623c386/files/OTeS6UvUp8XKOMV5Elpln-MQGGRy4X5YTX3FLF7BqRzjaZezMzPPAH0qYeI9rNS_JhWGn9qLDB4YtXFy8474mPlm2GgOkAA4QAXhOijj8eNgsbqJDQAPAgbNrC7g9bUc.webp) <!--SR:!2000-01-01,1,250!2024-01-20,3,277-->
+This {{frame}} (The lines and borders that contain the panels) of berserk is a masterpiece!! ![](local:///Users/connect/remnote/remnote-62c2eac9d4b97a004623c386/files/OTeS6UvUp8XKOMV5Elpln-MQGGRy4X5YTX3FLF7BqRzjaZezMzPPAH0qYeI9rNS_JhWGn9qLDB4YtXFy8474mPlm2GgOkAA4QAXhOijj8eNgsbqJDQAPAgbNrC7g9bUc.webp) <!--SR:!2024-01-22,3,284!2024-01-20,3,277-->
 
 This is our frendship {{tie}} (a set of stories that explains our relationship to the other members of our network, галстуг).
 
@@ -252,7 +252,7 @@ Your {{twisted mind}} (извращённый ум) will kill us
 
 Your fate {{would be up to you}} (it will depend on you).
 
-Bett believe them to be {{like-minded}} (having similar tastes or opinions) about their friendship.
+Bett believe them to be {{like-minded}} (having similar tastes or opinions) about their friendship. <!--SR:!2024-01-22,3,284-->
 
 But your {{lifespan}} (the period during which something is functional (as between birth and death)) will be cut in two
 
@@ -300,7 +300,7 @@ Leila want us to {{worship}} (adoration and honor given to God) her.
 
 Leila was expected to be  {{charm}} (a pleasing quality that attracts others)
 
-Mom likes to cook something out of {{flour}} (мука, порошок)
+Mom likes to cook something out of {{flour}} (мука, порошок) <!--SR:!2024-01-23,4,304-->
 
 My phone is THE BEGGEST {{distraction}} (something that draws attention away) for me <!--SR:!2024-01-21,4,297-->
 
@@ -318,15 +318,15 @@ She literally {{gigled}} (to laugh) her lungs out
 
 Strike pressed Bristow's {{chest cage}} (грудная клетка) with his broken leg
 
-Such a {{demeanour}} (behaviour, manner of conduction oneself) is out of the social norms
+Such a {{demeanour}} (behaviour, manner of conduction oneself) is out of the social norms <!--SR:!2024-01-22,3,284-->
 
-The {{invasion}} (a situation when a large number of people came to a place in an annoying and unwanted way) of smart dogs put the end to humanity <!--SR:!2024-01-19,4,295-->
+The {{invasion}} (a situation when a large number of people came to a place in an annoying and unwanted way) of smart dogs put the end to humanity <!--SR:!2024-01-31,12,295-->
 
 The {{immortal}} (living forever) ones want the global warming <!--SR:!2024-01-30,18,304-->
 
 The ghost of that ink {{spot}} (a small, usually round area of colour that has different colour than the surface around it) still is the part of that carpet. <!--SR:!2024-02-08,27,274-->
 
-there is a {{pure}} (not mixed with anything else) evil in this book... <!--SR:!2024-01-19,4,295-->
+there is a {{pure}} (not mixed with anything else) evil in this book... <!--SR:!2024-02-01,13,295-->
 
 There's also DJ, who likes to DJ>>_
 
@@ -346,7 +346,7 @@ Yesterday we have  _??? (to move soldiers or equipment to a place where they can
 
 Yesterday we had {{deploy}} (to move soldiers or equipment to a place where they can be used when they are needed) on the moon.
 
-You mustn't {{reveal}} (to make known or show something that is surprising or that was previously secret) government secrets.
+You mustn't {{reveal}} (to make known or show something that is surprising or that was previously secret) government secrets. <!--SR:!2024-01-23,4,304-->
 
 This {{concept}} (a principle or idea) is broader than you think. <!--SR:!2024-01-22,10,282-->
 
@@ -421,7 +421,7 @@ Ten years of {{separation}} (**existing or happening independently or in a diffe
 
 His reputation was {{irreversibly}} (not possible to change; impossible to return to a previous condition) damaged by the affair.
 
-Cold weather {{retards}} (**to make something slower)** the growth of many plants. <!--SR:!2024-01-19,4,295-->
+Cold weather {{retards}} (**to make something slower)** the growth of many plants. <!--SR:!2024-02-02,14,295-->
 
 Identificate↔отождествлять
 

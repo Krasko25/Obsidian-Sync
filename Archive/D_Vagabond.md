@@ -4,7 +4,7 @@ We admired your strength, we all wanted to {{befriend}} (help someone and be fri
 
 I {{concede}} (give up), you are stronger
 
-I though I was {{striving}} (attempt by {{employing}} (put into service) effort) to become stronger, but I was just covering things up with sand
+I thought I was {{striving}} (attempt by {{employing}} (put into service) effort) to become stronger, but I was just covering things up with sand <!--SR:!2024-01-20,1,256!2000-01-01,1,250-->
 
 As the four seasons between heaven and earth flow in an endless cycle, so too, must man work his way, through his own cycles of seasons continuous. If you are able to to endure a long hard winter, a fresh new spring is sure to follow, invigorating with  strength renewed.>>_ #Mark/Quote <!--SR:!2024-01-27,18,256-->
 
@@ -44,7 +44,7 @@ At this {{rate}} (темп), the fire will spread, {{tear down}} (**to** **inten
 
 I want you to {{embrace}} (**to** **accept** **something** **enthusiastically)** the principle of not regretting what you have done, let go of the past, learn from your experiences. <!--SR:!2024-02-15,37,292-->
 
-Her face is peaceful. We will see her off tomorrow>>_ 
+Her face is peaceful. We will see her off tomorrow>>_ <!--SR:!2024-01-23,4,296-->
 
 the villagers grow weary of you and your incompetence 
 

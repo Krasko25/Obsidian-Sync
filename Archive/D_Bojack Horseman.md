@@ -1,7 +1,7 @@
 #cards/dictionary 
 Well, it's one thing for a woman to {{weep}} (to cry with tears), but when they do in a such a volume, you can hear it through the door, then you know they are doing it just for attention.
 
-red flags>>плохие предпосылки <!--SR:!2024-01-19,4,296-->
+red flags>>плохие предпосылки <!--SR:!2024-02-04,16,316-->
 
 l found your {{stashes}} (**to store or hide something, especially a large amount)** in the toilet paper rolls. How many of these do you take a day? <!--SR:!2024-02-10,29,275-->
 
@@ -45,7 +45,7 @@ to get to the bottom of things↔дойти до сути (серцевины).
 
 Oh, don't {{be cross}} (ругаться) with mother.
 
-You really {{let me down}} (**to disappoint someone by failing to do what you agreed to do or were expected to do) **, BoJack. You really {{let me down}}, Diane.
+You really {{let me down}} (**to disappoint someone by failing to do what you agreed to do or were expected to do) **, BoJack. You really {{let me down}}, Diane. <!--SR:!2024-01-22,3,279!2000-01-01,1,250-->
 
 I feel like we can beat this {{font}} (**a set of letters and symbols in a particular design and size (шрифт))** <!--SR:!2024-01-26,11,292--> 
 
@@ -55,7 +55,7 @@ Well, do you think it's true? Do I think L.A. is a tar {{pit}} (**a large hole i
 
 Jesus Christ! Juda, do you ever {{read a room}} (**to be or become aware of the opinions and attitudes of a group of people that you are talking to)**!? I'm sorry, is this a bad time?
 
-I don't know how you {{put up}} (**to accept or continue to accept an unpleasant situation or experience, or someone who behaves unpleasantly) **{{wit}}h me. I didn't {{put up with}} you. <!--SR:!2024-01-19,4,296!2024-01-24,12,284!2000-01-01,1,250-->
+I don't know how you {{put up}} (**to accept or continue to accept an unpleasant situation or experience, or someone who behaves unpleasantly) **{{wit}}h me. I didn't {{put up with}} you. <!--SR:!2024-02-05,17,316!2024-01-24,12,284!2000-01-01,1,250-->
 
 I'm good at driving sober, but I do not {{relish}} (**to like or enjoy something) **the opportunity. <!--SR:!2024-01-25,17,302--> 
 

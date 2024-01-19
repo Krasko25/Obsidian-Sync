@@ -1,8 +1,8 @@
 #cards/dictionary 
 
-Okey, dinner time. Don't be shy, {{chew down}} (to eat, especially in an informal situation) <!--SR:!2024-01-19,14,250-->  
+Okey, dinner time. Don't be shy, {{chew down}} (to eat, especially in an informal situation) <!--SR:!2024-02-22,34,250-->  
 
-I made sure to stick a tracker on them. My hair, {{remote}} (удаленный, дистанционный, отдаленный), hair!
+I made sure to stick a tracker on them. My hair, {{remote}} (удаленный, дистанционный, отдаленный) hair! <!--SR:!2024-01-23,4,270-->
 
 I can't be at the meeting and {{nor}} (neither) can Andrew  
 

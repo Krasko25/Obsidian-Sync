@@ -18,7 +18,7 @@ next-to-last; second last; last, but one>>_ <!--SR:!2024-01-20,3,277-->
 
 What can I do to make up to you?>>помириться <!--SR:!2024-01-23,4,304-->
 
-I'm going to {{speak my mind}} (to tell what you are thinking about) and you are going to listen
+I'm going to {{speak my mind}} (to tell what you are thinking about) and you are going to listen <!--SR:!2024-01-22,3,284-->
 
 spill>>проболтаться
 
@@ -220,7 +220,7 @@ Stop water my flowers with your {{snot}} (сопли)
 
 Thanks for {{upbrinпing}} (воспитание) me <!--SR:!2024-02-04,23,274-->
 
-The {{fruitless}} (not producing the desired results, unsuccessful) tree should be burned down
+The {{fruitless}} (not producing the desired results, unsuccessful) tree should be burned down <!--SR:!2024-01-23,4,304-->
 
 There is too much {{luxury}} (The state of great comfort and extravagant living)![](local:///Users/connect/remnote/remnote-62c2eac9d4b97a004623c386/files/ZFWUGk_cOXMkVTGDQ0-7vKqQ48p_nfPyb5rPkaC7WMVry3OxX81F6ofArxUhKxIMUH-tZQ0h0-zznlJJMkfEF7MsxXQ653yjxsmBQDTg-4XE6p6PIYSoozthmVWkrDln.jpeg)
 

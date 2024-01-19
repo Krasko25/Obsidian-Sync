@@ -2,7 +2,7 @@
 
 That was not worth it! It's {{corny}} **((especially of jokes, films, stories, etc.) showing no new ideas or too often repeated, and therefore not funny or interesting (банально)). You **{{**corn**}} (зерно, виды зерновых растений (пшеница, ячмень), в особенности - кукуруза).
 
-You see, night you in not {{in charge}} (**being the person who has control of or is responsible for someone or something)**. I don't care!
+You see, night you in not {{in charge}} (**being the person who has control of or is responsible for someone or something)**. I don't care! <!--SR:!2024-01-22,3,268-->
 
 Ok, I'm gonna take the truck in exchange for not {{turning you in}} (не сдам вас) (Then what he did, {{ __turning you in__ }}, must've changed things.) <!--SR:!2000-01-01,1,250!2024-03-12,63,310-->
 

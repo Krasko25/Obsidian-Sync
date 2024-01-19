@@ -234,3 +234,21 @@ For now my plan is simple, I will create some precise rules. I will have a right
 Tomorrow I will use a timer to measure my work periods. After each work session I will have an opportunity to choose the amount of time for leisure. It is impossible to extend a break time in that app, you can choose the duration only one time after your work session. I will have to pay for this leisure time with my Habitica coins according to my rates. I will also have a right to spend as much time as I want (for free) on stretching and other activities without electronic devices.
 
 I know, that those rules are way too easy to follow, but I think that it would be better to follow easy rules than breaking the hard ones.
+==January 19th, 2024==
+Today I woke up quite late. I did my morning routine, cooked one dish to take some problems out of my mother's plate and had a training. After that I was expecting my friends to visit me. They did, but, unexpectedly, my sister, her husband and my nephew came at the came time as my friends did. Spending time with my family and friends took quite a lot of time, so I was able to only do the Habitica call, English lesson and write this note. I aim for a long term development, so I will prioritise my sleep.
+
+By the way, my nephew is going to spend a night at our place.
+
+During the Habitica call I choose the same goals as I had during the previous week. I did that because I just didn't feel like I have achieved them. Though I think that It would be better to choose something, the progress in which is easier to measure.
+
+During the upcoming week I want to:
+1) Have at least 5 days, when I fall asleep and wake up on time.
+2) I am currently learning at one online course to prepare for my math exam. Currently I have 20% of progress. I want to have 30-40% of progress by the end of this week.
+3) I want to read at least part number 5 of the book "Crime and Punishment" (5 chapters).
+
+A pinch of gratitude:
+- It is good that I put my sleep above other things.
+- Technically speaking, I did not break any of the rules, that I have created for myself yesterday.
+- I'm glad that I got to spend some time with my family and friend.
+- My trainings are consistent.
+- The Habitica call was interesting, I am happy, that I'm a part of this party.

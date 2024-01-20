@@ -252,3 +252,6 @@ A pinch of gratitude:
 - I'm glad that I got to spend some time with my family and friend.
 - My trainings are consistent.
 - The Habitica call was interesting, I am happy, that I'm a part of this party.
+==January 20th, 2024==
+
+Just as expected, It took more time than we expected it to take.

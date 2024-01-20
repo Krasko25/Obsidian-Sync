@@ -268,7 +268,14 @@ A pinch of gratitude:
 ==January 20th, 2024==
 Today I spend quite a lot of time helping my parents and playing with my nephew. Today my father wanted to setup the electricity generator, that we brought home on January 17th. I was helping him. He believed that it would take almost no time. Just as expected, It took more hours than we expected it to take. Even after all this time, it did not start to work.
 
-All those activities took quite a lot of time, but I managed to do an ok amount of work. I finally did some progress with my math preparation, was reading a book for the exam, another book, had a training, an English lesson, a bit of homework and felt asleep in time. I did a bit of everything, but I still consider it to be a progress.
+All those activities took quite a lot of time, but I managed to do an ok amount of work. I finally did some progress with my math preparation, was reading a book (not the one for exam), had a training, an English lesson, a bit of homework and felt asleep in time. I did a bit of everything, but I still consider it to be a progress.
 
-Gratitude 
+I also spend some time training with my nephew. He is 10. Each time he spends some time at my place I'm doing that and each time he looses all the progress and form and we start from the scratch. I know that he is 10, but it is still frustrating. I hope that I'm not being too strict with him.
+
+Gratitude moment:
+1) I'm grateful for myself for helping my parents;
+2) for being patient;
+3) for taking care of my nephew;
+4) for respecting the rules, that I set for myself beforehand;
+5) for going to bed early.
 

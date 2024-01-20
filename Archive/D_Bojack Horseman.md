@@ -29,7 +29,7 @@ You'll have to say, "I'm sad-sad girl with a dirty apartment", - but I'll let yo
 
 What did you order? - The {{through}} (всё меню по одному блюду)! He wants the {{through}} (всё меню по одному блюду) <!--SR:!2000-01-01,1,250!2024-01-26,11,293-->
 
-The man is willing to give you a second chance, he is downstairs waiting, and you will be {{civil}} (будешь вежливой) to him. <!--SR:!2024-01-20,3,278-->
+The man is willing to give you a second chance, he is downstairs waiting, and you will be {{civil}} (будешь вежливой) to him. <!--SR:!2024-02-02,13,298-->
 
 'It smells terrible in here,' said Francis. 'Tomorrow, if it's warm, we'll {{air it out}} (wind) 
 

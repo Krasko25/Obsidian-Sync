@@ -4,7 +4,7 @@ Imma>>I am gonna (I am going to)
 
 Lmao>>laughing my ass off <!--SR:!2024-03-03,55,310-->
 
-otw>>on the way <!--SR:!2024-01-20,11,289-->
+otw>>on the way <!--SR:!2024-03-03,43,309-->
 
 bb>>byebye <!--SR:!2024-01-31,13,300-->
 
@@ -64,4 +64,4 @@ CU>>see you
 
 IDC>>I don't care <!--SR:!2024-01-28,14,293-->
 
-sus>>suspicious
+sus>>suspicious <!--SR:!2024-01-24,4,304-->

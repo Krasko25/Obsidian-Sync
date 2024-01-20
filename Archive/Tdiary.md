@@ -172,7 +172,7 @@ It snowed today. I was finishing a cleaning process at the moment when my mother
 
 
 ==January 13th, 2024==
-Today our Habitica party had a call. It got to talk to each other, that, in my opinion, will help us to be more motivated not to let each other down. Not only that, I finally got to talk to like minded people in English and it was really interesting. I'm learning this language for about 4 years now and I like English a lot. It can sound silly, but it feels kind of lonely to be not able to talk to almost anyone on it. 
+Today our Habitica party had a call. We got to talk to each other, that, in my opinion, will help us to be more motivated not to let each other down. Not only that, I finally got to talk to like minded people in English and it was really interesting. I'm learning this language for about 4 years now and I like English a lot. It can sound silly, but it feels kind of lonely not to be able to talk to almost anyone on it. 
 
 I decided that my main goal for this week is to build my sleeping schedule. Today I'm going to bed only 1.5 hours later, that I had to. Not matter how funny it sound, but it is already some kind of a progress.
 
@@ -180,7 +180,7 @@ P.S: yes, I'm not talking about everything else today, because there is almost n
 
 GRrrratitude time:
 - I keep doing exercises for my scoliosis every day;
-- I am falling asleep today;
+- I am falling asleep today (not tomorrow);
 - I spare some time to play with my friends.
 
 ==January 14th, 2024==
@@ -213,6 +213,19 @@ Time to praise myself:
 2) I continue to find creative ways to challenge myself during workouts.
 3) I will finally fall asleep on time. 
 
+==January 17th, 2024== This note was written on January 20th
+
+I still had no electricity. Also I got a phone call about my exams yesterday, I had to appear at one place to sign some documents. I also had some online lectures today. Obviously I would not be able to be present on them because I had no electricity. I came up with this plan: go to the place where I needed to sign documents and use mobile network to participate on the main online class there (there is no mobile network in my village).
+
+This time I got the the bus stop without running!!! Though I was originally planning to take a previous bus... Anyway, it's still counts! 
+
+There were some unexpected events, so I had to participate in that online class while being on the street. That teacher allowed people not to write a summary of a lecture if the one was answering during an online class (I must have made a few grammar mistakes here so feel free to correct me). However, the teacher did not allow me to do this, because I already have got a few grades like this. I was trying to persist. The teacher asked me about my reasons. I said, that I would have to write a lecture if I don't get a grade. She laughed and said that it would not kill me to write a lecture once in a while.
+
+After that I signed those documents. There were two options: easier exam and harder one. I have chosen the harder variation, because it will give me more options for learning in the future. I got to choose the subjects, that I wanted to be examined for. Other than the subjects, that I needed to get to the university on my profession, I choose the written and oral English exams. I don't have to participate in them, I did it just for fun. I think, that I have some good chance to pass them successfully. 
+
+After I got home I helped my father with one business. We still had no electricity, so he decided to use the electricity generator, that was bought many years before, but was not used. Though it was placed far from our home, so we had to use a car. The generator weighted more than 50 kg, so it was quite hard to deliver it, we spend more than an hour to do that. Obviously, as soon as we brought the generator (how else could this be), the electricity from government was turned on.
+
+I don't recall the other part of this day, because I'm writing it on January 20th.
 ==January 18th, 2024==
 Today I finally started my day exactly how I wanted. I woke up at 5:30 am, did a quick stretching, did some morning duties outside of the house, did my scoliosis routine, had a meditation and a breakfast. I had my entire morning routine finished at 6:45 am. It feels awesome.
 
@@ -253,5 +266,9 @@ A pinch of gratitude:
 - My trainings are consistent.
 - The Habitica call was interesting, I am happy, that I'm a part of this party.
 ==January 20th, 2024==
+Today I spend quite a lot of time helping my parents and playing with my nephew. Today my father wanted to setup the electricity generator, that we brought home on January 17th. I was helping him. He believed that it would take almost no time. Just as expected, It took more hours than we expected it to take. Even after all this time, it did not start to work.
 
-Just as expected, It took more time than we expected it to take.
+All those activities took quite a lot of time, but I managed to do an ok amount of work. I finally did some progress with my math preparation, was reading a book for the exam, another book, had a training, an English lesson, a bit of homework and felt asleep in time. I did a bit of everything, but I still consider it to be a progress.
+
+Gratitude 
+

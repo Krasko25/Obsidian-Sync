@@ -14,13 +14,13 @@ Nanotechnology. Ah, you have {{outdone}} (be or do something to a greater degree
 
 Vegita! Stop vegiting it! You are making it worse! - Don't you verb me!>>_
 
-next-to-last; second last; last, but one>>_ <!--SR:!2024-01-20,3,277-->
+next-to-last; second last; last, but one>>_ <!--SR:!2024-01-27,7,277-->
 
 What can I do to make up to you?>>помириться <!--SR:!2024-01-23,4,304-->
 
 I'm going to {{speak my mind}} (to tell what you are thinking about) and you are going to listen <!--SR:!2024-01-22,3,284-->
 
-spill>>проболтаться
+spill>>проболтаться <!--SR:!2024-01-24,4,306-->
 
 staff and stuff>>сотрудники и хлам <!--SR:!2024-01-21,3,281-->
 
@@ -30,7 +30,7 @@ norm>>критерий, норматив
 
 maid>>горничная
 
-mop the floor>>мыть полы <!--SR:!2024-01-20,3,277-->
+mop the floor>>мыть полы <!--SR:!2024-01-28,8,277-->
 
 She hired a lawyer who {{specializes}} (**to** **stud y** **or** **work** **on a** **particular** **subject** **or** **skill** **more than any** **others, so that you** **become** **an** **expert** **in it (адаптация))** in divorce cases.
 
@@ -68,7 +68,7 @@ one should be careful when crossing the street>>_
 
 one must always keep one's word>>_ <!--SR:!2024-01-22,10,284-->
 
-between the three of us>>_ <!--SR:!2024-01-20,3,277-->
+between the three of us>>_ <!--SR:!2024-01-29,9,277-->
 
 Michael was on a good run with his homework>>_ <!--SR:!2024-01-26,8,275-->
 
@@ -80,7 +80,7 @@ From my {{perspective}}, this was not a crime.
 
 to view a situation from a new perspective>>с новой точки зрения <!--SR:!2024-01-22,4,301-->
 
-Second class-citizen person>>_
+Second class-citizen person>>_ <!--SR:!2024-01-24,4,306-->
 
 give it a shot>>_ <!--SR:!2024-02-17,36,294-->
 
@@ -95,7 +95,7 @@ aircraft in plural form>>aircraft and words with -craft has the same form in sin
 
 deer in plural form>>deer
 
-fish in plural form>>fish
+fish in plural form>>fish <!--SR:!2024-01-24,4,306-->
 
 You in a single form
 ?
@@ -129,7 +129,7 @@ but it involves an extremely {{blue}} (пошлая, грубая) __ joke__ .
 
 I've been feeling kind of {{blue}} (perfect blue).
 
-The {{womb}} (утроба матери) represents the very first place in which life takes form. <!--SR:!2024-01-20,8,264-->
+The {{womb}} (утроба матери) represents the very first place in which life takes form. <!--SR:!2024-02-08,19,264-->
 
 We were playing {{board games}} (table games) on that tree a lot.
 
@@ -204,11 +204,11 @@ His {{background}} (past experience) makes everyone tremble
 
 I have the {{warrant}} (A legal paper, issued by a court, giving police permission to make an arrest, seizure, or search.), to search here.
 
-Is my {{whereabouts}} (The place in or near which a person or thing is.) important? <!--SR:!2024-01-20,3,277-->
+Is my {{whereabouts}} (The place in or near which a person or thing is.) important? <!--SR:!2024-01-26,6,277-->
 
 It seems I'm going to {{obtein a scholarship}}(get a grant)
 
-It was a {{white lie}} (lie which a person feels is not serious or has few consequences). He won't be punished.
+It was a {{white lie}} (lie which a person feels is not serious or has few consequences). He won't be punished. <!--SR:!2024-01-24,4,306-->
 
 Kill him!!! He is an {{accomplice}} (a person who takes part in a crime) <!--SR:!2024-02-22,41,294-->
 
@@ -225,7 +225,7 @@ The {{fruitless}} (not producing the desired results, unsuccessful) tree should 
 There is too much {{luxury}} (The state of great comfort and extravagant living)![](local:///Users/connect/remnote/remnote-62c2eac9d4b97a004623c386/files/ZFWUGk_cOXMkVTGDQ0-7vKqQ48p_nfPyb5rPkaC7WMVry3OxX81F6ofArxUhKxIMUH-tZQ0h0-zznlJJMkfEF7MsxXQ653yjxsmBQDTg-4XE6p6PIYSoozthmVWkrDln.jpeg)
 
 There wouldn't be so hot if you hadn't thrown out the {{blinds}} (шторы)
-This {{frame}} (The lines and borders that contain the panels) of berserk is a masterpiece!! ![](local:///Users/connect/remnote/remnote-62c2eac9d4b97a004623c386/files/OTeS6UvUp8XKOMV5Elpln-MQGGRy4X5YTX3FLF7BqRzjaZezMzPPAH0qYeI9rNS_JhWGn9qLDB4YtXFy8474mPlm2GgOkAA4QAXhOijj8eNgsbqJDQAPAgbNrC7g9bUc.webp) <!--SR:!2024-01-22,3,284!2024-01-20,3,277-->
+This {{frame}} (The lines and borders that contain the panels) of berserk is a masterpiece!! ![](local:///Users/connect/remnote/remnote-62c2eac9d4b97a004623c386/files/OTeS6UvUp8XKOMV5Elpln-MQGGRy4X5YTX3FLF7BqRzjaZezMzPPAH0qYeI9rNS_JhWGn9qLDB4YtXFy8474mPlm2GgOkAA4QAXhOijj8eNgsbqJDQAPAgbNrC7g9bUc.webp) <!--SR:!2024-01-22,3,284!2024-01-30,10,277-->
 
 This is our frendship {{tie}} (a set of stories that explains our relationship to the other members of our network, галстуг).
 
@@ -242,11 +242,11 @@ You will be my main {{heir}} (a person legally entitled to the property or rank 
 
 run down street>>захудалая улица
 
-Your {{hard-luck story}} (a story or piece of information that someone tells you or writes about himself or herself, intended to make you feel sympathy for that person) story makes me sad, you should go.
+Your {{hard-luck story}} (a story or piece of information that someone tells you or writes about himself or herself, intended to make you feel sympathy for that person) story makes me sad, you should go. <!--SR:!2024-01-24,4,306-->
 
 Your {{internal}} (existing**, **intendent** **for**, **or** **happening inside the body**, **organizathion**, **place**, **country**, **etc.) thoughts have always been unclear for me.
 
-Your {{vehicle}} (transport) is a piece of trash!
+Your {{vehicle}} (transport) is a piece of trash! <!--SR:!2024-01-24,4,306-->
 
 Your {{twisted mind}} (извращённый ум) will kill us
 
@@ -278,9 +278,9 @@ I am {{assure}} (make sure) you, you will got terrifying death, once I got home 
 
 I am capable to {{talk up}} (to make something sound very attractive) this product
 
-I am sick of {{military action}} (военные действия)
+I am sick of {{military action}} (военные действия) <!--SR:!2024-01-24,4,306-->
 
-I dream Nikita to get the second English wind.>>second wind <!--SR:!2024-01-20,3,277-->
+I dream Nikita to get the second English wind.>>second wind <!--SR:!2024-02-01,12,297-->
 
 I suppose him to be a great {{scapegoat}} (a person or thing carrying the blame for others)
 
@@ -292,7 +292,8 @@ It takes double or even {{triple}} amount of time
 
 Laila's {{impunity}} (freedom from punishment) helps to avoid problems
 
-LD carried out her {{threat}} (a suggestion that something unpleasant or violent will happen) about her neighbours.
+LD carried out her {{threat}} (a suggestion that something unpleasant or violent will happen) in a form 
+her neighbours. <!--SR:!2024-01-23,3,286-->
 
 Leila had an amazing {{artistic process}} (creative process) yesterday
 
@@ -314,7 +315,7 @@ preposition (prep.)↔предлог
 
 pronoun↔местоимение
 
-She literally {{gigled}} (to laugh) her lungs out
+She literally {{gigled}} (to laugh) her lungs out <!--SR:!2024-01-23,3,286-->
 
 Strike pressed Bristow's {{chest cage}} (грудная клетка) with his broken leg
 
@@ -403,13 +404,13 @@ Many people in this area are {{descendants}} (**a person who is related to you a
 
 She has a right to the {{property}} (собственность). <!--SR:!2024-02-15,34,270-->
 
-Also I will consider the {{regularity}} (закономерности) between development of individual, humanity in general and religion. <!--SR:!2024-01-20,3,277-->
+Also I will consider the {{regularity}} (закономерности) between development of individual, humanity in general and religion. <!--SR:!2024-01-28,8,277-->
 
 Despite having a large family, they still had no **son and** {{heir}} (**a person who will legally receive money, property, or a title from another person, especially an older member of the same family, when that other person dies).**
 
 It's important not to {{jump to conclusions}} (спешить с выводами). <!--SR:!2024-01-21,4,297-->
 
-She worked her way up through the corporate {{hierarchy}} (**a system in which people or things are arranged according to their importance)** to become president. <!--SR:!2024-01-20,3,277-->
+She worked her way up through the corporate {{hierarchy}} (**a system in which people or things are arranged according to their importance)** to become president. <!--SR:!2024-01-27,7,277-->
 
 he happens to be in Moscow>>_
 

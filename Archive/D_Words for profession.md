@@ -28,4 +28,4 @@ backend↔server-side
 A man with deep-set eyes
 Her college is set in the countryside
 The novel is set ^^(действие разворачивается)^^ in France
-We are set^^ (готовы)^^ to go at any time. <!--SR:!2024-01-21,13,294-->
+We are set^^ (готовы)^^ to go at any time. <!--SR:!2024-03-13,52,314-->

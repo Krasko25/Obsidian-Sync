@@ -20,9 +20,9 @@ Are you looking {{down on us}} (смотреть свысока) like that? <!--
 
 You can't protect him anymore, "the white man's books", they were hidden in his {{tent}} (палатка). <!--SR:!2024-02-13,39,290-->
 
-A syndrome where he has the urge to dis{{assemble}} (**to separate something into its different parts) **everything. When he was ten, he dis{{assembled}} his neighbours car. <!--SR:!2024-01-21,12,279!2000-01-01,1,250-->
+A syndrome where he has the urge to dis{{assemble}} (**to separate something into its different parts) **everything. When he was ten, he dis{{assembled}} his neighbours car. <!--SR:!2024-02-20,30,279!2000-01-01,1,250-->
 
-But I can't reach Jolyne by myself. I need {{backup}} (**(someone or something that provides) support or help, or something that you have arranged in case your main plans, equipment, etc. go wrong)** <!--SR:!2024-01-21,3,263--> 
+But I can't reach Jolyne by myself. I need {{backup}} (**(someone or something that provides) support or help, or something that you have arranged in case your main plans, equipment, etc. go wrong)** <!--SR:!2024-01-27,6,263--> 
 
 {{Hold on}} (wait)! What are you {{plotting}} (замысел, заговор?) <!--SR:!2000-01-01,1,250!2024-02-10,26,274-->
 

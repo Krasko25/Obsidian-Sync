@@ -19,7 +19,7 @@ Salt {{splash}} (**to move in water so that drops of it go in all directions)**
 
 I just got bored on my old job and started this office on a {{whim}} (**a sudden wish or idea, especially one that cannot be reasonably explained (прихоть))** <!--SR:!2024-01-22,4,289--> 
 
-My {{holy}} blade(**related to a religion or a god)! It's broken.** <!--SR:!2024-01-21,9,265--> 
+My {{holy}} blade(**related to a religion or a god)! It's broken.** <!--SR:!2024-02-27,37,285--> 
 
 He's already been brought back to this {{realm}} (сфера деятельности (new discoveries in the realm of medicine, in the {{realm}} of electronic states) <!--SR:!2024-01-24,4,290!2024-01-24,4,290--> 
 
@@ -43,7 +43,7 @@ Don't {{twist}} (to change the meaning of the words) my words <!--SR:!2024-02-04
 
 for the fun of it>>_ <!--SR:!2024-01-26,18,301-->
 
-man up>>**used to** **tell** **someone that they should** **deal** **with something more** **bravely** <!--SR:!2024-01-21,9,265-->
+man up>>**used to** **tell** **someone that they should** **deal** **with something more** **bravely** <!--SR:!2024-02-21,31,285-->
 
 You're actually making me use my {{trump card}} (**an** **advantage** **that makes you more** **likely** **to** **succeed** **than other** **people,** **especially something that other** **people** **do not** **know** **about)** 
 

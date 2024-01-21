@@ -4,4 +4,4 @@ But before you do, you must {{undertake}} (**to do or begin to do something, esp
 
 One piece 1015 {{breakdown}} (анализ) 
 
-Black beard is a {{wild card}} (a person or thing whose influence is unpredictable or whose qualities are uncertain.)
+Black beard is a {{wild card}} (a person or thing whose influence is unpredictable or whose qualities are uncertain.) <!--SR:!2024-01-25,4,272-->

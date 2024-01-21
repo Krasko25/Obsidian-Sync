@@ -36,11 +36,11 @@ You're still wet behind the ears>>_ <!--SR:!2024-03-07,49,296-->
 
 He helps performers {{hone}} (**to** **direct** **something such as an** **ability** **to make it more** **effective)** their skills as dancers and singers.
 
-I thought you might have matured a little. Don't you realise how {{precious}} (драгоценна) the life is <!--SR:!2024-01-21,4,293-->
+I thought you might have matured a little. Don't you realise how {{precious}} (драгоценна) the life is <!--SR:!2024-02-07,17,313-->
 
 He had Yashioka Denshichiro in a {{deadlock}} (тупик, безвыходная ситуация) <!--SR:!2024-01-25,10,290-->
 
-At this {{rate}} (темп), the fire will spread, {{tear down}} (**to** **intentionally** **destroy** **a** **building** **or other** **structure** **because it is not being used or it is not** **wanted** **any more)** what is left of it <!--SR:!2000-01-01,1,250!2024-01-21,12,284-->
+At this {{rate}} (темп), the fire will spread, {{tear down}} (**to** **intentionally** **destroy** **a** **building** **or other** **structure** **because it is not being used or it is not** **wanted** **any more)** what is left of it <!--SR:!2000-01-01,1,250!2024-02-23,33,284-->
 
 I want you to {{embrace}} (**to** **accept** **something** **enthusiastically)** the principle of not regretting what you have done, let go of the past, learn from your experiences. <!--SR:!2024-02-15,37,292-->
 
@@ -63,7 +63,7 @@ Fighting for myself I won't {{pursue}} (**to follow someone or something, usuall
 Even if you are {{crippled}} (**an extremely offensive word for a person whose legs or arms do not work in the usual way)**, you are still Musashi. She was {{crippled}} in a car accident. <!--SR:!2024-01-26,12,290!2024-01-28,19,256-->
 
 With this leg, this trip is three times as {{tiring}} (утомляющая)
-While he is doing that, Musashi's reputation will reach the {{topmost}} (the highest point of something (reputation)) level. <!--SR:!2024-01-21,4,293!2024-01-25,10,290-->
+While he is doing that, Musashi's reputation will reach the {{topmost}} (the highest point of something (reputation)) level. <!--SR:!2024-02-06,16,313!2024-01-25,10,290-->
 
 give up the lying already>>_ 
 
@@ -79,7 +79,7 @@ Was you looking for a way to die the ??? (**moral in an honest, brave, and kind 
 ?
 We entered into a noble forest.
 He was a man of noble character.
-She was descended from an old Italian noble family. <!--SR:!2024-01-21,4,293-->
+She was descended from an old Italian noble family. <!--SR:!2024-02-04,14,293-->
 
 The body learns and {{acquires}} (**to gradually learn or gain something such as a language or skill) **it. That is how I survived. <!--SR:!2024-01-23,9,270-->
 

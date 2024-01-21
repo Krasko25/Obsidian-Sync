@@ -31,6 +31,6 @@ Your job is to raise them and then put them to work, make sure not to grow {{att
 
 I think you'll make a good {{leash}} (**a piece of rope, chain, etc. tied to an animal, especially to a dog at its collar when taking it for a walk:)** for the two of them. <!--SR:!2024-02-02,23,270-->
 
-You don't need to worry. Power said she would {{behave}} (**to act in a particular way);** <!--SR:!2024-01-21,3,262-->
+You don't need to worry. Power said she would {{behave}} (**to act in a particular way);** <!--SR:!2024-01-28,7,262-->
 
 Ghost! - No, that girl is {{dreadful}} (**causing fear, shock, or suffering).** <!--SR:!2024-02-13,27,276-->

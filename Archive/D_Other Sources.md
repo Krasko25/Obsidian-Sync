@@ -4,7 +4,7 @@
 
 
 
-He's a {{crafty}} (хитрый, коварный) old devil. <!--SR:!2024-01-21,3,281-->
+He's a {{crafty}} (хитрый, коварный) old devil. <!--SR:!2024-01-28,7,281-->
 
 I'm afraid to {{second-guess}} (**to** **guess** **what someone will do in the** **future)**, but I think that it is healthy <!--SR:!2024-01-31,19,254-->
 
@@ -22,7 +22,7 @@ I'm going to {{speak my mind}} (to tell what you are thinking about) and you are
 
 spill>>проболтаться <!--SR:!2024-01-24,4,306-->
 
-staff and stuff>>сотрудники и хлам <!--SR:!2024-01-21,3,281-->
+staff and stuff>>сотрудники и хлам <!--SR:!2024-01-30,9,281-->
 
 He had been {{grilling}} (**to** **ask** **someone a lot of** **questions** **for a** **long** **time)** me <!--SR:!2024-01-22,10,284-->
 
@@ -34,7 +34,7 @@ mop the floor>>мыть полы <!--SR:!2024-01-28,8,277-->
 
 She hired a lawyer who {{specializes}} (**to** **stud y** **or** **work** **on a** **particular** **subject** **or** **skill** **more than any** **others, so that you** **become** **an** **expert** **in it (адаптация))** in divorce cases.
 
-sign up>>регистрироваться
+sign up>>регистрироваться <!--SR:!2024-01-25,4,309-->
 
 go through something
 !
@@ -91,7 +91,7 @@ man in plural form>>men
 to run across>>натолкнуться
 
 This airport can handle more than 300 {{aircraft}} (**any vehicle, with or without an engine, that can fly, such as a plane or helicopter) **every day
-aircraft in plural form>>aircraft and words with -craft has the same form in singular and plural form
+aircraft in plural form>>aircraft and words with -craft has the same form in singular and plural form <!--SR:!2024-01-24,3,289-->
 
 deer in plural form>>deer
 
@@ -105,7 +105,7 @@ thy - твой (зай)
 
 Thou>>ты (древнее) (Зау)
 
-Thee>>тебя (древнее) <!--SR:!2024-01-21,3,281-->
+Thee>>тебя (древнее) <!--SR:!2024-01-29,8,281-->
 
 Thy>>твой (древнее)
 
@@ -115,7 +115,7 @@ He left just after {{nightfall}} (the time in the evening when it becomes dark).
 
 The wolf is a {{predator}} (хищник)
 
-I am willing to try anything at this point>>_ <!--SR:!2024-01-21,3,281-->
+I am willing to try anything at this point>>_ <!--SR:!2024-01-30,9,281-->
 
 The man was {{well over}} (сильно больше) eighty
 
@@ -137,7 +137,7 @@ He can be depend on>>_
 
 I believe that {{posters}} (плакаты) on the school walls is trash
 
-Pen - ручка; {{pan}} - кастрюля
+Pen - ручка; {{pan}} - кастрюля <!--SR:!2024-01-25,4,309-->
 
 You doomed to die in Donbass without {{lighter}}  (зажигалка).
 
@@ -160,9 +160,9 @@ They {{set off}} (to start on a trip) again, the class looking at Pr. Lupin with
 
 {{Don't mind me}} (Don't pay me attention) _,_  said Denji to Makima <!--SR:!2024-02-07,19,264-->
 
-{{hear me our}} (listen to me)!! I I'm here to help you. <!--SR:!2024-01-21,3,281-->
+{{hear me our}} (listen to me)!! I I'm here to help you. <!--SR:!2024-02-01,11,301-->
 
-{{adoration}} is very strong love of worship for someone <!--SR:!2024-01-21,4,297-->
+{{adoration}} is very strong love or worship for someone <!--SR:!2024-02-02,12,297-->
 
 adjective (adj.)↔прилагательное
 
@@ -170,7 +170,7 @@ adverb (adv.)↔наречие
 
 articles↔артикли
 
-No Tom was there>>_ <!--SR:!2024-01-21,4,297-->
+No Tom was there>>_ <!--SR:!2024-02-05,15,317-->
 
 {{adolescence}} (the time period between the beginning of puberty and adulthood) is a dangerous period
 
@@ -184,7 +184,7 @@ sequence of tenses>>согласование времен
 
 {{unfulfilled }}(unrealised) persons tend to be miserable
 
-{{self-doubt}} (Сомнения в себе) is a serious illness
+{{self-doubt}} (Сомнения в себе) is a serious illness <!--SR:!2024-01-24,3,289-->
 
 Go to work once you {{recover}} (get better)
 
@@ -229,7 +229,7 @@ This {{frame}} (The lines and borders that contain the panels) of berserk is a m
 
 This is our frendship {{tie}} (a set of stories that explains our relationship to the other members of our network, галстуг).
 
-This snake {{tempted}} (try to get someone to do something; test; invite (искушать)) me, it's its fault. <!--SR:!2024-01-21,9,284-->
+This snake {{tempted}} (try to get someone to do something; test; invite (искушать)) me, it's its fault. <!--SR:!2024-02-15,25,284-->
 
 Today he looks to be {{initiating}} (to begin (приступать)) the war
 We can't trust him, we don't know what he {{is up to (to be up to)}} (going to do).
@@ -260,7 +260,7 @@ Classroom teacher have to {{scold}} (to find fault with angrily) after every exa
 
 conjunction (conj.)↔союз
 
-Don't {{stretch, exaggerate}} (преувеличивать) this problem <!--SR:!2024-01-21,4,297-->
+Don't {{stretch, exaggerate}} (преувеличивать) this problem <!--SR:!2024-02-06,16,317-->
 
 Don't put this {{dilly-dally}} (финти флюшки) on my workspace
 
@@ -272,7 +272,7 @@ Hunter is a way cuter {{compared }}(to put things together to see how they ate t
 
 He got his tooth out {{on a dare}} (на спор)
 
-He was {{listing}} (A sentence with multiple phrases that create a list) his rewords for today and yesterday and the day before yesterday <!--SR:!2024-01-21,9,284-->
+He was {{listing}} (A sentence with multiple phrases that create a list) his rewords for today and yesterday and the day before yesterday <!--SR:!2024-02-25,35,304-->
 
 I am {{assure}} (make sure) you, you will got terrifying death, once I got home <!--SR:!2024-02-05,24,274-->
 
@@ -303,7 +303,7 @@ Leila was expected to be  {{charm}} (a pleasing quality that attracts others)
 
 Mom likes to cook something out of {{flour}} (мука, порошок) <!--SR:!2024-01-23,4,304-->
 
-My phone is THE BEGGEST {{distraction}} (something that draws attention away) for me <!--SR:!2024-01-21,4,297-->
+My phone is THE BEGGEST {{distraction}} (something that draws attention away) for me <!--SR:!2024-02-03,13,297-->
 
 My teacher hates when I put {{exclamation mark}} (восклицательный знак) at the end of each sentence.
 
@@ -355,7 +355,7 @@ This concept (a principle or idea) is more {{narrow}} (having a small distance f
 
 This concept (a principle or idea) is {{broader}} (very wide) than you think.
 
-LD find her treasure stuff to be {{upside down}} (having the part that is usually at the top turned to be at the bottom).
+LD find her treasure stuff to be {{upside down}} (having the part that is usually at the top turned to be at the bottom). <!--SR:!2024-01-24,3,289-->
 
 В каком случае занятия спортом употребляется go?
 ?
@@ -383,7 +383,7 @@ Male {{cattle}} (скот) are bulls
 
 His business is {{poultry}} (домашняя птица, живность) farming.
 
-Foxes are considered {{vermin}} (паразиты, вредители). <!--SR:!2024-01-21,4,297-->
+Foxes are considered {{vermin}} (паразиты, вредители). <!--SR:!2024-02-01,11,297-->
 
 This idea I {{extract}} (**to remove or take out something) **out of books...
 автор Person>>Альфред Ленглэ
@@ -408,7 +408,7 @@ Also I will consider the {{regularity}} (закономерности) between d
 
 Despite having a large family, they still had no **son and** {{heir}} (**a person who will legally receive money, property, or a title from another person, especially an older member of the same family, when that other person dies).**
 
-It's important not to {{jump to conclusions}} (спешить с выводами). <!--SR:!2024-01-21,4,297-->
+It's important not to {{jump to conclusions}} (спешить с выводами). <!--SR:!2024-02-01,11,297-->
 
 She worked her way up through the corporate {{hierarchy}} (**a system in which people or things are arranged according to their importance)** to become president. <!--SR:!2024-01-27,7,277-->
 

@@ -9,7 +9,7 @@ Bojack {{overhear}} (подслушал) something about Flip and PC <!--SR:!202
 
 Sundays are the one day that are just for me and my {{craft}} (ремесло, the labor part of the art) <!--SR:!2024-02-03,26,275-->
 
-The man has come to call. He'd like to take you for a Sunday {{stroll}} (**o walk in a slow relaxed way, especially for pleasure)** <!--SR:!2024-01-21,4,298--> 
+The man has come to call. He'd like to take you for a Sunday {{stroll}} (**o walk in a slow relaxed way, especially for pleasure)** <!--SR:!2024-02-07,17,318--> 
 
 Was named after my mom>>_ <!--SR:!2024-01-26,12,291-->
 
@@ -39,7 +39,7 @@ This neckless is a family {{heirloom}} (**a valuable object that has been given 
 
 You look tired, Veronica. - Amazing {{burn}} (прожарка, подкол), Princess Carolyn. <!--SR:!2024-01-22,4,299--> 
 
-I went through hell and back today, but it was worth it>>_
+I went through hell and back today, but it was worth it>>_ <!--SR:!2024-01-24,3,281-->
 
 to get to the bottom of things↔дойти до сути (серцевины). 
 

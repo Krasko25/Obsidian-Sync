@@ -280,4 +280,4 @@ Gratitude moment:
 5) for going to bed early.
 
 ==January 21st, 2024==
-Today I woke up at 7:20 (which is almost early from my measurements). Usually it would be a hallmark of a good day, but it was not the case today. In the morning I allowed myself to 
+Today I woke up at 7:20 (which is almost early from my measurements). Usually it would be a hallmark of a good day, but it was not the case today. In the morning I allowed myself to break the rules a bit and watch some silly videos on youtube. My youtube is set the way, that it gets throws me away after 5 minutes of use. 

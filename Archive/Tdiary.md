@@ -279,3 +279,5 @@ Gratitude moment:
 4) for respecting the rules, that I set for myself beforehand;
 5) for going to bed early.
 
+==January 21st, 2024==
+Today I woke up at 7:20 (which is almost early from my measurements). Usually it would be a hallmark of a good day, but it was not the case today. 

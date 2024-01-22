@@ -188,11 +188,11 @@ This day was a bit more productive. I was reading Crime and Punishment, having m
 
 Some praise:
 - I did a good job reading Crime and Punishment and breaking down it's chapters;
-- I manage to eat enough calories for the last few days;
+- I manage to eat full set of calories for the last few days;
 - I play with my dog every day, even if it is really cold outside.
 
 ==January 15th, 2024==
-Today was the second day of a new semester of my college learning. Today we had 5 lessons planed, but only 3 teachers decided to do theirs. I had a hard time listening to teacher during the first lesson, because of my sleeping schedule. The English lesson today was interesting, we were talking a lot about computer science stuff and also assured teacher to watch one anime.
+Today was the second day of a new semester of my college learning. Today we had 5 lessons planed, but only 3 teachers decided to do their classes. I had a hard time listening to teacher during the first lesson, because of my sleeping schedule. The English lesson today was interesting, we were talking a lot about computer science stuff and also we assured the teacher to watch one anime.
 
 The part with gratitude to myself:
 - I think, that I will be able to fall asleep earlier today.

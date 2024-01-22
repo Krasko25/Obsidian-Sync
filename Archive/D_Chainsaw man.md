@@ -21,7 +21,7 @@ Not like I could invite a girl to this {{dump }}(**a place where people are allo
 
 You're as loyal as a dog, and you work for cheap like one, too. Only problem with dogs is I can't stand the {{stench}} (**a strong, unpleasant smell)** 
 
-the devil controls {{fiend's}} (**an evil and cruel person) **personality. You, kill this one. <!--SR:!2024-01-22,3,262-->
+the devil controls {{fiend's}} (**an evil and cruel person) **personality. You, kill this one. <!--SR:!2024-01-31,9,282-->
 
 okey, the journal is {{secure}} **(especially of objects, situations, etc.) able to avoid being harmed by any risk, danger, or threat)** 
 

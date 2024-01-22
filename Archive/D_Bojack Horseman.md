@@ -31,13 +31,13 @@ What did you order? - The {{through}} (всё меню по одному блю�
 
 The man is willing to give you a second chance, he is downstairs waiting, and you will be {{civil}} (будешь вежливой) to him. <!--SR:!2024-02-02,13,298-->
 
-'It smells terrible in here,' said Francis. 'Tomorrow, if it's warm, we'll {{air it out}} (wind) 
+'It smells terrible in here,' said Francis. 'Tomorrow, if it's warm, we'll {{air it out}} (wind) <!--SR:!2024-01-26,4,303--> 
 
 The room has a {{fabulous}} (**very good; excellent)** view across the lake. <!--SR:!2024-02-07,24,260-->
 
 This neckless is a family {{heirloom}} (**a valuable object that has been given by older members of a family to youngermembers of the same family over many years).** 
 
-You look tired, Veronica. - Amazing {{burn}} (прожарка, подкол), Princess Carolyn. <!--SR:!2024-01-22,4,299--> 
+You look tired, Veronica. - Amazing {{burn}} (прожарка, подкол), Princess Carolyn. <!--SR:!2024-02-01,10,299--> 
 
 I went through hell and back today, but it was worth it>>_ <!--SR:!2024-01-24,3,281-->
 
@@ -45,7 +45,7 @@ to get to the bottom of things↔дойти до сути (серцевины).
 
 Oh, don't {{be cross}} (ругаться) with mother.
 
-You really {{let me down}} (**to disappoint someone by failing to do what you agreed to do or were expected to do) **, BoJack. You really {{let me down}}, Diane. <!--SR:!2024-01-22,3,279!2000-01-01,1,250-->
+You really {{let me down}} (**to disappoint someone by failing to do what you agreed to do or were expected to do) **, BoJack. You really {{let me down}}, Diane. <!--SR:!2024-02-03,12,299!2000-01-01,1,250-->
 
 I feel like we can beat this {{font}} (**a set of letters and symbols in a particular design and size (шрифт))** <!--SR:!2024-01-26,11,292--> 
 

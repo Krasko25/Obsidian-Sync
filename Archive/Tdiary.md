@@ -294,3 +294,11 @@ Switching to something positive, gratitude:
 1) I finally finished my project. The mare fact of this debt was draining energy out of me, I'm happy, that I solved this problem.
 2) I continue preparing for my math exam.
 3) My English lessons are consistent.
+==January 22nd, 2024==
+This day was quite average, I managed to do a few useful things, but I also violated my rules a few times today (I set those rules in the daily note for January 18th). My problem is that in the moment of hesitation I'm way too good when it comes to finding excuses for small rule breakers. I think that the key is to stop taking those allowances as something trivial (sure, it is an easy on the paper, but when you are in the moment, it is quite an ordeal, at least for me)
+
+Positive highlights:
+1) I finally completed all the three main goals for the day (math, Crime and Punishment and sleep). For some reason I was missing one or two pieces on each day.
+2) I had a good workout today.
+3) I was helping my parents today.
+4) I analize my mistakes, it is good.

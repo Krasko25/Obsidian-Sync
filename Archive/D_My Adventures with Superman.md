@@ -6,4 +6,4 @@ and then MR. White will have to take us seriously. - That is your {{takeaway}} (
 
 You ruined me! What is your {{angle}} (замысел, мотивация)? <!--SR:!2024-03-29,69,270-->
 
-You said it was your favorite, I just happen to {{jog}} (run at a moderately swift pace) past <!--SR:!2024-01-22,29,270-->
+You said it was your favorite, I just happen to {{jog}} (run at a moderately swift pace) past <!--SR:!2024-04-08,77,270-->

@@ -24,9 +24,9 @@ The bicycle gather speed as it went down the hill.
 
 You've been staring at me ever since I walked in. May I help you? - *imposibble. She could even sense my {{gaze}} (to look at something or someone for a long time, especially in surprise or admiration, or because you are thinking about something else)? * <!--SR:!2024-01-23,15,304-->
 
-You have {{favorable}} (благоприятное) impression of my appearance?; May I ask you a {{favor}} ? ; it counts in {{favor}} (в ползу, во благо) of... <!--SR:!2024-02-03,24,277!2000-01-01,1,250!2000-01-01,1,250-->
+You have {{favorable}} (благоприятное) impression of my appearance?; May I ask you a {{favor}} ? ; it counts in {{favor}} (в ползу, во благо) of... <!--SR:!2024-02-03,24,277!2000-01-01,1,250!2024-01-25,3,268-->
 
-I've completed countless missions, yet once again I find myself {{losing heart}} (to stop believing that you can succeed) 
+I've completed countless missions, yet once again I find myself {{losing heart}} (to stop believing that you can succeed) <!--SR:!2024-01-26,4,288--> 
 
 You've been {{staring}} (to look for a long time with the eyes wide open, especially when surprised, frightened, or thinking)** **at me ever since I walked in. May I help you? - *imposibble. She could even sense my gaze? * <!--SR:!2024-02-21,43,290-->
 

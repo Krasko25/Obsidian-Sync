@@ -10,4 +10,4 @@ he stayed here on his own {{accord}} (desire) <!--SR:!2024-01-28,17,250-->
 
 How would you like to drink that, straight up or with ice?>>_ <!--SR:!2024-01-25,17,294-->
 
-has a father ever had a more {{devoted}} (преданный) son? <!--SR:!2024-01-22,14,292-->
+has a father ever had a more {{devoted}} (преданный) son? <!--SR:!2024-03-18,56,312-->

@@ -18,13 +18,13 @@ next-to-last; second last; last, but one>>_ <!--SR:!2024-01-27,7,277-->
 
 What can I do to make up to you?>>помириться <!--SR:!2024-01-23,4,304-->
 
-I'm going to {{speak my mind}} (to tell what you are thinking about) and you are going to listen <!--SR:!2024-01-22,3,284-->
+I'm going to {{speak my mind}} (to tell what you are thinking about) and you are going to listen <!--SR:!2024-01-30,8,284-->
 
 spill>>проболтаться <!--SR:!2024-01-24,4,306-->
 
 staff and stuff>>сотрудники и хлам <!--SR:!2024-01-30,9,281-->
 
-He had been {{grilling}} (**to** **ask** **someone a lot of** **questions** **for a** **long** **time)** me <!--SR:!2024-01-22,10,284-->
+He had been {{grilling}} (**to** **ask** **someone a lot of** **questions** **for a** **long** **time)** me <!--SR:!2024-02-20,29,284-->
 
 norm>>критерий, норматив
 
@@ -32,7 +32,7 @@ maid>>горничная
 
 mop the floor>>мыть полы <!--SR:!2024-01-28,8,277-->
 
-She hired a lawyer who {{specializes}} (**to** **stud y** **or** **work** **on a** **particular** **subject** **or** **skill** **more than any** **others, so that you** **become** **an** **expert** **in it (адаптация))** in divorce cases.
+She hired a lawyer who {{specializes}} (**to** **stud y** **or** **work** **on a** **particular** **subject** **or** **skill** **more than any** **others, so that you** **become** **an** **expert** **in it (адаптация))** in divorce cases. <!--SR:!2024-01-25,3,291-->
 
 sign up>>регистрироваться <!--SR:!2024-01-25,4,309-->
 
@@ -48,17 +48,17 @@ go through something
 
 What do you think makes a {{compelling}}  character (interesting)?
 
-{{Compelling}} (**it makes you** **believe** **it or** **accept** **it because it is so** **strong (внушительные, сильные)) **evidence
+{{Compelling}} (**it makes you** **believe** **it or** **accept** **it because it is so** **strong (внушительные, сильные)) **evidence <!--SR:!2024-01-26,4,311-->
 
 With flying colors>>**very easily**
 
 When I lived in Spain, I used to {{eat out}} (**to eat in a restaurant)** all the time <!--SR:!2024-02-10,29,274-->
 
-lift your ear up to that guy (god)>>_ <!--SR:!2024-01-22,4,301-->
+lift your ear up to that guy (god)>>_ <!--SR:!2024-02-10,19,321-->
 
 in a nutshell>>simply put, giving only the main points
 
-There was nothing between the lines>>. <!--SR:!2024-01-22,4,301-->
+There was nothing between the lines>>. <!--SR:!2024-02-09,18,321-->
 
 at the top of one's voice>>во весь голос
 
@@ -66,7 +66,7 @@ one never knows what his answer may be>>_
 
 one should be careful when crossing the street>>_
 
-one must always keep one's word>>_ <!--SR:!2024-01-22,10,284-->
+one must always keep one's word>>_ <!--SR:!2024-03-01,39,304-->
 
 between the three of us>>_ <!--SR:!2024-01-29,9,277-->
 
@@ -78,7 +78,7 @@ Negative bonds gives temporary effects, it do not solve the problems and {{binds
 
 From my {{perspective}}, this was not a crime.
 
-to view a situation from a new perspective>>с новой точки зрения <!--SR:!2024-01-22,4,301-->
+to view a situation from a new perspective>>с новой точки зрения <!--SR:!2024-02-02,11,301-->
 
 Second class-citizen person>>_ <!--SR:!2024-01-24,4,306-->
 
@@ -149,7 +149,7 @@ I'll be doing {{bandage}} (a long, narrow piece of cloth that is tied around an 
 
 You will read a {{passage}} (a part of the text (отрывок)) of between 75 and 100 words regarding issue
 
-I was told that my suit is {{spoiled}} (to destroy or reduce the pleasure, interest, or beauty of something) <!--SR:!2024-01-22,3,284-->
+I was told that my suit is {{spoiled}} (to destroy or reduce the pleasure, interest, or beauty of something) <!--SR:!2024-01-30,8,284-->
 
 
 
@@ -176,7 +176,7 @@ No Tom was there>>_ <!--SR:!2024-02-05,15,317-->
 
 {{confused identity}} (нечеткая самоидентификация) is a common teenager problem <!--SR:!2024-02-05,24,270-->
 
-You never know how {{puberty}} (Developmental stage at which a person becomes capable of reproduction.) will change you.
+You never know how {{puberty}} (Developmental stage at which a person becomes capable of reproduction.) will change you. <!--SR:!2024-01-26,4,311-->
 
 {{look out}} (be careful)! It's going to fall!
 
@@ -190,13 +190,13 @@ Go to work once you {{recover}} (get better)
 
 Hanter is good at {{endear}} (make kind) people
 
-Hanter is the most {{generous}} (very giving, as if born with plenty of money) with attention person <!--SR:!2024-01-22,4,301-->
+When it comes to attention, Hunter is the most {{generous}} (very giving, as if born with plenty of money) dog <!--SR:!2024-02-02,11,301-->
 
 He drew himself as a {{gifted student}} (talented student) <!--SR:!2024-02-22,41,294-->
 
-He {{lure}} (To tempt or attract with the promise of something good) you into the trap! <!--SR:!2024-01-22,10,284-->
+He {{lured}} (To tempt or attract with the promise of something good) you into the trap! <!--SR:!2024-03-04,42,304-->
 
-He mastered the art of {{hotfooting}} (run for life) <!--SR:!2024-01-22,4,301-->
+He mastered the art of {{hotfooting}} (run for life) <!--SR:!2024-02-03,12,301-->
 
 He swallowed his drink in one {{gulp}} (to swallow).
 
@@ -225,7 +225,7 @@ The {{fruitless}} (not producing the desired results, unsuccessful) tree should 
 There is too much {{luxury}} (The state of great comfort and extravagant living)![](local:///Users/connect/remnote/remnote-62c2eac9d4b97a004623c386/files/ZFWUGk_cOXMkVTGDQ0-7vKqQ48p_nfPyb5rPkaC7WMVry3OxX81F6ofArxUhKxIMUH-tZQ0h0-zznlJJMkfEF7MsxXQ653yjxsmBQDTg-4XE6p6PIYSoozthmVWkrDln.jpeg)
 
 There wouldn't be so hot if you hadn't thrown out the {{blinds}} (шторы)
-This {{frame}} (The lines and borders that contain the panels) of berserk is a masterpiece!! ![](local:///Users/connect/remnote/remnote-62c2eac9d4b97a004623c386/files/OTeS6UvUp8XKOMV5Elpln-MQGGRy4X5YTX3FLF7BqRzjaZezMzPPAH0qYeI9rNS_JhWGn9qLDB4YtXFy8474mPlm2GgOkAA4QAXhOijj8eNgsbqJDQAPAgbNrC7g9bUc.webp) <!--SR:!2024-01-22,3,284!2024-01-30,10,277-->
+This {{frame}} (The lines and borders that contain the panels) of berserk is a masterpiece!! ![](local:///Users/connect/remnote/remnote-62c2eac9d4b97a004623c386/files/OTeS6UvUp8XKOMV5Elpln-MQGGRy4X5YTX3FLF7BqRzjaZezMzPPAH0qYeI9rNS_JhWGn9qLDB4YtXFy8474mPlm2GgOkAA4QAXhOijj8eNgsbqJDQAPAgbNrC7g9bUc.webp) <!--SR:!2024-01-30,8,284!2024-01-30,10,277-->
 
 This is our frendship {{tie}} (a set of stories that explains our relationship to the other members of our network, галстуг).
 
@@ -252,7 +252,7 @@ Your {{twisted mind}} (извращённый ум) will kill us
 
 Your fate {{would be up to you}} (it will depend on you).
 
-Bett believe them to be {{like-minded}} (having similar tastes or opinions) about their friendship. <!--SR:!2024-01-22,3,284-->
+Bett believe them to be {{like-minded}} (having similar tastes or opinions) about their friendship. <!--SR:!2024-02-04,13,304-->
 
 But your {{lifespan}} (the period during which something is functional (as between birth and death)) will be cut in two
 
@@ -286,7 +286,7 @@ I suppose him to be a great {{scapegoat}} (a person or thing carrying the blame 
 
 I'm an {{amateur}} (taking part in an activity for pleasure, not as a job) in chess compare to Nikita
 
-If the pain {{persist}} (to try to do or continue doing something in a determined but often unreasonable way) in opinion, consult a doctor
+If the pain {{persist}} (to try to do or continue doing something in a determined but often unreasonable way) in opinion, consult a doctor <!--SR:!2024-01-26,4,311-->
 
 It takes double or even {{triple}} amount of time
 
@@ -305,7 +305,7 @@ Mom likes to cook something out of {{flour}} (мука, порошок) <!--SR:!
 
 My phone is THE BEGGEST {{distraction}} (something that draws attention away) for me <!--SR:!2024-02-03,13,297-->
 
-My teacher hates when I put {{exclamation mark}} (восклицательный знак) at the end of each sentence.
+My teacher hates when I put an {{exclamation mark}} (восклицательный знак) at the end of each sentence. <!--SR:!2024-01-25,4,309-->
 
 noun (n)↔существительное
 
@@ -319,7 +319,7 @@ She literally {{gigled}} (to laugh) her lungs out <!--SR:!2024-01-23,3,286-->
 
 Strike pressed Bristow's {{chest cage}} (грудная клетка) with his broken leg
 
-Such a {{demeanour}} (behaviour, manner of conduction oneself) is out of the social norms <!--SR:!2024-01-22,3,284-->
+Such a {{demeanour}} (behaviour, manner of conduction oneself) is out of the social norms <!--SR:!2024-01-30,8,284-->
 
 The {{invasion}} (a situation when a large number of people came to a place in an annoying and unwanted way) of smart dogs put the end to humanity <!--SR:!2024-01-31,12,295-->
 
@@ -349,11 +349,11 @@ Yesterday we had {{deploy}} (to move soldiers or equipment to a place where they
 
 You mustn't {{reveal}} (to make known or show something that is surprising or that was previously secret) government secrets. <!--SR:!2024-01-23,4,304-->
 
-This {{concept}} (a principle or idea) is broader than you think. <!--SR:!2024-01-22,10,282-->
+This {{concept}} (a principle or idea) is broader than you think. <!--SR:!2024-02-21,30,282-->
 
 This concept (a principle or idea) is more {{narrow}} (having a small distance from one side to the other, especially in comparison with the length) than you think.
 
-This concept (a principle or idea) is {{broader}} (very wide) than you think.
+This concept (a principle or idea) is {{broader}} (very wide) than you think. <!--SR:!2024-01-26,4,311-->
 
 LD find her treasure stuff to be {{upside down}} (having the part that is usually at the top turned to be at the bottom). <!--SR:!2024-01-24,3,289-->
 
@@ -373,7 +373,7 @@ play tennis <!--SR:!2024-02-02,15,264-->
 В каком случае занятия спортом употребляется do?
 ?
 остальные виды спорта, йога, боевые искусства
-do box <!--SR:!2024-01-22,4,301-->
+do box <!--SR:!2024-01-24,2,281-->
 
 Brain is going to use economic {{mode}} (режим).
 

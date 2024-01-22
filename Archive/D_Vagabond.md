@@ -71,7 +71,7 @@ Your thoughts are quite {{profound}} (**felt or experienced very strongly or in 
 
 I won't forgive you. {{Talking ill}} (плохо отзваться) about my teacher <!--SR:!2024-02-16,29,283-->
 
-You're determined to {{advance}} (**to go or move something forward, or to develop or improve something)... **so you want this sword of yours back.
+You're determined to {{advance}} (**to go or move something forward, or to develop or improve something)... **so you want this sword of yours back. <!--SR:!2024-01-25,3,279-->
 
 I'll not forgive you if you're weak. You have defeated Sadakore. I pray you're the strongest man I have yet to {{encounter}} (**a meeting, especially one that happens by chance (натолкнуться).** <!--SR:!2024-01-24,16,303-->
 
@@ -85,6 +85,6 @@ The body learns and {{acquires}} (**to gradually learn or gain something such as
 
 I have never met a person like you... a person purely {{devoted}} (**to give all of something, especially your time, effort, or love, or yourself, to something you believe in or to a person (посвещать))** to the sword.
 
-Keep cutting everyone down, until you're the last man standing. That's how to earn the right to be called {{invincible}} (**impossible to defeat or prevent)**. 
+Keep cutting everyone down, until you're the last man standing. That's how to earn the right to be called {{invincible}} (**impossible to defeat or prevent)**. <!--SR:!2024-01-26,4,299--> 
 
 I smell a lecture coming>>_ 

@@ -1,4 +1,4 @@
-#cards/dictionary 
+ <!--SR:!2024-01-27,4,283-->#cards/dictionary 
 Hopefully it likes you, and you'll get a {{bargain}} (**something on sale at a lower price than its true value (выгодная сделака))** 
 
 Depending on how you {{play}} (как вы это обыграете) this, we are willing to {{turn ourselves in}} (готовы сдаться)
@@ -15,7 +15,7 @@ What is this? - my {{resignation}} (**the act of telling your employer that you 
 
 If I tear it up until it can't take the pain no more, it will wanna kill itself! - A very devilish idea {{indeed}} (**really or certainly, often used to emphasize something).** <!--SR:!2024-02-01,18,256--> 
 
-Those kind of terms hold a strong {{sway}} (**control or influence) **when a devil is involved.
+
 
 Not like I could invite a girl to this {{dump }}(**a place where people are allowed to leave their rubbish)** <!--SR:!2024-01-24,10,278--> 
 

@@ -1,6 +1,6 @@
 #cards/dictionary 
 
-It is a great spy instrument, {{earpiece}} (сережка)
+It is a great spy instrument, {{earpiece}} (сережка) <!--SR:!2024-01-26,3,250-->
 
 Money don't exist to control people. It exists to bring desires together. It allows us to pool our strengths. #Mark/Quote 
 

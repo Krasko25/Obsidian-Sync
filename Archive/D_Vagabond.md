@@ -4,7 +4,7 @@ We admired your strength, we all wanted to {{befriend}} (help someone and be fri
 
 I {{concede}} (give up), you are stronger
 
-I thought I was {{striving}} (attempt by {{employing}} (put into service) effort) to become stronger, but I was just covering things up with sand <!--SR:!2024-01-23,3,256!2000-01-01,1,250-->
+I thought I was {{striving}} (attempt by {{employing}} (put into service) effort) to become stronger, but I was just covering things up with sand <!--SR:!2024-02-02,10,276!2000-01-01,1,250-->
 
 As the four seasons between heaven and earth flow in an endless cycle, so too, must man work his way, through his own cycles of seasons continuous. If you are able to to endure a long hard winter, a fresh new spring is sure to follow, invigorating with  strength renewed.>>_ #Mark/Quote <!--SR:!2024-01-27,18,256-->
 
@@ -30,7 +30,7 @@ overcoming difficulties and at times even risking one's life. These are the thin
 
 {{unease}} ( physical discomfort, беспокойство, тревога) had taken over Musashi <!--SR:!2024-01-25,11,290--> 
 
-eventually, I {{vow}} (**to make a** **determined** **decision** **or** **promise** **to do something) **to kill you <!--SR:!2024-01-23,4,296-->
+eventually, I {{vow}} (**to make a** **determined** **decision** **or** **promise** **to do something) **to kill you <!--SR:!2024-02-03,11,296-->
 
 You're still wet behind the ears>>_ <!--SR:!2024-03-07,49,296-->
 
@@ -44,13 +44,13 @@ At this {{rate}} (темп), the fire will spread, {{tear down}} (**to** **inten
 
 I want you to {{embrace}} (**to** **accept** **something** **enthusiastically)** the principle of not regretting what you have done, let go of the past, learn from your experiences. <!--SR:!2024-02-15,37,292-->
 
-Her face is peaceful. We will see her off tomorrow>>_ <!--SR:!2024-01-23,4,296-->
+Her face is peaceful. We will see her off tomorrow>>_ <!--SR:!2024-02-09,17,316-->
 
 the villagers grow weary of you and your incompetence 
 
 Last year the company **seemed/looked** {{invincible}} (impossible to defeat or prevent from doing what is intended) but in recent weeks has begun to have problems. <!--SR:!2024-02-14,25,290-->
 
-hoe>>тяпка, мотыга <!--SR:!2024-01-23,3,277-->
+hoe>>тяпка, мотыга <!--SR:!2024-02-04,12,297-->
 
 I was to lazy to milk this idea for 10 minutes>>_ <!--SR:!2024-02-17,30,282-->
 
@@ -81,7 +81,7 @@ We entered into a noble forest.
 He was a man of noble character.
 She was descended from an old Italian noble family. <!--SR:!2024-02-04,14,293-->
 
-The body learns and {{acquires}} (**to gradually learn or gain something such as a language or skill) **it. That is how I survived. <!--SR:!2024-01-23,9,270-->
+The body learns and {{acquires}} (**to gradually learn or gain something such as a language or skill) **it. That is how I survived. <!--SR:!2024-02-13,21,270-->
 
 I have never met a person like you... a person purely {{devoted}} (**to give all of something, especially your time, effort, or love, or yourself, to something you believe in or to a person (посвещать))** to the sword.
 

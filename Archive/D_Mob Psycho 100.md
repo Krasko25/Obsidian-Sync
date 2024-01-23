@@ -2,7 +2,7 @@
 
 It {{hit too close to home for me}} (больная тема), too <!--SR:!2024-02-07,18,265-->
 
-But if you're not {{up to the task}} (good enough for this task), very well <!--SR:!2024-01-23,4,289-->
+But if you're not {{up to the task}} (good enough for this task), very well <!--SR:!2024-02-09,17,309-->
 
 narrator>>рассказчик <!--SR:!2024-02-18,37,294-->
 
@@ -27,7 +27,7 @@ Today you are {{on a high horse}} (быть в ударе)![](local:///Users/con
 
 that is not enough! You won't {{ease}} (**to make or become less severe, difficult, unpleasant, painful, etc (**These pills should {{ease}} the **pain))** our hard feelings <!--SR:!2024-02-28,45,294!2024-02-10,24,279--> 
 
-First, it will be convenient to draw a variety of thin patterns, the second - to make filling and {{ __thick lines__ }} __ (толстые линии)__ . <!--SR:!2024-01-23,3,270-->
+First, it will be convenient to draw a variety of thin patterns, the second - to make filling and {{ __thick lines__ }} __ (толстые линии)__ . <!--SR:!2024-01-30,7,270-->
 
 Dimple {{despise}} (**to feel a strong dislike for someone or something because you think that that person or thing is bad or has no value:)** mob because of his lack of emotions 
 
@@ -45,7 +45,7 @@ for the fun of it>>_ <!--SR:!2024-01-26,18,301-->
 
 man up>>**used to** **tell** **someone that they should** **deal** **with something more** **bravely** <!--SR:!2024-02-21,31,285-->
 
-You're actually making me use my {{trump card}} (**an** **advantage** **that makes you more** **likely** **to** **succeed** **than other** **people,** **especially something that other** **people** **do not** **know** **about)** 
+You're actually making me use my {{trump card}} (**an** **advantage** **that makes you more** **likely** **to** **succeed** **than other** **people,** **especially something that other** **people** **do not** **know** **about)** <!--SR:!2024-01-26,3,274--> 
 
 Espers are hard to {{possess}} (**to have or own something, or to have a** **particular** **quality)** <!--SR:!2024-02-03,25,272--> 
 

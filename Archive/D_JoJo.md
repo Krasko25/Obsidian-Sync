@@ -26,8 +26,8 @@ But I can't reach Jolyne by myself. I need {{backup}} (**(someone or something t
 
 {{Hold on}} (wait)! What are you {{plotting}} (замысел, заговор?) <!--SR:!2000-01-01,1,250!2024-02-10,26,274-->
 
-You said you are {{willing}} (**to be happy to do something if it is needed) **to do anything? Then give us your {{blessing}}  (благословение). <!--SR:!2024-01-23,24,270!2000-01-01,1,250-->
+You said you are {{willing}} (**to be happy to do something if it is needed) **to do anything? Then give us your {{blessing}}  (благословение). <!--SR:!2024-03-27,64,270!2000-01-01,1,250-->
 
-It's fight club time! Let's {{brawl}} (**a noisy, rough, uncontrolled fight)**! <!--SR:!2024-01-23,17,252--> 
+It's fight club time! Let's {{brawl}} (**a noisy, rough, uncontrolled fight)**! <!--SR:!2024-03-05,42,252--> 
 
-We went through to the ultimate time beyond the {{acceleration}} (**to start to happen more quickly, or to make something start to happen more quickly)** <!--SR:!2024-01-23,9,282--> 
+We went through to the ultimate time beyond the {{acceleration}} (**to start to happen more quickly, or to make something start to happen more quickly)** <!--SR:!2024-02-15,23,282--> 

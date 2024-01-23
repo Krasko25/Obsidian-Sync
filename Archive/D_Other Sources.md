@@ -16,7 +16,7 @@ Vegita! Stop vegiting it! You are making it worse! - Don't you verb me!>>_
 
 next-to-last; second last; last, but one>>_ <!--SR:!2024-01-27,7,277-->
 
-What can I do to make up to you?>>помириться <!--SR:!2024-01-23,4,304-->
+What can I do to make up to you?>>помириться <!--SR:!2024-02-05,13,304-->
 
 I'm going to {{speak my mind}} (to tell what you are thinking about) and you are going to listen <!--SR:!2024-01-30,8,284-->
 
@@ -84,7 +84,7 @@ Second class-citizen person>>_ <!--SR:!2024-01-24,4,306-->
 
 give it a shot>>_ <!--SR:!2024-02-17,36,294-->
 
-As is stated above>>_
+As is stated above>>_ <!--SR:!2024-01-26,3,292-->
 
 man in plural form>>men
 
@@ -127,7 +127,7 @@ Mother, father, sister, brother hand in hand with one another>>_
 
 but it involves an extremely {{blue}} (пошлая, грубая) __ joke__ .
 
-I've been feeling kind of {{blue}} (perfect blue).
+I've been feeling kind of {{blue}} (perfect blue). <!--SR:!2024-01-26,3,292-->
 
 The {{womb}} (утроба матери) represents the very first place in which life takes form. <!--SR:!2024-02-08,19,264-->
 
@@ -154,7 +154,7 @@ I was told that my suit is {{spoiled}} (to destroy or reduce the pleasure, inter
 
 
 
-They {{set off}} (to start on a trip) again, the class looking at Pr. Lupin with increased respect. <!--SR:!2024-01-23,11,284-->
+They {{set off}} (to start on a trip) again, the class looking at Pr. Lupin with increased respect. <!--SR:!2024-02-22,30,284-->
 
 {{troop}} (a group of solders) have ended
 
@@ -220,7 +220,7 @@ Stop water my flowers with your {{snot}} (сопли)
 
 Thanks for {{upbrinпing}} (воспитание) me <!--SR:!2024-02-04,23,274-->
 
-The {{fruitless}} (not producing the desired results, unsuccessful) tree should be burned down <!--SR:!2024-01-23,4,304-->
+The {{fruitless}} (not producing the desired results, unsuccessful) tree should be burned down <!--SR:!2024-02-05,13,304-->
 
 There is too much {{luxury}} (The state of great comfort and extravagant living)![](local:///Users/connect/remnote/remnote-62c2eac9d4b97a004623c386/files/ZFWUGk_cOXMkVTGDQ0-7vKqQ48p_nfPyb5rPkaC7WMVry3OxX81F6ofArxUhKxIMUH-tZQ0h0-zznlJJMkfEF7MsxXQ653yjxsmBQDTg-4XE6p6PIYSoozthmVWkrDln.jpeg)
 
@@ -292,8 +292,8 @@ It takes double or even {{triple}} amount of time
 
 Laila's {{impunity}} (freedom from punishment) helps to avoid problems
 
-LD carried out her {{threat}} (a suggestion that something unpleasant or violent will happen) in a form 
-her neighbours. <!--SR:!2024-01-23,3,286-->
+LD carried out her {{threat}} (a suggestion that something unpleasant or violent will happen) in a form
+her neighbours. <!--SR:!2024-01-31,8,286-->
 
 Leila had an amazing {{artistic process}} (creative process) yesterday
 
@@ -301,7 +301,7 @@ Leila want us to {{worship}} (adoration and honor given to God) her.
 
 Leila was expected to be  {{charm}} (a pleasing quality that attracts others)
 
-Mom likes to cook something out of {{flour}} (мука, порошок) <!--SR:!2024-01-23,4,304-->
+Mom likes to cook something out of {{flour}} (мука, порошок) <!--SR:!2024-02-08,16,324-->
 
 My phone is THE BEGGEST {{distraction}} (something that draws attention away) for me <!--SR:!2024-02-03,13,297-->
 
@@ -315,7 +315,7 @@ preposition (prep.)↔предлог
 
 pronoun↔местоимение
 
-She literally {{gigled}} (to laugh) her lungs out <!--SR:!2024-01-23,3,286-->
+She literally {{gigled}} (to laugh) her lungs out <!--SR:!2024-01-30,7,286-->
 
 Strike pressed Bristow's {{chest cage}} (грудная клетка) with his broken leg
 
@@ -347,7 +347,7 @@ Yesterday we have  _??? (to move soldiers or equipment to a place where they can
 
 Yesterday we had {{deploy}} (to move soldiers or equipment to a place where they can be used when they are needed) on the moon.
 
-You mustn't {{reveal}} (to make known or show something that is surprising or that was previously secret) government secrets. <!--SR:!2024-01-23,4,304-->
+You mustn't {{reveal}} (to make known or show something that is surprising or that was previously secret) government secrets. <!--SR:!2024-02-11,19,324-->
 
 This {{concept}} (a principle or idea) is broader than you think. <!--SR:!2024-02-21,30,282-->
 
@@ -386,7 +386,7 @@ His business is {{poultry}} (домашняя птица, живность) farm
 Foxes are considered {{vermin}} (паразиты, вредители). <!--SR:!2024-02-01,11,297-->
 
 This idea I {{extract}} (**to remove or take out something) **out of books...
-автор Person>>Альфред Ленглэ
+автор Person>>Альфред Ленглэ <!--SR:!2024-01-27,4,312-->
 
 The {{primary}} (**more important than anything else; main)** {{bond}} (**a close connection joining two or more people (узы)) are** going to break someday.
 
@@ -412,7 +412,7 @@ It's important not to {{jump to conclusions}} (спешить с выводам�
 
 She worked her way up through the corporate {{hierarchy}} (**a system in which people or things are arranged according to their importance)** to become president. <!--SR:!2024-01-27,7,277-->
 
-he happens to be in Moscow>>_
+he happens to be in Moscow>>_ <!--SR:!2024-01-27,4,312-->
 
 There is no easy cure for {{loneliness}} (**the state of being lonely)**.
 

@@ -1,6 +1,6 @@
 #cards/dictionary 
 
-He was wearing a {{house jacket}} (пальто для дома) <!--SR:!2024-01-23,4,249-->
+He was wearing a {{house jacket}} (пальто для дома) <!--SR:!2024-02-01,9,249-->
 
 He {{outrun}} (перегнал) this old man 
 

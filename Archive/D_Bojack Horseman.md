@@ -23,11 +23,11 @@ First of all, I don't hate {{Jews}} (иудей, еврей), If I did, would I 
 
 Hey, Gina, I'm sorry. I was just {{teasing}} (**to laugh at someone or say unkind things about them, either because you are jokingor because you want to upset that person)**. Gina, come out of the bathroom
 
-It's weird. Like we could totally {{make out}} right now. - What? - No, I'm not saying we should. NO. Pffff...
+It's weird. Like we could totally {{make out}} right now. - What? - No, I'm not saying we should. NO. Pffff... <!--SR:!2024-01-26,3,284-->
 
 You'll have to say, "I'm sad-sad girl with a dirty apartment", - but I'll let you {{crash}} (переночевать). <!--SR:!2024-02-07,28,275-->
 
-What did you order? - The {{through}} (всё меню по одному блюду)! He wants the {{through}} (всё меню по одному блюду) <!--SR:!2000-01-01,1,250!2024-01-26,11,293-->
+What did you order? - The {{through}} (всё меню по одному блюду)! He wants the {{through}} (всё меню по одному блюду) <!--SR:!2024-01-26,3,284!2024-01-26,11,293-->
 
 The man is willing to give you a second chance, he is downstairs waiting, and you will be {{civil}} (будешь вежливой) to him. <!--SR:!2024-02-02,13,298-->
 
@@ -62,7 +62,7 @@ I'm good at driving sober, but I do not {{relish}} (**to like or enjoy something
 Is he okay? - He recently found out that his brother is {{sick.}} -Oh, I'm sorry, but you know what else is {{sick}}? This floors! <!--SR:!2000-01-01,1,250!2024-01-23,15,300-->
 
 You know, it's amazing that it's legal for kids to be actors. How is that not child {{labor}} (**practical work, esp. work that involves physical effort)**?
-Let's just go! - I can't leave until I make {{amends}} (**to change something, especially the words of a text (вносить правки))** <!--SR:!2024-01-23,15,302!2000-01-01,1,250--> 
+Let's just go! - I can't leave until I make {{amends}} (**to change something, especially the words of a text (вносить правки))** <!--SR:!2024-03-11,48,302!2000-01-01,1,250--> 
 
 Wait, did we just go to Ana's house? Did I get a {{closure}} (**the feeling or act of bringing an unpleasant situation, time, or experience to an end, so that you are able to start new activities:)?** <!--SR:!2024-01-29,14,292--> 
 

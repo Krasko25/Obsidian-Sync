@@ -12,4 +12,4 @@ for now, let's celebrate {{landing}} my first ever job>>land a job - to get a jo
 
 well, then when we get back, let's ask him to give you an {{allowance}} (**money** **that you are given** **regularly,** **especially** **to** **pay** **for a** **particular** **thing:)** <!--SR:!2024-01-30,22,270--> 
 
-But don't quote me on that>>однако, не цитируйте мои слова (имеется в виду, что он не может гарантировать, что это 100% правда) <!--SR:!2024-01-23,4,275-->
+But don't quote me on that>>однако, не цитируйте мои слова (имеется в виду, что он не может гарантировать, что это 100% правда) <!--SR:!2024-02-03,11,275-->

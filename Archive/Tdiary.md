@@ -265,6 +265,7 @@ A pinch of gratitude:
 - I'm glad that I got to spend some time with my family and friend.
 - My trainings are consistent.
 - The Habitica call was interesting, I am happy, that I'm a part of this party.
+
 ==January 20th, 2024==
 Today I spend quite a lot of time helping my parents and playing with my nephew. Today my father wanted to setup the electricity generator, that we brought home on January 17th. I was helping him. He believed that it would take almost no time. Just as expected, It took more hours than we expected it to take. Even after all this time, it did not start to work.
 
@@ -294,6 +295,7 @@ Switching to something positive, gratitude:
 1) I finally finished my project. The mare fact of this debt was draining energy out of me, I'm happy, that I solved this problem.
 2) I continue preparing for my math exam.
 3) My English lessons are consistent.
+
 ==January 22nd, 2024==
 This day was quite average, I managed to do a few useful things, but I also violated my rules a few times today (I set those rules in the daily note for January 18th). My problem is that in the moment of hesitation I'm way too good when it comes to finding excuses for small rule breakers. I think that the key is to stop taking those allowances as something trivial (sure, it is an easy on the paper, but when you are in the moment, it is quite an ordeal, at least for me)
 
@@ -302,4 +304,22 @@ Positive highlights:
 2) I had a good workout today.
 3) I was helping my parents today.
 4) I analize my mistakes, it is good.
+
 ==January 23rd, 2024==
+Today I did a bit of progress and a bit of rule breakers, nothing to be strongly frustrated or proud about. 
+
+At the moment, I don't have many hard things, that I have to do right now. The homework from college is mostly about writing summaries of lectures, I have a break time at the course of Synergy university and preparation for the exam on February 7th goes smoothly. 
+
+However, I find the type of this situation to be the most dangerous. Even when I don't have some strict deadlines in the nearest time, the wave of a hellish amount of work is going to cover me in just a few month: learning practices, searching the compony for the production practice and working there, new module of Synergy university course, my diploma, the exams from my college and another 3 exams in May (the ones, that I need to go through, because of the shift of the education system in our country). Oh... I almost forgot, after that I will have to find a job and/or chose and get to university, move from my home and deal with a military office.
+
+Basically, at one hand I have no strict deadlines right now, what causes becomes a dangerous temptation to relax, and the stress from the upcoming ordeals, that I will have to undertake (to undertake the/an ordeal - a flex way of saying, that you have completed a really hard work).
+
+Anyway, at a (O ^ n) time I will say, that I have to prioritise my sleep and be more disciplined. 
+
+P.S: (O ^ n) equals approximately to "way too much to count".
+
+It's time to scrape together some reason to be proud about myself:
+1) I write my daily notes every day (except January 12th, but I'll fix it later);
+2) it seems, that I don't blame myself as much as I did before;
+3) I wrote down some of my worries, I think, that it will help me to understand myself better;
+4) My sleeping schedule got a git better.

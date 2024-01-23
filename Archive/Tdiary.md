@@ -312,7 +312,7 @@ At the moment, I don't have many hard things, that I have to do right now. The h
 
 However, I find the type of this situation to be the most dangerous. Even when I don't have some strict deadlines in the nearest time, the wave of a hellish amount of work is going to cover me in just a few month: learning practices, searching the compony for the production practice and working there, new module of Synergy university course, my diploma, the exams from my college and another 3 exams in May (the ones, that I need to go through, because of the shift of the education system in our country). Oh... I almost forgot, after that I will have to find a job and/or chose and get to university, move from my home and deal with a military office.
 
-Basically, at one hand I have no strict deadlines right now, what causes becomes a dangerous temptation to relax, and the stress from the upcoming ordeals, that I will have to undertake (to undertake the/an ordeal - a flex way of saying, that you have completed a really hard work).
+Basically, at one hand I have no strict deadlines right now, what causes a dangerous temptation to relax, and the stress from the upcoming ordeals, that I will have to undertake (to undertake the/an ordeal - a flex way of saying, that you have completed a really hard work).
 
 Anyway, at a (O ^ n) time I will say, that I have to prioritise my sleep and be more disciplined. 
 

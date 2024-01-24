@@ -192,7 +192,7 @@ Some praise:
 - I play with my dog every day, even if it is really cold outside.
 
 ==January 15th, 2024==
-- [ ] Today was the second day of a new semester of my college learning. Today we had 5 lessons planed, but only 3 teachers decided to do their classes. I had a hard time listening to teacher during the first lesson, because of my sleeping schedule. The English lesson today was interesting, we were talking a lot about computer science stuff and also we assured the teacher to watch one anime.
+Today was the second day of a new semester of my college learning. Today we had 5 lessons planed, but only 3 teachers decided to do their classes. I had a hard time listening to teacher during the first lesson, because of my sleeping schedule. The English lesson today was interesting, we were talking a lot about computer science stuff and also we assured the teacher to watch one anime.
 
 The part with gratitude to myself:
 - I think, that I will be able to fall asleep earlier today.
@@ -323,3 +323,22 @@ It's time to scrape together some reason to be proud about myself:
 2) it seems, that I don't blame myself as much as I did before;
 3) I wrote down some of my worries, I think, that it will help me to understand myself better;
 4) My sleeping schedule got a git better.
+
+==January 24th, 2024== 
+It was not a productive day, quite the opposite, I did only the bare minimum. I hope that I will be able to spend the next day the way to be proud about, it is really important to me.
+
+Anyway, I also want to talk a bit about Robert's idea:
+
+> Not sure if I could call myself depressed, but when I don't sleep enough, I also feel extremely insecure and anxious about everything, and cannot even really talk to people. Also programming becomes quite of an impossible task... I never noticed how much sleep affects my life until I got that job.
+> 
+> Missing out on all the events has also been quite of a breaking point for me. I suppose it's a mindset thing? Something you will get used to when you truly think through what your priorities are with things.
+
+ It so good when you know yourself, know what is really important. I think, that I know what principles I want to use to lead my actions, but this alone doesn't do a trick for me. Just a clarity with understanding of what I need to do at the exact moment is not enough, because I usually don't do this. And that is the worst part - I know, that when I am being true to my promises, It feels awesome. I can work and rest plenty, and be happy about this, but, for some stupid reasons, it is hard to act this way.
+ 
+ P.S: I am not trying to make a victim out of myself, I'm just being a bit extra dramatic. After all, I need to prepare for my essay exam ¯\\_(ツ)_/¯.
+
+I hope that in the future I will have a lot of days, when it won't be hard to came up with gratitude:
+- I shared my mind, it feels better now;
+- I continue doing my scoliosis exersises everyday;
+- I successfully do my English repetitions every day;
+- I did my math learning routine today today

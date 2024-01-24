@@ -10,7 +10,7 @@ Everyone called me {{rookie}} (**a person with little experience who is just sta
 
 In this race, the exchange of horses is {{prohibited}} (**to officially refuse to allow something)** and result in disqualification
 
-I'm not going to {{charge }} (**to make a formal statement saying that someone is accused of a crime (обвинять)) **him. I'll forget about it... let him go and give him the gun back <!--SR:!2024-01-24,15,294-->
+I'm not going to {{charge }} (**to make a formal statement saying that someone is accused of a crime (обвинять)) **him. I'll forget about it... let him go and give him the gun back <!--SR:!2024-03-24,60,314-->
 
 But still, 60 to 80 days is the {{estimated}} (**to guess or calculate the cost, size, value, etc. of something (оценить, предположить))** competition time.
 

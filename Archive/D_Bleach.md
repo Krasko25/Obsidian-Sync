@@ -4,7 +4,7 @@ sorry for the lack of {{clarity}} (the quality of being easily understood)
 
  <!--SR:!2023-12-12,9,270-->
 
-And so I was wandering around if search for a {{foe}} (**an enemy) ** who could please my sword. <!--SR:!2024-01-24,22,260--> 
+And so I was wandering around if search for a {{foe}} (**an enemy) ** who could please my sword. <!--SR:!2024-03-20,56,260--> 
 
 I {{commend}} (**to formally praise or mention with approval someone or something)** you for removing your eyepatch from the start. <!--SR:!2024-03-28,69,270-->
 
@@ -18,7 +18,7 @@ But your power is too ??? (**extremely large**) for someone to handle other than
 
  <!--SR:!2023-11-27,4,270-->
 
-Hueco Mundo is already my {{domain}} (**an area of interest or an area over which a person has control)** <!--SR:!2024-01-24,30,280-->
+Hueco Mundo is already my {{domain}} (**an area of interest or an area over which a person has control)** <!--SR:!2024-04-16,83,280-->
 
 . <!--SR:!2023-12-10,9,280-->
 

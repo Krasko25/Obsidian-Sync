@@ -20,7 +20,7 @@ What can I do to make up to you?>>помириться <!--SR:!2024-02-05,13,304
 
 I'm going to {{speak my mind}} (to tell what you are thinking about) and you are going to listen <!--SR:!2024-01-30,8,284-->
 
-spill>>проболтаться <!--SR:!2024-01-24,4,306-->
+spill>>проболтаться <!--SR:!2024-02-11,18,326-->
 
 staff and stuff>>сотрудники и хлам <!--SR:!2024-01-30,9,281-->
 
@@ -80,7 +80,7 @@ From my {{perspective}}, this was not a crime.
 
 to view a situation from a new perspective>>с новой точки зрения <!--SR:!2024-02-02,11,301-->
 
-Second class-citizen person>>_ <!--SR:!2024-01-24,4,306-->
+Second class-citizen person>>_ <!--SR:!2024-02-10,17,326-->
 
 give it a shot>>_ <!--SR:!2024-02-17,36,294-->
 
@@ -91,11 +91,11 @@ man in plural form>>men
 to run across>>натолкнуться
 
 This airport can handle more than 300 {{aircraft}} (**any vehicle, with or without an engine, that can fly, such as a plane or helicopter) **every day
-aircraft in plural form>>aircraft and words with -craft has the same form in singular and plural form <!--SR:!2024-01-24,3,289-->
+aircraft in plural form>>aircraft and words with -craft has the same form in singular and plural form <!--SR:!2024-02-03,10,289-->
 
 deer in plural form>>deer
 
-fish in plural form>>fish <!--SR:!2024-01-24,4,306-->
+fish in plural form>>fish <!--SR:!2024-02-11,18,326-->
 
 You in a single form
 ?
@@ -184,7 +184,7 @@ sequence of tenses>>согласование времен
 
 {{unfulfilled }}(unrealised) persons tend to be miserable
 
-{{self-doubt}} (Сомнения в себе) is a serious illness <!--SR:!2024-01-24,3,289-->
+{{self-doubt}} (Сомнения в себе) is a serious illness <!--SR:!2024-02-03,10,309-->
 
 Go to work once you {{recover}} (get better)
 
@@ -208,7 +208,7 @@ Is my {{whereabouts}} (The place in or near which a person or thing is.) importa
 
 It seems I'm going to {{obtein a scholarship}}(get a grant)
 
-It was a {{white lie}} (lie which a person feels is not serious or has few consequences). He won't be punished. <!--SR:!2024-01-24,4,306-->
+It was a {{white lie}} (lie which a person feels is not serious or has few consequences). He won't be punished. <!--SR:!2024-02-06,13,306-->
 
 Kill him!!! He is an {{accomplice}} (a person who takes part in a crime) <!--SR:!2024-02-22,41,294-->
 
@@ -242,11 +242,11 @@ You will be my main {{heir}} (a person legally entitled to the property or rank 
 
 run down street>>захудалая улица
 
-Your {{hard-luck story}} (a story or piece of information that someone tells you or writes about himself or herself, intended to make you feel sympathy for that person) story makes me sad, you should go. <!--SR:!2024-01-24,4,306-->
+Your {{hard-luck story}} (a story or piece of information that someone tells you or writes about himself or herself, intended to make you feel sympathy for that person) story makes me sad, you should go. <!--SR:!2024-02-07,14,306-->
 
 Your {{internal}} (existing**, **intendent** **for**, **or** **happening inside the body**, **organizathion**, **place**, **country**, **etc.) thoughts have always been unclear for me.
 
-Your {{vehicle}} (transport) is a piece of trash! <!--SR:!2024-01-24,4,306-->
+Your {{vehicle}} (transport) is a piece of trash! <!--SR:!2024-02-11,18,326-->
 
 Your {{twisted mind}} (извращённый ум) will kill us
 
@@ -278,7 +278,7 @@ I am {{assure}} (make sure) you, you will got terrifying death, once I got home 
 
 I am capable to {{talk up}} (to make something sound very attractive) this product
 
-I am sick of {{military action}} (военные действия) <!--SR:!2024-01-24,4,306-->
+I am sick of {{military action}} (военные действия) <!--SR:!2024-02-07,14,306-->
 
 I dream Nikita to get the second English wind.>>second wind <!--SR:!2024-02-01,12,297-->
 
@@ -329,7 +329,7 @@ The ghost of that ink {{spot}} (a small, usually round area of colour that has d
 
 there is a {{pure}} (not mixed with anything else) evil in this book... <!--SR:!2024-02-01,13,295-->
 
-There's also DJ, who likes to DJ>>_
+There's also DJ, who likes to DJ>>_ <!--SR:!2024-01-28,4,313-->
 
 There's only one possible explanation. She obviously wants to {{ask you out}} (invite to a date)
 
@@ -355,7 +355,7 @@ This concept (a principle or idea) is more {{narrow}} (having a small distance f
 
 This concept (a principle or idea) is {{broader}} (very wide) than you think. <!--SR:!2024-01-26,4,311-->
 
-LD find her treasure stuff to be {{upside down}} (having the part that is usually at the top turned to be at the bottom). <!--SR:!2024-01-24,3,289-->
+LD find her treasure stuff to be {{upside down}} (having the part that is usually at the top turned to be at the bottom). <!--SR:!2024-02-04,11,309-->
 
 В каком случае занятия спортом употребляется go?
 ?
@@ -373,7 +373,7 @@ play tennis <!--SR:!2024-02-02,15,264-->
 В каком случае занятия спортом употребляется do?
 ?
 остальные виды спорта, йога, боевые искусства
-do box <!--SR:!2024-01-24,2,281-->
+do box <!--SR:!2024-01-31,7,301-->
 
 Brain is going to use economic {{mode}} (режим).
 

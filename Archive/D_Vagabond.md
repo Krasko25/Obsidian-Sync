@@ -73,7 +73,7 @@ I won't forgive you. {{Talking ill}} (плохо отзваться) about my te
 
 You're determined to {{advance}} (**to go or move something forward, or to develop or improve something)... **so you want this sword of yours back. <!--SR:!2024-01-25,3,279-->
 
-I'll not forgive you if you're weak. You have defeated Sadakore. I pray you're the strongest man I have yet to {{encounter}} (**a meeting, especially one that happens by chance (натолкнуться).** <!--SR:!2024-01-24,16,303-->
+I'll not forgive you if you're weak. You have defeated Sadakore. I pray you're the strongest man I have yet to {{encounter}} (**a meeting, especially one that happens by chance (натолкнуться).** <!--SR:!2024-03-30,66,323-->
 
 Was you looking for a way to die the ??? (**moral in an honest, brave, and kind way) **death of a swordsman.
 ?

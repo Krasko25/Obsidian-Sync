@@ -16,7 +16,7 @@ Landlady>>the owner of land <!--SR:!2024-02-23,36,270-->
 
 Comfort somebody>>успокаивать кого-нибудь
 
-Мармеладов is a retired {{official}} (чиновник) <!--SR:!2024-01-24,5,230-->
+Мармеладов is a retired {{official}} (чиновник) <!--SR:!2024-02-07,14,250-->
 
 As if it were a matter of his own father>>_
 

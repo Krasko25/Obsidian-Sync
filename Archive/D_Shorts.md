@@ -8,7 +8,7 @@ otw>>on the way <!--SR:!2024-03-03,43,309-->
 
 bb>>byebye <!--SR:!2024-01-31,13,300-->
 
-Lmbfao>>laughing my big f... ass off
+Lmbfao>>laughing my big f... ass off <!--SR:!2024-01-28,4,306-->
 
 imao>>In my arrogant opinion <!--SR:!2024-01-29,7,283-->
 
@@ -64,4 +64,4 @@ CU>>see you
 
 IDC>>I don't care <!--SR:!2024-01-28,14,293-->
 
-sus>>suspicious <!--SR:!2024-01-24,4,304-->
+sus>>suspicious <!--SR:!2024-02-12,19,324-->

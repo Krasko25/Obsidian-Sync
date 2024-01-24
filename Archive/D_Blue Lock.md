@@ -8,6 +8,6 @@ But the remaining 29 will have just the one chance to play. This is the final ta
 
 Kind guys like him mush be an {{endangered}} (вымирающие) species here in blue lock. <!--SR:!2024-01-29,14,250-->
 
-I see that you have {{dipped}} (погрузил) your toe into the realm where miracles occur, Isagi <!--SR:!2024-01-24,4,270-->
+I see that you have {{dipped}} (погрузил) your toe into the realm where miracles occur, Isagi <!--SR:!2024-02-03,10,270-->
 
 It's time to do some {{substitutions}} (the act of putting one thing or person in the place of another). <!--SR:!2024-02-10,19,250-->

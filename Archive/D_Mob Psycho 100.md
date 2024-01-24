@@ -6,7 +6,7 @@ But if you're not {{up to the task}} (good enough for this task), very well <!--
 
 narrator>>рассказчик <!--SR:!2024-02-18,37,294-->
 
-I'm going to make you pay {{dearly}} (заплатить сполна)! <!--SR:!2024-01-24,10,285-->
+I'm going to make you pay {{dearly}} (заплатить сполна)! <!--SR:!2024-03-03,39,305-->
 
 all the negative emotions are {{welling up}} (накапливаются) within you
 she has a nerve to speak like this in her position? - {{splendid}} (**excellent, or beautiful and impressive:)** <!--SR:!2024-02-02,28,270!2000-01-01,1,250--> 
@@ -21,7 +21,7 @@ I just got bored on my old job and started this office on a {{whim}} (**a sudden
 
 My {{holy}} blade(**related to a religion or a god)! It's broken.** <!--SR:!2024-02-27,37,285--> 
 
-He's already been brought back to this {{realm}} (сфера деятельности (new discoveries in the realm of medicine, in the {{realm}} of electronic states) <!--SR:!2024-01-24,4,290!2024-01-24,4,290--> 
+He's already been brought back to this {{realm}} (сфера деятельности (new discoveries in the realm of medicine, in the {{realm}} of electronic states) <!--SR:!2024-02-08,15,310!2024-02-08,15,310--> 
 
 Today you are {{on a high horse}} (быть в ударе)![](local:///Users/connect/remnote/remnote-62c2eac9d4b97a004623c386/files/lMsNfuPYeY55V_3ZQQvGiZ5vsU5ZqeN60QYC7MTFt54GT2X38EVDHVtKu4CWT1MrVdXpyJaofRH6FeKfiJOkgTX2kqL_aY0_oaPdSM1oLJrEUF8IFFIo_BWUckrWbjkO.png) 
 

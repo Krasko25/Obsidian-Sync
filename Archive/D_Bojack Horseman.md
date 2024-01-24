@@ -19,7 +19,7 @@ Everything I {{pitch}} (**to throw something, esp. forcefully, promote)** he sho
 
 Don't chew too loud, and collect your {{paycheck.}} (**a check used to pay an employee the amount of money the employee has earned).** <!--SR:!2024-02-20,43,290--> 
 
-First of all, I don't hate {{Jews}} (иудей, еврей), If I did, would I be able to sit in the same room as my good friend, a {{Jew}}? <!--SR:!2024-01-24,16,300!2000-01-01,1,250-->
+First of all, I don't hate {{Jews}} (иудей, еврей), If I did, would I be able to sit in the same room as my good friend, a {{Jew}}? <!--SR:!2024-03-29,65,320!2000-01-01,1,250-->
 
 Hey, Gina, I'm sorry. I was just {{teasing}} (**to laugh at someone or say unkind things about them, either because you are jokingor because you want to upset that person)**. Gina, come out of the bathroom
 
@@ -39,7 +39,7 @@ This neckless is a family {{heirloom}} (**a valuable object that has been given 
 
 You look tired, Veronica. - Amazing {{burn}} (прожарка, подкол), Princess Carolyn. <!--SR:!2024-02-01,10,299--> 
 
-I went through hell and back today, but it was worth it>>_ <!--SR:!2024-01-24,3,281-->
+I went through hell and back today, but it was worth it>>_ <!--SR:!2024-01-31,7,281-->
 
 to get to the bottom of things↔дойти до сути (серцевины). 
 
@@ -55,11 +55,11 @@ Well, do you think it's true? Do I think L.A. is a tar {{pit}} (**a large hole i
 
 Jesus Christ! Juda, do you ever {{read a room}} (**to be or become aware of the opinions and attitudes of a group of people that you are talking to)**!? I'm sorry, is this a bad time?
 
-I don't know how you {{put up}} (**to accept or continue to accept an unpleasant situation or experience, or someone who behaves unpleasantly) **{{wit}}h me. I didn't {{put up with}} you. <!--SR:!2024-02-05,17,316!2024-01-24,12,284!2000-01-01,1,250-->
+I don't know how you {{put up}} (**to accept or continue to accept an unpleasant situation or experience, or someone who behaves unpleasantly) **{{wit}}h me. I didn't {{put up with}} you. <!--SR:!2024-02-05,17,316!2024-02-26,33,284!2000-01-01,1,250-->
 
 I'm good at driving sober, but I do not {{relish}} (**to like or enjoy something) **the opportunity. <!--SR:!2024-01-25,17,302--> 
 
-Is he okay? - He recently found out that his brother is {{sick.}} -Oh, I'm sorry, but you know what else is {{sick}}? This floors! <!--SR:!2000-01-01,1,250!2024-01-23,15,300-->
+Is he okay? - He recently found out that his brother is {{sick.}} -Oh, I'm sorry, but you know what else is {{sick}}? This floors! <!--SR:!2000-01-01,1,250!2024-03-28,64,320-->
 
 You know, it's amazing that it's legal for kids to be actors. How is that not child {{labor}} (**practical work, esp. work that involves physical effort)**?
 Let's just go! - I can't leave until I make {{amends}} (**to change something, especially the words of a text (вносить правки))** <!--SR:!2024-03-11,48,302!2000-01-01,1,250--> 

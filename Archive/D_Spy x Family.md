@@ -20,11 +20,11 @@ First, I'll have to ?? (to collect several things, often from different places o
 ?
 I went to several libraries to gather information about the plans.
 She gather the children up and hurried into the house.
-The bicycle gather speed as it went down the hill.
+The bicycle gather speed as it went down the hill. <!--SR:!2024-01-29,4,290-->
 
 You've been staring at me ever since I walked in. May I help you? - *imposibble. She could even sense my {{gaze}} (to look at something or someone for a long time, especially in surprise or admiration, or because you are thinking about something else)? * <!--SR:!2024-03-08,45,304-->
 
-You have {{favorable}} (благоприятное) impression of my appearance?; May I ask you a {{favor}} ? ; it counts in {{favor}} (в ползу, во благо) of... <!--SR:!2024-02-03,24,277!2000-01-01,1,250!2024-01-25,3,268-->
+You have {{favorable}} (благоприятное) impression of my appearance?; May I ask you a {{favor}} ? ; it counts in {{favor}} (в ползу, во благо) of... <!--SR:!2024-02-03,24,277!2000-01-01,1,250!2024-02-02,8,268-->
 
 I've completed countless missions, yet once again I find myself {{losing heart}} (to stop believing that you can succeed) <!--SR:!2024-01-26,4,288--> 
 

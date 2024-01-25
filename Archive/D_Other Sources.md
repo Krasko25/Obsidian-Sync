@@ -32,9 +32,9 @@ maid>>горничная
 
 mop the floor>>мыть полы <!--SR:!2024-01-28,8,277-->
 
-She hired a lawyer who {{specializes}} (**to** **stud y** **or** **work** **on a** **particular** **subject** **or** **skill** **more than any** **others, so that you** **become** **an** **expert** **in it (адаптация))** in divorce cases. <!--SR:!2024-01-25,3,291-->
+She hired a lawyer who {{specializes}} (**to** **stud y** **or** **work** **on a** **particular** **subject** **or** **skill** **more than any** **others, so that you** **become** **an** **expert** **in it) ** in divorce cases. <!--SR:!2024-02-02,8,291-->
 
-sign up>>регистрироваться <!--SR:!2024-01-25,4,309-->
+sign up>>регистрироваться <!--SR:!2024-02-08,14,309-->
 
 go through something
 !
@@ -103,7 +103,7 @@ thou - ты (зау)
 thee - тебя (зи)
 thy - твой (зай)
 
-Thou>>ты (древнее) (Зау)
+Thou>>ты (древнее) (Зау) <!--SR:!2024-01-28,3,295-->
 
 Thee>>тебя (древнее) <!--SR:!2024-01-29,8,281-->
 
@@ -137,13 +137,13 @@ He can be depend on>>_
 
 I believe that {{posters}} (плакаты) on the school walls is trash
 
-Pen - ручка; {{pan}} - кастрюля <!--SR:!2024-01-25,4,309-->
+Pen - ручка; {{pan}} - кастрюля <!--SR:!2024-02-05,11,309-->
 
 You doomed to die in Donbass without {{lighter}}  (зажигалка).
 
 This book is about to tell some {{tips}} (лайфхак)
 
-"Draw" is {{beautiful/nice}} word (красивое слово).
+"Draw" is {{beautiful/nice}} word (красивое слово). <!--SR:!2024-01-28,3,295-->
 
 I'll be doing {{bandage}} (a long, narrow piece of cloth that is tied around an injuryor a part of someone's body that has been hurt) for my leg.
 
@@ -232,7 +232,7 @@ This is our frendship {{tie}} (a set of stories that explains our relationship t
 This snake {{tempted}} (try to get someone to do something; test; invite (искушать)) me, it's its fault. <!--SR:!2024-02-15,25,284-->
 
 Today he looks to be {{initiating}} (to begin (приступать)) the war
-We can't trust him, we don't know what he {{is up to (to be up to)}} (going to do).
+We can't trust him, we don't know what he {{is up to (to be up to)}} (going to do). <!--SR:!2000-01-01,1,250!2024-01-28,3,295-->
 
 Will you stop this {{rep}} (стук) into my front door?!
 
@@ -282,7 +282,7 @@ I am sick of {{military action}} (военные действия) <!--SR:!2024-
 
 I dream Nikita to get the second English wind.>>second wind <!--SR:!2024-02-01,12,297-->
 
-I suppose him to be a great {{scapegoat}} (a person or thing carrying the blame for others)
+I suppose him to be a great {{scapegoat}} (a person or thing carrying the blame for others) <!--SR:!2024-01-28,3,295-->
 
 I'm an {{amateur}} (taking part in an activity for pleasure, not as a job) in chess compare to Nikita
 
@@ -305,7 +305,7 @@ Mom likes to cook something out of {{flour}} (мука, порошок) <!--SR:!
 
 My phone is THE BEGGEST {{distraction}} (something that draws attention away) for me <!--SR:!2024-02-03,13,297-->
 
-My teacher hates when I put an {{exclamation mark}} (восклицательный знак) at the end of each sentence. <!--SR:!2024-01-25,4,309-->
+My teacher hates when I put an {{exclamation mark}} (восклицательный знак) at the end of each sentence. <!--SR:!2024-02-08,14,309-->
 
 noun (n)↔существительное
 
@@ -331,7 +331,7 @@ there is a {{pure}} (not mixed with anything else) evil in this book... <!--SR:!
 
 There's also DJ, who likes to DJ>>_ <!--SR:!2024-01-28,4,313-->
 
-There's only one possible explanation. She obviously wants to {{ask you out}} (invite to a date)
+There's only one possible explanation. She obviously wants to {{ask you out}} (invite to a date) <!--SR:!2024-01-28,3,295-->
 
 they killed each other for this {{real estate}} (lands or building that someone owns)
 

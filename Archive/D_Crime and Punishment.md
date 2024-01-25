@@ -6,9 +6,9 @@ He {{outrun}} (перегнал) this old man
 
 From a {{distance}} (издалека) he looked like a woman
 
-They spit in my {{mug}} (my face) quite openly <!--SR:!2024-01-25,3,269-->
+They spit in my {{mug}} (my face) quite openly <!--SR:!2024-02-02,8,269-->
 
-Both of them were happy to {{part}} (split) <!--SR:!2024-01-25,3,269-->
+Both of them were happy to {{part}} (split) <!--SR:!2024-02-04,10,289-->
 
 Each person is a vile, we get used to everything
 

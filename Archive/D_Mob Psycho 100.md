@@ -37,7 +37,7 @@ You are just {{seeing things}} (тебе кажется) <!--SR:!2024-02-20,29,2
 
 Why do you have to {{belittle}} (**to make a person or an action seem as if he, she or it is not important)** everyone
 
-you seem down>>_ 
+you seem down>>_ <!--SR:!2024-01-29,4,297-->
 
 Don't {{twist}} (to change the meaning of the words) my words <!--SR:!2024-02-04,15,265--> 
 
@@ -59,6 +59,6 @@ boss will be in a {{league of his own}} (someone who is on the whole different l
 
 when things go {{south}} (in a really bad direction), it's okay to run 
 
-Reigen {{gracefully}} (**in a** **smooth,** **relaxed,** **attractive** **way)** destroys enemies <!--SR:!2024-01-25,24,272--> 
+Reigen {{gracefully}} (**in a** **smooth,** **relaxed,** **attractive** **way)** destroys enemies <!--SR:!2024-03-29,64,272--> 
 
 It's {{give and take}} (взаимные уступки), got it? 

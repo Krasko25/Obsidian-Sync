@@ -28,17 +28,17 @@ Mushashi considers himself to be {{arrogant}} ( высокометный)
 
 overcoming difficulties and at times even risking one's life. These are the things that allow the soul to grow and mature>>allow #Mark/Quote
 
-{{unease}} ( physical discomfort, беспокойство, тревога) had taken over Musashi <!--SR:!2024-01-25,11,290--> 
+{{unease}} ( physical discomfort, беспокойство, тревога) had taken over Musashi <!--SR:!2024-03-08,43,310--> 
 
 eventually, I {{vow}} (**to make a** **determined** **decision** **or** **promise** **to do something) **to kill you <!--SR:!2024-02-03,11,296-->
 
 You're still wet behind the ears>>_ <!--SR:!2024-03-07,49,296-->
 
-He helps performers {{hone}} (**to** **direct** **something such as an** **ability** **to make it more** **effective)** their skills as dancers and singers.
+He helps performers {{hone}} (**to** **direct** **something such as an** **ability** **to make it more** **effective)** their skills as dancers and singers. <!--SR:!2024-01-29,4,302-->
 
 I thought you might have matured a little. Don't you realise how {{precious}} (драгоценна) the life is <!--SR:!2024-02-07,17,313-->
 
-He had Yashioka Denshichiro in a {{deadlock}} (тупик, безвыходная ситуация) <!--SR:!2024-01-25,10,290-->
+He had Yashioka Denshichiro in a {{deadlock}} (тупик, безвыходная ситуация) <!--SR:!2024-02-24,30,290-->
 
 At this {{rate}} (темп), the fire will spread, {{tear down}} (**to** **intentionally** **destroy** **a** **building** **or other** **structure** **because it is not being used or it is not** **wanted** **any more)** what is left of it <!--SR:!2000-01-01,1,250!2024-02-23,33,284-->
 
@@ -56,22 +56,22 @@ I was to lazy to milk this idea for 10 minutes>>_ <!--SR:!2024-02-17,30,282-->
 
 Am I still strong? I want to know. - he exceeds (**to go past the level, limit, rate, etc. that you are allowed) **the rumors
 
-{{Flee}} (**to escape by running away, especially because of danger or fear)** now, while you have a chance. <!--SR:!2024-01-25,7,273-->
+{{Flee}} (**to escape by running away, especially because of danger or fear)** now, while you have a chance. <!--SR:!2024-02-14,20,273-->
 
 Fighting for myself I won't {{pursue}} (**to follow someone or something, usually to try to catch him, her, or it)** my opponents.
 
 Even if you are {{crippled}} (**an extremely offensive word for a person whose legs or arms do not work in the usual way)**, you are still Musashi. She was {{crippled}} in a car accident. <!--SR:!2024-01-26,12,290!2024-01-28,19,256-->
 
 With this leg, this trip is three times as {{tiring}} (утомляющая)
-While he is doing that, Musashi's reputation will reach the {{topmost}} (the highest point of something (reputation)) level. <!--SR:!2024-02-06,16,313!2024-01-25,10,290-->
+While he is doing that, Musashi's reputation will reach the {{topmost}} (the highest point of something (reputation)) level. <!--SR:!2024-02-06,16,313!2024-03-04,39,310-->
 
-give up the lying already>>_ 
+give up the lying already>>_ <!--SR:!2024-01-28,3,282-->
 
 Your thoughts are quite {{profound}} (**felt or experienced very strongly or in an extreme way (очеь глубокое понимание))**, aren't they? <!--SR:!2024-02-01,17,263-->
 
 I won't forgive you. {{Talking ill}} (плохо отзваться) about my teacher <!--SR:!2024-02-16,29,283-->
 
-You're determined to {{advance}} (**to go or move something forward, or to develop or improve something)... **so you want this sword of yours back. <!--SR:!2024-01-25,3,279-->
+You're determined to {{advance}} (**to go or move something forward, or to develop or improve something)... **so you want this sword of yours back. <!--SR:!2024-02-08,14,299-->
 
 I'll not forgive you if you're weak. You have defeated Sadakore. I pray you're the strongest man I have yet to {{encounter}} (**a meeting, especially one that happens by chance (натолкнуться).** <!--SR:!2024-03-30,66,323-->
 

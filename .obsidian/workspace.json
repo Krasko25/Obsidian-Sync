@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archive/Tdiary.md",
-                "mode": "preview",
+                "file": "Daily notes/2024/January/2024-01-24.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archive/Tdiary.md",
+                "file": "Daily notes/2024/January/2024-01-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Archive/Tdiary.md",
+                "file": "Daily notes/2024/January/2024-01-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archive/Tdiary.md"
+                "file": "Daily notes/2024/January/2024-01-24.md"
               }
             }
           },
@@ -176,10 +176,11 @@
   },
   "active": "2f6e8fbda4e13929",
   "lastOpenFiles": [
+    "Archive/Тебе не достаточно лишь одной формы удовольствия.md",
+    "Archive/Tdiary.md",
     "Archive/D_Hazbin hotel.md",
     "Daily notes/2024/January/2024-01-24.md",
     "Archive/D_Other Sources.md",
-    "Archive/Tdiary.md",
     "Daily notes/2024/January/2024-01-23.md",
     "Archive/Преступление и наказание.md",
     "Archive/LD.md",
@@ -201,7 +202,6 @@
     "Archive/Моя главная цель в жизни.md",
     "Daily notes/2024/January/2024-01-17.md",
     "Daily notes/2024/January/2024-01-16.md",
-    "Daily notes/2024/January/2024-01-15.md",
     "Attachments/Screenshot 2024-01-11 at 11.31.46 AM.png",
     "Attachments/Screenshot 2024-01-08 at 21.27.20.png",
     "obsidian items",

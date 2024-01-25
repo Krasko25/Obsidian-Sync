@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2024/January/2024-01-25.md",
-                "mode": "source",
+                "file": "Archive/Tdiary.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily notes/2024/January/2024-01-25.md",
+                "file": "Archive/Tdiary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily notes/2024/January/2024-01-25.md",
+                "file": "Archive/Tdiary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily notes/2024/January/2024-01-25.md"
+                "file": "Archive/Tdiary.md"
               }
             }
           },
@@ -176,10 +176,10 @@
   },
   "active": "2f6e8fbda4e13929",
   "lastOpenFiles": [
+    "Daily notes/2024/January/2024-01-25.md",
     "Archive/Преступление и наказание.md",
     "Archive/Tdiary.md",
     "Daily notes/2024/January/2024-01-24.md",
-    "Daily notes/2024/January/2024-01-25.md",
     "Archive/Тебе не достаточно лишь одной формы удовольствия.md",
     "Archive/D_Hazbin hotel.md",
     "Archive/D_Other Sources.md",

@@ -2,7 +2,7 @@
  
 #cards/dictionary 
 
-
+Mikhail is using the word {{"interjection"}} way too much.
 
 He's a {{crafty}} (хитрый, коварный) old devil. <!--SR:!2024-01-28,7,281-->
 

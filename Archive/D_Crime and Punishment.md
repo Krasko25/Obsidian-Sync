@@ -4,6 +4,8 @@ He was wearing a {{house jacket}} (пальто для дома) <!--SR:!2024-02
 
 He {{outrun}} (перегнал) this old man 
 
+I wanted to know if I'm a {{beetle}} (a bug) or a human
+
 From a {{distance}} (издалека) he looked like a woman
 
 They spit in my {{mug}} (my face) quite openly <!--SR:!2024-02-02,8,269-->

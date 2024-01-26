@@ -11,7 +11,7 @@ Sundays are the one day that are just for me and my {{craft}} (ремесло, t
 
 The man has come to call. He'd like to take you for a Sunday {{stroll}} (**o walk in a slow relaxed way, especially for pleasure)** <!--SR:!2024-02-07,17,318--> 
 
-Was named after my mom>>_ <!--SR:!2024-01-26,12,291-->
+Was named after my mom>>_ <!--SR:!2024-03-14,48,311-->
 
 Ok, just don't live your life for Strib, or this baby, or anybody else. - Thank you. - {{I mean it}} (I was quite serious, take it serious) 
 
@@ -27,7 +27,7 @@ It's weird. Like we could totally {{make out}} right now. - What? - No, I'm not 
 
 You'll have to say, "I'm sad-sad girl with a dirty apartment", - but I'll let you {{crash}} (переночевать). <!--SR:!2024-02-07,28,275-->
 
-What did you order? - The {{through}} (всё меню по одному блюду)! He wants the {{through}} (всё меню по одному блюду) <!--SR:!2024-01-26,3,284!2024-01-26,11,293-->
+ <!--SR:!2024-02-08,13,304!2024-03-11,45,313-->
 
 The man is willing to give you a second chance, he is downstairs waiting, and you will be {{civil}} (будешь вежливой) to him. <!--SR:!2024-02-02,13,298-->
 
@@ -47,7 +47,7 @@ Oh, don't {{be cross}} (ругаться) with mother.
 
 You really {{let me down}} (**to disappoint someone by failing to do what you agreed to do or were expected to do) **, BoJack. You really {{let me down}}, Diane. <!--SR:!2024-02-03,12,299!2000-01-01,1,250-->
 
-I feel like we can beat this {{font}} (**a set of letters and symbols in a particular design and size (шрифт))** <!--SR:!2024-01-26,11,292--> 
+I feel like we can beat this {{font}} (**a set of letters and symbols in a particular design and size (шрифт))** <!--SR:!2024-03-09,43,312--> 
 
 And did you know there are {{orphans}} (**a child whose parents are dead) **in Sudan. - You take this job, you can buy all the {{orphans}} you want. - No, I don't want to buy them. 
 

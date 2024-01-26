@@ -60,7 +60,7 @@ Am I still strong? I want to know. - he exceeds (**to go past the level, limit, 
 
 Fighting for myself I won't {{pursue}} (**to follow someone or something, usually to try to catch him, her, or it)** my opponents.
 
-Even if you are {{crippled}} (**an extremely offensive word for a person whose legs or arms do not work in the usual way)**, you are still Musashi. She was {{crippled}} in a car accident. <!--SR:!2024-01-26,12,290!2024-01-28,19,256-->
+Even if you are {{crippled}} (**an extremely offensive word for a person whose legs or arms do not work in the usual way)**, you are still Musashi. She was {{crippled}} in a car accident. <!--SR:!2024-03-17,51,310!2024-01-28,19,256-->
 
 With this leg, this trip is three times as {{tiring}} (утомляющая)
 While he is doing that, Musashi's reputation will reach the {{topmost}} (the highest point of something (reputation)) level. <!--SR:!2024-02-06,16,313!2024-03-04,39,310-->
@@ -85,6 +85,6 @@ The body learns and {{acquires}} (**to gradually learn or gain something such as
 
 I have never met a person like you... a person purely {{devoted}} (**to give all of something, especially your time, effort, or love, or yourself, to something you believe in or to a person (посвещать))** to the sword.
 
-Keep cutting everyone down, until you're the last man standing. That's how to earn the right to be called {{invincible}} (**impossible to defeat or prevent)**. <!--SR:!2024-01-26,4,299--> 
+Keep cutting everyone down, until you're the last man standing. That's how to earn the right to be called {{invincible}} (**impossible to defeat or prevent)**. <!--SR:!2024-02-05,10,299--> 
 
 I smell a lecture coming>>_ 

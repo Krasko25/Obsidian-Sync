@@ -48,7 +48,7 @@ go through something
 
 What do you think makes a {{compelling}}  character (interesting)?
 
-{{Compelling}} (**it makes you** **believe** **it or** **accept** **it because it is so** **strong (внушительные, сильные)) **evidence <!--SR:!2024-01-26,4,311-->
+{{Compelling}} (**it makes you** **believe** **it or** **accept** **it because it is so** **strong (внушительные, сильные)) **evidence <!--SR:!2024-01-28,2,291-->
 
 With flying colors>>**very easily**
 
@@ -84,7 +84,7 @@ Second class-citizen person>>_ <!--SR:!2024-02-10,17,326-->
 
 give it a shot>>_ <!--SR:!2024-02-17,36,294-->
 
-As is stated above>>_ <!--SR:!2024-01-26,3,292-->
+As is stated above>>_ <!--SR:!2024-02-06,11,312-->
 
 man in plural form>>men
 
@@ -127,7 +127,7 @@ Mother, father, sister, brother hand in hand with one another>>_
 
 but it involves an extremely {{blue}} (пошлая, грубая) __ joke__ .
 
-I've been feeling kind of {{blue}} (perfect blue). <!--SR:!2024-01-26,3,292-->
+I've been feeling kind of {{blue}} (perfect blue). <!--SR:!2024-02-03,8,292-->
 
 The {{womb}} (утроба матери) represents the very first place in which life takes form. <!--SR:!2024-02-08,19,264-->
 
@@ -176,7 +176,7 @@ No Tom was there>>_ <!--SR:!2024-02-05,15,317-->
 
 {{confused identity}} (нечеткая самоидентификация) is a common teenager problem <!--SR:!2024-02-05,24,270-->
 
-You never know how {{puberty}} (Developmental stage at which a person becomes capable of reproduction.) will change you. <!--SR:!2024-01-26,4,311-->
+You never know how {{puberty}} (Developmental stage at which a person becomes capable of reproduction.) will change you. <!--SR:!2024-02-14,19,331-->
 
 {{look out}} (be careful)! It's going to fall!
 
@@ -204,7 +204,7 @@ His {{background}} (past experience) makes everyone tremble
 
 I have the {{warrant}} (A legal paper, issued by a court, giving police permission to make an arrest, seizure, or search.), to search here.
 
-Is my {{whereabouts}} (The place in or near which a person or thing is.) important? <!--SR:!2024-01-26,6,277-->
+Is my {{whereabouts}} (The place in or near which a person or thing is.) important? <!--SR:!2024-02-20,25,297-->
 
 It seems I'm going to {{obtein a scholarship}}(get a grant)
 
@@ -286,7 +286,7 @@ I suppose him to be a great {{scapegoat}} (a person or thing carrying the blame 
 
 I'm an {{amateur}} (taking part in an activity for pleasure, not as a job) in chess compare to Nikita
 
-If the pain {{persist}} (to try to do or continue doing something in a determined but often unreasonable way) in opinion, consult a doctor <!--SR:!2024-01-26,4,311-->
+If the pain {{persist}} (to try to do or continue doing something in a determined but often unreasonable way) in opinion, consult a doctor <!--SR:!2024-02-06,11,311-->
 
 It takes double or even {{triple}} amount of time
 
@@ -353,7 +353,7 @@ This {{concept}} (a principle or idea) is broader than you think. <!--SR:!2024-0
 
 This concept (a principle or idea) is more {{narrow}} (having a small distance from one side to the other, especially in comparison with the length) than you think.
 
-This concept (a principle or idea) is {{broader}} (very wide) than you think. <!--SR:!2024-01-26,4,311-->
+This concept (a principle or idea) is {{broader}} (very wide) than you think. <!--SR:!2024-02-12,17,331-->
 
 LD find her treasure stuff to be {{upside down}} (having the part that is usually at the top turned to be at the bottom). <!--SR:!2024-02-04,11,309-->
 

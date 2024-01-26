@@ -8,7 +8,7 @@ sneak well. What is the wordplay?
 - Этот синдром описывает ситуацию когда человек, увидев низко калорийную еду, создаёт себе иллюзию правильного, здорового перекуса и, в итоге, съедает огромное количество низкокалорийной еды.
 
 Hell will freeze over before you pass>>_
-Harry threw himself into a chair beside Ron>>_ <!--SR:!2024-01-26,4,272-->
+Harry threw himself into a chair beside Ron>>_ <!--SR:!2024-02-11,16,292-->
 
 Wake up, we are here>>we got to the necessary place <!--SR:!2024-01-27,13,270-->
 

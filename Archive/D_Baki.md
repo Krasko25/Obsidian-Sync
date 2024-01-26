@@ -1,6 +1,6 @@
 #cards/dictionary 
 
-Tokugawa, do you plan on {{breaking the promise}} (нарушить обещание) made to Pickle? <!--SR:!2024-01-26,6,260-->
+Tokugawa, do you plan on {{breaking the promise}} (нарушить обещание) made to Pickle? <!--SR:!2024-02-09,14,260-->
 
 They sat to the most {{remarkable}} (worthy of notice) midnight snack ever served <!--SR:!2024-02-09,19,260-->
 

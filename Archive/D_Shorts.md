@@ -20,13 +20,13 @@ omg>>oh my God!
 
 rip>>rest in peace
 
-omfg>>Oh my f... God! <!--SR:!2024-01-26,11,296-->
+omfg>>Oh my f... God! <!--SR:!2024-03-10,44,316-->
 
-lmn>>let me know <!--SR:!2024-01-26,11,296-->
+lmn>>let me know <!--SR:!2024-03-08,42,316-->
 
 bff>>best friend forever <!--SR:!2024-01-28,13,299-->
 
-bf>>boyfriend <!--SR:!2024-01-26,17,307-->
+bf>>boyfriend <!--SR:!2024-04-06,71,327-->
 
 gf>>girlfriend <!--SR:!2024-02-26,39,304-->
 
@@ -46,7 +46,7 @@ IRL>>in real live
 
 lol>>laughing out loud <!--SR:!2024-02-05,17,320-->
 
-IMO>>in my opinion <!--SR:!2024-01-26,4,306-->
+IMO>>in my opinion <!--SR:!2024-02-12,17,326-->
 
 tbh>>to be honest
 

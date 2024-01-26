@@ -358,3 +358,14 @@ Being grateful today was a bit easier:
 
 By the way, one of the problems that is in my way of falling asleep at the right time is my habit of writing my daily notes at the very end of the day. Feel free to stick at me if I didn't send my daily note until 9:00 pm (6pm GMT).
 ==January 26th, 2024==
+Yesterday I praised myself for completing all of my main goals. Right after I wrote that note I successfully managed to procrastinate for a few hours in a row instead of sleeping. Today I was trying to compensate that time by sacrificing a part of my sleep. Unsurprisingly, it was not a good idea. I think that it was one of the reasons why I wasted most of today. 
+
+Eehhh... I need to make up some kind of a grattitute. Let's go with aaaaeeehh... a usual set:
+- I had a two hours long English/Russian lesson;
+- I was present during my online classes (though I do it every day);
+- I did my training and scoliosis stretches (nothing original, but still);
+- I spend a bit more time then usual on a call to my granny;
+- I write my daily notes every day;
+- I hope that I will be able to praise myself for completing my reading today.
+
+By the way, I wrote this note later then I should have (I should have done it before 6 pm GMT), sorry for that.

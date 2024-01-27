@@ -14,7 +14,7 @@ Security is a top {{concern}} (interest, neсessity, priority) in web developmen
 
 Developing a web application {{requires}} (have need of) proficiency in various programming languages <!--SR:!2024-02-10,36,270-->
 
-Modern web developers often {{utilize}} (put into service; make work for a particular purpose or for its inherent or natural purpose) popular JavaScript libraries
+Modern web developers often {{utilize}} (put into service; make work for a particular purpose or for its inherent or natural purpose) popular JavaScript libraries <!--SR:!2024-01-30,3,262-->
 
 to build {{interactive}} (relating to a program or interface that responds to the user's input) user interfaces. <!--SR:!2024-01-30,20,272-->
 

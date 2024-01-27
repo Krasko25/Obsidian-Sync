@@ -14,7 +14,7 @@ Nanotechnology. Ah, you have {{outdone}} (be or do something to a greater degree
 
 Vegita! Stop vegiting it! You are making it worse! - Don't you verb me!>>_
 
-next-to-last; second last; last, but one>>_ <!--SR:!2024-01-27,7,277-->
+next-to-last; second last; last, but one>>_ <!--SR:!2024-02-22,26,297-->
 
 What can I do to make up to you?>>помириться <!--SR:!2024-02-05,13,304-->
 
@@ -70,7 +70,7 @@ one must always keep one's word>>_ <!--SR:!2024-03-01,39,304-->
 
 between the three of us>>_ <!--SR:!2024-01-29,9,277-->
 
-Michael was on a good run with his homework>>_ <!--SR:!2024-01-26,8,275-->
+Michael was on a good run with his homework>>_ <!--SR:!2024-02-26,30,295-->
 
 I'm {{indifferent}} (безразличен) to his words
 
@@ -88,7 +88,7 @@ As is stated above>>_ <!--SR:!2024-02-06,11,312-->
 
 man in plural form>>men
 
-to run across>>натолкнуться
+to run across>>натолкнуться <!--SR:!2024-01-31,4,316-->
 
 This airport can handle more than 300 {{aircraft}} (**any vehicle, with or without an engine, that can fly, such as a plane or helicopter) **every day
 aircraft in plural form>>aircraft and words with -craft has the same form in singular and plural form <!--SR:!2024-02-03,10,289-->
@@ -386,7 +386,7 @@ His business is {{poultry}} (домашняя птица, живность) farm
 Foxes are considered {{vermin}} (паразиты, вредители). <!--SR:!2024-02-01,11,297-->
 
 This idea I {{extract}} (**to remove or take out something) **out of books...
-автор Person>>Альфред Ленглэ <!--SR:!2024-01-27,4,312-->
+автор Person>>Альфред Ленглэ <!--SR:!2024-02-07,11,312-->
 
 The {{primary}} (**more important than anything else; main)** {{bond}} (**a close connection joining two or more people (узы)) are** going to break someday.
 
@@ -400,7 +400,7 @@ Is this Pope claiming a {{ __divine status__ }} __ (божественный с�
 
 The new law provides for {{equality}} (**the right of different groups of people to have a similar social position and receive the same treatment)** of human rights.
 
-Many people in this area are {{descendants}} (**a person who is related to you and who lives after you, such as your child or grandchild (потомок))** of German immigrants.
+Many people in this area are {{descendants}} (**a person who is related to you and who lives after you, such as your child or grandchild (потомок))** of German immigrants. <!--SR:!2024-01-30,3,296-->
 
 She has a right to the {{property}} (собственность). <!--SR:!2024-02-15,34,270-->
 
@@ -410,9 +410,9 @@ Despite having a large family, they still had no **son and** {{heir}} (**a perso
 
 It's important not to {{jump to conclusions}} (спешить с выводами). <!--SR:!2024-02-01,11,297-->
 
-She worked her way up through the corporate {{hierarchy}} (**a system in which people or things are arranged according to their importance)** to become president. <!--SR:!2024-01-27,7,277-->
+She worked her way up through the corporate {{hierarchy}} (**a system in which people or things are arranged according to their importance)** to become president. <!--SR:!2024-02-14,18,277-->
 
-he happens to be in Moscow>>_ <!--SR:!2024-01-27,4,312-->
+he happens to be in Moscow>>_ <!--SR:!2024-02-11,15,332-->
 
 There is no easy cure for {{loneliness}} (**the state of being lonely)**.
 

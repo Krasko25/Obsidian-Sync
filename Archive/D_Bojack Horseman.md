@@ -5,7 +5,7 @@ red flags>>плохие предпосылки <!--SR:!2024-02-04,16,316-->
 
 l found your {{stashes}} (**to store or hide something, especially a large amount)** in the toilet paper rolls. How many of these do you take a day? <!--SR:!2024-02-10,29,275-->
 
-Bojack {{overhear}} (подслушал) something about Flip and PC <!--SR:!2024-01-27,13,292-->
+Bojack {{overhear}} (подслушал) something about Flip and PC <!--SR:!2024-03-06,39,292-->
 
 Sundays are the one day that are just for me and my {{craft}} (ремесло, the labor part of the art) <!--SR:!2024-02-03,26,275-->
 
@@ -23,7 +23,7 @@ First of all, I don't hate {{Jews}} (иудей, еврей), If I did, would I 
 
 Hey, Gina, I'm sorry. I was just {{teasing}} (**to laugh at someone or say unkind things about them, either because you are jokingor because you want to upset that person)**. Gina, come out of the bathroom
 
-It's weird. Like we could totally {{make out}} right now. - What? - No, I'm not saying we should. NO. Pffff... <!--SR:!2024-01-26,3,284-->
+It's weird. Like we could totally {{make out}} right now. - What? - No, I'm not saying we should. NO. Pffff... <!--SR:!2024-02-07,11,304-->
 
 You'll have to say, "I'm sad-sad girl with a dirty apartment", - but I'll let you {{crash}} (переночевать). <!--SR:!2024-02-07,28,275-->
 
@@ -31,7 +31,7 @@ You'll have to say, "I'm sad-sad girl with a dirty apartment", - but I'll let yo
 
 The man is willing to give you a second chance, he is downstairs waiting, and you will be {{civil}} (будешь вежливой) to him. <!--SR:!2024-02-02,13,298-->
 
-'It smells terrible in here,' said Francis. 'Tomorrow, if it's warm, we'll {{air it out}} (wind) <!--SR:!2024-01-26,4,303--> 
+'It smells terrible in here,' said Francis. 'Tomorrow, if it's warm, we'll {{air it out}} (wind) <!--SR:!2024-02-06,10,303--> 
 
 The room has a {{fabulous}} (**very good; excellent)** view across the lake. <!--SR:!2024-02-07,24,260-->
 
@@ -49,7 +49,7 @@ You really {{let me down}} (**to disappoint someone by failing to do what you ag
 
 I feel like we can beat this {{font}} (**a set of letters and symbols in a particular design and size (шрифт))** <!--SR:!2024-03-09,43,312--> 
 
-And did you know there are {{orphans}} (**a child whose parents are dead) **in Sudan. - You take this job, you can buy all the {{orphans}} you want. - No, I don't want to buy them. 
+And did you know there are {{orphans}} (**a child whose parents are dead) **in Sudan. - You take this job, you can buy all the {{orphans}} you want. - No, I don't want to buy them. <!--SR:!2024-01-30,3,286!2000-01-01,1,250--> 
 
 Well, do you think it's true? Do I think L.A. is a tar {{pit}} (**a large hole in the ground, or a slightly low area in any surface:)** 
 

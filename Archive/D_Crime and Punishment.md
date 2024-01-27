@@ -16,7 +16,7 @@ Each person is a vile, we get used to everything
 
 Landlady>>the owner of land <!--SR:!2024-02-23,36,270-->
 
-Comfort somebody>>успокаивать кого-нибудь
+Comfort somebody>>успокаивать кого-нибудь <!--SR:!2024-01-31,4,274-->
 
 Мармеладов is a retired {{official}} (чиновник) <!--SR:!2024-02-07,14,250-->
 

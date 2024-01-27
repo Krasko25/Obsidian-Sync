@@ -6,7 +6,7 @@ I {{concede}} (give up), you are stronger
 
 I thought I was {{striving}} (attempt by {{employing}} (put into service) effort) to become stronger, but I was just covering things up with sand <!--SR:!2024-02-02,10,276!2000-01-01,1,250-->
 
-As the four seasons between heaven and earth flow in an endless cycle, so too, must man work his way, through his own cycles of seasons continuous. If you are able to to endure a long hard winter, a fresh new spring is sure to follow, invigorating with  strength renewed.>>_ #Mark/Quote <!--SR:!2024-01-27,18,256-->
+As the four seasons between heaven and earth flow in an endless cycle, so too, must man work his way, through his own cycles of seasons continuous. If you are able to to endure a long hard winter, a fresh new spring is sure to follow, invigorating with  strength renewed.>>_ #Mark/Quote <!--SR:!2024-03-31,64,276-->
 
 I feel {{overwhelmed}} (overcome by superior force) by this man's great presence?
 
@@ -22,7 +22,7 @@ It's no crime to use a bit of his funds>>_
 
 I {{vow}} (make a vow; promise) to deliver it to your parents <!--SR:!2024-02-11,36,270-->
 
-I feel bad for everyone, you, guys, share this. - a tactful {{bribe}} (payment made to a person in a position of trust to corrupt his judgment), eh? <!--SR:!2024-01-27,13,287-->
+I feel bad for everyone, you, guys, share this. - a tactful {{bribe}} (payment made to a person in a position of trust to corrupt his judgment), eh? <!--SR:!2024-03-03,36,287-->
 
 Mushashi considers himself to be {{arrogant}} ( высокометный)
 

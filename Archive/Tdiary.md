@@ -369,3 +369,19 @@ Eehhh... I need to make up some kind of a grattitute. Let's go with aaaaeeehh...
 - I hope that I will be able to praise myself for completing my reading today.
 
 By the way, I wrote this note later then I should have (I should have done it before 6 pm GMT), sorry for that.
+
+==January 27th, 2024== 
+I woke up quite late today. I was blaming myself for that. It was hard to complete my morning routine, everything seemed pointless, because I would not be able to achieve a "good" day scenario. Because of all this I wasted a lot of time and it took me about 3 hours to complete my morning routine. However, I managed to put it together and spend the second half of the day with more consciousness.
+
+Today we had a third Habitica call. Here are my main goals for the next week:
+1) Have at least 5 days, when I fall asleep and wake up on time.
+2) Get to the "45% complete" mark on my math course.
+3) Read 6 chapters of the book "Crime and Punishment"
+
+Bonus task: remind Robert to complete his sleeping goals.
+
+The domain of gratitude:
+- I had one hour long English lesson and more than 100 minutes of Habitica call. That is a lot of English practice, this is good.
+- I will fall asleep on time today (almost).
+- I was able to break up the cycle of procrastination in the second half of the day;
+- At the moment I call my dad and two grandmothers everyday, it's a good thing.

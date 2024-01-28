@@ -386,3 +386,25 @@ The domain of gratitude:
 - I was able to break up the cycle of procrastination in the second half of the day;
 - At the moment I call my dad and two grandmothers everyday, it's a good thing.
 ==January 28th, 2024==
+Today I managed to read and record 2 chapters of Crime and Punishment. It is not much, but, for some reason, I'm usually able to handle only 1 or 0. 
+
+During the recording process I run into one problem. 
+
+I will not say that the first recording was great, but it was rather of the good side. The next chapter was really good, so I wanted to make the breakdown of it even better than the one for the previous chapter. There is nothing bad about the desire to improve, but in this case I was aiming for perfection, it is not good, because those breakdowns (recordings) are meant to be a quick way to:
+1) practice my ability to speak on English;
+2) find mistakes in my oral speech latter;
+3) express and save my emotions about the material. 
+
+I spend suite a lot of time trying to record the "perfect" beginning. Further more after I failed to record something, that will satisfy me and decided to humble my ambition, I was not able to start the process. I wasted quite a lot of time procrastinating because of this feeling of my silliness and dissatisfaction. 
+
+Anyway, I decided to make some rules for myself:
+- I will have only 3 attempts for each chapter/episode/ whatever_I_am_talking_about. 
+- I can restart the recording only if it lasts less than a minute. 
+
+I also find myself constantly breaking the rules, that I made for myself, they are written in the note for January 18th. I think, that the rules are good enough, but I don't respect them much at this point. I think, that I will came up with a new plan in the next few days.
+
+Thankfulness:
+1) I believe that I will be able to fall asleep today on time, like REALLY on time, at about 10 pm;
+2) I read two chapters of Crime and Punishment today, that is good;
+3) I did quite a good amount of homework today;
+4) It seems (at least to me), that I got better at finding the "roots" of my mistakes.

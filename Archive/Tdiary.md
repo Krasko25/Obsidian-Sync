@@ -395,7 +395,7 @@ I will not say that the first recording was great, but it was rather of the good
 2) find mistakes in my oral speech latter;
 3) express and save my emotions about the material. 
 
-I spend suite a lot of time trying to record the "perfect" beginning. Further more after I failed to record something, that will satisfy me and decided to humble my ambition, I was not able to start the process. I wasted quite a lot of time procrastinating because of this feeling of my silliness and dissatisfaction. 
+I spend quite a lot of time trying to record the "perfect" beginning. Further more after I failed to record something, that will satisfy me and decided to humble my ambition, I was not able to start the process. I wasted quite a lot of time procrastinating because of this feeling of my silliness and dissatisfaction. 
 
 Anyway, I decided to make some rules for myself:
 - I will have only 3 attempts for each chapter/episode/ whatever_I_am_talking_about. 

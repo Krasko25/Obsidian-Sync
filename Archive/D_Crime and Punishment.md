@@ -4,7 +4,7 @@ He was wearing a {{house jacket}} (пальто для дома) <!--SR:!2024-02
 
 He {{outrun}} (перегнал) this old man 
 
-Parfiriy finds reversed psychology to be a {{duplex}} (double sided) sword 
+Parfiriy finds reversed psychology to be a {{d}} (double sided) sword 
 
 I wanted to know if I'm a {{beetle}} (a bug) or a human
 

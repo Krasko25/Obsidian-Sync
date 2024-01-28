@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archive/Tdiary.md",
+                "file": "Daily notes/2024/January/2024-01-28.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,12 +84,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 267.5
   },
   "right": {
     "id": "32a9ed9c865d665c",
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archive/Tdiary.md",
+                "file": "Daily notes/2024/January/2024-01-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Archive/Tdiary.md",
+                "file": "Daily notes/2024/January/2024-01-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archive/Tdiary.md"
+                "file": "Daily notes/2024/January/2024-01-28.md"
               }
             }
           },
@@ -177,11 +177,13 @@
   },
   "active": "2f6e8fbda4e13929",
   "lastOpenFiles": [
+    "Archive/D_Habitica.md",
+    "Archive/Tdiary.md",
+    "Daily notes/2024/January/2024-01-28.md",
     "Daily notes/2024/January/2024-01-27.md",
     "Archive/D_Hazbin hotel.md",
     "Archive/D_Crime and Punishment.md",
     "Archive/Преступление и наказание.md",
-    "Archive/Tdiary.md",
     "Daily notes/2024/January/2024-01-26.md",
     "Archive/D_Other Sources.md",
     "Archive/Субъективный и объективный идеал.md",
@@ -201,8 +203,6 @@
     "Daily notes/2024/January/2024-01-20.md",
     "Archive/diary.md",
     "Archive/Большая шестёрка. Подъем ног.md",
-    "Daily notes/2024/January/2024-01-19.md",
-    "Archive/Robert Reimann.md",
     "Attachments/Screenshot 2024-01-11 at 11.31.46 AM.png",
     "Attachments/Screenshot 2024-01-08 at 21.27.20.png",
     "obsidian items",

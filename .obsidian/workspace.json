@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2f6e8fbda4e13929",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Archive/Преступление и наказание.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "00ed6838f252d4f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archive/D_Crime and Punishment.md",
+                "file": "Archive/Tdiary.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archive/Преступление и наказание.md",
+                "file": "Archive/Tdiary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Archive/Преступление и наказание.md",
+                "file": "Archive/Tdiary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archive/Преступление и наказание.md"
+                "file": "Archive/Tdiary.md"
               }
             }
           },
@@ -187,14 +175,16 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "2f6e8fbda4e13929",
+  "active": "00ed6838f252d4f9",
   "lastOpenFiles": [
+    "Daily notes/2024/January/2024-01-29.md",
+    "Archive/Tdiary.md",
     "Archive/D_Crime and Punishment.md",
+    "Archive/Forbidden words.md",
+    "Archive/Преступление и наказание.md",
     "Daily notes/2024/January/2024-01-28.md",
     "Archive/diary.md",
-    "Archive/Tdiary.md",
     "Archive/D_Hazbin hotel.md",
-    "Archive/Преступление и наказание.md",
     "Archive/D_Habitica.md",
     "Daily notes/2024/January/2024-01-27.md",
     "Daily notes/2024/January/2024-01-26.md",
@@ -213,8 +203,6 @@
     "Daily notes/2024/January/2024-01-21.md",
     "Archive/Blue Lock.md",
     "Archive/D_LD.md",
-    "Daily notes/2024/January/2024-01-20.md",
-    "Archive/Большая шестёрка. Подъем ног.md",
     "Attachments/Screenshot 2024-01-11 at 11.31.46 AM.png",
     "Attachments/Screenshot 2024-01-08 at 21.27.20.png",
     "obsidian items",

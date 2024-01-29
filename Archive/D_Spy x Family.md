@@ -1,6 +1,6 @@
 #cards/dictionary 
 
-Kindly {{hand over}} (to give someone else control of or responsibility for something) your mobile devices and I.D.
+Kindly {{hand over}} (to give someone else control of or responsibility for something) your mobile devices and I.D. <!--SR:!2024-02-02,4,291-->
 
 Your mission is to get close to him. In order to achieve this you will get married and have a child. The deadline is drawing near, meaning you have one week to {{pull this off}} (to succeed in doing something difficult or unexpected (вывести это)). Are you expect me to produce a child within SEVEN DAYS!? <!--SR:!2024-02-28,36,287--> 
 
@@ -20,7 +20,7 @@ First, I'll have to ?? (to collect several things, often from different places o
 ?
 I went to several libraries to gather information about the plans.
 She gather the children up and hurried into the house.
-The bicycle gather speed as it went down the hill. <!--SR:!2024-01-29,4,290-->
+The bicycle gather speed as it went down the hill. <!--SR:!2024-02-10,12,290-->
 
 You've been staring at me ever since I walked in. May I help you? - *imposibble. She could even sense my {{gaze}} (to look at something or someone for a long time, especially in surprise or admiration, or because you are thinking about something else)? * <!--SR:!2024-03-08,45,304-->
 

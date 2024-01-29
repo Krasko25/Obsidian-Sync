@@ -1,6 +1,6 @@
 #cards/dictionary 
 
-But before you do, you must {{undertake}} (**to do or begin to do something, especially something that will take a long time or be difficult)** the {{ordeal}} (**a very unpleasant and painful or difficult experience (испытание)) **of hell. <!--SR:!2024-02-12,31,270!2000-01-01,1,250-->
+But before you do, you must {{undertake}} (**to do or begin to do something, especially something that will take a long time or be difficult)** the {{ordeal}} (**a very unpleasant and painful or difficult experience (испытание)) **of hell. <!--SR:!2024-02-12,31,270!2024-02-01,3,255-->
 
 One piece 1015 {{breakdown}} (анализ) 
 

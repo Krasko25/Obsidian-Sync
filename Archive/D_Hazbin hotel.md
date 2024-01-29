@@ -1,6 +1,6 @@
 #cards/dictionary 
 
-rise and shine>>_
+rise and shine>>_ <!--SR:!2024-02-01,3,250-->
 
 I don't know why Ozz brought you here, but can you please not talk {{back to my boss}} (argue with).
 

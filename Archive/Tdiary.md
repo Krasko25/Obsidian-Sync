@@ -1,3 +1,4 @@
+
 [[diary]]
 ### January
 ==January 1st, 2024==
@@ -408,3 +409,26 @@ Thankfulness:
 2) I read two chapters of Crime and Punishment today, that is good;
 3) I did quite a good amount of homework today;
 4) It seems (at least to me), that I got better at finding the "roots" of my mistakes.
+
+==January 29th, 2024==
+Do you remember how yesterday I told that I would go to bed before 10pm? I... have... (Mikhail is trying to avoid swear words)... experienced a failure with that. Because of this I woke up at about 9:40 am. I had a lot things to do and I wanted to fall asleep on time today, so I consciously decided to not hope to read a chapter of Crime and Punishment. 
+
+Training
+___
+During the workout I found myself weaker than usual. People say that it is a normal thing to have these days every once in a while, but usually I'm quite stable with my training results in almost every exercise.
+
+The only exercise in which I'm quite inconsistent is handstand. For some reason it is hard for me to find a balance. In some days I show some relatively decent results, but, in general, I progress really slow. I think, that I need to devote more time to this skill, maybe, do some corrections to the way I train and be more patient.
+
+Light bulb
+___
+A couple of days before the light bulb in our coop (the place where people keep their chickens) stopped working. We didn't have the right bulb at the moment and got it only today. 
+
+I changed the light bulb, but it didn't work. There was a socket inside, it worked. It took me some time to find a root of the problem. It would be a huge understatement to say, that 
+
+
+
+
+
+
+
+I wouldn't call this day to be fruitless, but I could have done better. 

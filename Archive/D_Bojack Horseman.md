@@ -64,6 +64,6 @@ Is he okay? - He recently found out that his brother is {{sick.}} -Oh, I'm sorry
 You know, it's amazing that it's legal for kids to be actors. How is that not child {{labor}} (**practical work, esp. work that involves physical effort)**?
 Let's just go! - I can't leave until I make {{amends}} (**to change something, especially the words of a text (вносить правки))** <!--SR:!2024-03-11,48,302!2000-01-01,1,250--> 
 
-Wait, did we just go to Ana's house? Did I get a {{closure}} (**the feeling or act of bringing an unpleasant situation, time, or experience to an end, so that you are able to start new activities:)?** <!--SR:!2024-01-29,14,292--> 
+Wait, did we just go to Ana's house? Did I get a {{closure}} (**the feeling or act of bringing an unpleasant situation, time, or experience to an end, so that you are able to start new activities:)?** <!--SR:!2024-03-12,43,292--> 
 
 I have poison inside me,  and I destroy everything I touch. That's my {{legacy}} (**something that is a part of your history or that remains from an earlier time)**.

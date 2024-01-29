@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Преступление и наказание",
-      "path": "Archive/Преступление и наказание.md"
+      "basename": "Tdiary",
+      "path": "Archive/Tdiary.md"
+    },
+    {
+      "basename": "2024-01-29",
+      "path": "Daily notes/2024/January/2024-01-29.md"
     },
     {
       "basename": "D_Crime and Punishment",
       "path": "Archive/D_Crime and Punishment.md"
+    },
+    {
+      "basename": "Forbidden words",
+      "path": "Archive/Forbidden words.md"
+    },
+    {
+      "basename": "Преступление и наказание",
+      "path": "Archive/Преступление и наказание.md"
     },
     {
       "basename": "2024-01-28",
@@ -15,10 +27,6 @@
     {
       "basename": "diary",
       "path": "Archive/diary.md"
-    },
-    {
-      "basename": "Tdiary",
-      "path": "Archive/Tdiary.md"
     },
     {
       "basename": "D_Hazbin hotel",
@@ -191,14 +199,6 @@
     {
       "basename": "Bunny",
       "path": "Archive/Bunny.md"
-    },
-    {
-      "basename": "Bunny ability to mess with people",
-      "path": "Archive/Bunny ability to mess with people.md"
-    },
-    {
-      "basename": "Bunny's blindness",
-      "path": "Archive/Bunny's blindness.md"
     }
   ],
   "omittedPaths": [],

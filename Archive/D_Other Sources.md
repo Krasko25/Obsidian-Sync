@@ -4,7 +4,7 @@
 
 Mikhail is using the word {{"interjection"}} way too much.
 
-He's a {{crafty}} (хитрый, коварный) old devil. <!--SR:!2024-01-28,7,281-->
+He's a {{crafty}} (хитрый, коварный) old devil. <!--SR:!2024-02-18,20,281-->
 
 I'm afraid to {{second-guess}} (**to** **guess** **what someone will do in the** **future)**, but I think that it is healthy <!--SR:!2024-01-31,19,254-->
 
@@ -12,7 +12,7 @@ He, as it fits his character, was {{short-spoken}} (немногословен)
 
 Nanotechnology. Ah, you have {{outdone}} (be or do something to a greater degree) yourself, Peter
 
-Vegita! Stop vegiting it! You are making it worse! - Don't you verb me!>>_
+Vegita! Stop vegiting it! You are making it worse! - Don't you verb me!>>_ <!--SR:!2024-02-02,4,317-->
 
 next-to-last; second last; last, but one>>_ <!--SR:!2024-02-22,26,297-->
 
@@ -30,7 +30,7 @@ norm>>критерий, норматив
 
 maid>>горничная
 
-mop the floor>>мыть полы <!--SR:!2024-01-28,8,277-->
+mop the floor>>мыть полы <!--SR:!2024-03-02,33,297-->
 
 She hired a lawyer who {{specializes}} (**to** **stud y** **or** **work** **on a** **particular** **subject** **or** **skill** **more than any** **others, so that you** **become** **an** **expert** **in it) ** in divorce cases. <!--SR:!2024-02-02,8,291-->
 
@@ -48,7 +48,7 @@ go through something
 
 What do you think makes a {{compelling}}  character (interesting)?
 
-{{Compelling}} (**it makes you** **believe** **it or** **accept** **it because it is so** **strong (внушительные, сильные)) **evidence <!--SR:!2024-01-28,2,291-->
+{{Compelling}} (**it makes you** **believe** **it or** **accept** **it because it is so** **strong (внушительные, сильные)) **evidence <!--SR:!2024-02-04,6,291-->
 
 With flying colors>>**very easily**
 
@@ -56,7 +56,7 @@ When I lived in Spain, I used to {{eat out}} (**to eat in a restaurant)** all th
 
 lift your ear up to that guy (god)>>_ <!--SR:!2024-02-10,19,321-->
 
-in a nutshell>>simply put, giving only the main points
+in a nutshell>>simply put, giving only the main points <!--SR:!2024-02-02,4,317-->
 
 There was nothing between the lines>>. <!--SR:!2024-02-09,18,321-->
 
@@ -68,7 +68,7 @@ one should be careful when crossing the street>>_
 
 one must always keep one's word>>_ <!--SR:!2024-03-01,39,304-->
 
-between the three of us>>_ <!--SR:!2024-01-29,9,277-->
+between the three of us>>_ <!--SR:!2024-02-22,24,277-->
 
 Michael was on a good run with his homework>>_ <!--SR:!2024-02-26,30,295-->
 
@@ -103,9 +103,9 @@ thou - ты (зау)
 thee - тебя (зи)
 thy - твой (зай)
 
-Thou>>ты (древнее) (Зау) <!--SR:!2024-01-28,3,295-->
+Thou>>ты (древнее) (Зау) <!--SR:!2024-02-05,7,295-->
 
-Thee>>тебя (древнее) <!--SR:!2024-01-29,8,281-->
+Thee>>тебя (древнее) <!--SR:!2024-02-19,21,281-->
 
 Thy>>твой (древнее)
 
@@ -119,7 +119,7 @@ I am willing to try anything at this point>>_ <!--SR:!2024-01-30,9,281-->
 
 The man was {{well over}} (сильно больше) eighty
 
-the distinctive speech of {{folks}} (**people, especially those of a particular group or type)** from the South
+the distinctive speech of {{folks}} (**people, especially those of a particular group or type)** from the South <!--SR:!2024-02-02,4,317-->
 
 Mother, father, sister, brother hand in hand with one another>>_
 
@@ -143,7 +143,7 @@ You doomed to die in Donbass without {{lighter}}  (зажигалка).
 
 This book is about to tell some {{tips}} (лайфхак)
 
-"Draw" is {{beautiful/nice}} word (красивое слово). <!--SR:!2024-01-28,3,295-->
+"Draw" is {{beautiful/nice}} word (красивое слово). <!--SR:!2024-02-08,10,315-->
 
 I'll be doing {{bandage}} (a long, narrow piece of cloth that is tied around an injuryor a part of someone's body that has been hurt) for my leg.
 
@@ -200,7 +200,7 @@ He mastered the art of {{hotfooting}} (run for life) <!--SR:!2024-02-03,12,301--
 
 He swallowed his drink in one {{gulp}} (to swallow).
 
-His {{background}} (past experience) makes everyone tremble
+His {{background}} (past experience) makes everyone tremble <!--SR:!2024-02-01,3,297-->
 
 I have the {{warrant}} (A legal paper, issued by a court, giving police permission to make an arrest, seizure, or search.), to search here.
 
@@ -212,7 +212,7 @@ It was a {{white lie}} (lie which a person feels is not serious or has few conse
 
 Kill him!!! He is an {{accomplice}} (a person who takes part in a crime) <!--SR:!2024-02-22,41,294-->
 
-Some people hate {{shooting}} (taking photos). Especially old people. <!--SR:!2024-01-29,17,304-->
+Some people hate {{shooting}} (taking photos). Especially old people. <!--SR:!2024-04-09,71,324-->
 
 Stop water my flowers with your {{snot}} (сопли)
 
@@ -222,7 +222,7 @@ Thanks for {{upbrinпing}} (воспитание) me <!--SR:!2024-02-04,23,274--
 
 The {{fruitless}} (not producing the desired results, unsuccessful) tree should be burned down <!--SR:!2024-02-05,13,304-->
 
-There is too much {{luxury}} (The state of great comfort and extravagant living)![](local:///Users/connect/remnote/remnote-62c2eac9d4b97a004623c386/files/ZFWUGk_cOXMkVTGDQ0-7vKqQ48p_nfPyb5rPkaC7WMVry3OxX81F6ofArxUhKxIMUH-tZQ0h0-zznlJJMkfEF7MsxXQ653yjxsmBQDTg-4XE6p6PIYSoozthmVWkrDln.jpeg)
+There is too much {{luxury}} (The state of great comfort and extravagant living)![](local:///Users/connect/remnote/remnote-62c2eac9d4b97a004623c386/files/ZFWUGk_cOXMkVTGDQ0-7vKqQ48p_nfPyb5rPkaC7WMVry3OxX81F6ofArxUhKxIMUH-tZQ0h0-zznlJJMkfEF7MsxXQ653yjxsmBQDTg-4XE6p6PIYSoozthmVWkrDln.jpeg) <!--SR:!2024-02-01,3,297-->
 
 There wouldn't be so hot if you hadn't thrown out the {{blinds}} (шторы)
 This {{frame}} (The lines and borders that contain the panels) of berserk is a masterpiece!! ![](local:///Users/connect/remnote/remnote-62c2eac9d4b97a004623c386/files/OTeS6UvUp8XKOMV5Elpln-MQGGRy4X5YTX3FLF7BqRzjaZezMzPPAH0qYeI9rNS_JhWGn9qLDB4YtXFy8474mPlm2GgOkAA4QAXhOijj8eNgsbqJDQAPAgbNrC7g9bUc.webp) <!--SR:!2024-01-30,8,284!2024-01-30,10,277-->
@@ -232,7 +232,7 @@ This is our frendship {{tie}} (a set of stories that explains our relationship t
 This snake {{tempted}} (try to get someone to do something; test; invite (искушать)) me, it's its fault. <!--SR:!2024-02-15,25,284-->
 
 Today he looks to be {{initiating}} (to begin (приступать)) the war
-We can't trust him, we don't know what he {{is up to (to be up to)}} (going to do). <!--SR:!2000-01-01,1,250!2024-01-28,3,295-->
+We can't trust him, we don't know what he {{is up to (to be up to)}} (going to do). <!--SR:!2000-01-01,1,250!2024-02-10,12,315-->
 
 Will you stop this {{rep}} (стук) into my front door?!
 
@@ -270,7 +270,7 @@ Gotcha = got you = я поймал тебя (подкалол)>>_
 
 Hunter is a way cuter {{compared }}(to put things together to see how they ate the same) to Leila
 
-He got his tooth out {{on a dare}} (на спор)
+He got his tooth out {{on a dare}} (на спор) <!--SR:!2024-02-02,4,317-->
 
 He was {{listing}} (A sentence with multiple phrases that create a list) his rewords for today and yesterday and the day before yesterday <!--SR:!2024-02-25,35,304-->
 
@@ -282,7 +282,7 @@ I am sick of {{military action}} (военные действия) <!--SR:!2024-
 
 I dream Nikita to get the second English wind.>>second wind <!--SR:!2024-02-01,12,297-->
 
-I suppose him to be a great {{scapegoat}} (a person or thing carrying the blame for others) <!--SR:!2024-01-28,3,295-->
+I suppose him to be a great {{scapegoat}} (a person or thing carrying the blame for others) <!--SR:!2024-02-07,9,295-->
 
 I'm an {{amateur}} (taking part in an activity for pleasure, not as a job) in chess compare to Nikita
 
@@ -329,17 +329,17 @@ The ghost of that ink {{spot}} (a small, usually round area of colour that has d
 
 there is a {{pure}} (not mixed with anything else) evil in this book... <!--SR:!2024-02-01,13,295-->
 
-There's also DJ, who likes to DJ>>_ <!--SR:!2024-01-28,4,313-->
+There's also DJ, who likes to DJ>>_ <!--SR:!2024-02-17,19,333-->
 
-There's only one possible explanation. She obviously wants to {{ask you out}} (invite to a date) <!--SR:!2024-01-28,3,295-->
+There's only one possible explanation. She obviously wants to {{ask you out}} (invite to a date) <!--SR:!2024-02-09,11,315-->
 
-they killed each other for this {{real estate}} (lands or building that someone owns)
+they killed each other for this {{real estate}} (lands or building that someone owns) <!--SR:!2024-02-01,3,297-->
 
 This {{firing back}} (to answer a question or remark quickly and in angry way) became the huge problem for our group.
 
 verb (v)↔глагол
 
-Wear it on the {{outing}} (a short journey made by a group of people, usually for pleasure or education), okey? (в оригинале было написано так же)
+Wear it on the {{outing}} (a short journey made by a group of people, usually for pleasure or education), okey? (в оригинале было написано так же) <!--SR:!2024-02-02,4,317-->
 
 What is the price of your {{blind eye}} (ignore the violation)
 
@@ -404,7 +404,7 @@ Many people in this area are {{descendants}} (**a person who is related to you a
 
 She has a right to the {{property}} (собственность). <!--SR:!2024-02-15,34,270-->
 
-Also I will consider the {{regularity}} (закономерности) between development of individual, humanity in general and religion. <!--SR:!2024-01-28,8,277-->
+Also I will consider the {{regularity}} (закономерности) between development of individual, humanity in general and religion. <!--SR:!2024-02-20,22,277-->
 
 Despite having a large family, they still had no **son and** {{heir}} (**a person who will legally receive money, property, or a title from another person, especially an older member of the same family, when that other person dies).**
 

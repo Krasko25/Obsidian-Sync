@@ -37,7 +37,7 @@ You are just {{seeing things}} (тебе кажется) <!--SR:!2024-02-20,29,2
 
 Why do you have to {{belittle}} (**to make a person or an action seem as if he, she or it is not important)** everyone
 
-you seem down>>_ <!--SR:!2024-01-29,4,297-->
+you seem down>>_ <!--SR:!2024-02-11,13,297-->
 
 Don't {{twist}} (to change the meaning of the words) my words <!--SR:!2024-02-04,15,265--> 
 

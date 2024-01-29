@@ -6,7 +6,7 @@ If you survived the last round because you got lucky with teammates, prepare you
 
 But the remaining 29 will have just the one chance to play. This is the final task of the {{revised}} (revise or reorganize, especially for the purpose of updating and improving) third selection. <!--SR:!2024-01-31,10,250-->
 
-Kind guys like him mush be an {{endangered}} (вымирающие) species here in blue lock. <!--SR:!2024-01-29,14,250-->
+Kind guys like him mush be an {{endangered}} (вымирающие) species here in blue lock. <!--SR:!2024-03-05,36,250-->
 
 I see that you have {{dipped}} (погрузил) your toe into the realm where miracles occur, Isagi <!--SR:!2024-02-03,10,270-->
 

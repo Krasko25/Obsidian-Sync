@@ -423,12 +423,14 @@ Light bulb
 ___
 A couple of days before the light bulb in our coop (the place where people keep their chickens) stopped working. We didn't have the right bulb at the moment and got it only today. 
 
-I changed the light bulb, but it didn't work. There was a socket inside, it worked. It took me some time to find a root of the problem. It would be a huge understatement to say, that 
+I changed the light bulb, but it didn't work. There was a socket inside, it worked. It would be a huuuuge understatement to say, that the wiring in that place was not done in a clear way, so it took me some time to find a root of the problem (compare to this wire even my code can be called clear (trust me, it says a lot)). 
 
+The solution was extremely simple, but I was constantly forgetting something at home, so it took me more time that I would want to admit. 
 
-
-
-
-
-
+___
 I wouldn't call this day to be fruitless, but I could have done better. 
+
+It's time to give this little boy some gratitude:
+1) Even if that piece of work with electricity was simple, it was still my first time, so I should probably thank myself for my efforts.
+2) I will go to bed on time today. This. Time. For. Sure... Probably. I hope.
+3) I'm doing my meditation before sleep everyday.

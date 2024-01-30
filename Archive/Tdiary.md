@@ -201,13 +201,13 @@ The part with gratitude to myself:
 - I wasted less time than yesterday (if we will not count a few hour of extra sleep).
 
 ==January 16, 2024==
-Today I finally woke up relatively early (3 hours earlier than usual, but 2 hours later than according to my plan). I feel like this day was more successful, than the precious ones.
+Today I finally woke up relatively early (3 hours earlier than usual, but 2 hours later than according to my plan). I feel like this day was more successful, than the previous ones.
 
-After lessons in my college I had a workout and spent more time with my dog than usual. I made some progress reading the book, that I need to finish for my exam and did some homework.
+After lessons in my college I had a workout and spent more time with my dog than usual. I made some progress reading the book, that I need to finish for my exam, and did some homework.
 
  Though I was not able to send it to teachers, because the electricity was turned off in the evening. I hope that we will get it back soon. On the bright side, thanks to the absence of electricity, today I will finally fall asleep on time.
 
-Today I also got a phone call about the exams. I will need to solve some problems with documents this week.
+Today I also got a phone call about the exams. During this week I will need to solve some problems with my documents.
 
 Time to praise myself:
 1) I'm happy, that I am able to be positive even when talking about hardships.

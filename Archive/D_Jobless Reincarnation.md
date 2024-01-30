@@ -10,6 +10,6 @@ Is it everything he have told you? - Yes. - Good heavens/ good grief (**used to*
 
 for now, let's celebrate {{landing}} my first ever job>>land a job - to get a job; to be hired for a job <!--SR:!2024-02-05,15,292-->
 
-well, then when we get back, let's ask him to give you an {{allowance}} (**money** **that you are given** **regularly,** **especially** **to** **pay** **for a** **particular** **thing:)** <!--SR:!2024-01-30,22,270--> 
+well, then when we get back, let's ask him to give you an {{allowance}} (**money** **that you are given** **regularly,** **especially** **to** **pay** **for a** **particular** **thing:)** <!--SR:!2024-03-28,58,270--> 
 
 But don't quote me on that>>однако, не цитируйте мои слова (имеется в виду, что он не может гарантировать, что это 100% правда) <!--SR:!2024-02-03,11,275-->

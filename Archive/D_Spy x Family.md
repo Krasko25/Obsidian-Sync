@@ -32,6 +32,6 @@ You've been {{staring}} (to look for a long time with the eyes wide open, especi
 
 Anya is an extremely {{curious}} (interested in learning about people or things around you) child
 
-Do you happen to know the name of the {{principal}} (first in order of importance; a person in charge of a school), young lady?! <!--SR:!2024-01-30,3,271-->
+Do you happen to know the name of the {{principal}} (first in order of importance; a person in charge of a school), young lady?! <!--SR:!2024-02-07,8,271-->
 
 Such incredible {{resolve}} (to make a decision formally or with determination; strong determination)! It appears as though I have underestimated this young lady. 

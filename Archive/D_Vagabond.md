@@ -10,7 +10,7 @@ As the four seasons between heaven and earth flow in an endless cycle, so too, m
 
 I feel {{overwhelmed}} (overcome by superior force) by this man's great presence? <!--SR:!2024-02-01,3,285-->
 
-His presence was {{sublime}} (of high moral or intellectual value; elevated in nature or style), as if his entire body were melting out into the sky
+His presence was {{sublime}} (of high moral or intellectual value; elevated in nature or style), as if his entire body were melting out into the sky <!--SR:!2024-02-02,3,286-->
 
 the {{**sublime**}} (inspiring) beauty of the night
 

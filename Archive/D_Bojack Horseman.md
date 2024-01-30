@@ -49,7 +49,7 @@ You really {{let me down}} (**to disappoint someone by failing to do what you ag
 
 I feel like we can beat this {{font}} (**a set of letters and symbols in a particular design and size (шрифт))** <!--SR:!2024-03-09,43,312--> 
 
-And did you know there are {{orphans}} (**a child whose parents are dead) **in Sudan. - You take this job, you can buy all the {{orphans}} you want. - No, I don't want to buy them. <!--SR:!2024-01-30,3,286!2000-01-01,1,250--> 
+And did you know there are {{orphans}} (**a child whose parents are dead) **in Sudan. - You take this job, you can buy all the {{orphans}} you want. - No, I don't want to buy them. <!--SR:!2024-02-09,10,286!2000-01-01,1,250--> 
 
 Well, do you think it's true? Do I think L.A. is a tar {{pit}} (**a large hole in the ground, or a slightly low area in any surface:)** 
 

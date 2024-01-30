@@ -18,11 +18,11 @@ next-to-last; second last; last, but one>>_ <!--SR:!2024-02-22,26,297-->
 
 What can I do to make up to you?>>помириться <!--SR:!2024-02-05,13,304-->
 
-I'm going to {{speak my mind}} (to tell what you are thinking about) and you are going to listen <!--SR:!2024-01-30,8,284-->
+I'm going to {{speak my mind}} (to tell what you are thinking about) and you are going to listen <!--SR:!2024-02-23,24,284-->
 
 spill>>проболтаться <!--SR:!2024-02-11,18,326-->
 
-staff and stuff>>сотрудники и хлам <!--SR:!2024-01-30,9,281-->
+staff and stuff>>сотрудники и хлам <!--SR:!2024-02-24,25,281-->
 
 He had been {{grilling}} (**to** **ask** **someone a lot of** **questions** **for a** **long** **time)** me <!--SR:!2024-02-20,29,284-->
 
@@ -115,7 +115,7 @@ He left just after {{nightfall}} (the time in the evening when it becomes dark).
 
 The wolf is a {{predator}} (хищник)
 
-I am willing to try anything at this point>>_ <!--SR:!2024-01-30,9,281-->
+I am willing to try anything at this point>>_ <!--SR:!2024-03-04,34,301-->
 
 The man was {{well over}} (сильно больше) eighty
 
@@ -133,7 +133,7 @@ The {{womb}} (утроба матери) represents the very first place in whic
 
 We were playing {{board games}} (table games) on that tree a lot.
 
-He can be depend on>>_
+He can be depend on>>_ <!--SR:!2024-02-03,4,319-->
 
 I believe that {{posters}} (плакаты) on the school walls is trash
 
@@ -147,9 +147,9 @@ This book is about to tell some {{tips}} (лайфхак)
 
 I'll be doing {{bandage}} (a long, narrow piece of cloth that is tied around an injuryor a part of someone's body that has been hurt) for my leg.
 
-You will read a {{passage}} (a part of the text (отрывок)) of between 75 and 100 words regarding issue
+You will read a {{passage}} (a part of the text (отрывок)) of between 75 and 100 words regarding issue <!--SR:!2024-02-02,3,299-->
 
-I was told that my suit is {{spoiled}} (to destroy or reduce the pleasure, interest, or beauty of something) <!--SR:!2024-01-30,8,284-->
+I was told that my suit is {{spoiled}} (to destroy or reduce the pleasure, interest, or beauty of something) <!--SR:!2024-02-21,22,284-->
 
 
 
@@ -225,7 +225,8 @@ The {{fruitless}} (not producing the desired results, unsuccessful) tree should 
 There is too much {{luxury}} (The state of great comfort and extravagant living)![](local:///Users/connect/remnote/remnote-62c2eac9d4b97a004623c386/files/ZFWUGk_cOXMkVTGDQ0-7vKqQ48p_nfPyb5rPkaC7WMVry3OxX81F6ofArxUhKxIMUH-tZQ0h0-zznlJJMkfEF7MsxXQ653yjxsmBQDTg-4XE6p6PIYSoozthmVWkrDln.jpeg) <!--SR:!2024-02-01,3,297-->
 
 There wouldn't be so hot if you hadn't thrown out the {{blinds}} (шторы)
-This {{frame}} (The lines and borders that contain the panels) of berserk is a masterpiece!! ![](local:///Users/connect/remnote/remnote-62c2eac9d4b97a004623c386/files/OTeS6UvUp8XKOMV5Elpln-MQGGRy4X5YTX3FLF7BqRzjaZezMzPPAH0qYeI9rNS_JhWGn9qLDB4YtXFy8474mPlm2GgOkAA4QAXhOijj8eNgsbqJDQAPAgbNrC7g9bUc.webp) <!--SR:!2024-01-30,8,284!2024-01-30,10,277-->
+
+This {{frame}} (The lines and borders that contain the panels) of berserk is a masterpiece!! <!--SR:!2024-03-01,31,304!2024-03-08,38,297-->
 
 This is our frendship {{tie}} (a set of stories that explains our relationship to the other members of our network, галстуг).
 
@@ -240,7 +241,7 @@ You should take a {{loan}} (dept) and pay us back.
 
 You will be my main {{heir}} (a person legally entitled to the property or rank of another on that person's death.)
 
-run down street>>захудалая улица
+run down street>>захудалая улица <!--SR:!2024-02-02,3,299-->
 
 Your {{hard-luck story}} (a story or piece of information that someone tells you or writes about himself or herself, intended to make you feel sympathy for that person) story makes me sad, you should go. <!--SR:!2024-02-07,14,306-->
 
@@ -297,7 +298,7 @@ her neighbours. <!--SR:!2024-01-31,8,286-->
 
 Leila had an amazing {{artistic process}} (creative process) yesterday
 
-Leila want us to {{worship}} (adoration and honor given to God) her.
+Leila want us to {{worship}} (adoration and honor given to God) her. <!--SR:!2024-02-03,4,319-->
 
 Leila was expected to be  {{charm}} (a pleasing quality that attracts others)
 
@@ -315,15 +316,15 @@ preposition (prep.)↔предлог
 
 pronoun↔местоимение
 
-She literally {{gigled}} (to laugh) her lungs out <!--SR:!2024-01-30,7,286-->
+I was not able to sleep properly, because of this giggle sound (laughing) <!--SR:!2024-02-18,19,286-->
 
 Strike pressed Bristow's {{chest cage}} (грудная клетка) with his broken leg
 
-Such a {{demeanour}} (behaviour, manner of conduction oneself) is out of the social norms <!--SR:!2024-01-30,8,284-->
+Such a {{demeanour}} (behaviour, manner of conduction oneself) is out of the social norms <!--SR:!2024-02-28,29,304-->
 
 The {{invasion}} (a situation when a large number of people came to a place in an annoying and unwanted way) of smart dogs put the end to humanity <!--SR:!2024-01-31,12,295-->
 
-The {{immortal}} (living forever) ones want the global warming <!--SR:!2024-01-30,18,304-->
+The {{immortal}} (living forever) ones want the global warming <!--SR:!2024-04-16,77,324-->
 
 The ghost of that ink {{spot}} (a small, usually round area of colour that has different colour than the surface around it) still is the part of that carpet. <!--SR:!2024-02-08,27,274-->
 
@@ -341,7 +342,7 @@ verb (v)↔глагол
 
 Wear it on the {{outing}} (a short journey made by a group of people, usually for pleasure or education), okey? (в оригинале было написано так же) <!--SR:!2024-02-02,4,317-->
 
-What is the price of your {{blind eye}} (ignore the violation)
+What is the price of your {{blind eye}} (ignore the violation) <!--SR:!2024-02-02,3,299-->
 
 Yesterday we have  _??? (to move soldiers or equipment to a place where they can be used when they are needed)_  on the moon.
 
@@ -400,7 +401,7 @@ Is this Pope claiming a {{ __divine status__ }} __ (божественный с�
 
 The new law provides for {{equality}} (**the right of different groups of people to have a similar social position and receive the same treatment)** of human rights.
 
-Many people in this area are {{descendants}} (**a person who is related to you and who lives after you, such as your child or grandchild (потомок))** of German immigrants. <!--SR:!2024-01-30,3,296-->
+Many people in this area are {{descendants}} (**a person who is related to you and who lives after you, such as your child or grandchild (потомок))** of German immigrants. <!--SR:!2024-02-07,8,296-->
 
 She has a right to the {{property}} (собственность). <!--SR:!2024-02-15,34,270-->
 

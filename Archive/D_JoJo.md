@@ -8,7 +8,7 @@ Buying a house often places a large** financial** burden **on** young couples.
 
 Everyone called me {{rookie}} (**a person with little experience who is just starting to work in a job or to play on a sports team:)**. And when I felt like it, I could race my horse faster that anyone else. 
 
-In this race, the exchange of horses is {{prohibited}} (**to officially refuse to allow something)** and result in disqualification
+In this race, the exchange of horses is {{prohibited}} (**to officially refuse to allow something)** and result in disqualification <!--SR:!2024-02-02,3,264-->
 
 I'm not going to {{charge }} (**to make a formal statement saying that someone is accused of a crime (обвинять)) **him. I'll forget about it... let him go and give him the gun back <!--SR:!2024-03-24,60,314-->
 

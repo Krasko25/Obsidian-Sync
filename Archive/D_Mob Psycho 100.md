@@ -27,7 +27,7 @@ Today you are {{on a high horse}} (быть в ударе)![](local:///Users/con
 
 that is not enough! You won't {{ease}} (**to make or become less severe, difficult, unpleasant, painful, etc (**These pills should {{ease}} the **pain))** our hard feelings <!--SR:!2024-02-28,45,294!2024-02-10,24,279--> 
 
-First, it will be convenient to draw a variety of thin patterns, the second - to make filling and {{ __thick lines__ }} __ (толстые линии)__ . <!--SR:!2024-01-30,7,270-->
+First, it will be convenient to draw a variety of thin patterns, the second - to make filling and {{ __thick lines__ }} __ (толстые линии)__ . <!--SR:!2024-02-16,17,270-->
 
 Dimple {{despise}} (**to feel a strong dislike for someone or something because you think that that person or thing is bad or has no value:)** mob because of his lack of emotions 
 

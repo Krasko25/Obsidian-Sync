@@ -42,7 +42,7 @@ plz>>please <!--SR:!2024-03-02,45,304-->
 
 thx>>thanks <!--SR:!2024-02-18,38,302-->
 
-IRL>>in real live
+IRL>>in real live <!--SR:!2024-02-03,4,314-->
 
 lol>>laughing out loud <!--SR:!2024-02-05,17,320-->
 

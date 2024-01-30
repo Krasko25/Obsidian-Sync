@@ -2,6 +2,8 @@
 
 Off his back?  He's so {{outside the box}} (creative/unpredictable)!
 
+Nagi is the type of guy, who can {{discard}} (getting rid something that is regarded as useless or undesirable) anything to chase what he wants.
+
 If you survived the last round because you got lucky with teammates, prepare yourself. In the second selection, the trash will be {{sifted}} (отсеянны) out first 
 
 But the remaining 29 will have just the one chance to play. This is the final task of the {{revised}} (revise or reorganize, especially for the purpose of updating and improving) third selection. <!--SR:!2024-01-31,10,250-->

@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "D_Blue Lock",
+      "path": "Archive/D_Blue Lock.md"
+    },
+    {
+      "basename": "Blue Lock",
+      "path": "Archive/Blue Lock.md"
+    },
+    {
+      "basename": "2024-01-30",
+      "path": "Daily notes/2024/January/2024-01-30.md"
+    },
+    {
       "basename": "Некоторые вещи нельзя объяснить словами, их можно понять только через опыт. Some things can not be explained with words, they need to be experienced.",
       "path": "Archive/Некоторые вещи нельзя объяснить словами, их можно понять только через опыт. Some things can not be explained with words, they need to be experienced..md"
     },
     {
       "basename": "You can not repay for everything. Ты не можешь отплатить всем сполна",
       "path": "Archive/You can not repay for everything. Ты не можешь отплатить всем сполна.md"
-    },
-    {
-      "basename": "2024-01-30",
-      "path": "Daily notes/2024/January/2024-01-30.md"
     },
     {
       "basename": "Tdiary",
@@ -109,10 +117,6 @@
       "path": "Daily notes/2024/January/2024-01-21.md"
     },
     {
-      "basename": "Blue Lock",
-      "path": "Archive/Blue Lock.md"
-    },
-    {
       "basename": "D_LD",
       "path": "Archive/D_LD.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Art MOC",
       "path": "Archive/Art MOC.md"
-    },
-    {
-      "basename": "Articles-List",
-      "path": "Archive/Articles-List.md"
     }
   ],
   "omittedPaths": [],

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archive/Tdiary.md",
+                "file": "Daily notes/2024/January/2024-01-30.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archive/Tdiary.md",
+                "file": "Daily notes/2024/January/2024-01-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Archive/Tdiary.md",
+                "file": "Daily notes/2024/January/2024-01-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archive/Tdiary.md"
+                "file": "Daily notes/2024/January/2024-01-30.md"
               }
             }
           },
@@ -177,8 +177,9 @@
   },
   "active": "00ed6838f252d4f9",
   "lastOpenFiles": [
-    "Daily notes/2024/January/2024-01-29.md",
     "Archive/Tdiary.md",
+    "Daily notes/2024/January/2024-01-30.md",
+    "Daily notes/2024/January/2024-01-29.md",
     "Archive/D_Crime and Punishment.md",
     "Archive/Forbidden words.md",
     "Archive/Преступление и наказание.md",
@@ -202,7 +203,6 @@
     "Archive/График обучения 8 семестр.md",
     "Daily notes/2024/January/2024-01-21.md",
     "Archive/Blue Lock.md",
-    "Archive/D_LD.md",
     "Attachments/Screenshot 2024-01-11 at 11.31.46 AM.png",
     "Attachments/Screenshot 2024-01-08 at 21.27.20.png",
     "obsidian items",

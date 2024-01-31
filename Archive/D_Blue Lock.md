@@ -1,5 +1,9 @@
 #cards/dictionary 
 
+Despite collapsing from exhaustion, what he gained from the match was worth {{its weight in gold}} (a lot).
+
+And the one who surpassed Kunigami Rensuke, receiving a {{bid}} (offered price) roughly three times his old offer... in 4th place, Isagi Yoichi. 
+
 Off his back?  He's so {{outside the box}} (creative/unpredictable)!
 
 Nagi is the type of guy, who can {{discard}} (getting rid something that is regarded as useless or undesirable) anything to chase what he wants.

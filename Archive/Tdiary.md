@@ -435,7 +435,7 @@ It's time to give this little boy some gratitude:
 2) I will go to bed on time today. This. Time. For. Sure... Probably. I hope.
 3) I'm doing my meditation before sleep everyday.
 
-==January 2024th, 2024==
+==January 30th, 2024==
 I'll try (the key word) to keep it short, because at this point I should have already been sleeping.
 
 This day started quite promising, but, overall, it was not successful. I wasted an extreme amount of time. In the middle of the day the electricity was turned off, but it was given back again. 

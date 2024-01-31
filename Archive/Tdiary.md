@@ -434,3 +434,18 @@ It's time to give this little boy some gratitude:
 1) Even if that piece of work with electricity was simple, it was still my first time, so I should probably thank myself for my efforts.
 2) I will go to bed on time today. This. Time. For. Sure... Probably. I hope.
 3) I'm doing my meditation before sleep everyday.
+
+==January 2024th, 2024==
+I'll try (the key word) to keep it short, because at this point I should have already been sleeping.
+
+This day started quite promising, but, overall, it was not successful. I wasted an extreme amount of time. In the middle of the day the electricity was turned off, but it was given back again. 
+
+Today I got a message from my classroom teacher, I need to hurry up with starting working on my diploma project. I also need to start working on my essay for the English olympic (I'm not sure if I mentioned it, but I need to write one until 20th of February).
+
+January is drawing to its end and I need to write a few notes about this month, I hope that I will be able to start doing it tomorrow.
+
+An attempt of gratitude:
+- I was learning math for my exam today.
+- I did my training (as always).
+- I had one hour long English lesson.
+- I gave a call to my dad and grannies.

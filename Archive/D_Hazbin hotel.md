@@ -1,3 +1,5 @@
+I wanted to save you, the {{anguish}} (extreme distress of body or mind) to do what was {{required}} (necessary) 
+
 #cards/dictionary 
 
 rise and shine>>_ <!--SR:!2024-02-01,3,250-->

@@ -39,7 +39,7 @@ This neckless is a family {{heirloom}} (**a valuable object that has been given 
 
 You look tired, Veronica. - Amazing {{burn}} (прожарка, подкол), Princess Carolyn. <!--SR:!2024-02-01,10,299--> 
 
-I went through hell and back today, but it was worth it>>_ <!--SR:!2024-01-31,7,281-->
+I went through hell and back today, but it was worth it>>_ <!--SR:!2024-02-26,26,301-->
 
 to get to the bottom of things↔дойти до сути (серцевины). 
 

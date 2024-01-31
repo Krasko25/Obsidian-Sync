@@ -6,7 +6,7 @@ Lmao>>laughing my ass off <!--SR:!2024-03-03,55,310-->
 
 otw>>on the way <!--SR:!2024-03-03,43,309-->
 
-bb>>byebye <!--SR:!2024-01-31,13,300-->
+bb>>byebye <!--SR:!2024-03-09,38,300-->
 
 Lmbfao>>laughing my big f... ass off <!--SR:!2024-02-14,16,326-->
 
@@ -30,7 +30,7 @@ bf>>boyfriend <!--SR:!2024-04-06,71,327-->
 
 gf>>girlfriend <!--SR:!2024-02-26,39,304-->
 
-btw>>by the way
+btw>>by the way <!--SR:!2024-02-04,4,316-->
 
 your>>you are
 
@@ -48,7 +48,7 @@ lol>>laughing out loud <!--SR:!2024-02-05,17,320-->
 
 IMO>>in my opinion <!--SR:!2024-02-12,17,326-->
 
-tbh>>to be honest <!--SR:!2024-01-31,4,311-->
+tbh>>to be honest <!--SR:!2024-02-16,16,331-->
 
 TY>>thank you
 

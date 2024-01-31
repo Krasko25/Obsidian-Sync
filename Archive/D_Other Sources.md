@@ -6,7 +6,7 @@ Mikhail is using the word {{"interjection"}} way too much.
 
 He's a {{crafty}} (хитрый, коварный) old devil. <!--SR:!2024-02-18,20,281-->
 
-I'm afraid to {{second-guess}} (**to** **guess** **what someone will do in the** **future)**, but I think that it is healthy <!--SR:!2024-01-31,19,254-->
+I'm afraid to {{second-guess}} (**to** **guess** **what someone will do in the** **future)**, but I think that it is healthy <!--SR:!2024-03-18,47,254-->
 
 He, as it fits his character, was {{short-spoken}} (немногословен)
 
@@ -88,7 +88,7 @@ As is stated above>>_ <!--SR:!2024-02-06,11,312-->
 
 man in plural form>>men
 
-to run across>>натолкнуться <!--SR:!2024-01-31,4,316-->
+to run across>>натолкнуться <!--SR:!2024-02-16,16,336-->
 
 This airport can handle more than 300 {{aircraft}} (**any vehicle, with or without an engine, that can fly, such as a plane or helicopter) **every day
 aircraft in plural form>>aircraft and words with -craft has the same form in singular and plural form <!--SR:!2024-02-03,10,289-->
@@ -226,7 +226,7 @@ There is too much {{luxury}} (The state of great comfort and extravagant living)
 
 There wouldn't be so hot if you hadn't thrown out the {{blinds}} (шторы)
 
-This {{frame}} (The lines and borders that contain the panels) of berserk is a masterpiece!! <!--SR:!2024-03-01,31,304!2024-03-08,38,297-->
+This {{frame}} (The lines and borders that contain the panels) of berserk is a masterpiece!! <!--SR:!2024-03-01,31,304-->
 
 This is our frendship {{tie}} (a set of stories that explains our relationship to the other members of our network, галстуг).
 
@@ -293,8 +293,8 @@ It takes double or even {{triple}} amount of time
 
 Laila's {{impunity}} (freedom from punishment) helps to avoid problems
 
-LD carried out her {{threat}} (a suggestion that something unpleasant or violent will happen) in a form
-her neighbours. <!--SR:!2024-01-31,8,286-->
+LD carried out her {{threat}} (a suggestion that something unpleasant or violent will happen) in a form of
+her neighbours. <!--SR:!2024-02-22,22,286-->
 
 Leila had an amazing {{artistic process}} (creative process) yesterday
 
@@ -322,7 +322,7 @@ Strike pressed Bristow's {{chest cage}} (грудная клетка) with his b
 
 Such a {{demeanour}} (behaviour, manner of conduction oneself) is out of the social norms <!--SR:!2024-02-28,29,304-->
 
-The {{invasion}} (a situation when a large number of people came to a place in an annoying and unwanted way) of smart dogs put the end to humanity <!--SR:!2024-01-31,12,295-->
+The {{invasion}} (a situation when a large number of people came to a place in an annoying and unwanted way) of smart dogs put the end to humanity <!--SR:!2024-03-21,50,315-->
 
 The {{immortal}} (living forever) ones want the global warming <!--SR:!2024-04-16,77,324-->
 
@@ -374,7 +374,7 @@ play tennis <!--SR:!2024-02-02,15,264-->
 В каком случае занятия спортом употребляется do?
 ?
 остальные виды спорта, йога, боевые искусства
-do box <!--SR:!2024-01-31,7,301-->
+do box <!--SR:!2024-02-20,20,301-->
 
 Brain is going to use economic {{mode}} (режим).
 

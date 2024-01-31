@@ -1,6 +1,6 @@
 #cards/dictionary 
 
-Despite collapsing from exhaustion, what he gained from the match was worth {{its weight in gold}} (a lot).
+Despite collapsing from exhaustion, what he gained from the match was worth {{its weight in gold}} (a lot). <!--SR:!2024-02-03,3,252-->
 
 And the one who surpassed Kunigami Rensuke, receiving a {{bid}} (offered price) roughly three times his old offer... in 4th place, Isagi Yoichi. 
 
@@ -10,7 +10,7 @@ Nagi is the type of guy, who can {{discard}} (getting rid something that is rega
 
 If you survived the last round because you got lucky with teammates, prepare yourself. In the second selection, the trash will be {{sifted}} (отсеянны) out first 
 
-But the remaining 29 will have just the one chance to play. This is the final task of the {{revised}} (revise or reorganize, especially for the purpose of updating and improving) third selection. <!--SR:!2024-01-31,10,250-->
+But the remaining 29 will have just the one chance to play. This is the final task of the {{revised}} (revise or reorganize, especially for the purpose of updating and improving) third selection. <!--SR:!2024-02-24,24,250-->
 
 Kind guys like him mush be an {{endangered}} (вымирающие) species here in blue lock. <!--SR:!2024-03-05,36,250-->
 

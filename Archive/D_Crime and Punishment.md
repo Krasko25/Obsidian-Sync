@@ -1,8 +1,8 @@
 #cards/dictionary 
 
-He was wearing a {{house jacket}} (пальто для дома) <!--SR:!2024-02-01,9,249-->
+He was wearing a {{house jacket}} (пальто для дома) <!--SR:!2024-03-02,30,269-->
 
-He {{outrun}} (перегнал) this old man 
+He {{outrun}} (перегнал) this old man <!--SR:!2024-02-03,3,255--> 
 
 Parfiriy finds reversed psychology to be a <u>double sided</u> sword>>_ 
 
@@ -22,7 +22,7 @@ Comfort somebody>>успокаивать кого-нибудь <!--SR:!2024-02-1
 
 Мармеладов is a retired {{official}} (чиновник) <!--SR:!2024-02-07,14,250-->
 
-As if it were a matter of his own father>>_
+As if it were a matter of his own father>>_ <!--SR:!2024-02-04,3,255-->
 
 Дубровский made a {{proposal}} (confession) for Маша <!--SR:!2024-02-12,26,270-->
 

@@ -1,6 +1,6 @@
 #cards/dictionary 
 
-We admired your strength, we all wanted to {{befriend}} (help someone and be friendly) you. <!--SR:!2024-02-01,3,285-->
+We admired your strength, we all wanted to {{befriend}} (help someone and be friendly) you. <!--SR:!2024-02-13,12,305-->
 
 I {{concede}} (give up), you are stronger
 
@@ -8,7 +8,7 @@ I thought I was {{striving}} (attempt by {{employing}} (put into service) effort
 
 As the four seasons between heaven and earth flow in an endless cycle, so too, must man work his way, through his own cycles of seasons continuous. If you are able to to endure a long hard winter, a fresh new spring is sure to follow, invigorating with  strength renewed.>>_ #Mark/Quote <!--SR:!2024-03-31,64,276-->
 
-I feel {{overwhelmed}} (overcome by superior force) by this man's great presence? <!--SR:!2024-02-01,3,285-->
+I feel {{overwhelmed}} (overcome by superior force) by this man's great presence? <!--SR:!2024-02-09,8,285-->
 
 His presence was {{sublime}} (of high moral or intellectual value; elevated in nature or style), as if his entire body were melting out into the sky <!--SR:!2024-02-02,3,286-->
 
@@ -67,7 +67,7 @@ While he is doing that, Musashi's reputation will reach the {{topmost}} (the hig
 
 give up the lying already>>_ <!--SR:!2024-02-10,12,302-->
 
-Your thoughts are quite {{profound}} (**felt or experienced very strongly or in an extreme way (очеь глубокое понимание))**, aren't they? <!--SR:!2024-02-01,17,263-->
+Your thoughts are quite {{profound}} (**felt or experienced very strongly or in an extreme way (очеь глубокое понимание))**, aren't they? <!--SR:!2024-03-16,44,263-->
 
 I won't forgive you. {{Talking ill}} (плохо отзваться) about my teacher <!--SR:!2024-02-16,29,283-->
 

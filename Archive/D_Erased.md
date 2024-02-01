@@ -4,7 +4,7 @@ What I'm about to do isn't an act of revenge against you for foiling my plans. I
 
 And yet, laughably, there I was, seriously giving you advice on how to steal my {{prey}} (добыча) 
 
-I saw how {{determine}} (wanting to do something very much and not allowing anyone or any difficulties to stop you (решительный, непреклонный)) you were to save Hinazuki at all costs, but ... <!--SR:!2024-02-01,3,257-->  
+I saw how {{determine}} (wanting to do something very much and not allowing anyone or any difficulties to stop you (решительный, непреклонный)) you were to save Hinazuki at all costs, but ... <!--SR:!2024-02-07,6,257-->  
 
 To me, it felt like something had taken control of you to {{rebuke}} (angry speak to someone because you disapprove of what they have said or done (упрек)) me and show me how it's done. <!--SR:!2024-02-16,24,274--> 
 

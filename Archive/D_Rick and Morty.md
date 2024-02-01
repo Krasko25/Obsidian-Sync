@@ -8,4 +8,4 @@ Ok, I'm gonna take the truck in exchange for not {{turning you in}} (не сда
 
 Which further proves {{selflessness}} (the quality of caring more about what other people need and want than about what you yourself need and want)** and {{selfishness}} (**the quality of thinking only of your own advantage) are two sides of the same coin. <!--SR:!2024-03-10,56,314!2024-02-06,27,277-->
 
-Fourteen miles is {{further}} (**at a greater distance)** than you'd think once you start to run it. <!--SR:!2024-02-01,18,303-->
+Fourteen miles is {{further}} (**at a greater distance)** than you'd think once you start to run it. <!--SR:!2024-03-26,54,303-->

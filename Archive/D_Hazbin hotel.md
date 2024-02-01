@@ -1,8 +1,8 @@
-I wanted to save you, the {{anguish}} (extreme distress of body or mind) to do what was {{required}} (necessary) 
+I wanted to save you, the {{anguish}} (extreme distress of body or mind) to do what was {{required}} (necessary) <!--SR:!2000-01-01,1,250!2024-02-04,3,250--> 
 
 #cards/dictionary 
 
-rise and shine>>_ <!--SR:!2024-02-01,3,250-->
+rise and shine>>_ <!--SR:!2024-02-10,9,250-->
 
 I don't know why Ozz brought you here, but can you please not talk {{back to my boss}} (argue with).
 

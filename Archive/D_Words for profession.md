@@ -2,7 +2,7 @@
 
 He was the company's {{go-to}} (**used to** **describe** **the** **best** **person, thing, or** **place** **for a** **particular** **purpose** **or need**) **guy** for new ideas.
 
-commit>>фиксировать, помещать (изменения), поучаствовать/исполнить
+commit>>фиксировать, помещать (изменения), поучаствовать/исполнить <!--SR:!2024-02-04,4,284-->
 She committed herself to the work of God
 After the second episode, she had to be commited <!--SR:!2024-02-10,15,261-->
 

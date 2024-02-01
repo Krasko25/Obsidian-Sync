@@ -28,7 +28,7 @@ He had been {{grilling}} (**to** **ask** **someone a lot of** **questions** **fo
 
 norm>>критерий, норматив
 
-maid>>горничная
+maid>>горничная <!--SR:!2024-02-04,3,301-->
 
 mop the floor>>мыть полы <!--SR:!2024-03-02,33,297-->
 
@@ -141,7 +141,7 @@ Pen - ручка; {{pan}} - кастрюля <!--SR:!2024-02-05,11,309-->
 
 You doomed to die in Donbass without {{lighter}}  (зажигалка).
 
-This book is about to tell some {{tips}} (лайфхак)
+This book is about to tell some {{tips}} (лайфхак) <!--SR:!2024-02-04,4,320-->
 
 "Draw" is {{beautiful/nice}} word (красивое слово). <!--SR:!2024-02-08,10,315-->
 
@@ -160,7 +160,7 @@ They {{set off}} (to start on a trip) again, the class looking at Pr. Lupin with
 
 {{Don't mind me}} (Don't pay me attention) _,_  said Denji to Makima <!--SR:!2024-02-07,19,264-->
 
-{{hear me our}} (listen to me)!! I I'm here to help you. <!--SR:!2024-02-01,11,301-->
+{{hear me our}} (listen to me)!! I I'm here to help you. <!--SR:!2024-03-04,32,301-->
 
 {{adoration}} is very strong love or worship for someone <!--SR:!2024-02-02,12,297-->
 
@@ -200,7 +200,7 @@ He mastered the art of {{hotfooting}} (run for life) <!--SR:!2024-02-03,12,301--
 
 He swallowed his drink in one {{gulp}} (to swallow).
 
-His {{background}} (past experience) makes everyone tremble <!--SR:!2024-02-01,3,297-->
+His {{background}} (past experience) makes everyone tremble <!--SR:!2024-02-15,14,317-->
 
 I have the {{warrant}} (A legal paper, issued by a court, giving police permission to make an arrest, seizure, or search.), to search here.
 
@@ -222,7 +222,7 @@ Thanks for {{upbrinпing}} (воспитание) me <!--SR:!2024-02-04,23,274--
 
 The {{fruitless}} (not producing the desired results, unsuccessful) tree should be burned down <!--SR:!2024-02-05,13,304-->
 
-There is too much {{luxury}} (The state of great comfort and extravagant living)![](local:///Users/connect/remnote/remnote-62c2eac9d4b97a004623c386/files/ZFWUGk_cOXMkVTGDQ0-7vKqQ48p_nfPyb5rPkaC7WMVry3OxX81F6ofArxUhKxIMUH-tZQ0h0-zznlJJMkfEF7MsxXQ653yjxsmBQDTg-4XE6p6PIYSoozthmVWkrDln.jpeg) <!--SR:!2024-02-01,3,297-->
+There is too much {{luxury}} (The state of great comfort and extravagant living)![](local:///Users/connect/remnote/remnote-62c2eac9d4b97a004623c386/files/ZFWUGk_cOXMkVTGDQ0-7vKqQ48p_nfPyb5rPkaC7WMVry3OxX81F6ofArxUhKxIMUH-tZQ0h0-zznlJJMkfEF7MsxXQ653yjxsmBQDTg-4XE6p6PIYSoozthmVWkrDln.jpeg) <!--SR:!2024-02-09,8,297-->
 
 There wouldn't be so hot if you hadn't thrown out the {{blinds}} (шторы)
 
@@ -281,7 +281,7 @@ I am capable to {{talk up}} (to make something sound very attractive) this produ
 
 I am sick of {{military action}} (военные действия) <!--SR:!2024-02-07,14,306-->
 
-I dream Nikita to get the second English wind.>>second wind <!--SR:!2024-02-01,12,297-->
+I dream Nikita to get the second English wind.>>second wind <!--SR:!2024-03-20,48,317-->
 
 I suppose him to be a great {{scapegoat}} (a person or thing carrying the blame for others) <!--SR:!2024-02-07,9,295-->
 
@@ -296,7 +296,7 @@ Laila's {{impunity}} (freedom from punishment) helps to avoid problems
 LD carried out her {{threat}} (a suggestion that something unpleasant or violent will happen) in a form of
 her neighbours. <!--SR:!2024-02-22,22,286-->
 
-Leila had an amazing {{artistic process}} (creative process) yesterday
+Leila had an amazing {{artistic process}} (creative process) yesterday <!--SR:!2024-02-04,3,301-->
 
 Leila want us to {{worship}} (adoration and honor given to God) her. <!--SR:!2024-02-03,4,319-->
 
@@ -328,13 +328,13 @@ The {{immortal}} (living forever) ones want the global warming <!--SR:!2024-04-1
 
 The ghost of that ink {{spot}} (a small, usually round area of colour that has different colour than the surface around it) still is the part of that carpet. <!--SR:!2024-02-08,27,274-->
 
-there is a {{pure}} (not mixed with anything else) evil in this book... <!--SR:!2024-02-01,13,295-->
+there is a {{pure}} (not mixed with anything else) evil in this book... <!--SR:!2024-03-24,52,315-->
 
 There's also DJ, who likes to DJ>>_ <!--SR:!2024-02-17,19,333-->
 
 There's only one possible explanation. She obviously wants to {{ask you out}} (invite to a date) <!--SR:!2024-02-09,11,315-->
 
-they killed each other for this {{real estate}} (lands or building that someone owns) <!--SR:!2024-02-01,3,297-->
+they killed each other for this {{real estate}} (lands or building that someone owns) <!--SR:!2024-02-14,13,317-->
 
 This {{firing back}} (to answer a question or remark quickly and in angry way) became the huge problem for our group.
 
@@ -346,7 +346,7 @@ What is the price of your {{blind eye}} (ignore the violation) <!--SR:!2024-02-0
 
 Yesterday we have  _??? (to move soldiers or equipment to a place where they can be used when they are needed)_  on the moon.
 
-Yesterday we had {{deploy}} (to move soldiers or equipment to a place where they can be used when they are needed) on the moon.
+Yesterday we had {{deploy}} (to move soldiers or equipment to a place where they can be used when they are needed) on the moon. <!--SR:!2024-02-04,3,301-->
 
 You mustn't {{reveal}} (to make known or show something that is surprising or that was previously secret) government secrets. <!--SR:!2024-02-11,19,324-->
 
@@ -384,7 +384,7 @@ Male {{cattle}} (скот) are bulls
 
 His business is {{poultry}} (домашняя птица, живность) farming.
 
-Foxes are considered {{vermin}} (паразиты, вредители). <!--SR:!2024-02-01,11,297-->
+Foxes are considered {{vermin}} (паразиты, вредители). <!--SR:!2024-03-09,37,297-->
 
 This idea I {{extract}} (**to remove or take out something) **out of books...
 автор Person>>Альфред Ленглэ <!--SR:!2024-02-07,11,312-->
@@ -393,7 +393,7 @@ The {{primary}} (**more important than anything else; main)** {{bond}} (**a clos
 
 We {{considered}} (decided) her to be our friend
 
-Game with {{finite}} (something that can end) resources
+Game with {{finite}} (something that can end) resources <!--SR:!2024-02-04,3,301-->
 
 to make separating from the {{tribe}} (племя) and nature unreal
 
@@ -407,9 +407,9 @@ She has a right to the {{property}} (собственность). <!--SR:!2024-0
 
 Also I will consider the {{regularity}} (закономерности) between development of individual, humanity in general and religion. <!--SR:!2024-02-20,22,277-->
 
-Despite having a large family, they still had no **son and** {{heir}} (**a person who will legally receive money, property, or a title from another person, especially an older member of the same family, when that other person dies).**
+Despite having a large family, they still had no **son and** {{heir}} (**a person who will legally receive money, property, or a title from another person, especially an older member of the same family, when that other person dies).** <!--SR:!2024-02-04,3,301-->
 
-It's important not to {{jump to conclusions}} (спешить с выводами). <!--SR:!2024-02-01,11,297-->
+It's important not to {{jump to conclusions}} (спешить с выводами). <!--SR:!2024-03-03,31,297-->
 
 She worked her way up through the corporate {{hierarchy}} (**a system in which people or things are arranged according to their importance)** to become president. <!--SR:!2024-02-14,18,277-->
 

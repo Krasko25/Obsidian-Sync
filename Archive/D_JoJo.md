@@ -14,7 +14,7 @@ I'm not going to {{charge }} (**to make a formal statement saying that someone i
 
 But still, 60 to 80 days is the {{estimated}} (**to guess or calculate the cost, size, value, etc. of something (оценить, предположить))** competition time.
 
-He's escaping into the rocky hills! Don't let him get close to these {{cliffs}} (**a high area of rock with a very steep side, often on a coast (утёсы))**
+He's escaping into the rocky hills! Don't let him get close to these {{cliffs}} (**a high area of rock with a very steep side, often on a coast (утёсы))** <!--SR:!2024-02-04,3,264-->
 
 Are you looking {{down on us}} (смотреть свысока) like that? <!--SR:!2024-02-04,15,262-->
 

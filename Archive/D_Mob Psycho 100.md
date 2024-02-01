@@ -45,11 +45,11 @@ for the fun of it>>_ <!--SR:!2024-04-08,73,321-->
 
 man up>>**used to** **tell** **someone that they should** **deal** **with something more** **bravely** <!--SR:!2024-02-21,31,285-->
 
-You're actually making me use my {{trump card}} (**an** **advantage** **that makes you more** **likely** **to** **succeed** **than other** **people,** **especially something that other** **people** **do not** **know** **about)** <!--SR:!2024-02-01,6,274--> 
+You're actually making me use my {{trump card}} (**an** **advantage** **that makes you more** **likely** **to** **succeed** **than other** **people,** **especially something that other** **people** **do not** **know** **about)** <!--SR:!2024-02-23,22,294--> 
 
 Espers are hard to {{possess}} (**to have or own something, or to have a** **particular** **quality)** <!--SR:!2024-02-03,25,272--> 
 
-You guys are still {{small fries}} (**people** **or things that are not** **considered** **to be** **important)** <!--SR:!2024-02-01,21,278--> 
+You guys are still {{small fries}} (**people** **or things that are not** **considered** **to be** **important)** <!--SR:!2024-04-21,80,298--> 
 
 HQ>>headquaters <!--SR:!2024-04-09,74,319-->
 

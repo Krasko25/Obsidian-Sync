@@ -6,7 +6,7 @@ turned the tables on someone↔**to change a situation so that you now have an a
 
 but lately, the value of non-sorcerers had been {{wavering}} (being in doubt; undetermined; indecisive; uncertain; unsteady.) in my mind <!--SR:!2024-03-28,59,312-->
 
-I will be able to use those technics {{perpetually}} (**continuing** **forever, or** **happening** **all the** **time)** 
+I will be able to use those technics {{perpetually}} (**continuing** **forever, or** **happening** **all the** **time)** <!--SR:!2024-02-04,4,279--> 
 
 It {{interferes}} (**to involve yourself in a situation when your involvement is not wanted or is not helpful) **on atomic level, controlling space-time
 

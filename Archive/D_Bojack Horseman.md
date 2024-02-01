@@ -19,7 +19,7 @@ Everything I {{pitch}} (**to throw something, esp. forcefully, promote)** he sho
 
 Don't chew too loud, and collect your {{paycheck.}} (**a check used to pay an employee the amount of money the employee has earned).** <!--SR:!2024-02-20,43,290--> 
 
-First of all, I don't hate {{Jews}} (иудей, еврей), If I did, would I be able to sit in the same room as my good friend, a {{Jew}}? <!--SR:!2024-03-29,65,320!2000-01-01,1,250-->
+First of all, I don't hate {{Jews}} (иудей, еврей), If I did, would I be able to sit in the same room as my good friend, a {{Jew}}? <!--SR:!2024-03-29,65,320!2024-02-04,4,307-->
 
 Hey, Gina, I'm sorry. I was just {{teasing}} (**to laugh at someone or say unkind things about them, either because you are jokingor because you want to upset that person)**. Gina, come out of the bathroom
 
@@ -37,7 +37,7 @@ The room has a {{fabulous}} (**very good; excellent)** view across the lake. <!-
 
 This neckless is a family {{heirloom}} (**a valuable object that has been given by older members of a family to youngermembers of the same family over many years).** 
 
-You look tired, Veronica. - Amazing {{burn}} (прожарка, подкол), Princess Carolyn. <!--SR:!2024-02-01,10,299--> 
+You look tired, Veronica. - Amazing {{burn}} (прожарка, подкол), Princess Carolyn. <!--SR:!2024-03-01,29,299--> 
 
 I went through hell and back today, but it was worth it>>_ <!--SR:!2024-02-26,26,301-->
 

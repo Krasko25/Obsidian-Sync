@@ -451,3 +451,14 @@ An attempt of gratitude:
 - I gave a call to my dad and grannies.
 
 ==January 31st, 2024==
+Today was a nice day. It was not perfect, but it was good enough. The last piece to a good day will be falling asleep on time, so I'll better just hurry up go to bed. I will not write almost any details, this day was just nice. If that is the only thing, that I will remember about this day, that it is good enough for me.
+
+A slice of gratitude:
+- I completed all three of my main goals for today (reading, math and sleep);
+- I read not 1, but 2 chapters of Crime and Punishment today;
+- I will finally fall asleep on time.
+- I am grateful to myself for being able to be so grateful to myself.
+- I am grateful to myself for being able to be grateful for being able to be so grateful to myself.
+-  I am grateful to myself for being able to be grateful for being able to be so grateful for being able to be so grateful to myself.
+- ...
+- recursion

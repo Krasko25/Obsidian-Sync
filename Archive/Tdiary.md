@@ -18,3 +18,5 @@ Anyway, today I will write my gratitude for everything that I have done during J
 - Awesome Habit Party started doing Habitica calls and other things for accountability. Of course it is not directly result of his actions, but he is still grateful for everything and everyone involved (including himself).
 - Thanks to Mikhail for writing notes every day. Though, I think, that he should try to keep it shorter in the future.
 - Maybe Mikhail forgot something, but, anyway, I'm grateful to him for not being troubled about that.
+
+==

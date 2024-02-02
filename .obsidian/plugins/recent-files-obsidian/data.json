@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Tdiary",
+      "path": "Archive/Tdiary.md"
+    },
+    {
       "basename": "Меняются ли люди в условиях технического прогресса",
       "path": "Archive/Меняются ли люди в условиях технического прогресса.md"
+    },
+    {
+      "basename": "2024-02-02",
+      "path": "Daily notes/2024/February/2024-02-02.md"
+    },
+    {
+      "basename": "Бегство от свободы. Эрих Фромм",
+      "path": "Archive/Бегство от свободы. Эрих Фромм.md"
     },
     {
       "basename": "D_Hazbin hotel",
@@ -11,10 +23,6 @@
     {
       "basename": "2024-02-01",
       "path": "Daily notes/2024/February/2024-02-01.md"
-    },
-    {
-      "basename": "Tdiary",
-      "path": "Archive/Tdiary.md"
     },
     {
       "basename": "diary",
@@ -191,14 +199,6 @@
     {
       "basename": "2024-01-16",
       "path": "Daily notes/2024/January/2024-01-16.md"
-    },
-    {
-      "basename": "2024-01-15",
-      "path": "Daily notes/2024/January/2024-01-15.md"
-    },
-    {
-      "basename": "2024-01-14",
-      "path": "Daily notes/2024/January/2024-01-14.md"
     }
   ],
   "omittedPaths": [],

@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6285293a3b4168fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Archive/Tdiary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archive/Меняются ли люди в условиях технического прогресса.md",
+                "file": "Archive/Tdiary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Archive/Меняются ли люди в условиях технического прогресса.md",
+                "file": "Archive/Tdiary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archive/Меняются ли люди в условиях технического прогресса.md"
+                "file": "Archive/Tdiary.md"
               }
             }
           },
@@ -175,13 +188,14 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "00ed6838f252d4f9",
+  "active": "6285293a3b4168fc",
   "lastOpenFiles": [
-    "Daily notes/2024/February/2024-02-02.md",
-    "Archive/D_Hazbin hotel.md",
     "Archive/Меняются ли люди в условиях технического прогресса.md",
-    "Daily notes/2024/February/2024-02-01.md",
     "Archive/Tdiary.md",
+    "Daily notes/2024/February/2024-02-02.md",
+    "Archive/Бегство от свободы. Эрих Фромм.md",
+    "Archive/D_Hazbin hotel.md",
+    "Daily notes/2024/February/2024-02-01.md",
     "Archive/diary.md",
     "Archive/В чем заключается ценность жизненного опыта..md",
     "Archive/People relationships MOC.md",
@@ -203,7 +217,6 @@
     "Daily notes/2024/January/2024-01-27.md",
     "Daily notes/2024/January/2024-01-26.md",
     "Archive/D_Other Sources.md",
-    "Archive/Субъективный и объективный идеал.md",
     "Attachments/Screenshot 2024-01-11 at 11.31.46 AM.png",
     "Attachments/Screenshot 2024-01-08 at 21.27.20.png",
     "obsidian items",

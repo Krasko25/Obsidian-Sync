@@ -29,7 +29,7 @@ You'll have to say, "I'm sad-sad girl with a dirty apartment", - but I'll let yo
 
  <!--SR:!2024-02-08,13,304!2024-03-11,45,313-->
 
-The man is willing to give you a second chance, he is downstairs waiting, and you will be {{civil}} (будешь вежливой) to him. <!--SR:!2024-02-02,13,298-->
+The man is willing to give you a second chance, he is downstairs waiting, and you will be {{civil}} (будешь вежливой) to him. <!--SR:!2024-03-26,53,318-->
 
 'It smells terrible in here,' said Francis. 'Tomorrow, if it's warm, we'll {{air it out}} (wind) <!--SR:!2024-02-06,10,303--> 
 

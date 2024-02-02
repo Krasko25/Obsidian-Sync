@@ -9,7 +9,7 @@ narrator>>рассказчик <!--SR:!2024-02-18,37,294-->
 I'm going to make you pay {{dearly}} (заплатить сполна)! <!--SR:!2024-03-03,39,305-->
 
 all the negative emotions are {{welling up}} (накапливаются) within you
-she has a nerve to speak like this in her position? - {{splendid}} (**excellent, or beautiful and impressive:)** <!--SR:!2024-02-02,28,270!2000-01-01,1,250--> 
+she has a nerve to speak like this in her position? - {{splendid}} (**excellent, or beautiful and impressive:)** <!--SR:!2024-05-17,105,290!2000-01-01,1,250--> 
 
 her head got turned into the {{bulb}} (**a light bulb)** 
 

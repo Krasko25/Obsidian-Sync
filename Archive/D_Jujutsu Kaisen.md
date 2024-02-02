@@ -1,6 +1,6 @@
 #cards/dictionary 
 
-Nanami is on his {{last leg}} (one of his feet is already in the grave)
+Nanami is on his {{last leg}} (one of his feet is already in the grave) <!--SR:!2024-02-03,1,241-->
 
 turned the tables on someone↔**to change a situation so that you now have an advantage over someone who previously had an advantage over you** 
 
@@ -8,7 +8,7 @@ but lately, the value of non-sorcerers had been {{wavering}} (being in doubt; un
 
 I will be able to use those technics {{perpetually}} (**continuing** **forever, or** **happening** **all the** **time)** <!--SR:!2024-02-04,4,279--> 
 
-It {{interferes}} (**to involve yourself in a situation when your involvement is not wanted or is not helpful) **on atomic level, controlling space-time
+It {{interferes}} (**to involve yourself in a situation when your involvement is not wanted or is not helpful) **on atomic level, controlling space-time <!--SR:!2024-02-06,4,281-->
 
 I have to {{wear him down}} (exhaust or get tired through overuse or great strain or stress) using some idiots first
 

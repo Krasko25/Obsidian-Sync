@@ -12,7 +12,7 @@ He, as it fits his character, was {{short-spoken}} (немногословен)
 
 Nanotechnology. Ah, you have {{outdone}} (be or do something to a greater degree) yourself, Peter
 
-Vegita! Stop vegiting it! You are making it worse! - Don't you verb me!>>_ <!--SR:!2024-02-02,4,317-->
+Vegita! Stop vegiting it! You are making it worse! - Don't you verb me!>>_ <!--SR:!2024-02-14,12,317-->
 
 next-to-last; second last; last, but one>>_ <!--SR:!2024-02-22,26,297-->
 
@@ -32,7 +32,7 @@ maid>>горничная <!--SR:!2024-02-04,3,301-->
 
 mop the floor>>мыть полы <!--SR:!2024-03-02,33,297-->
 
-She hired a lawyer who {{specializes}} (**to** **stud y** **or** **work** **on a** **particular** **subject** **or** **skill** **more than any** **others, so that you** **become** **an** **expert** **in it) ** in divorce cases. <!--SR:!2024-02-02,8,291-->
+She hired a lawyer who {{specializes}} (**to** **stud y** **or** **work** **on a** **particular** **subject** **or** **skill** **more than any** **others, so that you** **become** **an** **expert** **in it) ** in divorce cases. <!--SR:!2024-02-24,22,291-->
 
 sign up>>регистрироваться <!--SR:!2024-02-08,14,309-->
 
@@ -56,7 +56,7 @@ When I lived in Spain, I used to {{eat out}} (**to eat in a restaurant)** all th
 
 lift your ear up to that guy (god)>>_ <!--SR:!2024-02-10,19,321-->
 
-in a nutshell>>simply put, giving only the main points <!--SR:!2024-02-02,4,317-->
+in a nutshell>>simply put, giving only the main points <!--SR:!2024-02-19,17,337-->
 
 There was nothing between the lines>>. <!--SR:!2024-02-09,18,321-->
 
@@ -78,7 +78,7 @@ Negative bonds gives temporary effects, it do not solve the problems and {{binds
 
 From my {{perspective}}, this was not a crime.
 
-to view a situation from a new perspective>>с новой точки зрения <!--SR:!2024-02-02,11,301-->
+to view a situation from a new perspective>>с новой точки зрения <!--SR:!2024-03-20,47,321-->
 
 Second class-citizen person>>_ <!--SR:!2024-02-10,17,326-->
 
@@ -119,9 +119,9 @@ I am willing to try anything at this point>>_ <!--SR:!2024-03-04,34,301-->
 
 The man was {{well over}} (сильно больше) eighty
 
-the distinctive speech of {{folks}} (**people, especially those of a particular group or type)** from the South <!--SR:!2024-02-02,4,317-->
+the distinctive speech of {{folks}} (**people, especially those of a particular group or type)** from the South <!--SR:!2024-02-22,20,337-->
 
-Mother, father, sister, brother hand in hand with one another>>_
+Mother, father, sister, brother hand in hand with one another>>_ <!--SR:!2024-02-05,3,302-->
 
 {{foreword}} (предисловие) to the book
 
@@ -147,7 +147,7 @@ This book is about to tell some {{tips}} (лайфхак) <!--SR:!2024-02-04,4,3
 
 I'll be doing {{bandage}} (a long, narrow piece of cloth that is tied around an injuryor a part of someone's body that has been hurt) for my leg.
 
-You will read a {{passage}} (a part of the text (отрывок)) of between 75 and 100 words regarding issue <!--SR:!2024-02-02,3,299-->
+You will read a {{passage}} (a part of the text (отрывок)) of between 75 and 100 words regarding issue <!--SR:!2024-02-11,9,299-->
 
 I was told that my suit is {{spoiled}} (to destroy or reduce the pleasure, interest, or beauty of something) <!--SR:!2024-02-21,22,284-->
 
@@ -162,7 +162,7 @@ They {{set off}} (to start on a trip) again, the class looking at Pr. Lupin with
 
 {{hear me our}} (listen to me)!! I I'm here to help you. <!--SR:!2024-03-04,32,301-->
 
-{{adoration}} is very strong love or worship for someone <!--SR:!2024-02-02,12,297-->
+{{adoration}} is very strong love or worship for someone <!--SR:!2024-03-21,48,317-->
 
 adjective (adj.)↔прилагательное
 
@@ -190,7 +190,7 @@ Go to work once you {{recover}} (get better)
 
 Hanter is good at {{endear}} (make kind) people
 
-When it comes to attention, Hunter is the most {{generous}} (very giving, as if born with plenty of money) dog <!--SR:!2024-02-02,11,301-->
+When it comes to attention, Hunter is the most {{generous}} (very giving, as if born with plenty of money) dog <!--SR:!2024-03-07,34,301-->
 
 He drew himself as a {{gifted student}} (talented student) <!--SR:!2024-02-22,41,294-->
 
@@ -241,7 +241,7 @@ You should take a {{loan}} (dept) and pay us back.
 
 You will be my main {{heir}} (a person legally entitled to the property or rank of another on that person's death.)
 
-run down street>>захудалая улица <!--SR:!2024-02-02,3,299-->
+run down street>>захудалая улица <!--SR:!2024-02-16,14,319-->
 
 Your {{hard-luck story}} (a story or piece of information that someone tells you or writes about himself or herself, intended to make you feel sympathy for that person) story makes me sad, you should go. <!--SR:!2024-02-07,14,306-->
 
@@ -271,7 +271,7 @@ Gotcha = got you = я поймал тебя (подкалол)>>_
 
 Hunter is a way cuter {{compared }}(to put things together to see how they ate the same) to Leila
 
-He got his tooth out {{on a dare}} (на спор) <!--SR:!2024-02-02,4,317-->
+He got his tooth out {{on a dare}} (на спор) <!--SR:!2024-02-19,17,337-->
 
 He was {{listing}} (A sentence with multiple phrases that create a list) his rewords for today and yesterday and the day before yesterday <!--SR:!2024-02-25,35,304-->
 
@@ -340,9 +340,9 @@ This {{firing back}} (to answer a question or remark quickly and in angry way) b
 
 verb (v)↔глагол
 
-Wear it on the {{outing}} (a short journey made by a group of people, usually for pleasure or education), okey? (в оригинале было написано так же) <!--SR:!2024-02-02,4,317-->
+Wear it on the {{outing}} (a short journey made by a group of people, usually for pleasure or education), okey? (в оригинале было написано так же) <!--SR:!2024-02-22,20,337-->
 
-What is the price of your {{blind eye}} (ignore the violation) <!--SR:!2024-02-02,3,299-->
+What is the price of your {{blind eye}} (ignore the violation) <!--SR:!2024-02-12,10,299-->
 
 Yesterday we have  _??? (to move soldiers or equipment to a place where they can be used when they are needed)_  on the moon.
 
@@ -369,7 +369,7 @@ go swimming
 Глагол PLAY используется с названиями командных видов спорта, игр, когда итогом соревнования является победа одного участника или команды над другим, а не результат.
 play football
 play basketball
-play tennis <!--SR:!2024-02-02,15,264-->
+play tennis <!--SR:!2024-03-25,52,284-->
 
 В каком случае занятия спортом употребляется do?
 ?
@@ -382,7 +382,7 @@ Brain is going to use economic {{mode}} (режим).
 
 Male {{cattle}} (скот) are bulls
 
-His business is {{poultry}} (домашняя птица, живность) farming.
+His business is {{poultry}} (домашняя птица, живность) farming. <!--SR:!2024-02-05,3,302-->
 
 Foxes are considered {{vermin}} (паразиты, вредители). <!--SR:!2024-03-09,37,297-->
 
@@ -423,7 +423,7 @@ Ten years of {{separation}} (**existing or happening independently or in a diffe
 
 His reputation was {{irreversibly}} (not possible to change; impossible to return to a previous condition) damaged by the affair.
 
-Cold weather {{retards}} (**to make something slower)** the growth of many plants. <!--SR:!2024-02-02,14,295-->
+Cold weather {{retards}} (**to make something slower)** the growth of many plants. <!--SR:!2024-03-29,56,315-->
 
 Identificate↔отождествлять
 

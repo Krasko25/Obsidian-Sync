@@ -60,7 +60,7 @@ AKA>>also known as...
 
 TMI>>too much information
 
-CU>>see you <!--SR:!2024-02-02,4,312-->
+CU>>see you <!--SR:!2024-02-18,16,332-->
 
 IDC>>I don't care <!--SR:!2024-03-09,40,293-->
 

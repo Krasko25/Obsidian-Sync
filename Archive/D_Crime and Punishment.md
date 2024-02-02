@@ -10,7 +10,7 @@ I wanted to know if I'm a {{beetle}} (a bug) or a human
 
 From a {{distance}} (издалека) he looked like a woman
 
-They spit in my {{mug}} (my face) quite openly <!--SR:!2024-02-02,8,269-->
+They spit in my {{mug}} (my face) quite openly <!--SR:!2024-03-02,29,289-->
 
 Both of them were happy to {{part}} (split) <!--SR:!2024-02-04,10,289-->
 

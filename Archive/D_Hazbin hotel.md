@@ -9,3 +9,8 @@ I don't know why Ozz brought you here, but can you please not talk {{back to my 
 I can't believe that Alastor has the guts to name himself the stepfather of Lucifer's daughter in front of him just to {{get under his skin}} (annoy or irritate someone intensely). The dude is a legend
 
 Looks like you could use some help>>_
+
+Oh, my stars. Do my eyes {{deceive}} (be false to; be dishonest with) me?-----------------------
+The insurance company **deceived** me when they told me they were covering my house”
+
+Win her over and the rest will be {{easy as pie}} (a piece of cake)

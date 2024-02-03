@@ -54,3 +54,14 @@ Here are my new set of rules about leisure time:
 The reason why I stopped using coins from Habitica because my earnings are way too inconsistent. I also wanted to have a system, that would engage me to consume an entertainment content, that I will have to breakdown in English. However, I still want to use Habitica coins to motivate me in some way. It would be a great pleasure for me if someone recommends me a way to do that.
 
 P.S. (for LD): Habitica is a program for tracking your habits and tasks. The feature of this app is that it is similar to a game. When you complete your tasks or habits, you get coins, experience (to lvl up your character) and different stuff. You can use coins to buy rewards for yourself (for example, 15 minutes of watching youtube can worth 30 coins).
+==February 3rd, 2024==
+Today I was acting according to the rules, that I stated yesterday. I think that. was doing good, however, I was not able to do a great amount of things because I woke up at 8:10 am and there was a birthday party of my brother. 
+
+The Habitica call today was quite interesting. For the first time we were using web cameras. I decided that making an estimated road map for my Diploma and passing my exam on Wednesday are going to my my main goals for the week.
+
+I think that we also forgot to talk about cleaning during the Habitica call (or, maybe, people were talking it after I left). I completed my cleaning goal only half way, but I will fix it and send photos tomorrow.
+
+Some gratitude to Mikhail:
+- Mikhail knows, that respecting rules all the time is really important to make them useful. He is doing it good for now.
+- Mikhail felt asleep on time.
+- Mikhail is making preparation for his exam on Wednesday every day.

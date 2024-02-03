@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archive/D_Solo Leveling.md",
+                "file": "Archive/Tdiary.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archive/D_Solo Leveling.md",
+                "file": "Archive/Tdiary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Archive/D_Solo Leveling.md",
+                "file": "Archive/Tdiary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archive/D_Solo Leveling.md"
+                "file": "Archive/Tdiary.md"
               }
             }
           },
@@ -177,8 +177,8 @@
   },
   "active": "00ed6838f252d4f9",
   "lastOpenFiles": [
-    "Daily notes/2024/February/2024-02-02.md",
     "Archive/D_Solo Leveling.md",
+    "Daily notes/2024/February/2024-02-02.md",
     "Daily notes/2024/February/2024-02-03.md",
     "Archive/Меняются ли люди в условиях технического прогресса.md",
     "Archive/Tdiary.md",

@@ -18,7 +18,7 @@ ttyl>>talk to you later
 
 omg>>oh my God!
 
-rip>>rest in peace
+rip>>rest in peace <!--SR:!2024-02-07,4,318-->
 
 omfg>>Oh my f... God! <!--SR:!2024-03-10,44,316-->
 
@@ -42,7 +42,7 @@ plz>>please <!--SR:!2024-03-02,45,304-->
 
 thx>>thanks <!--SR:!2024-02-18,38,302-->
 
-IRL>>in real live <!--SR:!2024-02-03,4,314-->
+IRL>>in real live <!--SR:!2024-02-19,16,334-->
 
 lol>>laughing out loud <!--SR:!2024-02-05,17,320-->
 
@@ -52,7 +52,7 @@ tbh>>to be honest <!--SR:!2024-02-16,16,331-->
 
 TY>>thank you <!--SR:!2024-02-04,4,316-->
 
-YW>>you're welcome <!--SR:!2024-02-03,29,274-->
+YW>>you're welcome <!--SR:!2024-05-23,110,294-->
 
 NBD>>no big deal <!--SR:!2024-02-05,33,290-->
 

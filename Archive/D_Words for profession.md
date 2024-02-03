@@ -8,7 +8,7 @@ After the second episode, she had to be commited <!--SR:!2024-02-10,15,261-->
 
 It {{enables}} (makes something possible) tracking changes, managing branches, and merging code with ease. <!--SR:!2024-02-08,22,254-->
 
-our groups were {{merged}} (flowing together) <!--SR:!2024-02-03,4,282-->
+our groups were {{merged}} (flowing together) <!--SR:!2024-02-13,10,282-->
 
 Security is a top {{concern}} (interest, neсessity, priority) in web development.
 

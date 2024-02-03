@@ -44,7 +44,7 @@ go through something
 **to use a lot of something**
 > Before I gave up coffee, I was going through five cups a day
 
-{{Before long}} (**soon)** you will regret about it
+{{Before long}} (**soon)** you will regret about it <!--SR:!2024-02-06,3,303-->
 
 What do you think makes a {{compelling}}  character (interesting)?
 
@@ -91,7 +91,7 @@ man in plural form>>men
 to run across>>натолкнуться <!--SR:!2024-02-16,16,336-->
 
 This airport can handle more than 300 {{aircraft}} (**any vehicle, with or without an engine, that can fly, such as a plane or helicopter) **every day
-aircraft in plural form>>aircraft and words with -craft has the same form in singular and plural form <!--SR:!2024-02-03,10,289-->
+aircraft in plural form>>aircraft and words with -craft has the same form in singular and plural form <!--SR:!2024-03-18,44,309-->
 
 deer in plural form>>deer
 
@@ -125,15 +125,15 @@ Mother, father, sister, brother hand in hand with one another>>_ <!--SR:!2024-02
 
 {{foreword}} (предисловие) to the book
 
-but it involves an extremely {{blue}} (пошлая, грубая) __ joke__ .
+but it involves an extremely {{blue}} (пошлая, грубая) __ joke__ . <!--SR:!2024-02-06,3,303-->
 
-I've been feeling kind of {{blue}} (perfect blue). <!--SR:!2024-02-03,8,292-->
+I've been feeling kind of {{blue}} (perfect blue). <!--SR:!2024-03-07,33,312-->
 
 The {{womb}} (утроба матери) represents the very first place in which life takes form. <!--SR:!2024-02-08,19,264-->
 
 We were playing {{board games}} (table games) on that tree a lot.
 
-He can be depend on>>_ <!--SR:!2024-02-03,4,319-->
+He can be depend on>>_ <!--SR:!2024-02-18,15,319-->
 
 I believe that {{posters}} (плакаты) on the school walls is trash
 
@@ -172,7 +172,7 @@ articles↔артикли
 
 No Tom was there>>_ <!--SR:!2024-02-05,15,317-->
 
-{{adolescence}} (the time period between the beginning of puberty and adulthood) is a dangerous period
+{{adolescence}} (the time period between the beginning of puberty and adulthood) is a dangerous period <!--SR:!2024-02-06,3,303-->
 
 {{confused identity}} (нечеткая самоидентификация) is a common teenager problem <!--SR:!2024-02-05,24,270-->
 
@@ -184,9 +184,9 @@ sequence of tenses>>согласование времен
 
 {{unfulfilled }}(unrealised) persons tend to be miserable
 
-{{self-doubt}} (Сомнения в себе) is a serious illness <!--SR:!2024-02-03,10,309-->
+{{self-doubt}} (Сомнения в себе) is a serious illness <!--SR:!2024-03-16,42,329-->
 
-Go to work once you {{recover}} (get better)
+Go to work once you {{recover}} (get better) <!--SR:!2024-02-07,4,323-->
 
 Hanter is good at {{endear}} (make kind) people
 
@@ -196,7 +196,7 @@ He drew himself as a {{gifted student}} (talented student) <!--SR:!2024-02-22,41
 
 He {{lured}} (To tempt or attract with the promise of something good) you into the trap! <!--SR:!2024-03-04,42,304-->
 
-He mastered the art of {{hotfooting}} (run for life) <!--SR:!2024-02-03,12,301-->
+He mastered the art of {{hotfooting}} (run for life) <!--SR:!2024-03-23,49,321-->
 
 He swallowed his drink in one {{gulp}} (to swallow).
 
@@ -228,7 +228,7 @@ There wouldn't be so hot if you hadn't thrown out the {{blinds}} (шторы)
 
 This {{frame}} (The lines and borders that contain the panels) of berserk is a masterpiece!! <!--SR:!2024-03-01,31,304-->
 
-This is our frendship {{tie}} (a set of stories that explains our relationship to the other members of our network, галстуг).
+This is our frendship {{tie}} (a set of stories that explains our relationship to the other members of our network, галстуг). <!--SR:!2024-02-06,3,303-->
 
 This snake {{tempted}} (try to get someone to do something; test; invite (искушать)) me, it's its fault. <!--SR:!2024-02-15,25,284-->
 
@@ -298,13 +298,13 @@ her neighbours. <!--SR:!2024-02-22,22,286-->
 
 Leila had an amazing {{artistic process}} (creative process) yesterday <!--SR:!2024-02-04,3,301-->
 
-Leila want us to {{worship}} (adoration and honor given to God) her. <!--SR:!2024-02-03,4,319-->
+Leila want us to {{worship}} (adoration and honor given to God) her. <!--SR:!2024-02-20,17,339-->
 
 Leila was expected to be  {{charm}} (a pleasing quality that attracts others)
 
 Mom likes to cook something out of {{flour}} (мука, порошок) <!--SR:!2024-02-08,16,324-->
 
-My phone is THE BEGGEST {{distraction}} (something that draws attention away) for me <!--SR:!2024-02-03,13,297-->
+My phone is THE BEGGEST {{distraction}} (something that draws attention away) for me <!--SR:!2024-03-27,53,317-->
 
 My teacher hates when I put an {{exclamation mark}} (восклицательный знак) at the end of each sentence. <!--SR:!2024-02-08,14,309-->
 
@@ -421,13 +421,13 @@ Luther had a new {{perception}} (**a belief or opinion, often held by many peopl
 
 Ten years of {{separation}} (**existing or happening independently or in a different physical space)** have come between them.
 
-His reputation was {{irreversibly}} (not possible to change; impossible to return to a previous condition) damaged by the affair.
+His reputation was {{irreversibly}} (not possible to change; impossible to return to a previous condition) damaged by the affair. <!--SR:!2024-02-07,4,323-->
 
 Cold weather {{retards}} (**to make something slower)** the growth of many plants. <!--SR:!2024-03-29,56,315-->
 
 Identificate↔отождествлять
 
-The governor tried to {{suppress}} (**to prevent something from being seen or expressed or from operating)** the news.
+The governor tried to {{suppress}} (**to prevent something from being seen or expressed or from operating)** the news. <!--SR:!2024-02-07,4,323-->
 
 They had to {{subordinate}} (**having a lower or less important position) **their own needs to the needs of the group
 

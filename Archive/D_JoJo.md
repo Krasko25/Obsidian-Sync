@@ -4,7 +4,7 @@ Nobody feels sorry for you! Even visiting this place is a ??? (**something diffi
 ?
 My elderly mother worries that she's **a** burden** to** me
 Buying a house often places a large** financial** burden **on** young couples.
-**to trouble someone with something difficult or unpleasant** 
+**to trouble someone with something difficult or unpleasant** <!--SR:!2024-02-06,3,264--> 
 
 Everyone called me {{rookie}} (**a person with little experience who is just starting to work in a job or to play on a sports team:)**. And when I felt like it, I could race my horse faster that anyone else. 
 

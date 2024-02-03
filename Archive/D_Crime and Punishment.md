@@ -2,13 +2,13 @@
 
 He was wearing a {{house jacket}} (пальто для дома) <!--SR:!2024-03-02,30,269-->
 
-He {{outrun}} (перегнал) this old man <!--SR:!2024-02-03,3,255--> 
+He {{outrun}} (перегнал) this old man <!--SR:!2024-02-10,7,255--> 
 
 Parfiriy finds reversed psychology to be a <u>double sided</u> sword>>_ 
 
 I wanted to know if I'm a {{beetle}} (a bug) or a human
 
-From a {{distance}} (издалека) he looked like a woman
+From a {{distance}} (издалека) he looked like a woman <!--SR:!2024-02-06,3,257-->
 
 They spit in my {{mug}} (my face) quite openly <!--SR:!2024-03-02,29,289-->
 

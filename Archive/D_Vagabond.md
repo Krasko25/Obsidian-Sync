@@ -24,13 +24,13 @@ I {{vow}} (make a vow; promise) to deliver it to your parents <!--SR:!2024-02-11
 
 I feel bad for everyone, you, guys, share this. - a tactful {{bribe}} (payment made to a person in a position of trust to corrupt his judgment), eh? <!--SR:!2024-03-03,36,287-->
 
-Mushashi considers himself to be {{arrogant}} ( высокометный)
+Mushashi considers himself to be {{arrogant}} ( высокометный) <!--SR:!2024-02-06,3,287-->
 
 overcoming difficulties and at times even risking one's life. These are the things that allow the soul to grow and mature>>allow #Mark/Quote
 
 {{unease}} ( physical discomfort, беспокойство, тревога) had taken over Musashi <!--SR:!2024-03-08,43,310--> 
 
-eventually, I {{vow}} (**to make a** **determined** **decision** **or** **promise** **to do something) **to kill you <!--SR:!2024-02-03,11,296-->
+eventually, I {{vow}} (**to make a** **determined** **decision** **or** **promise** **to do something) **to kill you <!--SR:!2024-03-20,46,316-->
 
 You're still wet behind the ears>>_ <!--SR:!2024-03-07,49,296-->
 

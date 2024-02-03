@@ -7,7 +7,7 @@ l found your {{stashes}} (**to store or hide something, especially a large amoun
 
 Bojack {{overhear}} (подслушал) something about Flip and PC <!--SR:!2024-03-06,39,292-->
 
-Sundays are the one day that are just for me and my {{craft}} (ремесло, the labor part of the art) <!--SR:!2024-02-03,26,275-->
+Sundays are the one day that are just for me and my {{craft}} (ремесло, the labor part of the art) <!--SR:!2024-05-12,99,295-->
 
 The man has come to call. He'd like to take you for a Sunday {{stroll}} (**o walk in a slow relaxed way, especially for pleasure)** <!--SR:!2024-02-07,17,318--> 
 
@@ -45,7 +45,7 @@ to get to the bottom of things↔дойти до сути (серцевины).
 
 Oh, don't {{be cross}} (ругаться) with mother.
 
-You really {{let me down}} (**to disappoint someone by failing to do what you agreed to do or were expected to do) **, BoJack. You really {{let me down}}, Diane. <!--SR:!2024-02-03,12,299!2000-01-01,1,250-->
+You really {{let me down}} (**to disappoint someone by failing to do what you agreed to do or were expected to do) **, BoJack. You really {{let me down}}, Diane. <!--SR:!2024-03-22,48,319!2000-01-01,1,250-->
 
 I feel like we can beat this {{font}} (**a set of letters and symbols in a particular design and size (шрифт))** <!--SR:!2024-03-09,43,312--> 
 

@@ -65,3 +65,19 @@ Some gratitude to Mikhail:
 - Mikhail knows, that respecting rules all the time is really important to make them useful. He is doing it good for now.
 - Mikhail felt asleep on time.
 - Mikhail is making preparation for his exam on Wednesday every day.
+
+==February 4th, 2024==
+Today I had a two hour long lesson with my English teacher at 3:30 pm. At the moment we were preparing for the exam, that will happens this Wednesday. Unexpectedly, I found myself out of gas somewhere in the second half of the lesson. I was physically and mentally exhausted. 
+
+It was a huge surprise for me, because I knew that I could do better than that. Before the lesson I spend about 55 minutes reading and breaking down Crime and Punishment, 20 minutes reading an another book, about 45 minutes doing homework, about 30 minutes cleaning, 25 minute playing with my dog and 30 minutes of playing with my friends. I had no training today. It should not have been enough to wear me out to that extend.
+
+It took me some time to figure out, why this situation happened. I assume, that I tired myself with my own worries (mostly subconsciously). The thing is that today I had to have a lesson with LD (my English teacher), but I got an information form second hands, that my friends would visit us to celebrate my brother's birthday (the party was yesterday, but they were not able to be there yesterday). 
+
+Today we had no internet, even mobile network didn't work properly so I was not able to contact them and ask about the time (yeah, I could go and ask them personally, because they leave nearby, but I didn't want to distract them). I assumed, that they, as always, would visit us around 1 pm. They didn't. The longer I was waiting, the more I was worrying. It would be kind of mean from my side to ignore guests and have a lesson, but I also didn't want to delay my lesson, because I have already delayed it yesterday. 
+
+In the end, they came about 30 minutes before the lesson and I was able to spend some time with them. However, this situation still wore me out. 
+
+\*Mikhail trying to squeeze the last bits of energy to write some kind of a gratitude\*:
+- I did good analysing my energy expenses.
+- I finished cleaning in my room (though, I still didn't touch almost anything inside furniture, there are a lot of stuff there).
+- I also cleared the room where I had a lesson with my teacher (though quite soon, this room will be as jinxed as it was before, because it is used not only by me).

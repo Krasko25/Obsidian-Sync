@@ -85,6 +85,8 @@ In the end, they came about 30 minutes before the lesson and I was able to spend
 ==February 5th, 2024==
 I did not do much today. The main reason for that is a slow start of this day, yesterday I felt asleep late, but I was sleeping a healthy amount of time, because of this my morning routine was delayed, I did not manage to complete it before my college lessons started (I'm learning distantly).
 
+I was also taking my sweat time to avoid going outside. Because of this, my dog was staying closed for half of the day (usually, I let it play in our garden).
+
 Anyway, I hope that I will fell asleep on time today and will have a great day tomorrow.
 
 At days like this, finding things to be grateful for tends to be challenging:

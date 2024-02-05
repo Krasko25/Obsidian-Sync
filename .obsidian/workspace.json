@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archive/Tdiary.md",
+                "file": "Daily notes/2024/February/2024-02-05.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archive/Tdiary.md",
+                "file": "Daily notes/2024/February/2024-02-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Archive/Tdiary.md",
+                "file": "Daily notes/2024/February/2024-02-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archive/Tdiary.md"
+                "file": "Daily notes/2024/February/2024-02-05.md"
               }
             }
           },
@@ -176,6 +176,8 @@
   },
   "active": "00ed6838f252d4f9",
   "lastOpenFiles": [
+    "Archive/Tdiary.md",
+    "Daily notes/2024/February/2024-02-05.md",
     "Daily notes/2024/February/2024-02-04.md",
     "Archive/Меняются ли люди в условиях технического прогресса.md",
     "Archive/В чем заключается ценность жизненного опыта..md",
@@ -183,7 +185,6 @@
     "Archive/Текучесть событий в \"Преступление и наказание\". The flow of events in Crime and Punishment.md",
     "Archive/Story_note (записка по поводу истории).md",
     "Archive/Идея двойников. Twins.md",
-    "Archive/Tdiary.md",
     "Archive/Большая шестёрка. Подъем ног.md",
     "Archive/D_Solo Leveling.md",
     "Daily notes/2024/February/2024-02-02.md",
@@ -202,7 +203,6 @@
     "Archive/Blue Lock.md",
     "Daily notes/2024/January/2024-01-30.md",
     "Archive/You can not repay for everything. Ты не можешь отплатить всем сполна.md",
-    "Daily notes/2024/January/2024-01-29.md",
     "Attachments/Screenshot 2024-01-11 at 11.31.46 AM.png",
     "Attachments/Screenshot 2024-01-08 at 21.27.20.png",
     "obsidian items",

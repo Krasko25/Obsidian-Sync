@@ -93,6 +93,6 @@ At days like this, finding things to be grateful for tends to be challenging:
 - I believe in my success on February 7th (my exam);
 - I believe in my success tomorrow;
 - I think that I found a couple of pieces that I will need to add to my mentality to become mentally stronger;
-- LD (my English teacher) recommended me a one book, I growing interested in it quite a bit and looking forward to read it. 
+- LD (my English teacher) recommended me one book, I growing interested in it quite a bit and looking forward to read it. 
 
 I'm sorry for not catching up with our Discord chat, but I'll do it soon.

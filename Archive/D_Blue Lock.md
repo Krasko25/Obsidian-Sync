@@ -4,6 +4,8 @@ Despite collapsing from exhaustion, what he gained from the match was worth {{it
 
 And the one who surpassed Kunigami Rensuke, receiving a {{bid}} (offered price) roughly three times his old offer... in 4th place, Isagi Yoichi. 
 
+I too am a brat who selfishly {{pursues}} (follow in or as if in pursuit) his dream. || “The police car ? the suspected attacker”
+
 Off his back?  He's so {{outside the box}} (creative/unpredictable)!
 
 Nagi is the type of guy, who can {{discard}} (getting rid something that is regarded as useless or undesirable) anything to chase what he wants.

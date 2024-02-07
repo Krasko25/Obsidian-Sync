@@ -106,3 +106,8 @@ Just as always, a bit of gratitude:
 - I had 2 hours long lesson with my English teacher today;
 - Reading and breaking down Crime and Punishment was finally finished. I read 3 chapters today. 
 - I continue doing my trainings and posture exercises. 
+
+==February 7th, 2024==
+My essay exam finally happened. I don't know my results yet, but I'm sure that I am sure that I did good. I left home at 8:08 am and got home at about 4:15 pm. The exam later for 235 minutes and it took a lot of energy. 
+
+I also had one interesting story. I asked one old woman to show me a toilet. She said that I needed to go to the 

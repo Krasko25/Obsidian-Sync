@@ -96,3 +96,13 @@ At days like this, finding things to be grateful for tends to be challenging:
 - LD (my English teacher) recommended me one book, I growing interested in it quite a bit and looking forward to read it. 
 
 I'm sorry for not catching up with our Discord chat, but I'll do it soon.
+==February 6th, 2024==
+Tomorrow I will have the exam, that I was preparing for for a long time. I think, that I will have no big problems passing it.
+
+Generally speaking, it was a good day, I did a lot of useful things, however, yesterday and today I was breaking the rules that I stated on February 2nd. I will try my best to avoid it tomorrow.
+
+Just as always, a bit of gratitude:
+- I did quite a good amount of homework today;
+- I had 2 hours long lesson with my English teacher today;
+- Reading and breaking down Crime and Punishment was finally finished. I read 3 chapters today. 
+- I continue doing my trainings and posture exercises. 

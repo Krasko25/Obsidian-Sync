@@ -108,6 +108,31 @@ Just as always, a bit of gratitude:
 - I continue doing my trainings and posture exercises. 
 
 ==February 7th, 2024==
-My essay exam finally happened. I don't know my results yet, but I'm sure that I am sure that I did good. I left home at 8:08 am and got home at about 4:15 pm. The exam later for 235 minutes and it took a lot of energy. 
+My essay exam finally happened. I don't know my results yet, but I'm sure that I that I did good... or at least, that was what I was planning to say, but I already got the news about successful on that exam. 
 
-I also had one interesting story. I asked one old woman to show me a toilet. She said that I needed to go to the 
+Of course, just as always, I was true to my traditions, so I was leaving home at the last moment and had to run to the bus stop.
+
+I left home at 8:08 am and got home at about 4:15 pm. The exam lasted for 235 minutes and it took a lot of energy. The bus was beyond overfilled on both ways, there was no place to even stand properly. I also was in a suit, which was limiting the range of my movements. On top of that I missed a bus on my way back, so I had to wait for an hour for another bus. 
+
+I also got one funny story. I asked one old woman to show me a toilet. She said that I needed to go to the first floor (first layer of building has number 0,  second layer has number 1. It does looks awfully similar to the situation in programming for some reason). Suddenly, she stopped me... "hold on... are you... are you a... boy? Ohhh, yeah... sorry-sorry, then your toilet is here, on the ground floor". People mistake me to be a girl sometimes, because of my hair, so it was not a big deal. I paid a visit to the toilet and met her again on the way back. She felt sorry about her misjudgment, so she said: "Oh... I'm so sorry for what I said earlier. Please, don't be angry with me, you just had... such a... girly face" \*smile of a stone face\*. 
+
+I had to do a lot of work when I got home, because I had to skip my classes, but I had no energy. I decided to sleep a bit and it helped me a lot.
+
+Earned gratitude:
+- I finally passed my exam, it feels good;
+- It was a good decision to take a nap after coming home;
+- I still found time to call my granny and father.
+
+==February 8th, 2024==
+Today I did some things, but nothing remarkable. 
+
+I also did not manage to do my leg training yesterday, so I decided to do both of my trainings today (don't worry, those trainings are for different groups of muscles, so it was okey to do)
+
+Just as usual, a bit of gratitude:
+- I did my trainings;
+- I had an English lesson today;
+- Usually after big events I tend to loose my grip quite a bit, but it was not a case for today;
+- I wrote notes for yesterday and today.
+
+
+

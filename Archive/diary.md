@@ -2106,24 +2106,26 @@ After I got home I helped my father with one business. We still had no electrici
 
 I don't recall the other part of this day, because I'm writing it on January 20th.
 ==January 18th, 2024==
-Today I finally started my day exactly how I wanted. I woke up at 5:30 am, did a quick stretching, did some morning duties outside of the house, did my scoliosis routine, had a meditation and a breakfast. I had my entire morning routine finished at 6:45 am. It feels awesome.
+Today I finally started my day exactly how I wanted. I woke up at 5:30 am, did a quick stretching, did some morning duties outside of the house, did my scoliosis routine, had a meditation and breakfast. I had my entire morning routine finished at 6:45 am. It felt awesome.
 
-After the successful morning I did some good job with my homework and reading the book for my exam. I was even doing stretches between learning process. It was about 10 am and I had a lot of job done, so I decided to take a little break and... ... I wasted almost the entire day. The only useful things, that I have done during the rest of the day are taking an English lesson, training and providing some help to my parents.
+After the successful morning I did some good job with my homework and reading for my exam. I was even doing stretches between learning process. It was about 10 am and I had a lot of job done, so I decided to take a little break and... 
+... 
+...I wasted almost the entire day. The only useful things, that I have done during the rest of the day are taking an English lesson, training and providing some help to my parents.
 
 It seems that there is a clear pattern.
 1) When I wake up early the chances of having a "good day" are higher (it was obvious, but still);
 2) First hours of the day is a groundwork for the whole day (once again, it is a common knowledge, but, for some reason, I ignore it all the time);
-3) I am way too sensitive to my weak decisions. When I allow myself to take an easy path, brake some discipline a bit, my whole system of control breaks into pieces. With each "weak" decision, it is easier to do the next one.
+3) I am way too sensitive to my weak decisions. When I allow myself to take an easy path, break my rules a bit, my whole system of control breaks into pieces. With each "weak" decision, it is easier to do the next one.
 
 Just to clarify: I see nothing wrong about having some leisure time, but there should be some principles. 
 
-For example, I decided to take a 20 minute break to watch some anime. It is fine, it was a conscious decision. The problem starts when I spend 30 minutes instead of 20. Those 10 minutes of extra time are not a problem. The weak decision is the problem. I told that I will stop after 20 minutes, but did not. I broke my promise to myself. It leads to a few implications: It damages my believe to myself, causes a feel of regret and undermines my respect to my rules (they can be broken).
+For example, I decided to take a 20 minute break to watch some anime. It is fine, it was a conscious decision. The problem starts when I spend 30 minutes instead of 20. Those 10 minutes of extra time are not a problem. The weak decision is the problem. I told that I will stop after 20 minutes, but did not. I broke my promise to myself. It leads to a few outcomes: it damages my believe to myself, causes a feel of regret and undermines my respect to my rules (they can be broken).
 
 Honesty is one of the most important values for me and still I constantly lie to myself, I got tired of this. 
 
 For now my plan is simple, I will create some precise rules. I will have a right to change the rules for the next day if it is needed, but I will have to finish the day under given rules, no matter what.
 
-Tomorrow I will use a timer to measure my work periods. After each work session I will have an opportunity to choose the amount of time for leisure. It is impossible to extend a break time in that app, you can choose the duration only one time after your work session. I will have to pay for this leisure time with my Habitica coins according to my rates. I will also have a right to spend as much time as I want (for free) on stretching and other activities without electronic devices.
+Tomorrow I will use a timer to measure my work periods. After each work session I will have an opportunity to choose the amount of time for leisure. I will use a specific app, It is impossible to extend a break time in it, you can choose the duration only one time after your work session. I will have to pay for this leisure time with my Habitica coins according to my rates. I will also have a right to spend as much time as I want (for free) on stretching and other activities without electronic devices.
 
 I know, that those rules are way too easy to follow, but I think that it would be better to follow easy rules than breaking the hard ones.
 ==January 19th, 2024==

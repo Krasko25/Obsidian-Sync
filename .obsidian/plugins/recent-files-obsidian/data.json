@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "diary",
+      "path": "Archive/diary.md"
+    },
+    {
+      "basename": "Tdiary",
+      "path": "Archive/Tdiary.md"
+    },
+    {
+      "basename": "2024-02-08",
+      "path": "Daily notes/2024/February/2024-02-08.md"
+    },
+    {
+      "basename": "D_Crime and Punishment",
+      "path": "Archive/D_Crime and Punishment.md"
+    },
+    {
       "basename": "Бесы. Федор Михаилович Достоевский",
       "path": "Archive/Бесы. Федор Михаилович Достоевский.md"
     },
     {
       "basename": "D_A Sign Of Affection",
       "path": "Archive/D_A Sign Of Affection.md"
-    },
-    {
-      "basename": "Tdiary",
-      "path": "Archive/Tdiary.md"
     },
     {
       "basename": "D_Blue Lock",
@@ -77,10 +89,6 @@
       "path": "Daily notes/2024/February/2024-02-01.md"
     },
     {
-      "basename": "diary",
-      "path": "Archive/diary.md"
-    },
-    {
       "basename": "People relationships MOC",
       "path": "Archive/People relationships MOC.md"
     },
@@ -111,10 +119,6 @@
     {
       "basename": "2024-01-29",
       "path": "Daily notes/2024/January/2024-01-29.md"
-    },
-    {
-      "basename": "D_Crime and Punishment",
-      "path": "Archive/D_Crime and Punishment.md"
     },
     {
       "basename": "Forbidden words",
@@ -195,10 +199,6 @@
     {
       "basename": "2024-01-20",
       "path": "Daily notes/2024/January/2024-01-20.md"
-    },
-    {
-      "basename": "2024-01-19",
-      "path": "Daily notes/2024/January/2024-01-19.md"
     }
   ],
   "omittedPaths": [],

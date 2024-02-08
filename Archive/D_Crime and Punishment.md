@@ -1,6 +1,10 @@
+
+
 #cards/dictionary 
 
 He was wearing a {{house jacket}} (пальто для дома) <!--SR:!2024-03-02,30,269-->
+
+Your right hand pocket>>_
 
 He {{outrun}} (перегнал) this old man <!--SR:!2024-02-10,7,255--> 
 

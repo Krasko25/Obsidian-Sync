@@ -36,7 +36,7 @@ You're still wet behind the ears>>_ <!--SR:!2024-03-07,49,296-->
 
 He helps performers {{hone}} (**to** **direct** **something such as an** **ability** **to make it more** **effective)** their skills as dancers and singers. <!--SR:!2024-02-09,11,302-->
 
-I thought you might have matured a little. Don't you realise how {{precious}} (драгоценна) the life is <!--SR:!2024-02-07,17,313-->
+I thought you might have matured a little. Don't you realise how {{precious}} (драгоценна) the life is <!--SR:!2024-04-22,74,333-->
 
 He had Yashioka Denshichiro in a {{deadlock}} (тупик, безвыходная ситуация) <!--SR:!2024-02-24,30,290-->
 
@@ -50,7 +50,7 @@ the villagers grow weary of you and your incompetence
 
 Last year the company **seemed/looked** {{invincible}} (impossible to defeat or prevent from doing what is intended) but in recent weeks has begun to have problems. <!--SR:!2024-02-14,25,290-->
 
-hoe>>тяпка, мотыга <!--SR:!2024-02-04,12,297-->
+hoe>>тяпка, мотыга <!--SR:!2024-03-14,35,297-->
 
 I was to lazy to milk this idea for 10 minutes>>_ <!--SR:!2024-02-17,30,282-->
 
@@ -71,7 +71,7 @@ Your thoughts are quite {{profound}} (**felt or experienced very strongly or in 
 
 I won't forgive you. {{Talking ill}} (плохо отзваться) about my teacher <!--SR:!2024-02-16,29,283-->
 
-You're determined to {{advance}} (**to go or move something forward, or to develop or improve something)... **so you want this sword of yours back. <!--SR:!2024-02-08,14,299-->
+You're determined to {{advance}} (**to go or move something forward, or to develop or improve something)... **so you want this sword of yours back. <!--SR:!2024-03-19,40,299-->
 
 I'll not forgive you if you're weak. You have defeated Sadakore. I pray you're the strongest man I have yet to {{encounter}} (**a meeting, especially one that happens by chance (натолкнуться).** <!--SR:!2024-03-30,66,323-->
 

@@ -9,7 +9,7 @@ Bojack {{overhear}} (подслушал) something about Flip and PC <!--SR:!202
 
 Sundays are the one day that are just for me and my {{craft}} (ремесло, the labor part of the art) <!--SR:!2024-05-12,99,295-->
 
-The man has come to call. He'd like to take you for a Sunday {{stroll}} (**o walk in a slow relaxed way, especially for pleasure)** <!--SR:!2024-02-07,17,318--> 
+The man has come to call. He'd like to take you for a Sunday {{stroll}} (**o walk in a slow relaxed way, especially for pleasure)** <!--SR:!2024-04-02,54,318--> 
 
 Was named after my mom>>_ <!--SR:!2024-03-14,48,311-->
 
@@ -19,13 +19,13 @@ Everything I {{pitch}} (**to throw something, esp. forcefully, promote)** he sho
 
 Don't chew too loud, and collect your {{paycheck.}} (**a check used to pay an employee the amount of money the employee has earned).** <!--SR:!2024-02-20,43,290--> 
 
-First of all, I don't hate {{Jews}} (иудей, еврей), If I did, would I be able to sit in the same room as my good friend, a {{Jew}}? <!--SR:!2024-03-29,65,320!2024-02-04,4,307-->
+First of all, I don't hate {{Jews}} (иудей, еврей), If I did, would I be able to sit in the same room as my good friend, a {{Jew}}? <!--SR:!2024-03-29,65,320!2024-02-27,19,327-->
 
 Hey, Gina, I'm sorry. I was just {{teasing}} (**to laugh at someone or say unkind things about them, either because you are jokingor because you want to upset that person)**. Gina, come out of the bathroom
 
-It's weird. Like we could totally {{make out}} right now. - What? - No, I'm not saying we should. NO. Pffff... <!--SR:!2024-02-07,11,304-->
+It's weird. Like we could totally {{make out}} right now. - What? - No, I'm not saying we should. NO. Pffff... <!--SR:!2024-03-26,47,324-->
 
-You'll have to say, "I'm sad-sad girl with a dirty apartment", - but I'll let you {{crash}} (переночевать). <!--SR:!2024-02-07,28,275-->
+You'll have to say, "I'm sad-sad girl with a dirty apartment", - but I'll let you {{crash}} (переночевать). <!--SR:!2024-05-24,106,295-->
 
  <!--SR:!2024-02-08,13,304!2024-03-11,45,313-->
 

@@ -8,7 +8,7 @@ but lately, the value of non-sorcerers had been {{wavering}} (being in doubt; un
 
 I will be able to use those technics {{perpetually}} (**continuing** **forever, or** **happening** **all the** **time)** <!--SR:!2024-02-04,4,279--> 
 
-It {{interferes}} (**to involve yourself in a situation when your involvement is not wanted or is not helpful) **on atomic level, controlling space-time <!--SR:!2024-02-06,4,281-->
+ <!--SR:!2024-02-23,15,301-->
 
 I have to {{wear him down}} (exhaust or get tired through overuse or great strain or stress) using some idiots first
 

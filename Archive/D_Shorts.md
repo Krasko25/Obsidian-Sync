@@ -30,7 +30,7 @@ bf>>boyfriend <!--SR:!2024-04-06,71,327-->
 
 gf>>girlfriend <!--SR:!2024-02-26,39,304-->
 
-btw>>by the way <!--SR:!2024-02-04,4,316-->
+btw>>by the way <!--SR:!2024-02-27,19,336-->
 
 your>>you are
 
@@ -50,7 +50,7 @@ IMO>>in my opinion <!--SR:!2024-02-12,17,326-->
 
 tbh>>to be honest <!--SR:!2024-02-16,16,331-->
 
-TY>>thank you <!--SR:!2024-02-04,4,316-->
+TY>>thank you <!--SR:!2024-02-24,16,336-->
 
 YW>>you're welcome <!--SR:!2024-05-23,110,294-->
 

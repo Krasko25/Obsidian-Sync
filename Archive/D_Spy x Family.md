@@ -8,7 +8,7 @@ But the shadier the establishment, the more likely those children have complicat
 
 But the shadier the {{establishment}} ^^(a business or other organization, or the place where an organization operates)^^, the more likely those children have complicated pasts, so it'll be easier to alter** **their stories. <!--SR:!2024-03-04,47,297-->
 
-Your mission is to get close to him. In order to achieve this you will get married and have a child. The deadline is {{drawing near}} ^^(coming)^^, meaning you have one week to pull this off. Are you expect me to produce a child within SEVEN DAYS!?! <!--SR:!2024-02-07,26,284-->
+Your mission is to get close to him. In order to achieve this you will get married and have a child. The deadline is {{drawing near}} ^^(coming)^^, meaning you have one week to pull this off. Are you expect me to produce a child within SEVEN DAYS!?! <!--SR:!2024-04-21,73,284-->
 
 I would've preferred to handle it all on my own but I can't {{disguise}} (to give a new appearance to a person or thing, especially in order to hide its true form) myself as a child. 
 
@@ -26,7 +26,7 @@ You've been staring at me ever since I walked in. May I help you? - *imposibble.
 
 You have {{favorable}} (благоприятное) impression of my appearance?; May I ask you a {{favor}} ? ; it counts in {{favor}} (в ползу, во благо) of... <!--SR:!2024-05-05,92,297!2000-01-01,1,250!2024-02-21,19,268-->
 
-I've completed countless missions, yet once again I find myself {{losing heart}} (to stop believing that you can succeed) <!--SR:!2024-02-08,13,288--> 
+I've completed countless missions, yet once again I find myself {{losing heart}} (to stop believing that you can succeed) <!--SR:!2024-03-14,35,288--> 
 
 You've been {{staring}} (to look for a long time with the eyes wide open, especially when surprised, frightened, or thinking)** **at me ever since I walked in. May I help you? - *imposibble. She could even sense my gaze? * <!--SR:!2024-02-21,43,290-->
 

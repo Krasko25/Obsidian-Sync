@@ -8,7 +8,7 @@ Parfiriy finds reversed psychology to be a <u>double sided</u> sword>>_
 
 I wanted to know if I'm a {{beetle}} (a bug) or a human
 
-From a {{distance}} (издалека) he looked like a woman <!--SR:!2024-02-06,3,257-->
+From a {{distance}} (издалека) he looked like a woman <!--SR:!2024-02-21,13,277-->
 
 They spit in my {{mug}} (my face) quite openly <!--SR:!2024-03-02,29,289-->
 
@@ -20,7 +20,7 @@ Landlady>>the owner of land <!--SR:!2024-02-23,36,270-->
 
 Comfort somebody>>успокаивать кого-нибудь <!--SR:!2024-02-12,12,274-->
 
-Мармеладов is a retired {{official}} (чиновник) <!--SR:!2024-02-07,14,250-->
+Мармеладов is a retired {{official}} (чиновник) <!--SR:!2024-03-16,37,250-->
 
 As if it were a matter of his own father>>_ <!--SR:!2024-02-04,3,255-->
 

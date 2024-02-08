@@ -34,7 +34,7 @@ mop the floor>>мыть полы <!--SR:!2024-03-02,33,297-->
 
 She hired a lawyer who {{specializes}} (**to** **stud y** **or** **work** **on a** **particular** **subject** **or** **skill** **more than any** **others, so that you** **become** **an** **expert** **in it) ** in divorce cases. <!--SR:!2024-02-24,22,291-->
 
-sign up>>регистрироваться <!--SR:!2024-02-08,14,309-->
+sign up>>регистрироваться <!--SR:!2024-04-10,62,329-->
 
 go through something
 !
@@ -84,7 +84,7 @@ Second class-citizen person>>_ <!--SR:!2024-02-10,17,326-->
 
 give it a shot>>_ <!--SR:!2024-02-17,36,294-->
 
-As is stated above>>_ <!--SR:!2024-02-06,11,312-->
+As is stated above>>_ <!--SR:!2024-03-25,46,332-->
 
 man in plural form>>men
 
@@ -103,7 +103,7 @@ thou - ты (зау)
 thee - тебя (зи)
 thy - твой (зай)
 
-Thou>>ты (древнее) (Зау) <!--SR:!2024-02-05,7,295-->
+Thou>>ты (древнее) (Зау) <!--SR:!2024-02-29,21,295-->
 
 Thee>>тебя (древнее) <!--SR:!2024-02-19,21,281-->
 
@@ -121,7 +121,7 @@ The man was {{well over}} (сильно больше) eighty
 
 the distinctive speech of {{folks}} (**people, especially those of a particular group or type)** from the South <!--SR:!2024-02-22,20,337-->
 
-Mother, father, sister, brother hand in hand with one another>>_ <!--SR:!2024-02-05,3,302-->
+Mother, father, sister, brother hand in hand with one another>>_ <!--SR:!2024-02-16,8,302-->
 
 {{foreword}} (предисловие) to the book
 
@@ -129,7 +129,7 @@ but it involves an extremely {{blue}} (пошлая, грубая) __ joke__ . <
 
 I've been feeling kind of {{blue}} (perfect blue). <!--SR:!2024-03-07,33,312-->
 
-The {{womb}} (утроба матери) represents the very first place in which life takes form. <!--SR:!2024-02-08,19,264-->
+The {{womb}} (утроба матери) represents the very first place in which life takes form. <!--SR:!2024-04-01,53,264-->
 
 We were playing {{board games}} (table games) on that tree a lot.
 
@@ -141,9 +141,9 @@ Pen - ручка; {{pan}} - кастрюля <!--SR:!2024-02-05,11,309-->
 
 You doomed to die in Donbass without {{lighter}}  (зажигалка).
 
-This book is about to tell some {{tips}} (лайфхак) <!--SR:!2024-02-04,4,320-->
+This book is about to tell some {{tips}} (лайфхак) <!--SR:!2024-02-26,18,340-->
 
-"Draw" is {{beautiful/nice}} word (красивое слово). <!--SR:!2024-02-08,10,315-->
+"Draw" is a {{beautiful/nice}} word (красивое слово). <!--SR:!2024-03-10,31,315-->
 
 I'll be doing {{bandage}} (a long, narrow piece of cloth that is tied around an injuryor a part of someone's body that has been hurt) for my leg.
 
@@ -170,11 +170,11 @@ adverb (adv.)↔наречие
 
 articles↔артикли
 
-No Tom was there>>_ <!--SR:!2024-02-05,15,317-->
+No Tom was there>>_ <!--SR:!2024-04-15,67,337-->
 
-{{adolescence}} (the time period between the beginning of puberty and adulthood) is a dangerous period <!--SR:!2024-02-06,3,303-->
+{{adolescence}} (the time period between the beginning of puberty and adulthood) is a dangerous period <!--SR:!2024-02-21,13,323-->
 
-{{confused identity}} (нечеткая самоидентификация) is a common teenager problem <!--SR:!2024-02-05,24,270-->
+{{confused identity}} (нечеткая самоидентификация) is a common teenager problem <!--SR:!2024-05-07,89,290-->
 
 You never know how {{puberty}} (Developmental stage at which a person becomes capable of reproduction.) will change you. <!--SR:!2024-02-14,19,331-->
 
@@ -186,7 +186,7 @@ sequence of tenses>>согласование времен
 
 {{self-doubt}} (Сомнения в себе) is a serious illness <!--SR:!2024-03-16,42,329-->
 
-Go to work once you {{recover}} (get better) <!--SR:!2024-02-07,4,323-->
+Go to work once you {{recover}} (get better) <!--SR:!2024-02-20,12,323-->
 
 Hanter is good at {{endear}} (make kind) people
 
@@ -218,7 +218,7 @@ Stop water my flowers with your {{snot}} (сопли)
 
 
 
-Thanks for {{upbrinпing}} (воспитание) me <!--SR:!2024-02-04,23,274-->
+Thanks for {{upbrinпing}} (воспитание) me <!--SR:!2024-05-05,87,294-->
 
 The {{fruitless}} (not producing the desired results, unsuccessful) tree should be burned down <!--SR:!2024-02-05,13,304-->
 
@@ -275,11 +275,11 @@ He got his tooth out {{on a dare}} (на спор) <!--SR:!2024-02-19,17,337-->
 
 He was {{listing}} (A sentence with multiple phrases that create a list) his rewords for today and yesterday and the day before yesterday <!--SR:!2024-02-25,35,304-->
 
-I am {{assure}} (make sure) you, you will got terrifying death, once I got home <!--SR:!2024-02-05,24,274-->
+I am {{assure}} (make sure) you, you will got terrifying death, once I got home <!--SR:!2024-05-09,91,294-->
 
 I am capable to {{talk up}} (to make something sound very attractive) this product
 
-I am sick of {{military action}} (военные действия) <!--SR:!2024-02-07,14,306-->
+I am sick of {{military action}} (военные действия) <!--SR:!2024-04-05,57,326-->
 
 I dream Nikita to get the second English wind.>>second wind <!--SR:!2024-03-20,48,317-->
 
@@ -296,7 +296,7 @@ Laila's {{impunity}} (freedom from punishment) helps to avoid problems
 LD carried out her {{threat}} (a suggestion that something unpleasant or violent will happen) in a form of
 her neighbours. <!--SR:!2024-02-22,22,286-->
 
-Leila had an amazing {{artistic process}} (creative process) yesterday <!--SR:!2024-02-04,3,301-->
+Leila had an amazing {{artistic process}} (creative process) yesterday <!--SR:!2024-02-16,8,301-->
 
 Leila want us to {{worship}} (adoration and honor given to God) her. <!--SR:!2024-02-20,17,339-->
 
@@ -306,7 +306,7 @@ Mom likes to cook something out of {{flour}} (мука, порошок) <!--SR:!
 
 My phone is THE BEGGEST {{distraction}} (something that draws attention away) for me <!--SR:!2024-03-27,53,317-->
 
-My teacher hates when I put an {{exclamation mark}} (восклицательный знак) at the end of each sentence. <!--SR:!2024-02-08,14,309-->
+My teacher hates when I put an {{exclamation mark}} (восклицательный знак) at the end of each sentence. <!--SR:!2024-03-21,42,309-->
 
 noun (n)↔существительное
 
@@ -326,7 +326,7 @@ The {{invasion}} (a situation when a large number of people came to a place in a
 
 The {{immortal}} (living forever) ones want the global warming <!--SR:!2024-04-16,77,324-->
 
-The ghost of that ink {{spot}} (a small, usually round area of colour that has different colour than the surface around it) still is the part of that carpet. <!--SR:!2024-02-08,27,274-->
+The ghost of that ink {{spot}} (a small, usually round area of colour that has different colour than the surface around it) still is the part of that carpet. <!--SR:!2024-04-24,76,274-->
 
 there is a {{pure}} (not mixed with anything else) evil in this book... <!--SR:!2024-03-24,52,315-->
 
@@ -346,7 +346,7 @@ What is the price of your {{blind eye}} (ignore the violation) <!--SR:!2024-02-1
 
 Yesterday we have  _??? (to move soldiers or equipment to a place where they can be used when they are needed)_  on the moon.
 
-Yesterday we had {{deploy}} (to move soldiers or equipment to a place where they can be used when they are needed) on the moon. <!--SR:!2024-02-04,3,301-->
+Yesterday we had {{deploied}} (to move soldiers or equipment to a place where they can be used when they are needed) on the moon. <!--SR:!2024-02-18,10,301-->
 
 You mustn't {{reveal}} (to make known or show something that is surprising or that was previously secret) government secrets. <!--SR:!2024-02-11,19,324-->
 
@@ -387,13 +387,13 @@ His business is {{poultry}} (домашняя птица, живность) farm
 Foxes are considered {{vermin}} (паразиты, вредители). <!--SR:!2024-03-09,37,297-->
 
 This idea I {{extract}} (**to remove or take out something) **out of books...
-автор Person>>Альфред Ленглэ <!--SR:!2024-02-07,11,312-->
+автор Person>>Альфред Ленглэ <!--SR:!2024-03-28,49,332-->
 
 The {{primary}} (**more important than anything else; main)** {{bond}} (**a close connection joining two or more people (узы)) are** going to break someday.
 
 We {{considered}} (decided) her to be our friend
 
-Game with {{finite}} (something that can end) resources <!--SR:!2024-02-04,3,301-->
+Game with {{finite}} (something that can end) resources <!--SR:!2024-02-16,8,301-->
 
 to make separating from the {{tribe}} (племя) and nature unreal
 
@@ -401,7 +401,7 @@ Is this Pope claiming a {{ __divine status__ }} __ (божественный с�
 
 The new law provides for {{equality}} (**the right of different groups of people to have a similar social position and receive the same treatment)** of human rights.
 
-Many people in this area are {{descendants}} (**a person who is related to you and who lives after you, such as your child or grandchild (потомок))** of German immigrants. <!--SR:!2024-02-07,8,296-->
+Many people in this area are {{descendants}} (**a person who is related to you and who lives after you, such as your child or grandchild (потомок))** of German immigrants. <!--SR:!2024-03-02,23,296-->
 
 She has a right to the {{property}} (собственность). <!--SR:!2024-02-15,34,270-->
 
@@ -427,7 +427,7 @@ Cold weather {{retards}} (**to make something slower)** the growth of many plant
 
 Identificate↔отождествлять
 
-The governor tried to {{suppress}} (**to prevent something from being seen or expressed or from operating)** the news. <!--SR:!2024-02-07,4,323-->
+The governor tried to {{suppress}} (**to prevent something from being seen or expressed or from operating)** the news. <!--SR:!2024-02-20,12,323-->
 
 They had to {{subordinate}} (**having a lower or less important position) **their own needs to the needs of the group
 

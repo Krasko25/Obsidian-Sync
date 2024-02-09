@@ -137,5 +137,13 @@ Just as usual, a bit of gratitude:
 - Usually after big events I tend to loose my grip quite a bit, but it was not a case for today;
 - I wrote notes for yesterday and today.
 
+==February 9th, 2024==
+There was nothing special about this day, for the most part, it was fruitless.
 
+I promised to start working on my diploma before the next Habitica call that will happen tomorrow. I hope, that I will manage to do that.
 
+\*sounds of hard brainstorming to came up with a creative name for the gratitude section\*:
+- I had two hours long English lesson today;
+- My English teacher and I took some photos together, it was fun;
+- I did my training and scoliosis exercises today.
+- I will fall asleep on time today.

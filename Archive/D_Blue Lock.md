@@ -1,3 +1,7 @@
+
+
+sacrificing your talent in exchange for living long and {{tedious}} (extremely boring) life 
+
 #cards/dictionary 
 
 Despite collapsing from exhaustion, what he gained from the match was worth {{its weight in gold}} (a lot). <!--SR:!2024-02-12,9,252-->

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archive/Tdiary.md",
+                "file": "Archive/D_Blue Lock.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archive/Tdiary.md",
+                "file": "Archive/D_Blue Lock.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Archive/Tdiary.md",
+                "file": "Archive/D_Blue Lock.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archive/Tdiary.md"
+                "file": "Archive/D_Blue Lock.md"
               }
             }
           },
@@ -184,8 +184,8 @@
   },
   "active": "00ed6838f252d4f9",
   "lastOpenFiles": [
-    "Archive/diary.md",
     "Archive/Tdiary.md",
+    "Archive/diary.md",
     "Daily notes/2024/February/2024-02-08.md",
     "Archive/D_Crime and Punishment.md",
     "Archive/Бесы. Федор Михаилович Достоевский.md",

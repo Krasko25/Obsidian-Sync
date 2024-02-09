@@ -32,11 +32,15 @@
             }
           },
           {
-            "id": "6e08796612a3f746",
+            "id": "f1c186209d4dbe50",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Archive/Бесы. Федор Михаилович Достоевский.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -125,6 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Archive/Бесы. Федор Михаилович Достоевский.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,6 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Archive/Бесы. Федор Михаилович Достоевский.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -151,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Archive/Бесы. Федор Михаилович Достоевский.md"
+              }
             }
           },
           {
@@ -191,10 +199,10 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "6e08796612a3f746",
+  "active": "f1c186209d4dbe50",
   "lastOpenFiles": [
-    "Archive/diary.md",
     "Archive/D_Youtube.md",
+    "Archive/diary.md",
     "Archive/D_Crime and Punishment.md",
     "Daily notes/2024/February/2024-02-09.md",
     "Archive/Бесы. Федор Михаилович Достоевский.md",

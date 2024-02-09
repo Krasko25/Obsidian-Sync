@@ -44,11 +44,11 @@ go through something
 **to use a lot of something**
 > Before I gave up coffee, I was going through five cups a day
 
-{{Before long}} (**soon)** you will regret about it <!--SR:!2024-02-06,3,303-->
+{{Before long}} (**soon)** you will regret about it <!--SR:!2024-02-24,15,323-->
 
 What do you think makes a {{compelling}}  character (interesting)?
 
-{{Compelling}} (**it makes you** **believe** **it or** **accept** **it because it is so** **strong (внушительные, сильные)) **evidence <!--SR:!2024-02-04,6,291-->
+{{Compelling}} (**it makes you** **believe** **it or** **accept** **it because it is so** **strong (внушительные, сильные)) **evidence <!--SR:!2024-02-12,3,271-->
 
 With flying colors>>**very easily**
 
@@ -137,7 +137,7 @@ He can be depend on>>_ <!--SR:!2024-02-18,15,319-->
 
 I believe that {{posters}} (плакаты) on the school walls is trash
 
-Pen - ручка; {{pan}} - кастрюля <!--SR:!2024-02-05,11,309-->
+Pen - ручка; {{pan}} - кастрюля <!--SR:!2024-03-13,33,309-->
 
 You doomed to die in Donbass without {{lighter}}  (зажигалка).
 
@@ -220,7 +220,7 @@ Stop water my flowers with your {{snot}} (сопли)
 
 Thanks for {{upbrinпing}} (воспитание) me <!--SR:!2024-05-05,87,294-->
 
-The {{fruitless}} (not producing the desired results, unsuccessful) tree should be burned down <!--SR:!2024-02-05,13,304-->
+The {{fruitless}} (not producing the desired results, unsuccessful) tree should be burned down <!--SR:!2024-03-19,39,304-->
 
 There is too much {{luxury}} (The state of great comfort and extravagant living)![](local:///Users/connect/remnote/remnote-62c2eac9d4b97a004623c386/files/ZFWUGk_cOXMkVTGDQ0-7vKqQ48p_nfPyb5rPkaC7WMVry3OxX81F6ofArxUhKxIMUH-tZQ0h0-zznlJJMkfEF7MsxXQ653yjxsmBQDTg-4XE6p6PIYSoozthmVWkrDln.jpeg) <!--SR:!2024-02-09,8,297-->
 
@@ -228,7 +228,7 @@ There wouldn't be so hot if you hadn't thrown out the {{blinds}} (шторы)
 
 This {{frame}} (The lines and borders that contain the panels) of berserk is a masterpiece!! <!--SR:!2024-03-01,31,304-->
 
-This is our frendship {{tie}} (a set of stories that explains our relationship to the other members of our network, галстуг). <!--SR:!2024-02-06,3,303-->
+This is our frendship {{tie}} (a set of stories that explains our relationship to the other members of our network, галстуг). <!--SR:!2024-02-19,10,303-->
 
 This snake {{tempted}} (try to get someone to do something; test; invite (искушать)) me, it's its fault. <!--SR:!2024-02-15,25,284-->
 
@@ -243,7 +243,7 @@ You will be my main {{heir}} (a person legally entitled to the property or rank 
 
 run down street>>захудалая улица <!--SR:!2024-02-16,14,319-->
 
-Your {{hard-luck story}} (a story or piece of information that someone tells you or writes about himself or herself, intended to make you feel sympathy for that person) story makes me sad, you should go. <!--SR:!2024-02-07,14,306-->
+Your {{hard-luck story}} (a story or piece of information that someone tells you or writes about himself or herself, intended to make you feel sympathy for that person) story makes me sad, you should go. <!--SR:!2024-03-24,44,306-->
 
 Your {{internal}} (existing**, **intendent** **for**, **or** **happening inside the body**, **organizathion**, **place**, **country**, **etc.) thoughts have always been unclear for me.
 
@@ -253,7 +253,7 @@ Your {{twisted mind}} (извращённый ум) will kill us
 
 Your fate {{would be up to you}} (it will depend on you).
 
-Bett believe them to be {{like-minded}} (having similar tastes or opinions) about their friendship. <!--SR:!2024-02-04,13,304-->
+Bett believe them to be {{like-minded}} (having similar tastes or opinions) about their friendship. <!--SR:!2024-04-05,56,324-->
 
 But your {{lifespan}} (the period during which something is functional (as between birth and death)) will be cut in two
 
@@ -261,7 +261,7 @@ Classroom teacher have to {{scold}} (to find fault with angrily) after every exa
 
 conjunction (conj.)↔союз
 
-Don't {{stretch, exaggerate}} (преувеличивать) this problem <!--SR:!2024-02-06,16,317-->
+Don't {{stretch, exaggerate}} (преувеличивать) this problem <!--SR:!2024-04-15,66,337-->
 
 Don't put this {{dilly-dally}} (финти флюшки) on my workspace
 
@@ -287,7 +287,7 @@ I suppose him to be a great {{scapegoat}} (a person or thing carrying the blame 
 
 I'm an {{amateur}} (taking part in an activity for pleasure, not as a job) in chess compare to Nikita
 
-If the pain {{persist}} (to try to do or continue doing something in a determined but often unreasonable way) in opinion, consult a doctor <!--SR:!2024-02-06,11,311-->
+If the pain {{persist}} (to try to do or continue doing something in a determined but often unreasonable way) in opinion, consult a doctor <!--SR:!2024-03-12,32,311-->
 
 It takes double or even {{triple}} amount of time
 
@@ -302,7 +302,7 @@ Leila want us to {{worship}} (adoration and honor given to God) her. <!--SR:!202
 
 Leila was expected to be  {{charm}} (a pleasing quality that attracts others)
 
-Mom likes to cook something out of {{flour}} (мука, порошок) <!--SR:!2024-02-08,16,324-->
+Mom likes to cook something out of {{flour}} (мука, порошок) <!--SR:!2024-04-23,74,344-->
 
 My phone is THE BEGGEST {{distraction}} (something that draws attention away) for me <!--SR:!2024-03-27,53,317-->
 
@@ -356,7 +356,7 @@ This concept (a principle or idea) is more {{narrow}} (having a small distance f
 
 This concept (a principle or idea) is {{broader}} (very wide) than you think. <!--SR:!2024-02-12,17,331-->
 
-LD find her treasure stuff to be {{upside down}} (having the part that is usually at the top turned to be at the bottom). <!--SR:!2024-02-04,11,309-->
+LD find her treasure stuff to be {{upside down}} (having the part that is usually at the top turned to be at the bottom). <!--SR:!2024-03-16,36,309-->
 
 В каком случае занятия спортом употребляется go?
 ?
@@ -382,7 +382,7 @@ Brain is going to use economic {{mode}} (режим).
 
 Male {{cattle}} (скот) are bulls
 
-His business is {{poultry}} (домашняя птица, живность) farming. <!--SR:!2024-02-05,3,302-->
+His business is {{poultry}} (домашняя птица, живность) farming. <!--SR:!2024-02-20,11,302-->
 
 Foxes are considered {{vermin}} (паразиты, вредители). <!--SR:!2024-03-09,37,297-->
 
@@ -421,7 +421,7 @@ Luther had a new {{perception}} (**a belief or opinion, often held by many peopl
 
 Ten years of {{separation}} (**existing or happening independently or in a different physical space)** have come between them.
 
-His reputation was {{irreversibly}} (not possible to change; impossible to return to a previous condition) damaged by the affair. <!--SR:!2024-02-07,4,323-->
+His reputation was {{irreversibly}} (not possible to change; impossible to return to a previous condition) damaged by the affair. <!--SR:!2024-02-26,17,343-->
 
 Cold weather {{retards}} (**to make something slower)** the growth of many plants. <!--SR:!2024-03-29,56,315-->
 

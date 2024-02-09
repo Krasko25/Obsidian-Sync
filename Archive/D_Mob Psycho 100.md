@@ -2,7 +2,7 @@
 
 It {{hit too close to home for me}} (больная тема), too <!--SR:!2024-02-07,18,265-->
 
-But if you're not {{up to the task}} (good enough for this task), very well <!--SR:!2024-02-09,17,309-->
+But if you're not {{up to the task}} (good enough for this task), very well <!--SR:!2024-04-01,52,309-->
 
 narrator>>рассказчик <!--SR:!2024-02-18,37,294-->
 

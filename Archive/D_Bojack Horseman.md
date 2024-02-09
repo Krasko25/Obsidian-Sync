@@ -1,7 +1,7 @@
 #cards/dictionary 
 Well, it's one thing for a woman to {{weep}} (to cry with tears), but when they do in a such a volume, you can hear it through the door, then you know they are doing it just for attention.
 
-red flags>>плохие предпосылки <!--SR:!2024-02-04,16,316-->
+red flags>>плохие предпосылки <!--SR:!2024-04-20,71,336-->
 
 l found your {{stashes}} (**to store or hide something, especially a large amount)** in the toilet paper rolls. How many of these do you take a day? <!--SR:!2024-02-10,29,275-->
 
@@ -31,7 +31,7 @@ You'll have to say, "I'm sad-sad girl with a dirty apartment", - but I'll let yo
 
 The man is willing to give you a second chance, he is downstairs waiting, and you will be {{civil}} (будешь вежливой) to him. <!--SR:!2024-03-26,53,318-->
 
-'It smells terrible in here,' said Francis. 'Tomorrow, if it's warm, we'll {{air it out}} (wind) <!--SR:!2024-02-06,10,303--> 
+'It smells terrible in here,' said Francis. 'Tomorrow, if it's warm, we'll {{air it out}} (wind) <!--SR:!2024-03-09,29,303--> 
 
 The room has a {{fabulous}} (**very good; excellent)** view across the lake. <!--SR:!2024-02-07,24,260-->
 
@@ -49,7 +49,7 @@ You really {{let me down}} (**to disappoint someone by failing to do what you ag
 
 I feel like we can beat this {{font}} (**a set of letters and symbols in a particular design and size (шрифт))** <!--SR:!2024-03-09,43,312--> 
 
-And did you know there are {{orphans}} (**a child whose parents are dead) **in Sudan. - You take this job, you can buy all the {{orphans}} you want. - No, I don't want to buy them. <!--SR:!2024-02-09,10,286!2000-01-01,1,250--> 
+And did you know there are {{orphans}} (**a child whose parents are dead) **in Sudan. - You take this job, you can buy all the {{orphans}} you want. - No, I don't want to buy them. <!--SR:!2024-03-11,31,286!2000-01-01,1,250--> 
 
 Well, do you think it's true? Do I think L.A. is a tar {{pit}} (**a large hole in the ground, or a slightly low area in any surface:)** 
 

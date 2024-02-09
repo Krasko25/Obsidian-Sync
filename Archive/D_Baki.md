@@ -1,8 +1,8 @@
 #cards/dictionary 
 
-Tokugawa, do you plan on {{breaking the promise}} (нарушить обещание) made to Pickle? <!--SR:!2024-02-09,14,260-->
+Tokugawa, do you plan on {{breaking the promise}} (нарушить обещание) made to Pickle? <!--SR:!2024-03-18,38,260-->
 
-They sat to the most {{remarkable}} (worthy of notice) midnight snack ever served <!--SR:!2024-02-09,19,260-->
+They sat to the most {{remarkable}} (worthy of notice) midnight snack ever served <!--SR:!2024-03-29,49,260-->
 
 the happiness of finally letting {{loose}} (turn loose or free from restraint) <!--SR:!2024-02-15,29,270-->
 

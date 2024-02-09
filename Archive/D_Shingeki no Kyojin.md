@@ -1,6 +1,6 @@
 #cards/dictionary
 
-I lost count just how many times I feel like to kill you. - I {{admire}} (**to respect and approve of someone or their behaviour)** your self-control. <!--SR:!2024-02-06,7,255-->
+I lost count just how many times I felt like to kill you. - I {{admire}} (**to respect and approve of someone or their behaviour)** your self-control. <!--SR:!2024-02-27,18,255-->
 
 Levi reports to you now, so {{work him to the bone}} (make him work hard), okey? <!--SR:!2024-02-16,18,252-->
 

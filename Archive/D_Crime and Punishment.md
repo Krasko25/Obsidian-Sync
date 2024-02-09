@@ -1,4 +1,6 @@
+"What vileness!" Petr Petrovich even seemed to {{give a start}} (вздрогнул, shattered). 
 
+Could it be simply because you wanted to {{conceal}} (prevent from being seen or discoveredz) it from me, knowing that I hold opposite convictions and negate private philanthropy, which cures nothing radically? 
 
 #cards/dictionary 
 
@@ -16,7 +18,7 @@ From a {{distance}} (издалека) he looked like a woman <!--SR:!2024-02-21
 
 They spit in my {{mug}} (my face) quite openly <!--SR:!2024-03-02,29,289-->
 
-Both of them were happy to {{part}} (split) <!--SR:!2024-02-04,10,289-->
+Both of them were happy to {{part}} (split) <!--SR:!2024-03-08,28,289-->
 
 Each person is a vile, we get used to everything
 
@@ -26,7 +28,7 @@ Comfort somebody>>успокаивать кого-нибудь <!--SR:!2024-02-1
 
 Мармеладов is a retired {{official}} (чиновник) <!--SR:!2024-03-16,37,250-->
 
-As if it were a matter of his own father>>_ <!--SR:!2024-02-04,3,255-->
+As if it were a matter of his own father>>_ <!--SR:!2024-02-16,7,255-->
 
 Дубровский made a {{proposal}} (confession) for Маша <!--SR:!2024-02-12,26,270-->
 

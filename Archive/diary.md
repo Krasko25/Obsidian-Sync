@@ -2129,11 +2129,11 @@ Tomorrow I will use a timer to measure my work periods. After each work session 
 
 I know, that those rules are way too easy to follow, but I think that it would be better to follow easy rules than breaking the hard ones.
 ==January 19th, 2024==
-Today I woke up quite late. I did my morning routine, cooked one dish to take some problems out of my mother's plate and had a training. After that I was expecting my friends to visit me. They did, but, unexpectedly, my sister, her husband and my nephew came at the came time as my friends did. Spending time with my family and friends took quite a lot of time, so I was able to only do the Habitica call, English lesson and write this note. I aim for a long term development, so I will prioritise my sleep.
+Today I woke up quite late. I did my morning routine, cooked one dish to take some problems out of my mother's plate and had a training. After that I was expecting my friends to visit me. They did, but, unexpectedly, my sister, her husband and my nephew came at the same time as my friends did. Spending time with my family and friends took quite a lot of time, so I was able to only do the Habitica call, English lesson and write this note. I aim for a long term development, so I will prioritise my sleep.
 
 By the way, my nephew is going to spend a night at our place.
 
-During the Habitica call I choose the same goals as I had during the previous week. I did that because I just didn't feel like I have achieved them. Though I think that It would be better to choose something, the progress in which is easier to measure.
+During the Habitica call I choose the same goals I had during the previous week. I did that because I just didn't feel like I have achieved them. Though I think that It would be better to choose something, the progress in which is easier to measure.
 
 During the upcoming week I want to:
 1) Have at least 5 days, when I fall asleep and wake up on time.
@@ -2143,22 +2143,22 @@ During the upcoming week I want to:
 A pinch of gratitude:
 - It is good that I put my sleep above other things.
 - Technically speaking, I did not break any of the rules, that I have created for myself yesterday.
-- I'm glad that I got to spend some time with my family and friend.
+- I'm glad that I got to spend some time with my family and friends.
 - My trainings are consistent.
 - The Habitica call was interesting, I am happy, that I'm a part of this party.
 
 ==January 20th, 2024==
 Today I spend quite a lot of time helping my parents and playing with my nephew. Today my father wanted to setup the electricity generator, that we brought home on January 17th. I was helping him. He believed that it would take almost no time. Just as expected, It took more hours than we expected it to take. Even after all this time, it did not start to work.
 
-All those activities took quite a lot of time, but I managed to do an ok amount of work. I finally did some progress with my math preparation, was reading a book (not the one for exam), had a training, an English lesson, a bit of homework and felt asleep in time. I did a bit of everything, but I still consider it to be a progress.
+All those activities took quite a lot of time, but I managed to do an ok amount of work. I finally did some progress with my math preparation, was reading a book (not the one for the exam), had a training, an English lesson, a bit of homework and felt asleep in time. I did a bit of everything, but I still consider it to be a progress.
 
-I also spend some time training with my nephew. He is 10. Each time he spends some time at my place I'm doing that and each time he looses all the progress and form and we start from the scratch. I know that he is 10, but it is still frustrating. I hope that I'm not being too strict with him.
+I also spend some time training with my nephew. He is 10. Each time he spends some time at my place I'm doing that and each time we met again it appears, that he lost all the progress and training form and we start from the scratch. I know that he is 10, but it is still frustrating. I hope that I'm not being too strict with him.
 
 Gratitude moment:
-1) I'm grateful for myself for helping my parents;
+1) I'm grateful to myself for helping my parents;
 2) for being patient;
 3) for taking care of my nephew;
-4) for respecting the rules, that I set for myself beforehand;
+4) for respecting the rules, that I set for myself earlier;
 5) for going to bed early.
 
 ==January 21st, 2024==

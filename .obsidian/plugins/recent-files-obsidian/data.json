@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "diary",
+      "path": "Archive/diary.md"
+    },
+    {
+      "basename": "D_Youtube",
+      "path": "Archive/D_Youtube.md"
+    },
+    {
+      "basename": "D_Crime and Punishment",
+      "path": "Archive/D_Crime and Punishment.md"
+    },
+    {
       "basename": "2024-02-09",
       "path": "Daily notes/2024/February/2024-02-09.md"
     },
     {
-      "basename": "diary",
-      "path": "Archive/diary.md"
+      "basename": "Бесы. Федор Михаилович Достоевский",
+      "path": "Archive/Бесы. Федор Михаилович Достоевский.md"
     },
     {
       "basename": "Tdiary",
@@ -19,14 +31,6 @@
     {
       "basename": "2024-02-08",
       "path": "Daily notes/2024/February/2024-02-08.md"
-    },
-    {
-      "basename": "D_Crime and Punishment",
-      "path": "Archive/D_Crime and Punishment.md"
-    },
-    {
-      "basename": "Бесы. Федор Михаилович Достоевский",
-      "path": "Archive/Бесы. Федор Михаилович Достоевский.md"
     },
     {
       "basename": "D_A Sign Of Affection",
@@ -155,10 +159,6 @@
     {
       "basename": "Вы не получите удовольствия от досуга, если вы его не заслужили",
       "path": "Archive/Вы не получите удовольствия от досуга, если вы его не заслужили.md"
-    },
-    {
-      "basename": "D_Youtube",
-      "path": "Archive/D_Youtube.md"
     },
     {
       "basename": "2024-01-25",

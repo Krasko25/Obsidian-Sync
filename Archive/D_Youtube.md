@@ -1,3 +1,5 @@
+I did my morning routine, cooked one dish to take some problems out of my mother's plate and had a training>>_
+
 #cards/dictionary 
 
 The show raised a lot of deep topics, but at no point did I feel like it was {{insulting my intelligence}} (spoonfeeding) <!--SR:!2024-02-12,10,274--> 

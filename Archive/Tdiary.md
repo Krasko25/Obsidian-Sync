@@ -2,6 +2,9 @@
 [[diary]]
 
 ### February 2024
+
+^7ee2cf
+
 ==February 1st, 2024==
 
 I can not call this day to be successful, but there were a few good moments. For example, I finally write one of the essays that I was owning to my English teacher. I promised to write another one tomorrow. 
@@ -114,7 +117,7 @@ Of course, just as always, I was true to my traditions, so I was leaving home at
 
 I left home at 8:08 am and got home at about 4:15 pm. The exam lasted for 235 minutes and it took a lot of energy. The bus was beyond overfilled on both ways, there was no place to even stand properly. I also was in a suit, which was limiting the range of my movements. On top of that I missed a bus on my way back, so I had to wait for an hour for another bus. 
 
-I also got one funny story. I asked one old woman to show me a toilet. She said that I needed to go to the first floor (first layer of building has number 0,  second layer has number 1. It does looks awfully similar to the situation in programming for some reason). Suddenly, she stopped me... "hold on... are you... are you a... boy? Ohhh, yeah... sorry-sorry, then your toilet is here, on the ground floor". People mistake me to be a girl sometimes, because of my hair, so it was not a big deal. I paid a visit to the toilet and met her again on the way back. She felt sorry about her misjudgment, so she said: "Oh... I'm so sorry for what I said earlier. Please, don't be angry with me, you just had... such a... girly face" \*smile of a stone face\*. 
+I also got one funny story. I asked one old woman to show me a toilet. She said that I needed to go to the first floor (first layer of building has number 0,  second layer has number 1. It does look awfully similar to the situation in programming for some reason). Suddenly, she stopped me... "hold on... are you... are you a... boy? Ohhh, yeah... sorry-sorry, then your toilet is here, on the ground floor". People mistake me to be a girl sometimes, because of my hair, so it was not a big deal. I paid a visit to the toilet and met her again on the way back. She felt sorry about her misjudgment, so she said: "Oh... I'm so sorry for what I said earlier. Please, don't be angry with me, you just had... such a... girly face" \*smile of a stone face\*. 
 
 I had to do a lot of work when I got home, because I had to skip my classes, but I had no energy. I decided to sleep a bit and it helped me a lot.
 

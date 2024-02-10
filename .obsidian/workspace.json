@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archive/Математика MOC.md",
+                "file": "Archive/Большая шестёрка. Мостик.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archive/Математика MOC.md",
+                "file": "Archive/Большая шестёрка. Мостик.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Archive/Математика MOC.md",
+                "file": "Archive/Большая шестёрка. Мостик.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archive/Математика MOC.md"
+                "file": "Archive/Большая шестёрка. Мостик.md"
               }
             }
           },
@@ -201,8 +201,8 @@
   },
   "active": "f1c186209d4dbe50",
   "lastOpenFiles": [
-    "Archive/Tdiary.md",
     "Archive/Математика MOC.md",
+    "Archive/Tdiary.md",
     "Archive/Бесы. Федор Михаилович Достоевский.md",
     "Archive/D_Youtube.md",
     "Archive/diary.md",

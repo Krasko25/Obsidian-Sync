@@ -147,3 +147,14 @@ I promised to start working on my diploma before the next Habitica call that wil
 - My English teacher and I took some photos together, it was fun;
 - I did my training and scoliosis exercises today.
 - I will fall asleep on time today.
+
+==February 10th, 2024==
+Today I woke up quite late, however, I did manage to do a few useful things. Our Habitica party also had a call today. It was a good day.
+
+It figures, that it is easier to be grateful to yourself when you really do something, I should try to do this more often:
+- I chose the topic for my Diploma project and had a conversation with my classroom teacher about that;
+- I send the photos from yesterday to my English teacher;
+- I did some help to my mom today (it will be long to describe the details);
+- I did some homework today;
+- Reading was a part of my day too;
+- Preparation for the math exam was there as well.

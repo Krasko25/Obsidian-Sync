@@ -156,3 +156,15 @@ It figures, that it is easier to be grateful to yourself when you really do some
 - I did some homework today;
 - Reading was a part of my day too;
 - Preparation for the math exam was there as well.
+
+==February 11th, 2024== 
+Is it a gratitude in the very beginning of the note!? Yeah, it is (sorry, I'm running out of ideas for names):
+- Yesterday I went to bed on time. I also woke up quite early. It gave a good start to my day;
+- I spend 30 minutes training for to my math exam;
+- I was reading a book today;
+- I did some homework today;
+- I did some job for my future English lessons;
+- I will fall asleep on time today too;
+- I gave calls to my grannies and my father;
+
+I had a low point in the middle of the day. I started watching shorts and spend quite a lot of time doing it. I also was not able to start working again because of the stress, caused by self-blaming. I'm saying it for the Nth time, but I need to be more conscious. Maybe I should make some rule for that, for example, I would need to take 3 breaths before opening any app or web site (or, maybe, before consuming any entertainment content). I can do that as my version of DRWN challenge, that Robert have offered earlier. 

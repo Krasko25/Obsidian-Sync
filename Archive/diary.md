@@ -1,6 +1,9 @@
 
 # 2020
 ### September 
+
+^512b14
+
 ==September 1st, 2020==
 I got up at 5:30 am. ate and dressed. I left the house at 6:15 am. At 6:25 am I had to run because I saw the bus. I arrived at the last bus station at 7:00 am. I had to wait for 121 buses for over 15 minutes because there were so many people. I got off the bus at 7:45 am. We had 4 long lessons. I met some of the students and teachers. Two teachers were normal. The computer science teacher was very serious and had a good sence of humor. We had an English lesson. We wrote letters and sounds on it. This was the last lesson. I got home at 4 pm
 ==September 2nd, 2020==
@@ -58,7 +61,7 @@ Today I have a lot of plans I'm going to go on the my nephew's birthday, have En
 ==September 28th, 2020==
 Today we had English. We had a task: split words to syllables and write them with sound symbols. After a few lessons, we will read words for evaluation. Today I read Harry Potter's pages until 151.
 ==September 29th, 2020==
-Today we had the same task as yesterday. But e had a few new rules. We had 21 words. I made 4 mistakes. I also made a lot of homework in technical school. But he had even more new tasks.
+Today we had the same task as yesterday. But e had a few new rules. We had 21 words. I made 4 mistakes. I also made a lot of homework in technical school. But he had even more new tasks. ^cee6c7
 ### October
 ==October 2nd, 2020==
 I have read Harry Potter's 175 pages. I also listened to several texts from the British Voise section. Today we were released after 3 double lessons.
@@ -227,7 +230,7 @@ True friend is a person who will express everything that he thinks about you in 
 ==December 30th, 2020==
 Science Is organized knowledge, wisdom is organized life.
 ==December 31st, 2020==
-two most important days in your life are the day you were born and the day you realized the purpose (осознали цель).
+two most important days in your life are the day you were born and the day you realized the purpose (осознали цель). ^83a602
 # 2021
 ### January 
 ==January 1st, 2021==

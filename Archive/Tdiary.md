@@ -3,8 +3,6 @@
 
 ### February 2024
 
-^7ee2cf
-
 ==February 1st, 2024==
 
 I can not call this day to be successful, but there were a few good moments. For example, I finally write one of the essays that I was owning to my English teacher. I promised to write another one tomorrow. 

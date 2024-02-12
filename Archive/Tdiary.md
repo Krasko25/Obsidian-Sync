@@ -168,3 +168,7 @@ Is it a gratitude in the very beginning of the note!? Yeah, it is (sorry, I'm ru
 - I gave calls to my grannies and my father;
 
 I had a low point in the middle of the day. I started watching shorts and spend quite a lot of time doing it. I also was not able to start working again because of the stress, caused by self-blaming. I'm saying it for the Nth time, but I need to be more conscious. Maybe I should make some rule for that, for example, I would need to take 3 breaths before opening any app or web site (or, maybe, before consuming any entertainment content). I can do that as my version of DRWN challenge, that Robert have offered earlier. 
+
+==February 12th, 2024==
+On February 2nd in a new set of rules for myself I stated a set of leisure periods for myself. For some reason there was no single day, when I have run out of these sets. I always end the day with a bunch of rest periods that I didn't use. It is a bit frustrating for me when I have to choose between going to sleep on time and using a deserved leisure time. I'm not sure if I should short the number of these sets, because I still think that in theory it is the right amount.
+

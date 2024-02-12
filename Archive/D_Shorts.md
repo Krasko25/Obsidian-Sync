@@ -18,7 +18,7 @@ ttyl>>talk to you later
 
 omg>>oh my God!
 
-rip>>rest in peace <!--SR:!2024-02-07,4,318-->
+rip>>rest in peace <!--SR:!2024-02-28,16,338-->
 
 omfg>>Oh my f... God! <!--SR:!2024-03-10,44,316-->
 
@@ -64,4 +64,4 @@ CU>>see you <!--SR:!2024-02-18,16,332-->
 
 IDC>>I don't care <!--SR:!2024-03-09,40,293-->
 
-sus>>suspicious <!--SR:!2024-02-12,19,324-->
+sus>>suspicious <!--SR:!2024-05-08,86,344-->

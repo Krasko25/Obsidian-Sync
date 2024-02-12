@@ -20,7 +20,7 @@ team up>>_ <!--SR:!2024-03-18,61,316-->
 
 It's no crime to use a bit of his funds>>_ 
 
-I {{vow}} (make a vow; promise) to deliver it to your parents <!--SR:!2024-02-11,36,270-->
+I {{vow}} (make a vow; promise) to deliver it to your parents <!--SR:!2024-05-18,96,270-->
 
 I feel bad for everyone, you, guys, share this. - a tactful {{bribe}} (payment made to a person in a position of trust to corrupt his judgment), eh? <!--SR:!2024-03-03,36,287-->
 
@@ -34,7 +34,7 @@ eventually, I {{vow}} (**to make a** **determined** **decision** **or** **promis
 
 You're still wet behind the ears>>_ <!--SR:!2024-03-07,49,296-->
 
-He helps performers {{hone}} (**to** **direct** **something such as an** **ability** **to make it more** **effective)** their skills as dancers and singers. <!--SR:!2024-02-09,11,302-->
+He helps performers {{hone}} (**to** **direct** **something such as an** **ability** **to make it more** **effective)** their skills as dancers and singers. <!--SR:!2024-03-16,33,302-->
 
 I thought you might have matured a little. Don't you realise how {{precious}} (драгоценна) the life is <!--SR:!2024-04-22,74,333-->
 
@@ -44,7 +44,7 @@ At this {{rate}} (темп), the fire will spread, {{tear down}} (**to** **inten
 
 I want you to {{embrace}} (**to** **accept** **something** **enthusiastically)** the principle of not regretting what you have done, let go of the past, learn from your experiences. <!--SR:!2024-02-15,37,292-->
 
-Her face is peaceful. We will see her off tomorrow>>_ <!--SR:!2024-02-09,17,316-->
+Her face is peaceful. We will see her off tomorrow>>_ <!--SR:!2024-04-25,73,336-->
 
 the villagers grow weary of you and your incompetence 
 
@@ -79,7 +79,7 @@ Was you looking for a way to die the ??? (**moral in an honest, brave, and kind 
 ?
 We entered into a noble forest.
 He was a man of noble character.
-She was descended from an old Italian noble family. <!--SR:!2024-02-04,14,293-->
+She was descended from an old Italian noble family. <!--SR:!2024-03-25,42,293-->
 
 The body learns and {{acquires}} (**to gradually learn or gain something such as a language or skill) **it. That is how I survived. <!--SR:!2024-02-13,21,270-->
 

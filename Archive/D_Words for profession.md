@@ -2,11 +2,11 @@
 
 He was the company's {{go-to}} (**used to** **describe** **the** **best** **person, thing, or** **place** **for a** **particular** **purpose** **or need**) **guy** for new ideas.
 
-commit>>фиксировать, помещать (изменения), поучаствовать/исполнить <!--SR:!2024-02-04,4,284-->
+commit>>фиксировать, помещать (изменения), поучаствовать/исполнить <!--SR:!2024-02-29,17,304-->
 She committed herself to the work of God
 After the second episode, she had to be commited <!--SR:!2024-02-10,15,261-->
 
-It {{enables}} (makes something possible) tracking changes, managing branches, and merging code with ease. <!--SR:!2024-02-08,22,254-->
+It {{enables}} (makes something possible) tracking changes, managing branches, and merging code with ease. <!--SR:!2024-04-29,77,274-->
 
 our groups were {{merged}} (flowing together) <!--SR:!2024-02-13,10,282-->
 

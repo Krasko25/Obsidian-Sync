@@ -1,6 +1,6 @@
 #cards/dictionary 
 
-It {{hit too close to home for me}} (больная тема), too <!--SR:!2024-02-07,18,265-->
+It {{hit too close to home for me}} (больная тема), too <!--SR:!2024-04-02,50,265-->
 
 But if you're not {{up to the task}} (good enough for this task), very well <!--SR:!2024-04-01,52,309-->
 
@@ -13,7 +13,7 @@ she has a nerve to speak like this in her position? - {{splendid}} (**excellent,
 
 her head got turned into the {{bulb}} (**a light bulb)** 
 
-People call them {{psychics}} (медиумы) <!--SR:!2024-02-06,20,261--> 
+People call them {{psychics}} (медиумы) <!--SR:!2024-04-24,72,281--> 
 
 Salt {{splash}} (**to move in water so that drops of it go in all directions)** 
 
@@ -21,11 +21,11 @@ I just got bored on my old job and started this office on a {{whim}} (**a sudden
 
 My {{holy}} blade(**related to a religion or a god)! It's broken.** <!--SR:!2024-02-27,37,285--> 
 
-He's already been brought back to this {{realm}} (сфера деятельности (new discoveries in the realm of medicine, in the {{realm}} of electronic states) <!--SR:!2024-02-08,15,310!2024-02-08,15,310--> 
+He's already been brought back to this {{realm}} (сфера деятельности (new discoveries in the realm of medicine, in the {{realm}} of electronic states) <!--SR:!2024-02-08,15,310!2024-04-15,63,330--> 
 
 Today you are {{on a high horse}} (быть в ударе)![](local:///Users/connect/remnote/remnote-62c2eac9d4b97a004623c386/files/lMsNfuPYeY55V_3ZQQvGiZ5vsU5ZqeN60QYC7MTFt54GT2X38EVDHVtKu4CWT1MrVdXpyJaofRH6FeKfiJOkgTX2kqL_aY0_oaPdSM1oLJrEUF8IFFIo_BWUckrWbjkO.png) 
 
-that is not enough! You won't {{ease}} (**to make or become less severe, difficult, unpleasant, painful, etc (**These pills should {{ease}} the **pain))** our hard feelings <!--SR:!2024-02-28,45,294!2024-02-10,24,279--> 
+that is not enough! You won't {{ease}} (**to make or become less severe, difficult, unpleasant, painful, etc (**These pills should {{ease}} the **pain))** our hard feelings <!--SR:!2024-02-28,45,294!2024-05-14,92,299--> 
 
 First, it will be convenient to draw a variety of thin patterns, the second - to make filling and {{ __thick lines__ }} __ (толстые линии)__ . <!--SR:!2024-02-16,17,270-->
 

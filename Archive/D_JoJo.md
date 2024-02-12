@@ -8,7 +8,7 @@ Buying a house often places a large** financial** burden **on** young couples.
 
 Everyone called me {{rookie}} (**a person with little experience who is just starting to work in a job or to play on a sports team:)**. And when I felt like it, I could race my horse faster that anyone else. 
 
-In this race, the exchange of horses is {{prohibited}} (**to officially refuse to allow something)** and result in disqualification <!--SR:!2024-02-10,8,264-->
+In this race, the exchange of horses is {{prohibited}} (**to officially refuse to allow something)** and result in disqualification <!--SR:!2024-03-03,20,264-->
 
 I'm not going to {{charge }} (**to make a formal statement saying that someone is accused of a crime (обвинять)) **him. I'll forget about it... let him go and give him the gun back <!--SR:!2024-03-24,60,314-->
 
@@ -22,7 +22,7 @@ You can't protect him anymore, "the white man's books", they were hidden in his 
 
 A syndrome where he has the urge to dis{{assemble}} (**to separate something into its different parts) **everything. When he was ten, he dis{{assembled}} his neighbours car. <!--SR:!2024-02-20,30,279!2000-01-01,1,250-->
 
-But I can't reach Jolyne by myself. I need {{backup}} (**(someone or something that provides) support or help, or something that you have arranged in case your main plans, equipment, etc. go wrong)** <!--SR:!2024-02-11,15,263--> 
+But I can't reach Jolyne by myself. I need {{backup}} (**(someone or something that provides) support or help, or something that you have arranged in case your main plans, equipment, etc. go wrong)** <!--SR:!2024-03-21,38,263--> 
 
 {{Hold on}} (wait)! What are you {{plotting}} (замысел, заговор?) <!--SR:!2000-01-01,1,250!2024-02-10,26,274-->
 

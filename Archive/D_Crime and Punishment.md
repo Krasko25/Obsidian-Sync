@@ -8,7 +8,7 @@ He was wearing a {{house jacket}} (пальто для дома) <!--SR:!2024-03
 
 Your right hand pocket>>_
 
-He {{outrun}} (перегнал) this old man <!--SR:!2024-02-10,7,255--> 
+He {{outrun}} (перегнал) this old man <!--SR:!2024-03-07,24,275--> 
 
 Parfiriy finds reversed psychology to be a <u>double sided</u> sword>>_ 
 
@@ -24,7 +24,7 @@ Each person is a vile, we get used to everything
 
 Landlady>>the owner of land <!--SR:!2024-02-23,36,270-->
 
-Comfort somebody>>успокаивать кого-нибудь <!--SR:!2024-02-12,12,274-->
+Comfort somebody>>успокаивать кого-нибудь <!--SR:!2024-03-17,34,274-->
 
 Мармеладов is a retired {{official}} (чиновник) <!--SR:!2024-03-16,37,250-->
 
@@ -36,5 +36,5 @@ Remember your place>>_ <!--SR:!2024-02-29,39,250-->
 
 Neighbours were  happy to see their cat-fight (an intense fight or argument especially between two women)
 
-Dunya said, that Razumikhin will {{carry out}} (be true to his word) his promise <!--SR:!2024-02-12,14,214-->
+Dunya said, that Razumikhin would {{carry out}} (be true to his word) his promise <!--SR:!2024-03-12,29,214-->
 

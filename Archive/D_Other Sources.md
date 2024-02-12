@@ -16,11 +16,11 @@ Vegita! Stop vegiting it! You are making it worse! - Don't you verb me!>>_ <!--S
 
 next-to-last; second last; last, but one>>_ <!--SR:!2024-02-22,26,297-->
 
-What can I do to make up to you?>>помириться <!--SR:!2024-02-05,13,304-->
+What can I do to make up to you?>>помириться <!--SR:!2024-04-05,53,324-->
 
 I'm going to {{speak my mind}} (to tell what you are thinking about) and you are going to listen <!--SR:!2024-02-23,24,284-->
 
-spill>>проболтаться <!--SR:!2024-02-11,18,326-->
+spill>>проболтаться <!--SR:!2024-05-04,82,346-->
 
 staff and stuff>>сотрудники и хлам <!--SR:!2024-02-24,25,281-->
 
@@ -28,7 +28,7 @@ He had been {{grilling}} (**to** **ask** **someone a lot of** **questions** **fo
 
 norm>>критерий, норматив
 
-maid>>горничная <!--SR:!2024-02-04,3,301-->
+maid>>горничная <!--SR:!2024-02-24,12,321-->
 
 mop the floor>>мыть полы <!--SR:!2024-03-02,33,297-->
 
@@ -48,17 +48,17 @@ go through something
 
 What do you think makes a {{compelling}}  character (interesting)?
 
-{{Compelling}} (**it makes you** **believe** **it or** **accept** **it because it is so** **strong (внушительные, сильные)) **evidence <!--SR:!2024-02-12,3,271-->
+{{Compelling}} (**it makes you** **believe** **it or** **accept** **it because it is so** **strong (внушительные, сильные)) **evidence <!--SR:!2024-02-19,7,271-->
 
 With flying colors>>**very easily**
 
 When I lived in Spain, I used to {{eat out}} (**to eat in a restaurant)** all the time <!--SR:!2024-02-10,29,274-->
 
-lift your ear up to that guy (god)>>_ <!--SR:!2024-02-10,19,321-->
+lift your ear up to that guy (god)>>_ <!--SR:!2024-05-05,83,341-->
 
 in a nutshell>>simply put, giving only the main points <!--SR:!2024-02-19,17,337-->
 
-There was nothing between the lines>>. <!--SR:!2024-02-09,18,321-->
+There was nothing between the lines>>. <!--SR:!2024-05-01,79,341-->
 
 at the top of one's voice>>во весь голос
 
@@ -125,7 +125,7 @@ Mother, father, sister, brother hand in hand with one another>>_ <!--SR:!2024-02
 
 {{foreword}} (предисловие) to the book
 
-but it involves an extremely {{blue}} (пошлая, грубая) __ joke__ . <!--SR:!2024-02-06,3,303-->
+but it involves an extremely {{blue}} (пошлая, грубая) __ joke__ . <!--SR:!2024-02-20,8,303-->
 
 I've been feeling kind of {{blue}} (perfect blue). <!--SR:!2024-03-07,33,312-->
 
@@ -147,7 +147,7 @@ This book is about to tell some {{tips}} (лайфхак) <!--SR:!2024-02-26,18,
 
 I'll be doing {{bandage}} (a long, narrow piece of cloth that is tied around an injuryor a part of someone's body that has been hurt) for my leg.
 
-You will read a {{passage}} (a part of the text (отрывок)) of between 75 and 100 words regarding issue <!--SR:!2024-02-11,9,299-->
+You will read a {{passage}} (a part of the text (отрывок)) of between 75 and 100 words regarding issue <!--SR:!2024-03-16,33,319-->
 
 I was told that my suit is {{spoiled}} (to destroy or reduce the pleasure, interest, or beauty of something) <!--SR:!2024-02-21,22,284-->
 
@@ -222,7 +222,7 @@ Thanks for {{upbrinпing}} (воспитание) me <!--SR:!2024-05-05,87,294--
 
 The {{fruitless}} (not producing the desired results, unsuccessful) tree should be burned down <!--SR:!2024-03-19,39,304-->
 
-There is too much {{luxury}} (The state of great comfort and extravagant living)![](local:///Users/connect/remnote/remnote-62c2eac9d4b97a004623c386/files/ZFWUGk_cOXMkVTGDQ0-7vKqQ48p_nfPyb5rPkaC7WMVry3OxX81F6ofArxUhKxIMUH-tZQ0h0-zznlJJMkfEF7MsxXQ653yjxsmBQDTg-4XE6p6PIYSoozthmVWkrDln.jpeg) <!--SR:!2024-02-09,8,297-->
+There is too much {{luxury}} (The state of great comfort and extravagant living)![](local:///Users/connect/remnote/remnote-62c2eac9d4b97a004623c386/files/ZFWUGk_cOXMkVTGDQ0-7vKqQ48p_nfPyb5rPkaC7WMVry3OxX81F6ofArxUhKxIMUH-tZQ0h0-zznlJJMkfEF7MsxXQ653yjxsmBQDTg-4XE6p6PIYSoozthmVWkrDln.jpeg) <!--SR:!2024-03-07,24,297-->
 
 There wouldn't be so hot if you hadn't thrown out the {{blinds}} (шторы)
 
@@ -233,7 +233,7 @@ This is our frendship {{tie}} (a set of stories that explains our relationship t
 This snake {{tempted}} (try to get someone to do something; test; invite (искушать)) me, it's its fault. <!--SR:!2024-02-15,25,284-->
 
 Today he looks to be {{initiating}} (to begin (приступать)) the war
-We can't trust him, we don't know what he {{is up to (to be up to)}} (going to do). <!--SR:!2000-01-01,1,250!2024-02-10,12,315-->
+We can't trust him, we don't know what he {{is up to (to be up to)}} (going to do). <!--SR:!2000-01-01,1,250!2024-03-18,35,315-->
 
 Will you stop this {{rep}} (стук) into my front door?!
 
@@ -283,7 +283,7 @@ I am sick of {{military action}} (военные действия) <!--SR:!2024-
 
 I dream Nikita to get the second English wind.>>second wind <!--SR:!2024-03-20,48,317-->
 
-I suppose him to be a great {{scapegoat}} (a person or thing carrying the blame for others) <!--SR:!2024-02-07,9,295-->
+I suppose him to be a great {{scapegoat}} (a person or thing carrying the blame for others) <!--SR:!2024-03-19,36,315-->
 
 I'm an {{amateur}} (taking part in an activity for pleasure, not as a job) in chess compare to Nikita
 
@@ -354,7 +354,7 @@ This {{concept}} (a principle or idea) is broader than you think. <!--SR:!2024-0
 
 This concept (a principle or idea) is more {{narrow}} (having a small distance from one side to the other, especially in comparison with the length) than you think.
 
-This concept (a principle or idea) is {{broader}} (very wide) than you think. <!--SR:!2024-02-12,17,331-->
+This concept (a principle or idea) is {{broader}} (very wide) than you think. <!--SR:!2024-04-27,75,351-->
 
 LD find her treasure stuff to be {{upside down}} (having the part that is usually at the top turned to be at the bottom). <!--SR:!2024-03-16,36,309-->
 
@@ -413,7 +413,7 @@ It's important not to {{jump to conclusions}} (спешить с выводам�
 
 She worked her way up through the corporate {{hierarchy}} (**a system in which people or things are arranged according to their importance)** to become president. <!--SR:!2024-02-14,18,277-->
 
-he happens to be in Moscow>>_ <!--SR:!2024-02-11,15,332-->
+he happens to be in Moscow>>_ <!--SR:!2024-04-20,68,352-->
 
 There is no easy cure for {{loneliness}} (**the state of being lonely)**.
 

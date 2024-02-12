@@ -4,7 +4,7 @@ sacrificing your talent in exchange for living long and {{tedious}} (extremely b
 
 #cards/dictionary 
 
-Despite collapsing from exhaustion, what he gained from the match was worth {{its weight in gold}} (a lot). <!--SR:!2024-02-12,9,252-->
+Despite collapsing from exhaustion, what he gained from the match was worth {{its weight in gold}} (a lot). <!--SR:!2024-03-14,31,272-->
 
 And the one who surpassed Kunigami Rensuke, receiving a {{bid}} (offered price) roughly three times his old offer... in 4th place, Isagi Yoichi. 
 
@@ -22,4 +22,4 @@ Kind guys like him mush be an {{endangered}} (вымирающие) species here
 
 I see that you have {{dipped}} (погрузил) your toe into the realm where miracles occur, Isagi <!--SR:!2024-02-29,26,270-->
 
-It's time to do some {{substitutions}} (the act of putting one thing or person in the place of another). <!--SR:!2024-02-10,19,250-->
+It's time to do some {{substitutions}} (the act of putting one thing or person in the place of another). <!--SR:!2024-03-30,47,250-->

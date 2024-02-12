@@ -172,3 +172,9 @@ I had a low point in the middle of the day. I started watching shorts and spend 
 ==February 12th, 2024==
 On February 2nd in a new set of rules for myself I stated a set of leisure periods for myself. For some reason there was no single day, when I have run out of these sets. I always end the day with a bunch of rest periods that I didn't use. It is a bit frustrating for me when I have to choose between going to sleep on time and using a deserved leisure time. I'm not sure if I should short the number of these sets, because I still think that in theory it is the right amount.
 
+Here we go again, gratitude:
+- I had a 90 minutes long English lesson.
+- I recreated the essay, that I wrote during the exam on Wednesday to show it to my teacher, she liked it.
+- I did my physical education homework, it is the most annoying lesson for me, so it is good that I did it on Monday.
+- I'm doing my meditation every day.
+- We have a sewer hole in our garden. It got filled, so I pumped the water out of it today. Usually my father is doing it, but I'm glad, that I was able to handle it.

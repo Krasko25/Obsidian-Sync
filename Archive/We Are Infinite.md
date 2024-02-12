@@ -10,7 +10,7 @@ Your body consists that were and will be a part of the universe before your birt
 
 ### <span style="color:#0070c0">Compass</span>
 ###### North (source):
-[[vagabond]]
+[[Vagabond. Бродяга]]
 
 ###### West (similar):
 [[The idea of unity in Vagabond]]

@@ -6,7 +6,7 @@
 
 ### <span style="color:#0070c0">Compass</span>
 ###### North (source):
-[[vagabond]]
+[[Vagabond. Бродяга]]
 
 ###### West (similar):
 [[We Are Infinite]]

@@ -1,5 +1,5 @@
   #Mark/Raw 
-##### Temple [[vagabond]]
+##### Temple [[Vagabond. Бродяга]]
 [[Gion]] [[Musashi]] I noticed that Gion could be a double (двойник) of Musashi. I believe, that Gion can help us to understand the character of Musashi.
 
 Gion himself told, that they were alike, "You are just like me, you only know how to speak through your sword". Gion fights just for the fun of it, it is good enough reason for him to risk his life. 
@@ -21,7 +21,7 @@ When Gion got scared and was too ashamed to continue living and too weak to deal
 
 ### <span style="color:#0070c0">Compass</span>
 ###### North (source):
-[[vagabond]]
+[[Vagabond. Бродяга]]
 [[Gion]]
 [[Musashi]]
 

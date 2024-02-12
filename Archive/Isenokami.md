@@ -1,4 +1,4 @@
-[[vagabond]]  
+[[Vagabond. Бродяга]]  
 Defeated The Great In'ei and Yagyu.
 No one can deny that he is the greatest Kengo on our time-- a master swordsman superior to all others. He was offered the position of Daimyo, but he declined.
 
@@ -8,7 +8,7 @@ No one can deny that he is the greatest Kengo on our time-- a master swordsman s
 
 ### <span style="color:#0070c0">Compass</span>
 ###### North (source):
-[[vagabond]]
+[[Vagabond. Бродяга]]
 
 ###### West (similar characters):
 

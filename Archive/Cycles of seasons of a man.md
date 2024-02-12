@@ -14,7 +14,7 @@ It is a quote from one piece of art. For some reasons it inspires me. We all hav
 
 ### <span style="color:#0070c0">Compass</span>
 ###### North (source):
-[[vagabond]]
+[[Vagabond. Бродяга]]
 
 ###### West (similar):
 

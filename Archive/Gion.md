@@ -6,7 +6,7 @@ He is the disciple of Yoshioka school
 
 ### <span style="color:#0070c0">Compass</span>
 ###### North (source):
-[[vagabond]]
+[[Vagabond. Бродяга]]
 
 ###### West (similar characters):
 

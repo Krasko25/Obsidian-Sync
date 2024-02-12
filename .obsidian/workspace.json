@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b90a0920f06b4d5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Archive/Лермонтов, «Есть в чувство правды в сердце человека». Что в вашем понимании «чувство правды».md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archive/Tdiary.md",
+                "file": "Archive/Лермонтов, «Есть в чувство правды в сердце человека». Что в вашем понимании «чувство правды».md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Archive/Tdiary.md",
+                "file": "Archive/Лермонтов, «Есть в чувство правды в сердце человека». Что в вашем понимании «чувство правды».md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -159,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archive/Tdiary.md"
+                "file": "Archive/Лермонтов, «Есть в чувство правды в сердце человека». Что в вашем понимании «чувство правды».md"
               }
             }
           },
@@ -200,8 +212,12 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "9ee5ac594e5680fe",
+  "active": "b90a0920f06b4d5d",
   "lastOpenFiles": [
+    "Archive/Vagabond. Бродяга.md",
+    "Archive/Лермонтов, «Есть в чувство правды в сердце человека». Что в вашем понимании «чувство правды».md",
+    "Archive/D_A Sign Of Affection.md",
+    "Archive/Tdiary.md",
     "Archive/Бесы. Федор Михаилович Достоевский.md",
     "Daily notes/2024/February/2024-02-11.md",
     "Archive/How to train like a minimalist. Тренировка минималиста.md",
@@ -216,7 +232,6 @@
     "Влияние кофе на сон. Impact",
     "Archive/D_Youtube.md",
     "Archive/Качели между героями. Проблема соревнований. Взаимное уважение. What made blue lock match against U20 so amazing. Почему мне понравился матч против U20 из Blue Lock.md",
-    "Archive/Tdiary.md",
     "Daily notes/2024/January/2024-01-02.md",
     "Archive/Автобусы в Крыму.md",
     "Archive/Obsidian as a second brain, the ultimate tutorial.md",
@@ -226,9 +241,6 @@
     "Archive/Диплом MOC.md",
     "Archive/Большая шестёрка. Мостик.md",
     "Archive/Математика MOC.md",
-    "Archive/D_Crime and Punishment.md",
-    "Daily notes/2024/February/2024-02-09.md",
-    "Archive/D_Blue Lock.md",
     "Daily notes/2024/February",
     "Attachments/Screenshot 2024-01-11 at 11.31.46 AM.png",
     "Attachments/Screenshot 2024-01-08 at 21.27.20.png",

@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "bdbe7a498ef98e2c",
+            "id": "28d8a5ff640e3227",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archive/Tdiary.md",
+                "file": "Archive/D_Frieren.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archive/Tdiary.md",
+                "file": "Archive/D_Frieren.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Archive/Tdiary.md",
+                "file": "Archive/D_Frieren.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archive/Tdiary.md"
+                "file": "Archive/D_Frieren.md"
               }
             }
           },
@@ -200,14 +200,15 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "bdbe7a498ef98e2c",
+  "active": "28d8a5ff640e3227",
   "lastOpenFiles": [
+    "Archive/D_Frieren.md",
+    "Archive/Tdiary.md",
     "Daily notes/2024/February/2024-02-12.md",
     "Archive/Лермонтов, «Есть в чувство правды в сердце человека». Что в вашем понимании «чувство правды».md",
     "Archive/Бесы. Федор Михаилович Достоевский.md",
     "Archive/Vagabond. Бродяга.md",
     "Archive/D_A Sign Of Affection.md",
-    "Archive/Tdiary.md",
     "Daily notes/2024/February/2024-02-11.md",
     "Archive/How to train like a minimalist. Тренировка минималиста.md",
     "Archive/diary.md",
@@ -228,7 +229,6 @@
     "Daily notes/2023/November/2023-11-24.md",
     "Daily notes/2023/November/2023-11-21.md",
     "Archive/Диплом MOC.md",
-    "Archive/Большая шестёрка. Мостик.md",
     "Daily notes/2024/February",
     "Attachments/Screenshot 2024-01-11 at 11.31.46 AM.png",
     "Attachments/Screenshot 2024-01-08 at 21.27.20.png",

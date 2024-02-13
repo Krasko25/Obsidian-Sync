@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Машинное обучение MOC",
+      "path": "Archive/Машинное обучение MOC.md"
+    },
+    {
+      "basename": "synergy",
+      "path": "Archive/synergy.md"
+    },
+    {
       "basename": "Большая шестёрка. Мостик",
       "path": "Archive/Большая шестёрка. Мостик.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "People relationships MOC",
       "path": "Archive/People relationships MOC.md"
-    },
-    {
-      "basename": "The Great In'ei",
-      "path": "Archive/The Great In'ei.md"
-    },
-    {
-      "basename": "2024-01-31",
-      "path": "Daily notes/2024/January/2024-01-31.md"
     }
   ],
   "omittedPaths": [],

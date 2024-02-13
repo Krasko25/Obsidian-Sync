@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "D_Frieren",
+      "path": "Archive/D_Frieren.md"
+    },
+    {
+      "basename": "2024-02-13",
+      "path": "Daily notes/2024/February/2024-02-13.md"
+    },
+    {
       "basename": "Машинное обучение MOC",
       "path": "Archive/Машинное обучение MOC.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "Большая шестёрка. Мостик",
       "path": "Archive/Большая шестёрка. Мостик.md"
-    },
-    {
-      "basename": "D_Frieren",
-      "path": "Archive/D_Frieren.md"
     },
     {
       "basename": "Tdiary",
@@ -195,10 +199,6 @@
     {
       "basename": "2024-02-01",
       "path": "Daily notes/2024/February/2024-02-01.md"
-    },
-    {
-      "basename": "People relationships MOC",
-      "path": "Archive/People relationships MOC.md"
     }
   ],
   "omittedPaths": [],

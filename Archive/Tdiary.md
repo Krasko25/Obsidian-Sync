@@ -178,3 +178,15 @@ Here we go again, gratitude:
 - I did my physical education homework, it is the most annoying lesson for me, so it is good that I did it on Monday.
 - I'm doing my meditation every day.
 - We have a sewer hole in our garden. It got filled, so I pumped the water out of it today. Usually my father is doing it, but I'm glad, that I was able to handle it.
+
+==February 13th, 2024==
+Do you remember how yesterday I said, that I don't manage to use all my leisure periods? Forget that, It wasn't the case today, not only I used all of them (and even more), but I also did that without respecting the rules, that I stated earlier. I wasted an enormous amount of time today and will be heading to bed late.
+
+Today was the first day of a new module of my course in Synergy university, holidays ended and this now course will drain my time and energy as well.
+
+Midnight gratitude:
+- I did some homework;
+- I had a Synergy lecture today.
+- I will have a good day tomorrow (I hope so).
+- I did my trainings and scoliosis exercises.
+- My cat is really cute and warm (yeah, it's not a gratitude for me, but... I don't know... thanks to myself for a... for noticing how cute this fellow is).

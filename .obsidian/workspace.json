@@ -32,15 +32,11 @@
             }
           },
           {
-            "id": "28d8a5ff640e3227",
+            "id": "fb511be26dc6fdab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Archive/Tdiary.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -130,7 +126,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archive/Tdiary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +142,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Archive/Tdiary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -158,9 +152,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Archive/Tdiary.md"
-              }
+              "state": {}
             }
           },
           {
@@ -200,15 +192,15 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "28d8a5ff640e3227",
+  "active": "fb511be26dc6fdab",
   "lastOpenFiles": [
+    "Archive/Tdiary.md",
     "Daily notes/2024/February/2024-02-14.md",
     "Archive/D_Frieren.md",
     "Daily notes/2024/February/2024-02-13.md",
     "Archive/synergy.md",
     "Archive/Машинное обучение MOC.md",
     "Archive/Большая шестёрка. Мостик.md",
-    "Archive/Tdiary.md",
     "Daily notes/2024/February/2024-02-12.md",
     "Archive/Лермонтов, «Есть в чувство правды в сердце человека». Что в вашем понимании «чувство правды».md",
     "Archive/Бесы. Федор Михаилович Достоевский.md",

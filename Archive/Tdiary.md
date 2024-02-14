@@ -192,3 +192,18 @@ Midnight gratitude:
 - My cat is really cute and warm (yeah, it's not a gratitude for me, but... I don't know... thanks to myself for a... for noticing how cute this fellow is).
 
 ==February 14th, 2024==
+About my trainings. I put some ambitious goals in the beginning of this year, I'm not sure if I'll be able to reach them, because I don't progress as fast as I was expecting. However, those goals still keep me motivated, so this situation is good enough. I also stuck with my pistol sit ups (one leg sit ups). I constantly find new ways to improve my technic, so the amount of reps does not increase. I think, that it is a good thing, because it is way more interesting to find these tiny progressions, then just increase my endurance.  
+
+At the past three days teacher in our college were not skipping their lessons (we learn distantly). It seems they got scolded by someone from learning department. This change is a duplex sword, at one hand it will take me a lot of time to be present on these lectures, on the other one it will help me to be more disciplined. 
+
+Today was a really warm and nice weather. I wanted to try study outside in the garden of my house, but I wanted to complete my training before that. Sadly, when I finished everything, that I needed to do inside, the weather have changed. Next time I will act quicker. 
+
+All these changes in live is an interesting thing, I wouldn't be so happy to see a warm weather without a cold winter, I wouldn't be so happy with my achievements without my failures. Truly, our perception of life is being defined by the previous experience, everything is known in comparison.
+
+Soooouu, I did mention that I would have a good day today... This day, the whole second half of it, I did nothing useful, I didn't even have an English lesson because there was no internet... Does this mean that I'm a liar? No-no-no... nope! Just as instruction says ("I will have a good day tomorrow"), it was a nice day... warm and sunny... I was tooootally talking about the weather.
+
+My gratitude for myself in a sunny day:
+- I had a leg training today, leg days are the hardest ones.
+- I still spend some time outside under this beautiful sky while I was playing with my dog and doing a recording for my English lesson.
+- I did some homework for the subjects, that I usually delay.
+- Tomorrow I will have a nice (productive) day. I will do a lot of homework, my trainings, a big part of my essay for February 20th and participate in Synergy lesson.

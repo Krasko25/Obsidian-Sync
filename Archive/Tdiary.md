@@ -207,3 +207,13 @@ My gratitude for myself in a sunny day:
 - I still spend some time outside under this beautiful sky while I was playing with my dog and doing a recording for my English lesson.
 - I did some homework for the subjects, that I usually delay.
 - Tomorrow I will have a nice (productive) day. I will do a lot of homework, my trainings, a big part of my essay for February 20th and participate in Synergy lesson.
+
+==February 15th, 2024==
+Almost all day I had no internet. I did some useful things, but feel like I could have done more progress with my essay, that I need to finish before February 20th.
+
+Some quick name for gratitude part:
+- I did a few English recordings today;
+- I did a lot of stretching;
+- I did some homework;
+- I had a bit of a productive day, but tomorrow is going to be better;
+- I keep tracking my calories.

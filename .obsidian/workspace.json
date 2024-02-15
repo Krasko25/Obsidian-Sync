@@ -8,36 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "00ed6838f252d4f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Archive/diary.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ee5ac594e5680fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Archive/Tdiary.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3f86c138d1ddb878",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archive/D_Vagabond.md",
+                "file": "Archive/Меняются ли люди в условиях технического прогресса.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1cb03f6cc5dae2d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Archive/Ты НЕ выбираешь, смотреть ли это видео.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ecc8f1795724be5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Archive/Индивидуализация как она есть.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archive/D_Vagabond.md",
+                "file": "Archive/Индивидуализация как она есть.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Archive/D_Vagabond.md",
+                "file": "Archive/Индивидуализация как она есть.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archive/D_Vagabond.md"
+                "file": "Archive/Индивидуализация как она есть.md"
               }
             }
           },
@@ -200,14 +200,19 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "3f86c138d1ddb878",
+  "active": "ecc8f1795724be5e",
   "lastOpenFiles": [
+    "Archive/Индивидуализация как она есть.md",
+    "Archive/Ты НЕ выбираешь, смотреть ли это видео.md",
+    "Archive/Меняются ли люди в условиях технического прогресса.md",
+    "Archive/Free Will MOC.md",
+    "Daily notes/2024/February/2024-02-15.md",
+    "Archive/D_Vagabond.md",
     "Archive/Vagabond. Бродяга.md",
     "Archive/Большая шестёрка. Отжимания в стойке на руках.md",
     "Archive/D_Frieren.md",
     "Archive/Бесы. Федор Михаилович Достоевский.md",
     "Archive/Tdiary.md",
-    "Daily notes/2024/February/2024-02-15.md",
     "Daily notes/2024/February/2024-02-14.md",
     "Daily notes/2024/February/2024-02-13.md",
     "Archive/synergy.md",
@@ -219,16 +224,11 @@
     "Daily notes/2024/February/2024-02-11.md",
     "Archive/How to train like a minimalist. Тренировка минималиста.md",
     "Archive/diary.md",
-    "Archive/Ты НЕ выбираешь, смотреть ли это видео.md",
     "Archive/ЧД.md",
-    "Archive/Free Will MOC.md",
     "Archive/Как правильно спать и высыпаться.md",
     "Archive/Sleeping MOC.md",
     "Archive/Фазы сна. Stages of Sleep.md",
-    "Влияние кофе на сон. Impact/Влияние кофе на сон. Impact and effect of coffee on sleep.md",
     "Влияние кофе на сон. Impact",
-    "Archive/D_Youtube.md",
-    "Archive/Качели между героями. Проблема соревнований. Взаимное уважение. What made blue lock match against U20 so amazing. Почему мне понравился матч против U20 из Blue Lock.md",
     "Daily notes/2024/February",
     "Attachments/Screenshot 2024-01-11 at 11.31.46 AM.png",
     "Attachments/Screenshot 2024-01-08 at 21.27.20.png",

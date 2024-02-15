@@ -1,3 +1,7 @@
+
+
+Such {{composure}} (self-control, calmness), he has indeed matured.
+
 #cards/dictionary 
 
 We admired your strength, we all wanted to {{befriend}} (help someone and be friendly) you. <!--SR:!2024-02-13,12,305-->

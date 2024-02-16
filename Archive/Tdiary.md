@@ -217,3 +217,14 @@ Some quick name for gratitude part:
 - I did some homework;
 - I had a bit of a productive day, but tomorrow is going to be better;
 - I keep tracking my calories.
+
+==February 16th, 2024==
+Yesterday I felt asleep quite late. Because of this the start of my day was quite weak. As always, waking up late means, that my morning routine got mixed with my lectures and, as the result, takes way more time and energy. I also did not do almost any work regarding my essay for February 20th. Anyway, even with that I had quite a good day, because the middle of it was quite solid.
+
+Showing gratitude to myself while drinking tea (yeah, I'm running out of ideas):
+- I manage to do quite a lot even when there were quite a lot of things going on today.
+- I made a lot of progress with one subject, that I wasn't paying much time for the last few weeks.
+- I cleared my schedule for tomorrow, so I will be able to dedicate a lot of time for my essay (there are still quite a lot of things to do, but they can wait until Monday)
+- I'm doing some cleaning everyday.
+- I'm writing notes every day.
+- I had a two hour long English lesson today.

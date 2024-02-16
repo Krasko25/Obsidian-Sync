@@ -1,3 +1,7 @@
+
+
+by means of all this he might even make me quarrel with my family again, and could certainly hope to {{win back their favour}} (get their favour back).
+
 "What vileness!" Petr Petrovich even seemed to {{give a start}} (вздрогнул, shattered). 
 
 Could it be simply because you wanted to {{conceal}} (prevent from being seen or discoveredz) it from me, knowing that I hold opposite convictions and negate private philanthropy, which cures nothing radically? 

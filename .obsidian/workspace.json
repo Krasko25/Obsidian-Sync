@@ -44,12 +44,12 @@
             }
           },
           {
-            "id": "e1a447551a44bbd8",
+            "id": "506321eae4ca232a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archive/Tdiary.md",
+                "file": "Daily notes/2024/February/2024-02-16.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archive/Tdiary.md",
+                "file": "Daily notes/2024/February/2024-02-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Archive/Tdiary.md",
+                "file": "Daily notes/2024/February/2024-02-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archive/Tdiary.md"
+                "file": "Daily notes/2024/February/2024-02-16.md"
               }
             }
           },
@@ -212,11 +212,12 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "e1a447551a44bbd8",
+  "active": "506321eae4ca232a",
   "lastOpenFiles": [
+    "Archive/D_Crime and Punishment.md",
     "Daily notes/2024/February/2024-02-16.md",
-    "Archive/Бесы. Федор Михаилович Достоевский.md",
     "Archive/Tdiary.md",
+    "Archive/Бесы. Федор Михаилович Достоевский.md",
     "Archive/Индивидуализация как она есть.md",
     "Archive/Ты НЕ выбираешь, смотреть ли это видео.md",
     "Archive/Меняются ли люди в условиях технического прогресса.md",
@@ -239,7 +240,6 @@
     "Archive/diary.md",
     "Archive/ЧД.md",
     "Archive/Как правильно спать и высыпаться.md",
-    "Archive/Sleeping MOC.md",
     "Влияние кофе на сон. Impact",
     "Daily notes/2024/February",
     "Attachments/Screenshot 2024-01-11 at 11.31.46 AM.png",

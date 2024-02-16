@@ -4,7 +4,7 @@ Such {{composure}} (self-control, calmness), he has indeed matured.
 
 #cards/dictionary 
 
-We admired your strength, we all wanted to {{befriend}} (help someone and be friendly) you. <!--SR:!2024-02-13,12,305-->
+We admired your strength, we all wanted to {{befriend}} (help someone and be friendly) you. <!--SR:!2024-03-23,36,305-->
 
 I {{concede}} (give up), you are stronger
 
@@ -14,11 +14,11 @@ As the four seasons between heaven and earth flow in an endless cycle, so too, m
 
 I feel {{overwhelmed}} (overcome by superior force) by this man's great presence? <!--SR:!2024-03-14,34,305-->
 
-His presence was {{sublime}} (of high moral or intellectual value; elevated in nature or style), as if his entire body were melting out into the sky <!--SR:!2024-02-10,8,286-->
+His presence was {{sublime}} (of high moral or intellectual value; elevated in nature or style), as if his entire body were melting out into the sky <!--SR:!2024-03-10,23,286-->
 
 the {{**sublime**}} (inspiring) beauty of the night
 
-The great In'ei, he is in the class by himself>>_ <!--SR:!2024-02-10,33,292-->
+The great In'ei, he is in the class by himself>>_ <!--SR:!2024-06-28,133,312-->
 
 team up>>_ <!--SR:!2024-03-18,61,316-->
 
@@ -60,7 +60,7 @@ I was to lazy to milk this idea for 10 minutes>>_ <!--SR:!2024-02-17,30,282-->
 
 Am I still strong? I want to know. - he exceeds (**to go past the level, limit, rate, etc. that you are allowed) **the rumors
 
-{{Flee}} (**to escape by running away, especially because of danger or fear)** now, while you have a chance. <!--SR:!2024-02-14,20,273-->
+{{Flee}} (**to escape by running away, especially because of danger or fear)** now, while you have a chance. <!--SR:!2024-04-12,56,273-->
 
 Fighting for myself I won't {{pursue}} (**to follow someone or something, usually to try to catch him, her, or it)** my opponents.
 
@@ -73,7 +73,7 @@ give up the lying already>>_ <!--SR:!2024-02-10,12,302-->
 
 Your thoughts are quite {{profound}} (**felt or experienced very strongly or in an extreme way (очеь глубокое понимание))**, aren't they? <!--SR:!2024-03-16,44,263-->
 
-I won't forgive you. {{Talking ill}} (плохо отзваться) about my teacher <!--SR:!2024-02-16,29,283-->
+I won't forgive you. {{Talking ill}} (плохо отзваться) about my teacher <!--SR:!2024-05-09,83,283-->
 
 You're determined to {{advance}} (**to go or move something forward, or to develop or improve something)... **so you want this sword of yours back. <!--SR:!2024-03-19,40,299-->
 

@@ -12,7 +12,7 @@ He, as it fits his character, was {{short-spoken}} (немногословен)
 
 Nanotechnology. Ah, you have {{outdone}} (be or do something to a greater degree) yourself, Peter
 
-Vegita! Stop vegiting it! You are making it worse! - Don't you verb me!>>_ <!--SR:!2024-02-14,12,317-->
+Vegita! Stop vegiting it! You are making it worse! - Don't you verb me!>>_ <!--SR:!2024-04-09,53,337-->
 
 next-to-last; second last; last, but one>>_ <!--SR:!2024-02-22,26,297-->
 
@@ -80,7 +80,7 @@ From my {{perspective}}, this was not a crime.
 
 to view a situation from a new perspective>>с новой точки зрения <!--SR:!2024-03-20,47,321-->
 
-Second class-citizen person>>_ <!--SR:!2024-02-10,17,326-->
+Second class-citizen person>>_ <!--SR:!2024-04-13,57,326-->
 
 give it a shot>>_ <!--SR:!2024-02-17,36,294-->
 
@@ -88,7 +88,7 @@ As is stated above>>_ <!--SR:!2024-03-25,46,332-->
 
 man in plural form>>men
 
-to run across>>натолкнуться <!--SR:!2024-02-16,16,336-->
+to run across>>натолкнуться <!--SR:!2024-04-29,73,356-->
 
 This airport can handle more than 300 {{aircraft}} (**any vehicle, with or without an engine, that can fly, such as a plane or helicopter) **every day
 aircraft in plural form>>aircraft and words with -craft has the same form in singular and plural form <!--SR:!2024-03-18,44,309-->
@@ -158,7 +158,7 @@ They {{set off}} (to start on a trip) again, the class looking at Pr. Lupin with
 
 {{troop}} (a group of solders) have ended
 
-{{Don't mind me}} (Don't pay me attention) _,_  said Denji to Makima <!--SR:!2024-02-07,19,264-->
+{{Don't mind me}} (Don't pay me attention) _,_  said Denji to Makima <!--SR:!2024-04-24,68,284-->
 
 {{hear me our}} (listen to me)!! I I'm here to help you. <!--SR:!2024-03-04,32,301-->
 
@@ -230,7 +230,7 @@ This {{frame}} (The lines and borders that contain the panels) of berserk is a m
 
 This is our frendship {{tie}} (a set of stories that explains our relationship to the other members of our network, галстуг). <!--SR:!2024-02-19,10,303-->
 
-This snake {{tempted}} (try to get someone to do something; test; invite (искушать)) me, it's its fault. <!--SR:!2024-02-15,25,284-->
+This snake {{tempted}} (try to get someone to do something; test; invite (искушать)) me, it's its fault. <!--SR:!2024-04-26,70,284-->
 
 Today he looks to be {{initiating}} (to begin (приступать)) the war
 We can't trust him, we don't know what he {{is up to (to be up to)}} (going to do). <!--SR:!2000-01-01,1,250!2024-03-18,35,315-->
@@ -247,7 +247,7 @@ Your {{hard-luck story}} (a story or piece of information that someone tells you
 
 Your {{internal}} (existing**, **intendent** **for**, **or** **happening inside the body**, **organizathion**, **place**, **country**, **etc.) thoughts have always been unclear for me.
 
-Your {{vehicle}} (transport) is a piece of trash! <!--SR:!2024-02-11,18,326-->
+Your {{vehicle}} (transport) is a piece of trash! <!--SR:!2024-04-14,58,326-->
 
 Your {{twisted mind}} (извращённый ум) will kill us
 
@@ -393,7 +393,7 @@ The {{primary}} (**more important than anything else; main)** {{bond}} (**a clos
 
 We {{considered}} (decided) her to be our friend
 
-Game with {{finite}} (something that can end) resources <!--SR:!2024-02-16,8,301-->
+Game with {{finite}} (something that can end) resources <!--SR:!2024-03-10,23,301-->
 
 to make separating from the {{tribe}} (племя) and nature unreal
 
@@ -403,11 +403,11 @@ The new law provides for {{equality}} (**the right of different groups of people
 
 Many people in this area are {{descendants}} (**a person who is related to you and who lives after you, such as your child or grandchild (потомок))** of German immigrants. <!--SR:!2024-03-02,23,296-->
 
-She has a right to the {{property}} (собственность). <!--SR:!2024-02-15,34,270-->
+She has a right to the {{property}} (собственность). <!--SR:!2024-06-22,127,290-->
 
 Also I will consider the {{regularity}} (закономерности) between development of individual, humanity in general and religion. <!--SR:!2024-02-20,22,277-->
 
-Despite having a large family, they still had no **son and** {{heir}} (**a person who will legally receive money, property, or a title from another person, especially an older member of the same family, when that other person dies).** <!--SR:!2024-02-04,3,301-->
+Despite having a large family, they still had no **son and** {{heir}} (**a person who will legally receive money, property, or a title from another person, especially an older member of the same family, when that other person dies).** <!--SR:!2024-02-25,9,301-->
 
 It's important not to {{jump to conclusions}} (спешить с выводами). <!--SR:!2024-03-03,31,297-->
 

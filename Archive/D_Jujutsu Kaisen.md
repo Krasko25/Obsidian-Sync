@@ -1,6 +1,6 @@
 #cards/dictionary 
 
-Nanami is on his {{last leg}} (one of his feet is already in the grave) <!--SR:!2024-02-15,6,241-->
+Nanami is on his {{last leg}} (one of his feet is already in the grave) <!--SR:!2024-03-06,19,261-->
 
 turned the tables on someone↔**to change a situation so that you now have an advantage over someone who previously had an advantage over you** 
 

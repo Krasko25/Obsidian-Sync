@@ -6,4 +6,4 @@ And what did I say? - {{I turned him down!?}} (**to refuse an offer or request).
 
 I never had such a {{shallow}} (поверхностная идея) thought in my mind.
 
-Lately, she has been {{giving me the cold shoulder}} (**to intentionally ignore someone or treat someone in an unfriendly way:)**. <!--SR:!2024-02-11,8,255-->
+Lately, she has been {{giving me the cold shoulder}} (**to intentionally ignore someone or treat someone in an unfriendly way:)**. <!--SR:!2024-03-09,22,255-->

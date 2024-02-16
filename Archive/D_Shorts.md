@@ -36,7 +36,7 @@ your>>you are
 
 u>>you <!--SR:!2024-04-14,76,330-->
 
-kk>>ok, ok <!--SR:!2024-02-15,36,302-->
+kk>>ok, ok <!--SR:!2024-06-03,108,302-->
 
 plz>>please <!--SR:!2024-03-02,45,304-->
 
@@ -46,7 +46,7 @@ IRL>>in real live <!--SR:!2024-02-19,16,334-->
 
 lol>>laughing out loud <!--SR:!2024-02-05,17,320-->
 
-IMO>>in my opinion <!--SR:!2024-02-12,17,326-->
+IMO>>in my opinion <!--SR:!2024-05-06,80,346-->
 
 tbh>>to be honest <!--SR:!2024-02-16,16,331-->
 

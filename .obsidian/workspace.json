@@ -66,21 +66,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "717a0ed3fec33cd8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Archive/D_Other Sources.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -165,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archive/D_Other Sources.md",
+                "file": "Archive/Был ли свободен Ричард.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Archive/D_Other Sources.md",
+                "file": "Archive/Был ли свободен Ричард.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -194,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archive/D_Other Sources.md"
+                "file": "Archive/Был ли свободен Ричард.md"
               }
             }
           },
@@ -235,14 +223,17 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "717a0ed3fec33cd8",
+  "active": "1dc4ecc89baadcf1",
   "lastOpenFiles": [
+    "Archive/Ты НЕ выбираешь, смотреть ли это видео.md",
+    "Archive/Меняются ли люди в условиях технического прогресса.md",
+    "Archive/Индивидуализация как она есть.md",
+    "Archive/Почему признание собственной ответственности - это очень важно.md",
     "Archive/Был ли свободен Ричард.md",
+    "Archive/D_Other Sources.md",
     "Archive/Текучесть событий в Преступление и Наказание. The flow of events in Crime and Punishment.md",
     "Daily notes/2024/February/2024-02-17.md",
-    "Archive/Почему признание собственной ответственности - это очень важно.md",
     "Archive/В жизни нет смысла и это прекрасно. There is no purpose in life and that is great.md",
-    "Archive/Индивидуализация как она есть.md",
     "Archive/Страх свободы, ответственности. A Fear of Freedom and Responsibility.md",
     "Archive/Страх одиночества, необходимость привязанности к чему-то. A fear of loneliness, necessity of connections.md",
     "Archive/Вопрос свободы в средневековье.md",
@@ -253,8 +244,6 @@
     "Daily notes/2024/February/2024-02-16.md",
     "Archive/D_Crime and Punishment.md",
     "Archive/Бесы. Федор Михаилович Достоевский.md",
-    "Archive/Ты НЕ выбираешь, смотреть ли это видео.md",
-    "Archive/Меняются ли люди в условиях технического прогресса.md",
     "Archive/Free Will MOC.md",
     "Daily notes/2024/February/2024-02-15.md",
     "Archive/D_Vagabond.md",
@@ -262,7 +251,6 @@
     "Archive/Большая шестёрка. Отжимания в стойке на руках.md",
     "Archive/D_Frieren.md",
     "Daily notes/2024/February/2024-02-14.md",
-    "Daily notes/2024/February/2024-02-13.md",
     "Влияние кофе на сон. Impact",
     "Daily notes/2024/February",
     "Attachments/Screenshot 2024-01-11 at 11.31.46 AM.png",

@@ -44,43 +44,27 @@
             }
           },
           {
-            "id": "506321eae4ca232a",
+            "id": "16905f25012bf690",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archive/Страх свободы, ответственности. A Fear of Freedom and Responsibility.md",
+                "file": "Archive/Почему признание собственной ответственности - это очень важно.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f0e30a87bd623553",
+            "id": "1dc4ecc89baadcf1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Archive/Страх одиночества, необходимость привязанности к чему-то. A fear of loneliness, necessity of connections.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "89a47be1781d3a3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Archive/Вопрос свободы в средневековье.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -165,7 +149,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archive/Вопрос свободы в средневековье.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +165,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Archive/Вопрос свободы в средневековье.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,9 +175,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Archive/Вопрос свободы в средневековье.md"
-              }
+              "state": {}
             }
           },
           {
@@ -235,12 +215,14 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "89a47be1781d3a3f",
+  "active": "1dc4ecc89baadcf1",
   "lastOpenFiles": [
-    "Archive/Вопрос свободы в средневековье.md",
-    "Archive/Страх одиночества, необходимость привязанности к чему-то. A fear of loneliness, necessity of connections.md",
-    "Archive/Страх свободы, ответственности. A Fear of Freedom and Responsibility.md",
+    "Archive/Почему признание собственной ответственности - это очень важно.md",
+    "Archive/В жизни нет смысла и это прекрасно. There is no purpose in life and that is great.md",
     "Archive/Индивидуализация как она есть.md",
+    "Archive/Страх свободы, ответственности. A Fear of Freedom and Responsibility.md",
+    "Archive/Страх одиночества, необходимость привязанности к чему-то. A fear of loneliness, necessity of connections.md",
+    "Archive/Вопрос свободы в средневековье.md",
     "Archive/Идеи Фрейда. Ideas of Freud.md",
     "Templates/Бегство от свободы. Escape from Freedom.md",
     "Archive/Tdiary.md",
@@ -261,8 +243,6 @@
     "Archive/synergy.md",
     "Archive/Машинное обучение MOC.md",
     "Archive/Большая шестёрка. Мостик.md",
-    "Daily notes/2024/February/2024-02-12.md",
-    "Archive/Лермонтов, «Есть в чувство правды в сердце человека». Что в вашем понимании «чувство правды».md",
     "Влияние кофе на сон. Impact",
     "Daily notes/2024/February",
     "Attachments/Screenshot 2024-01-11 at 11.31.46 AM.png",

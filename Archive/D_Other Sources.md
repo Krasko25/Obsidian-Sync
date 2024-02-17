@@ -1,3 +1,5 @@
+When we are certain [the outcome](https://www.urbandictionary.com/define.php?term=the%20outcome) of an/a activity/task will be [a failure](https://www.urbandictionary.com/define.php?term=a%20failure) or when we know we are going to be [unsuccessful](https://www.urbandictionary.com/define.php?term=unsuccessful) but we still do it.
+ 
  <!--SR:!2024-01-22,4,301--> <!--SR:!2000-01-01,1,250!2024-01-21,4,297--> <!--SR:!2023-12-29,3,264-->
  
 #cards/dictionary 

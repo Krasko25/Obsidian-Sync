@@ -59,8 +59,12 @@
             "id": "1dc4ecc89baadcf1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Archive/Был ли свободен Ричард.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -149,6 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Archive/Был ли свободен Ричард.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,6 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Archive/Был ли свободен Ричард.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -175,7 +181,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Archive/Был ли свободен Ричард.md"
+              }
             }
           },
           {
@@ -217,6 +225,9 @@
   },
   "active": "1dc4ecc89baadcf1",
   "lastOpenFiles": [
+    "Archive/Текучесть событий в Преступление и Наказание. The flow of events in Crime and Punishment.md",
+    "Daily notes/2024/February/2024-02-17.md",
+    "Archive/Был ли свободен Ричард.md",
     "Archive/Почему признание собственной ответственности - это очень важно.md",
     "Archive/В жизни нет смысла и это прекрасно. There is no purpose in life and that is great.md",
     "Archive/Индивидуализация как она есть.md",
@@ -240,9 +251,6 @@
     "Archive/D_Frieren.md",
     "Daily notes/2024/February/2024-02-14.md",
     "Daily notes/2024/February/2024-02-13.md",
-    "Archive/synergy.md",
-    "Archive/Машинное обучение MOC.md",
-    "Archive/Большая шестёрка. Мостик.md",
     "Влияние кофе на сон. Impact",
     "Daily notes/2024/February",
     "Attachments/Screenshot 2024-01-11 at 11.31.46 AM.png",

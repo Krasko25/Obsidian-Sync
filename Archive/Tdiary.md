@@ -228,3 +228,14 @@ Showing gratitude to myself while drinking tea (yeah, I'm running out of ideas):
 - I'm doing some cleaning everyday.
 - I'm writing notes every day.
 - I had a two hour long English lesson today.
+
+==February 17th, 2024==
+I have to finish one essay until February 20th. I have signed up for this competition a few weeks ago. I found this situation to be a good source of motivation to write on one of the topics that I wanted to talk about for a long time. I think that the idea itself was great, but my execution was just... not... not perfect... at all. 
+
+I was delaying this work for a long time and it is February 17th now and I done only a small piece of the essay. Furthermore, I had to choose easier topic, because of the lack of time. I will not be able to do a decent work and it is really frustrating. I will remember this frustration properly, I don't want to do same mistakes again.
+
+Squeezing gratitude out of Mikhail:
+- I participated in Habitica call, which was quite interesting;
+- I did some homework (yeah, It was just writing summaries of lectures and it was another way of procrastination, but it is still better then doing nothing useful at all);
+- I really spend some time trying to write something decent (efforts itself still counts);
+- I will fall asleep on time today.

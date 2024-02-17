@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Tdiary",
+      "path": "Archive/Tdiary.md"
+    },
+    {
       "basename": "Был ли свободен Ричард",
       "path": "Archive/Был ли свободен Ричард.md"
     },
@@ -9,24 +13,24 @@
       "path": "Archive/Habitica.md"
     },
     {
-      "basename": "2024-02-17",
-      "path": "Daily notes/2024/February/2024-02-17.md"
-    },
-    {
       "basename": "Почему признание собственной ответственности - это очень важно",
       "path": "Archive/Почему признание собственной ответственности - это очень важно.md"
     },
     {
-      "basename": "Индивидуализация как она есть",
-      "path": "Archive/Индивидуализация как она есть.md"
+      "basename": "Меняются ли люди в условиях технического прогресса",
+      "path": "Archive/Меняются ли люди в условиях технического прогресса.md"
     },
     {
       "basename": "Ты НЕ выбираешь, смотреть ли это видео",
       "path": "Archive/Ты НЕ выбираешь, смотреть ли это видео.md"
     },
     {
-      "basename": "Меняются ли люди в условиях технического прогресса",
-      "path": "Archive/Меняются ли люди в условиях технического прогресса.md"
+      "basename": "Индивидуализация как она есть",
+      "path": "Archive/Индивидуализация как она есть.md"
+    },
+    {
+      "basename": "2024-02-17",
+      "path": "Daily notes/2024/February/2024-02-17.md"
     },
     {
       "basename": "D_Other Sources",
@@ -59,10 +63,6 @@
     {
       "basename": "Бегство от свободы. Escape from Freedom",
       "path": "Templates/Бегство от свободы. Escape from Freedom.md"
-    },
-    {
-      "basename": "Tdiary",
-      "path": "Archive/Tdiary.md"
     },
     {
       "basename": "D_Hajime no Ippo",

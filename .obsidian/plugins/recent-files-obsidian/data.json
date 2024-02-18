@@ -5,6 +5,10 @@
       "path": "Archive/Герои проклятые верой в ужасающие идеи. Генри и Раскольников.md"
     },
     {
+      "basename": "График обучения 8 семестр",
+      "path": "Archive/График обучения 8 семестр.md"
+    },
+    {
       "basename": "2024-02-18",
       "path": "Daily notes/2024/February/2024-02-18.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2023-11-29",
       "path": "Daily notes/2023/November/2023-11-29.md"
-    },
-    {
-      "basename": "2023-11-24",
-      "path": "Daily notes/2023/November/2023-11-24.md"
     }
   ],
   "omittedPaths": [],

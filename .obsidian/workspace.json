@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a0bbd761dfdb925b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Archive/Лермонтов, «Есть чувство правды в сердце человека». Что в вашем понимании «чувство правды».md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -141,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archive/Герои проклятые верой в ужасающие идеи. Генри и Раскольников.md",
+                "file": "Archive/Лермонтов, «Есть чувство правды в сердце человека». Что в вашем понимании «чувство правды».md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Archive/Герои проклятые верой в ужасающие идеи. Генри и Раскольников.md",
+                "file": "Archive/Лермонтов, «Есть чувство правды в сердце человека». Что в вашем понимании «чувство правды».md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archive/Герои проклятые верой в ужасающие идеи. Генри и Раскольников.md"
+                "file": "Archive/Лермонтов, «Есть чувство правды в сердце человека». Что в вашем понимании «чувство правды».md"
               }
             }
           },
@@ -211,10 +223,10 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "a045170ef07d39da",
+  "active": "a0bbd761dfdb925b",
   "lastOpenFiles": [
-    "Archive/График обучения 8 семестр.md",
     "Archive/Герои проклятые верой в ужасающие идеи. Генри и Раскольников.md",
+    "Archive/График обучения 8 семестр.md",
     "Daily notes/2024/February/2024-02-18.md",
     "Archive/Был ли свободен Ричард.md",
     "Archive/Tdiary.md",

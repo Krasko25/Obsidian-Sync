@@ -239,3 +239,17 @@ Squeezing gratitude out of Mikhail:
 - I did some homework (yeah, It was just writing summaries of lectures and it was another way of procrastination, but it is still better then doing nothing useful at all);
 - I really spend some time trying to write something decent (efforts itself still counts);
 - I will fall asleep on time today.
+
+==February 18th, 2024==
+I dedicated this day to the essay, that I will have to complete until February 20th for one competition. I did some job on it yesterday and the day before that, but didn't like the result. I was consulting with my English teacher about the essay and during the process I came up with another topic, that I find more suited under the given circumstances. 
+
+I had to start everything from the scratch, but the result appeared to be acceptable. I need to thank LD (my English teacher) for helping me a lot, she found some quotes, that I needed, and helped me to find weak and unclear spots in the way how I deliver my ideas.
+
+Though I wrote only Russian version and I will have to translate the whole thing tomorrow. I will have classes and training, so it is going to be hard to manage to do the whole translation in one day. 
+
+Another problem, is that there is a chance, that I will have to cut a half of the text because of the length limitations. Considering the fact that I was withholding myself from detailed explanations and it still was not enough, it is going to be quite painful to cut my work like this. 
+
+It's about the time to write some gratitude:
+- It's a good thing that I decided to change the topic;
+- I did good work working on my essay today;
+- I'm happy to have such a kind and caring teacher like LD.

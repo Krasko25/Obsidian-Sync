@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "D_Translation",
+      "path": "Archive/D_Translation.md"
+    },
+    {
       "basename": "Tdiary",
       "path": "Archive/Tdiary.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Obsidian as a second brain, the ultimate tutorial",
       "path": "Archive/Obsidian as a second brain, the ultimate tutorial.md"
-    },
-    {
-      "basename": "2023-11-29",
-      "path": "Daily notes/2023/November/2023-11-29.md"
     }
   ],
   "omittedPaths": [],

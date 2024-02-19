@@ -8,43 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "28322995c38b6938",
+            "id": "a0bbd761dfdb925b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archive/Почему признание собственной ответственности - это очень важно.md",
+                "file": "Archive/Tdiary.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1dc4ecc89baadcf1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Archive/Был ли свободен Ричард.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "92f6ba3fb494fa02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily notes/2024/February/2024-02-18.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a045170ef07d39da",
+            "id": "515f696f022d6494",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -54,21 +30,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a0bbd761dfdb925b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Archive/D_Translation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -153,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archive/D_Translation.md",
+                "file": "Archive/Tdiary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Archive/D_Translation.md",
+                "file": "Archive/Tdiary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -182,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archive/D_Translation.md"
+                "file": "Archive/Tdiary.md"
               }
             }
           },
@@ -225,10 +188,10 @@
   },
   "active": "a0bbd761dfdb925b",
   "lastOpenFiles": [
+    "Archive/Герои проклятые верой в ужасающие идеи. Генри и Раскольников.md",
     "Archive/Tdiary.md",
     "Archive/D_Translation.md",
     "Archive/Лермонтов, «Есть чувство правды в сердце человека». Что в вашем понимании «чувство правды».md",
-    "Archive/Герои проклятые верой в ужасающие идеи. Генри и Раскольников.md",
     "Archive/График обучения 8 семестр.md",
     "Daily notes/2024/February/2024-02-18.md",
     "Archive/Был ли свободен Ричард.md",

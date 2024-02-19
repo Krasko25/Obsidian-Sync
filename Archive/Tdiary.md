@@ -253,3 +253,20 @@ It's about the time to write some gratitude:
 - It's a good thing that I decided to change the topic;
 - I did good work working on my essay today;
 - I'm happy to have such a kind and caring teacher like LD.
+
+==February 19th, 2024==
+Today I had to finish my essay (also known as scientific work). In parallel to that I had to take my classes in college, including one test. I also had a training today.
+
+I did the the translation of the whole thing (4 pages of 12th size letters). I was waiting for it to take less time (it's only about 13 hundred words, some of my daily notes are half as long as this essay), but it appeared that the real problem was the quality of speech in this text. I needed to be precise with my words which was really time and energy consuming (don't be confused by how low the quality of my speech now,  I just run out of energy at this point). 
+
+It also appeared that I had to do a presentation for my work today. I did it under 90 minutes, so it is really short and junky. Of course, if I didn't take as many breaks throughout the day I could have more time left, but what's done is done.
+
+It is not rare for me to stay up until a midnight, but this time I was tired way more than usual. I'm not going to lie, this day was brutal. It is a miracle in some form that I was able to pay that my time for this project, but I will surely pay for this in the few nearest days.
+
+Gratitude of a tired guy:
+- I worked hard today.
+- My essay appeared to be not bad.
+- The translation has some interesting English constructions here and there.
+- I did my training even under these circumstances.
+- I wrote this note.
+- I'm really grateful to LD for helping me throughout the whole way

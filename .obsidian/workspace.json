@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a0bbd761dfdb925b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Archive/Tdiary.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "515f696f022d6494",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archive/Герои проклятые верой в ужасающие идеи. Генри и Раскольников.md",
+                "file": "Archive/Бесы. Федор Михаилович Достоевский.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archive/Tdiary.md",
+                "file": "Archive/Бесы. Федор Михаилович Достоевский.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Archive/Tdiary.md",
+                "file": "Archive/Бесы. Федор Михаилович Достоевский.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archive/Tdiary.md"
+                "file": "Archive/Бесы. Федор Михаилович Достоевский.md"
               }
             }
           },
@@ -186,7 +174,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "a0bbd761dfdb925b",
+  "active": "515f696f022d6494",
   "lastOpenFiles": [
     "Archive/Герои проклятые верой в ужасающие идеи. Генри и Раскольников.md",
     "Archive/Tdiary.md",

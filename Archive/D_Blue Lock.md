@@ -1,5 +1,7 @@
 
 
+The world is waiting for that "challenging focus" of yours. The {{radiance}} ([light](https://dictionary.cambridge.org/dictionary/english/light "light") or [heat](https://dictionary.cambridge.org/dictionary/english/heat "heat") that comes from something:) of a footballer 
+
 sacrificing your talent in exchange for living long and {{tedious}} (extremely boring) life 
 
 #cards/dictionary 

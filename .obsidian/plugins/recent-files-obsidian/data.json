@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "D_Blue Lock",
+      "path": "Archive/D_Blue Lock.md"
+    },
+    {
       "basename": "Бесы. Федор Михаилович Достоевский",
       "path": "Archive/Бесы. Федор Михаилович Достоевский.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Автобусы в Крыму",
       "path": "Archive/Автобусы в Крыму.md"
-    },
-    {
-      "basename": "Obsidian as a second brain, the ultimate tutorial",
-      "path": "Archive/Obsidian as a second brain, the ultimate tutorial.md"
     }
   ],
   "omittedPaths": [],

@@ -18,7 +18,7 @@ Parfiriy finds reversed psychology to be a <u>double sided</u> sword>>_
 
 I wanted to know if I'm a {{beetle}} (a bug) or a human
 
-From a {{distance}} (издалека) he looked like a woman <!--SR:!2024-02-21,13,277-->
+From a {{distance}} (издалека) he looked like a woman <!--SR:!2024-03-27,35,277-->
 
 They spit in my {{mug}} (my face) quite openly <!--SR:!2024-03-02,29,289-->
 

@@ -56,7 +56,7 @@ Last year the company **seemed/looked** {{invincible}} (impossible to defeat or 
 
 hoe>>тяпка, мотыга <!--SR:!2024-03-14,35,297-->
 
-I was to lazy to milk this idea for 10 minutes>>_ <!--SR:!2024-02-17,30,282-->
+I was too lazy to milk this idea for 10 minutes>>_ <!--SR:!2024-05-15,84,282-->
 
 Am I still strong? I want to know. - he exceeds (**to go past the level, limit, rate, etc. that you are allowed) **the rumors
 
@@ -85,7 +85,7 @@ We entered into a noble forest.
 He was a man of noble character.
 She was descended from an old Italian noble family. <!--SR:!2024-03-25,42,293-->
 
-The body learns and {{acquires}} (**to gradually learn or gain something such as a language or skill) **it. That is how I survived. <!--SR:!2024-02-13,21,270-->
+The body learns and {{acquires}} (**to gradually learn or gain something such as a language or skill) **it. That is how I survived. <!--SR:!2024-04-21,60,270-->
 
 I have never met a person like you... a person purely {{devoted}} (**to give all of something, especially your time, effort, or love, or yourself, to something you believe in or to a person (посвещать))** to the sword.
 

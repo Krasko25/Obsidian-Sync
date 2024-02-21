@@ -18,9 +18,9 @@ He's escaping into the rocky hills! Don't let him get close to these {{cliffs}} 
 
 Are you looking {{down on us}} (смотреть свысока) like that? <!--SR:!2024-03-19,40,262-->
 
-You can't protect him anymore, "the white man's books", they were hidden in his {{tent}} (палатка). <!--SR:!2024-02-13,39,290-->
+You can't protect him anymore, "the white man's books", they were hidden in his {{tent}} (палатка). <!--SR:!2024-06-12,112,290-->
 
-A syndrome where he has the urge to dis{{assemble}} (**to separate something into its different parts) **everything. When he was ten, he dis{{assembled}} his neighbours car. <!--SR:!2024-02-20,30,279!2000-01-01,1,250-->
+A syndrome where he has the urge to dis{{assemble}} (**to separate something into its different parts) **everything. When he was ten, he dis{{assembled}} his neighbours car. <!--SR:!2024-06-21,121,299!2000-01-01,1,250-->
 
 But I can't reach Jolyne by myself. I need {{backup}} (**(someone or something that provides) support or help, or something that you have arranged in case your main plans, equipment, etc. go wrong)** <!--SR:!2024-03-21,38,263--> 
 

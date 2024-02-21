@@ -26,7 +26,7 @@ spill>>проболтаться <!--SR:!2024-05-04,82,346-->
 
 staff and stuff>>сотрудники и хлам <!--SR:!2024-02-24,25,281-->
 
-He had been {{grilling}} (**to** **ask** **someone a lot of** **questions** **for a** **long** **time)** me <!--SR:!2024-02-20,29,284-->
+He had been {{grilling}} (**to** **ask** **someone a lot of** **questions** **for a** **long** **time)** me <!--SR:!2024-05-12,81,284-->
 
 norm>>критерий, норматив
 
@@ -54,7 +54,7 @@ What do you think makes a {{compelling}}  character (interesting)?
 
 With flying colors>>**very easily**
 
-When I lived in Spain, I used to {{eat out}} (**to eat in a restaurant)** all the time <!--SR:!2024-02-10,29,274-->
+When I lived in Spain, I used to {{eat out}} (**to eat in a restaurant)** all the time <!--SR:!2024-05-11,80,274-->
 
 lift your ear up to that guy (god)>>_ <!--SR:!2024-05-05,83,341-->
 
@@ -84,7 +84,7 @@ to view a situation from a new perspective>>с новой точки зрени�
 
 Second class-citizen person>>_ <!--SR:!2024-04-13,57,326-->
 
-give it a shot>>_ <!--SR:!2024-02-17,36,294-->
+give it a shot>>_ <!--SR:!2024-06-05,105,294-->
 
 As is stated above>>_ <!--SR:!2024-03-25,46,332-->
 
@@ -123,7 +123,7 @@ The man was {{well over}} (сильно больше) eighty
 
 the distinctive speech of {{folks}} (**people, especially those of a particular group or type)** from the South <!--SR:!2024-02-22,20,337-->
 
-Mother, father, sister, brother hand in hand with one another>>_ <!--SR:!2024-02-16,8,302-->
+Mother, father, sister, brother hand in hand with one another>>_ <!--SR:!2024-03-15,23,302-->
 
 {{foreword}} (предисловие) to the book
 
@@ -174,7 +174,7 @@ articles↔артикли
 
 No Tom was there>>_ <!--SR:!2024-04-15,67,337-->
 
-{{adolescence}} (the time period between the beginning of puberty and adulthood) is a dangerous period <!--SR:!2024-02-21,13,323-->
+{{adolescence}} (the time period between the beginning of puberty and adulthood) is a dangerous period <!--SR:!2024-04-02,41,323-->
 
 {{confused identity}} (нечеткая самоидентификация) is a common teenager problem <!--SR:!2024-05-07,89,290-->
 
@@ -188,7 +188,7 @@ sequence of tenses>>согласование времен
 
 {{self-doubt}} (Сомнения в себе) is a serious illness <!--SR:!2024-03-16,42,329-->
 
-Go to work once you {{recover}} (get better) <!--SR:!2024-02-20,12,323-->
+Go to work once you {{recover}} (get better) <!--SR:!2024-03-31,39,323-->
 
 Hanter is good at {{endear}} (make kind) people
 
@@ -202,15 +202,15 @@ He mastered the art of {{hotfooting}} (run for life) <!--SR:!2024-03-23,49,321--
 
 He swallowed his drink in one {{gulp}} (to swallow).
 
-His {{background}} (past experience) makes everyone tremble <!--SR:!2024-02-15,14,317-->
+His {{background}} (past experience) makes everyone tremble <!--SR:!2024-04-07,46,317-->
 
 I have the {{warrant}} (A legal paper, issued by a court, giving police permission to make an arrest, seizure, or search.), to search here.
 
-Is my {{whereabouts}} (The place in or near which a person or thing is.) important? <!--SR:!2024-02-20,25,297-->
+Is my {{whereabouts}} (The place in or near which a person or thing is.) important? <!--SR:!2024-06-02,102,317-->
 
 It seems I'm going to {{obtein a scholarship}}(get a grant)
 
-It was a {{white lie}} (lie which a person feels is not serious or has few consequences). He won't be punished. <!--SR:!2024-02-06,13,306-->
+It was a {{white lie}} (lie which a person feels is not serious or has few consequences). He won't be punished. <!--SR:!2024-03-31,39,306-->
 
 Kill him!!! He is an {{accomplice}} (a person who takes part in a crime) <!--SR:!2024-02-22,41,294-->
 
@@ -230,7 +230,7 @@ There wouldn't be so hot if you hadn't thrown out the {{blinds}} (шторы)
 
 This {{frame}} (The lines and borders that contain the panels) of berserk is a masterpiece!! <!--SR:!2024-03-01,31,304-->
 
-This is our frendship {{tie}} (a set of stories that explains our relationship to the other members of our network, галстуг). <!--SR:!2024-02-19,10,303-->
+This is our frendship {{tie}} (a set of stories that explains our relationship to the other members of our network, галстуг). <!--SR:!2024-03-21,29,303-->
 
 This snake {{tempted}} (try to get someone to do something; test; invite (искушать)) me, it's its fault. <!--SR:!2024-04-26,70,284-->
 
@@ -273,7 +273,7 @@ Gotcha = got you = я поймал тебя (подкалол)>>_
 
 Hunter is a way cuter {{compared }}(to put things together to see how they ate the same) to Leila
 
-He got his tooth out {{on a dare}} (на спор) <!--SR:!2024-02-19,17,337-->
+He got his tooth out {{on a dare}} (на спор) <!--SR:!2024-04-17,56,337-->
 
 He was {{listing}} (A sentence with multiple phrases that create a list) his rewords for today and yesterday and the day before yesterday <!--SR:!2024-02-25,35,304-->
 
@@ -334,7 +334,7 @@ there is a {{pure}} (not mixed with anything else) evil in this book... <!--SR:!
 
 There's also DJ, who likes to DJ>>_ <!--SR:!2024-02-17,19,333-->
 
-There's only one possible explanation. She obviously wants to {{ask you out}} (invite to a date) <!--SR:!2024-02-09,11,315-->
+There's only one possible explanation. She obviously wants to {{ask you out}} (invite to a date) <!--SR:!2024-03-24,32,315-->
 
 they killed each other for this {{real estate}} (lands or building that someone owns) <!--SR:!2024-02-14,13,317-->
 
@@ -380,7 +380,7 @@ do box <!--SR:!2024-02-20,20,301-->
 
 Brain is going to use economic {{mode}} (режим).
 
-пульт>>remote <!--SR:!2024-02-18,37,294-->
+пульт>>remote <!--SR:!2024-06-08,108,294-->
 
 Male {{cattle}} (скот) are bulls
 
@@ -399,7 +399,7 @@ Game with {{finite}} (something that can end) resources <!--SR:!2024-03-10,23,30
 
 to make separating from the {{tribe}} (племя) and nature unreal
 
-Is this Pope claiming a {{ __divine status__ }} __ (божественный статус)__ ? <!--SR:!2024-02-21,40,294-->
+Is this Pope claiming a {{ __divine status__ }} __ (божественный статус)__ ? <!--SR:!2024-06-19,119,294-->
 
 The new law provides for {{equality}} (**the right of different groups of people to have a similar social position and receive the same treatment)** of human rights.
 

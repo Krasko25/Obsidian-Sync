@@ -4,7 +4,7 @@ It {{hit too close to home for me}} (больная тема), too <!--SR:!2024-
 
 But if you're not {{up to the task}} (good enough for this task), very well <!--SR:!2024-04-01,52,309-->
 
-narrator>>рассказчик <!--SR:!2024-02-18,37,294-->
+narrator>>рассказчик <!--SR:!2024-07-22,152,314-->
 
 I'm going to make you pay {{dearly}} (заплатить сполна)! <!--SR:!2024-03-03,39,305-->
 
@@ -37,13 +37,13 @@ You are just {{seeing things}} (тебе кажется) <!--SR:!2024-02-20,29,2
 
 Why do you have to {{belittle}} (**to make a person or an action seem as if he, she or it is not important)** everyone
 
-you seem down>>_ <!--SR:!2024-02-11,13,297-->
+you seem down>>_ <!--SR:!2024-03-29,37,297-->
 
 Don't {{twist}} (to change the meaning of the words) my words <!--SR:!2024-04-03,55,285--> 
 
 for the fun of it>>_ <!--SR:!2024-04-08,73,321-->
 
-man up>>**used to** **tell** **someone that they should** **deal** **with something more** **bravely** <!--SR:!2024-02-21,31,285-->
+man up>>**used to** **tell** **someone that they should** **deal** **with something more** **bravely** <!--SR:!2024-06-22,122,305-->
 
 You're actually making me use my {{trump card}} (**an** **advantage** **that makes you more** **likely** **to** **succeed** **than other** **people,** **especially something that other** **people** **do not** **know** **about)** <!--SR:!2024-02-23,22,294--> 
 

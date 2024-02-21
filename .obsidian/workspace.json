@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archive/D_Blue Lock.md",
+                "file": "Daily notes/2024/February/2024-02-21.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f51316b96aff2200",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Archive/D_interesting Expressions.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archive/D_Blue Lock.md",
+                "file": "Daily notes/2024/February/2024-02-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Archive/D_Blue Lock.md",
+                "file": "Daily notes/2024/February/2024-02-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archive/D_Blue Lock.md"
+                "file": "Daily notes/2024/February/2024-02-21.md"
               }
             }
           },
@@ -176,7 +188,9 @@
   },
   "active": "515f696f022d6494",
   "lastOpenFiles": [
+    "Archive/D_interesting Expressions.md",
     "Daily notes/2024/February/2024-02-21.md",
+    "Archive/D_Blue Lock.md",
     "Archive/Бесы. Федор Михаилович Достоевский.md",
     "Archive/Tdiary.md",
     "Archive/Герои проклятые верой в ужасающие идеи. Генри и Раскольников.md",
@@ -200,8 +214,6 @@
     "Archive/Идеи Фрейда. Ideas of Freud.md",
     "Templates/Бегство от свободы. Escape from Freedom.md",
     "Archive/D_Hajime no Ippo.md",
-    "Daily notes/2024/February/2024-02-16.md",
-    "Archive/D_Crime and Punishment.md",
     "Влияние кофе на сон. Impact",
     "Daily notes/2024/February",
     "Attachments/Screenshot 2024-01-11 at 11.31.46 AM.png",

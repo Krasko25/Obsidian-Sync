@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2024/February/2024-02-21.md",
+                "file": "Archive/Tdiary.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily notes/2024/February/2024-02-21.md",
+                "file": "Archive/Tdiary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily notes/2024/February/2024-02-21.md",
+                "file": "Archive/Tdiary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily notes/2024/February/2024-02-21.md"
+                "file": "Archive/Tdiary.md"
               }
             }
           },
@@ -188,8 +188,8 @@
   },
   "active": "515f696f022d6494",
   "lastOpenFiles": [
-    "Archive/D_interesting Expressions.md",
     "Daily notes/2024/February/2024-02-21.md",
+    "Archive/D_interesting Expressions.md",
     "Archive/D_Blue Lock.md",
     "Archive/Бесы. Федор Михаилович Достоевский.md",
     "Archive/Tdiary.md",

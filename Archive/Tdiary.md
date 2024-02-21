@@ -283,3 +283,6 @@ Gratitude of a man, who is sitting on a chair (yeah, my imagination is that bad)
 - I managed to mostly catch up on my Synergy course;
 - I decided not to do any tricks to save my stacks (taking a bath and calling my granny), I think that it will be a good lesson for me;
 - I'm analyzing my mistakes.
+
+==February 21st, 2024==
+This day does not differ much from yesterday. 

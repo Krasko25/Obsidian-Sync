@@ -292,4 +292,10 @@ An attempt to make a quick gratitude:
 - for doing legs workout today;
 - for trying hard to be better.
 ==February 22nd, 2024==
-Today was a bit strange day. I did ok in the first half of the day. 
+Today was a bit strange day. I did ok in the first half of the day, but it is hard for me to recap what I was doing. I mean, I can list a lot of things, but all of them are small, nothing, that I could find to be some kind of progress. Mostly, I was just switching between helping my father and doing some small things for myself. I guess my takeaway here will be to just be more conscious in the future to at least be able to analyse how I spend my time.
+
+Gratitude of a man, who needs to finish drying his hair after writing this note:
+- I continue helping my father and mother;
+- I don't skip trainings;
+- I do my meditations (though, usually my mourning one is floating);
+- I will fall asleep today on time.

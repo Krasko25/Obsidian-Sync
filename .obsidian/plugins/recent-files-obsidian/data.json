@@ -5,6 +5,10 @@
       "path": "Archive/Tdiary.md"
     },
     {
+      "basename": "D_Youtube",
+      "path": "Archive/D_Youtube.md"
+    },
+    {
       "basename": "Emotions MOC",
       "path": "Archive/Emotions MOC.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "D_Frieren",
       "path": "Archive/D_Frieren.md"
-    },
-    {
-      "basename": "2024-02-13",
-      "path": "Daily notes/2024/February/2024-02-13.md"
     }
   ],
   "omittedPaths": [],

@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archive/D_interesting Expressions.md",
+                "file": "Archive/Бесы. Федор Михаилович Достоевский.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archive/Tdiary.md",
+                "file": "Archive/Бесы. Федор Михаилович Достоевский.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Archive/Tdiary.md",
+                "file": "Archive/Бесы. Федор Михаилович Достоевский.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archive/Tdiary.md"
+                "file": "Archive/Бесы. Федор Михаилович Достоевский.md"
               }
             }
           },
@@ -186,13 +187,13 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "515f696f022d6494",
+  "active": "f51316b96aff2200",
   "lastOpenFiles": [
-    "Daily notes/2024/February/2024-02-21.md",
     "Archive/D_interesting Expressions.md",
+    "Archive/Tdiary.md",
+    "Daily notes/2024/February/2024-02-21.md",
     "Archive/D_Blue Lock.md",
     "Archive/Бесы. Федор Михаилович Достоевский.md",
-    "Archive/Tdiary.md",
     "Archive/Герои проклятые верой в ужасающие идеи. Генри и Раскольников.md",
     "Archive/D_Translation.md",
     "Archive/Лермонтов, «Есть чувство правды в сердце человека». Что в вашем понимании «чувство правды».md",

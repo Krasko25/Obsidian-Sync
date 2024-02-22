@@ -285,4 +285,9 @@ Gratitude of a man, who is sitting on a chair (yeah, my imagination is that bad)
 - I'm analyzing my mistakes.
 
 ==February 21st, 2024==
-This day does not differ much from yesterday. 
+This day does not differ much from yesterday. Though I can't find any time to work on my diploma project and exams, I'm really worried about this.
+
+An attempt to make a quick gratitude:
+- thanks to Mikhail for helping his father;
+- for doing legs workout today;
+- for trying hard to be better.

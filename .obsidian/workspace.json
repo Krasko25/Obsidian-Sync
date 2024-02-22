@@ -6,6 +6,7 @@
       {
         "id": "404c41a4089f32ca",
         "type": "tabs",
+        "dimension": 99.99999999999999,
         "children": [
           {
             "id": "515f696f022d6494",
@@ -25,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archive/Бесы. Федор Михаилович Достоевский.md",
+                "file": "Archive/Emotions MOC.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#cards/dictionary",
+                "query": "tag:#Mark/Idea",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +98,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -117,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archive/Бесы. Федор Михаилович Достоевский.md",
+                "file": "Archive/Emotions MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Archive/Бесы. Федор Михаилович Достоевский.md",
+                "file": "Archive/Emotions MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archive/Бесы. Федор Михаилович Достоевский.md"
+                "file": "Archive/Emotions MOC.md"
               }
             }
           },
@@ -189,11 +191,26 @@
   },
   "active": "f51316b96aff2200",
   "lastOpenFiles": [
+    "Archive/Originality Equals Hunger.md",
+    "Archive/Тебе не достаточно лишь одной формы удовольствия.md",
+    "Archive/Идея двойников. Twins.md",
+    "Archive/Cycles of seasons of a man.md",
+    "Daily notes/2024/January/2024-01-26.md",
+    "Daily notes/2024/January/2024-01-25.md",
+    "Daily notes/2024/January/2024-01-14.md",
+    "Daily notes/2024/January/2024-01-02.md",
+    "Daily notes/2023/December/2023-12-23.md",
+    "Daily notes/2023/December/2023-12-13.md",
+    "Daily notes/2023/December/2023-12-12.md",
+    "Daily notes/2023/December/2023-12-05.md",
+    "Daily notes/2023/November/2023-11-21.md",
+    "Daily notes/2024/February/2024-02-22.md",
+    "Attachments/Screenshot 2024-02-21 at 5.53.21 PM.png",
+    "Archive/Бесы. Федор Михаилович Достоевский.md",
     "Archive/D_interesting Expressions.md",
     "Archive/Tdiary.md",
     "Daily notes/2024/February/2024-02-21.md",
     "Archive/D_Blue Lock.md",
-    "Archive/Бесы. Федор Михаилович Достоевский.md",
     "Archive/Герои проклятые верой в ужасающие идеи. Генри и Раскольников.md",
     "Archive/D_Translation.md",
     "Archive/Лермонтов, «Есть чувство правды в сердце человека». Что в вашем понимании «чувство правды».md",
@@ -201,20 +218,6 @@
     "Daily notes/2024/February/2024-02-18.md",
     "Archive/Был ли свободен Ричард.md",
     "Archive/Habitica.md",
-    "Archive/Почему признание собственной ответственности - это очень важно.md",
-    "Archive/Меняются ли люди в условиях технического прогресса.md",
-    "Archive/Ты НЕ выбираешь, смотреть ли это видео.md",
-    "Archive/Индивидуализация как она есть.md",
-    "Daily notes/2024/February/2024-02-17.md",
-    "Archive/D_Other Sources.md",
-    "Archive/Текучесть событий в Преступление и Наказание. The flow of events in Crime and Punishment.md",
-    "Archive/В жизни нет смысла и это прекрасно. There is no purpose in life and that is great.md",
-    "Archive/Страх свободы, ответственности. A Fear of Freedom and Responsibility.md",
-    "Archive/Страх одиночества, необходимость привязанности к чему-то. A fear of loneliness, necessity of connections.md",
-    "Archive/Вопрос свободы в средневековье.md",
-    "Archive/Идеи Фрейда. Ideas of Freud.md",
-    "Templates/Бегство от свободы. Escape from Freedom.md",
-    "Archive/D_Hajime no Ippo.md",
     "Влияние кофе на сон. Impact",
     "Daily notes/2024/February",
     "Attachments/Screenshot 2024-01-11 at 11.31.46 AM.png",
@@ -231,7 +234,6 @@
     "Attachments/Screenshot 2023-12-23 at 17.38.41.png",
     "Attachments/Screenshot 2023-11-17 at 19.00.15.png",
     "Attachments/Screenshot 2023-11-17 at 18.47.49.png",
-    "Attachments/Screenshot 2023-11-17 at 18.54.20.png",
     "Attachments",
     "Templates",
     "Obsidian items",

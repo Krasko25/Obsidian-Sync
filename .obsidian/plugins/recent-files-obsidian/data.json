@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-02-23",
-      "path": "Daily notes/2024/February/2024-02-23.md"
+      "basename": "diary",
+      "path": "Archive/diary.md"
     },
     {
       "basename": "Tdiary",
       "path": "Archive/Tdiary.md"
+    },
+    {
+      "basename": "2024-02-23",
+      "path": "Daily notes/2024/February/2024-02-23.md"
     },
     {
       "basename": "D_Youtube",
@@ -195,10 +199,6 @@
     {
       "basename": "Vagabond. Бродяга",
       "path": "Archive/Vagabond. Бродяга.md"
-    },
-    {
-      "basename": "Большая шестёрка. Отжимания в стойке на руках",
-      "path": "Archive/Большая шестёрка. Отжимания в стойке на руках.md"
     }
   ],
   "omittedPaths": [],

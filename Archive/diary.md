@@ -2167,16 +2167,16 @@ Gratitude moment:
 ==January 21st, 2024==
 Today I woke up at 7:20 (which is almost early from my measurements). Usually it would be a hallmark of a good day, but it was not the case today. 
 
-In the morning I allowed myself to break the rules a bit and watch some silly videos on youtube. My youtube is set the way, that it gets throws me away after 5 minutes of use. Even with that, I was opening it over and over again. The worst part about this kind of situations is that you don't rest or enjoy it, it just drains your energy away.
+In the morning I allowed myself to break the rules a bit and watch some silly videos on youtube. My youtube is set the way, that it throws me away after 5 minutes of use. Even with that, I was opening it over and over again. The worst part about this kind of situations is that you don't rest or enjoy it, it just drains your energy away.
 
 Throughout the day I had that temptation go back there to that circle of self-destruction again. In some way, I can say that by all those actions I was growing up my habit of disrespecting rules (I violate them many times before! Nothing outrageous happened! It is a normal thing to do). We are forming a habit of missing good habits when we act like this. Someone from our party was bringing up this idea before, but I don't recall who exactly did that.
 
 During the day I was teaching my nephew English, it seems, that he got some progress out of it. At about 4 pm my nephew went back home.
 
-During the last few days I had a lot of friends and spend a lot of time being lazy. Because of this, today I had to work of my project for Synergy university at night. I finished it. I don't even know what to say, it took only about 4-6 hours to finish this project, but I was postponing it for a few weeks, that's just lame and shameful. 
+During the last few days I had a lot of visitors and spend a lot of time being lazy. Because of this, today, I had to work of my project for Synergy university at night. I finished it. I don't even know what to say, it took only about 4-6 hours to finish this project, but I was postponing it for a few weeks, that's just lame and shameful. 
 
 Switching to something positive, gratitude:
-1) I finally finished my project. The mare fact of this debt was draining energy out of me, I'm happy, that I solved this problem.
+1) I finally finished my project. The mere fact of this debt was draining energy out of me, I'm happy, that I solved this problem.
 2) I continue preparing for my math exam.
 3) My English lessons are consistent.
 

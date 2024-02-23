@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archive/Tdiary.md",
+                "file": "Archive/diary.md",
                 "mode": "source",
                 "source": false
               }
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2024/February/2024-02-23.md",
+                "file": "Archive/Tdiary.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,8 +44,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily notes/2024/February/2024-02-23.md",
+                "file": "Archive/diary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily notes/2024/February/2024-02-23.md",
+                "file": "Archive/diary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -160,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily notes/2024/February/2024-02-23.md"
+                "file": "Archive/diary.md"
               }
             }
           },
@@ -201,9 +200,10 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "f51316b96aff2200",
+  "active": "515f696f022d6494",
   "lastOpenFiles": [
     "Archive/Tdiary.md",
+    "Archive/diary.md",
     "Daily notes/2024/February/2024-02-23.md",
     "Archive/D_Youtube.md",
     "Archive/Emotions MOC.md",
@@ -229,7 +229,6 @@
     "Archive/Герои проклятые верой в ужасающие идеи. Генри и Раскольников.md",
     "Archive/D_Translation.md",
     "Archive/Лермонтов, «Есть чувство правды в сердце человека». Что в вашем понимании «чувство правды».md",
-    "Archive/График обучения 8 семестр.md",
     "Влияние кофе на сон. Impact",
     "Daily notes/2024/February",
     "Attachments/Screenshot 2024-01-11 at 11.31.46 AM.png",

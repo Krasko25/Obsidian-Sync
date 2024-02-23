@@ -299,3 +299,15 @@ Gratitude of a man, who needs to finish drying his hair after writing this note:
 - I don't skip trainings;
 - I do my meditations (though, usually my mourning one is floating);
 - I will fall asleep today on time.
+
+==February 23rd, 2024==
+Today there was a holiday in my country, so I had no classes today, but it it still was not enough for me to manage to do much. This time the reason is quite clear, I have spend way too much time procrastinating. 
+
+I guess, that the reason why I was trying to avoid doing my work is because I had to do one assignment is a program, that I was not using for a long period of time. Because of this I was doing some mistakes in the first stages of work and had to redo everything over a few times (the assignment itself is not that hard, but I wanted to do a harder variation of it and it was not a good idea). Next time it would be better to just do something else, that I would want to do at the given moment.
+
+One can say that I have already dipped one leg into my bed, so here is a quick gratitude:
+- I will fall asleep on time (I was praising myself for that before, but didn't succeed in most cases, this one is going to be different);
+- I was helping my father (yeah, it's not original to say this everyday, but the work itself or it's results does not interest me, I do it just for my father, so I just want to track it here as one of the excuses);
+- I do my trainings and scoliosis exercises;
+- I had 90 minutes lesson of English;
+- I wrote this note.

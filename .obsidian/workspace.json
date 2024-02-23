@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archive/Tdiary.md",
+                "file": "Daily notes/2024/February/2024-02-23.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archive/Tdiary.md",
+                "file": "Daily notes/2024/February/2024-02-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Archive/Tdiary.md",
+                "file": "Daily notes/2024/February/2024-02-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archive/Tdiary.md"
+                "file": "Daily notes/2024/February/2024-02-23.md"
               }
             }
           },
@@ -203,9 +203,9 @@
   },
   "active": "f51316b96aff2200",
   "lastOpenFiles": [
+    "Archive/Tdiary.md",
     "Daily notes/2024/February/2024-02-23.md",
     "Archive/D_Youtube.md",
-    "Archive/Tdiary.md",
     "Archive/Emotions MOC.md",
     "Archive/Originality Equals Hunger.md",
     "Archive/Тебе не достаточно лишь одной формы удовольствия.md",

@@ -28,7 +28,7 @@ I {{vow}} (make a vow; promise) to deliver it to your parents <!--SR:!2024-05-18
 
 I feel bad for everyone, you, guys, share this. - a tactful {{bribe}} (payment made to a person in a position of trust to corrupt his judgment), eh? <!--SR:!2024-03-03,36,287-->
 
-Mushashi considers himself to be {{arrogant}} ( высокометный) <!--SR:!2024-02-17,8,287-->
+Mushashi considers himself to be {{arrogant}} ( высокометный) <!--SR:!2024-03-25,31,307-->
 
 overcoming difficulties and at times even risking one's life. These are the things that allow the soul to grow and mature>>allow #Mark/Quote
 
@@ -69,7 +69,7 @@ Even if you are {{crippled}} (**an extremely offensive word for a person whose l
 With this leg, this trip is three times as {{tiring}} (утомляющая)
 While he is doing that, Musashi's reputation will reach the {{topmost}} (the highest point of something (reputation)) level. <!--SR:!2024-04-17,68,333!2024-03-04,39,310-->
 
-give up the lying already>>_ <!--SR:!2024-02-10,12,302-->
+give up the lying already>>_ <!--SR:!2024-03-28,34,302-->
 
 Your thoughts are quite {{profound}} (**felt or experienced very strongly or in an extreme way (очеь глубокое понимание))**, aren't they? <!--SR:!2024-03-16,44,263-->
 

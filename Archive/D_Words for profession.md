@@ -12,7 +12,7 @@ our groups were {{merged}} (flowing together) <!--SR:!2024-03-18,31,282-->
 
 Security is a top {{concern}} (interest, neсessity, priority) in web development.
 
-Developing a web application {{requires}} (have need of) proficiency in various programming languages <!--SR:!2024-02-10,36,270-->
+Developing a web application {{requires}} (have need of) proficiency in various programming languages <!--SR:!2024-05-29,96,270-->
 
 Modern web developers often {{utilize}} (put into service; make work for a particular purpose or for its inherent or natural purpose) popular JavaScript libraries <!--SR:!2024-02-25,16,262-->
 

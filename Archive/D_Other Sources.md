@@ -20,7 +20,7 @@ next-to-last; second last; last, but one>>_ <!--SR:!2024-02-22,26,297-->
 
 What can I do to make up to you?>>помириться <!--SR:!2024-04-05,53,324-->
 
-I'm going to {{speak my mind}} (to tell what you are thinking about) and you are going to listen <!--SR:!2024-02-23,24,284-->
+I'm going to {{speak my mind}} (to tell what you are thinking about) and you are going to listen <!--SR:!2024-05-27,94,304-->
 
 spill>>проболтаться <!--SR:!2024-05-04,82,346-->
 
@@ -50,7 +50,7 @@ go through something
 
 What do you think makes a {{compelling}}  character (interesting)?
 
-{{Compelling}} (**it makes you** **believe** **it or** **accept** **it because it is so** **strong (внушительные, сильные)) **evidence <!--SR:!2024-02-19,7,271-->
+{{Compelling}} (**it makes you** **believe** **it or** **accept** **it because it is so** **strong (внушительные, сильные)) **evidence <!--SR:!2024-03-15,21,271-->
 
 With flying colors>>**very easily**
 
@@ -97,7 +97,7 @@ aircraft in plural form>>aircraft and words with -craft has the same form in sin
 
 deer in plural form>>deer
 
-fish in plural form>>fish <!--SR:!2024-02-11,18,326-->
+fish in plural form>>fish <!--SR:!2024-04-21,58,326-->
 
 You in a single form
 ?
@@ -107,7 +107,7 @@ thy - твой (зай)
 
 Thou>>ты (древнее) (Зау) <!--SR:!2024-02-29,21,295-->
 
-Thee>>тебя (древнее) <!--SR:!2024-02-19,21,281-->
+Thee>>тебя (древнее) <!--SR:!2024-05-14,81,301-->
 
 Thy>>твой (древнее)
 
@@ -121,13 +121,13 @@ I am willing to try anything at this point>>_ <!--SR:!2024-03-04,34,301-->
 
 The man was {{well over}} (сильно больше) eighty
 
-the distinctive speech of {{folks}} (**people, especially those of a particular group or type)** from the South <!--SR:!2024-02-22,20,337-->
+the distinctive speech of {{folks}} (**people, especially those of a particular group or type)** from the South <!--SR:!2024-05-02,69,337-->
 
 Mother, father, sister, brother hand in hand with one another>>_ <!--SR:!2024-03-15,23,302-->
 
 {{foreword}} (предисловие) to the book
 
-but it involves an extremely {{blue}} (пошлая, грубая) __ joke__ . <!--SR:!2024-02-20,8,303-->
+but it involves an extremely {{blue}} (пошлая, грубая) __ joke__ . <!--SR:!2024-03-16,22,303-->
 
 I've been feeling kind of {{blue}} (perfect blue). <!--SR:!2024-03-07,33,312-->
 
@@ -135,7 +135,7 @@ The {{womb}} (утроба матери) represents the very first place in whic
 
 We were playing {{board games}} (table games) on that tree a lot.
 
-He can be depend on>>_ <!--SR:!2024-02-18,15,319-->
+He can be depend on>>_ <!--SR:!2024-04-10,47,319-->
 
 I believe that {{posters}} (плакаты) on the school walls is trash
 
@@ -156,7 +156,7 @@ I was told that my suit is {{spoiled}} (to destroy or reduce the pleasure, inter
 
 
 
-They {{set off}} (to start on a trip) again, the class looking at Pr. Lupin with increased respect. <!--SR:!2024-02-22,30,284-->
+They {{set off}} (to start on a trip) again, the class looking at Pr. Lupin with increased respect. <!--SR:!2024-05-16,83,284-->
 
 {{troop}} (a group of solders) have ended
 
@@ -178,7 +178,7 @@ No Tom was there>>_ <!--SR:!2024-04-15,67,337-->
 
 {{confused identity}} (нечеткая самоидентификация) is a common teenager problem <!--SR:!2024-05-07,89,290-->
 
-You never know how {{puberty}} (Developmental stage at which a person becomes capable of reproduction.) will change you. <!--SR:!2024-02-14,19,331-->
+You never know how {{puberty}} (Developmental stage at which a person becomes capable of reproduction.) will change you. <!--SR:!2024-04-24,61,331-->
 
 {{look out}} (be careful)! It's going to fall!
 
@@ -194,7 +194,7 @@ Hanter is good at {{endear}} (make kind) people
 
 When it comes to attention, Hunter is the most {{generous}} (very giving, as if born with plenty of money) dog <!--SR:!2024-03-07,34,301-->
 
-He drew himself as a {{gifted student}} (talented student) <!--SR:!2024-02-22,41,294-->
+He drew himself as a {{gifted student}} (talented student) <!--SR:!2024-08-07,166,314-->
 
 He {{lured}} (To tempt or attract with the promise of something good) you into the trap! <!--SR:!2024-03-04,42,304-->
 
@@ -300,7 +300,7 @@ her neighbours. <!--SR:!2024-02-22,22,286-->
 
 Leila had an amazing {{artistic process}} (creative process) yesterday <!--SR:!2024-02-16,8,301-->
 
-Leila want us to {{worship}} (adoration and honor given to God) her. <!--SR:!2024-02-20,17,339-->
+Leila want us to {{worship}} (adoration and honor given to God) her. <!--SR:!2024-04-20,57,339-->
 
 Leila was expected to be  {{charm}} (a pleasing quality that attracts others)
 
@@ -332,11 +332,11 @@ The ghost of that ink {{spot}} (a small, usually round area of colour that has d
 
 there is a {{pure}} (not mixed with anything else) evil in this book... <!--SR:!2024-03-24,52,315-->
 
-There's also DJ, who likes to DJ>>_ <!--SR:!2024-02-17,19,333-->
+There's also DJ, who likes to DJ>>_ <!--SR:!2024-05-20,87,353-->
 
 There's only one possible explanation. She obviously wants to {{ask you out}} (invite to a date) <!--SR:!2024-03-24,32,315-->
 
-they killed each other for this {{real estate}} (lands or building that someone owns) <!--SR:!2024-02-14,13,317-->
+they killed each other for this {{real estate}} (lands or building that someone owns) <!--SR:!2024-04-03,40,317-->
 
 This {{firing back}} (to answer a question or remark quickly and in angry way) became the huge problem for our group.
 
@@ -348,11 +348,11 @@ What is the price of your {{blind eye}} (ignore the violation) <!--SR:!2024-02-1
 
 Yesterday we have  _??? (to move soldiers or equipment to a place where they can be used when they are needed)_  on the moon.
 
-Yesterday we had {{deploied}} (to move soldiers or equipment to a place where they can be used when they are needed) on the moon. <!--SR:!2024-02-18,10,301-->
+Yesterday we had {{deploied}} (to move soldiers or equipment to a place where they can be used when they are needed) on the moon. <!--SR:!2024-03-24,30,301-->
 
-You mustn't {{reveal}} (to make known or show something that is surprising or that was previously secret) government secrets. <!--SR:!2024-02-11,19,324-->
+You mustn't {{reveal}} (to make known or show something that is surprising or that was previously secret) government secrets. <!--SR:!2024-05-20,87,344-->
 
-This {{concept}} (a principle or idea) is broader than you think. <!--SR:!2024-02-21,30,282-->
+This {{concept}} (a principle or idea) is broader than you think. <!--SR:!2024-05-17,84,282-->
 
 This concept (a principle or idea) is more {{narrow}} (having a small distance from one side to the other, especially in comparison with the length) than you think.
 
@@ -376,7 +376,7 @@ play tennis <!--SR:!2024-03-25,52,284-->
 В каком случае занятия спортом употребляется do?
 ?
 остальные виды спорта, йога, боевые искусства
-do box <!--SR:!2024-02-20,20,301-->
+do box <!--SR:!2024-04-22,59,301-->
 
 Brain is going to use economic {{mode}} (режим).
 
@@ -384,7 +384,7 @@ Brain is going to use economic {{mode}} (режим).
 
 Male {{cattle}} (скот) are bulls
 
-His business is {{poultry}} (домашняя птица, живность) farming. <!--SR:!2024-02-20,11,302-->
+His business is {{poultry}} (домашняя птица, живность) farming. <!--SR:!2024-03-23,29,302-->
 
 Foxes are considered {{vermin}} (паразиты, вредители). <!--SR:!2024-03-09,37,297-->
 
@@ -407,13 +407,13 @@ Many people in this area are {{descendants}} (**a person who is related to you a
 
 She has a right to the {{property}} (собственность). <!--SR:!2024-06-22,127,290-->
 
-Also I will consider the {{regularity}} (закономерности) between development of individual, humanity in general and religion. <!--SR:!2024-02-20,22,277-->
+Also I will consider the {{regularity}} (закономерности) between development of individual, humanity in general and religion. <!--SR:!2024-04-23,60,277-->
 
 Despite having a large family, they still had no **son and** {{heir}} (**a person who will legally receive money, property, or a title from another person, especially an older member of the same family, when that other person dies).** <!--SR:!2024-02-25,9,301-->
 
 It's important not to {{jump to conclusions}} (спешить с выводами). <!--SR:!2024-03-03,31,297-->
 
-She worked her way up through the corporate {{hierarchy}} (**a system in which people or things are arranged according to their importance)** to become president. <!--SR:!2024-02-14,18,277-->
+She worked her way up through the corporate {{hierarchy}} (**a system in which people or things are arranged according to their importance)** to become president. <!--SR:!2024-04-14,51,277-->
 
 he happens to be in Moscow>>_ <!--SR:!2024-04-20,68,352-->
 
@@ -429,7 +429,7 @@ Cold weather {{retards}} (**to make something slower)** the growth of many plant
 
 Identificate↔отождествлять
 
-The governor tried to {{suppress}} (**to prevent something from being seen or expressed or from operating)** the news. <!--SR:!2024-02-20,12,323-->
+The governor tried to {{suppress}} (**to prevent something from being seen or expressed or from operating)** the news. <!--SR:!2024-04-01,38,323-->
 
 They had to {{subordinate}} (**having a lower or less important position) **their own needs to the needs of the group
 

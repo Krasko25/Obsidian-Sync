@@ -42,25 +42,25 @@ plz>>please <!--SR:!2024-03-02,45,304-->
 
 thx>>thanks <!--SR:!2024-06-14,114,302-->
 
-IRL>>in real live <!--SR:!2024-02-19,16,334-->
+IRL>>in real live <!--SR:!2024-05-08,75,354-->
 
-lol>>laughing out loud <!--SR:!2024-02-05,17,320-->
+lol>>laughing out loud <!--SR:!2024-04-17,54,320-->
 
 IMO>>in my opinion <!--SR:!2024-05-06,80,346-->
 
-tbh>>to be honest <!--SR:!2024-02-16,16,331-->
+tbh>>to be honest <!--SR:!2024-05-03,70,351-->
 
 TY>>thank you <!--SR:!2024-02-24,16,336-->
 
 YW>>you're welcome <!--SR:!2024-05-23,110,294-->
 
-NBD>>no big deal <!--SR:!2024-02-05,33,290-->
+NBD>>no big deal <!--SR:!2024-07-04,132,310-->
 
 AKA>>also known as...
 
 TMI>>too much information
 
-CU>>see you <!--SR:!2024-02-18,16,332-->
+CU>>see you <!--SR:!2024-05-05,72,352-->
 
 IDC>>I don't care <!--SR:!2024-03-09,40,293-->
 

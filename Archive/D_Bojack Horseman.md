@@ -3,7 +3,7 @@ Well, it's one thing for a woman to {{weep}} (to cry with tears), but when they 
 
 red flags>>плохие предпосылки <!--SR:!2024-04-20,71,336-->
 
-l found your {{stashes}} (**to store or hide something, especially a large amount)** in the toilet paper rolls. How many of these do you take a day? <!--SR:!2024-02-10,29,275-->
+l found your {{stashes}} (**to store or hide something, especially a large amount)** in the toilet paper rolls. How many of these do you take a day? <!--SR:!2024-06-12,110,295-->
 
 Bojack {{overhear}} (подслушал) something about Flip and PC <!--SR:!2024-03-06,39,292-->
 
@@ -17,7 +17,7 @@ Ok, just don't live your life for Strib, or this baby, or anybody else. - Thank 
 
 Everything I {{pitch}} (**to throw something, esp. forcefully, promote)** he shoots down. <!--SR:!2024-02-11,33,294-->
 
-Don't chew too loud, and collect your {{paycheck.}} (**a check used to pay an employee the amount of money the employee has earned).** <!--SR:!2024-02-20,43,290--> 
+Don't chew too loud, and collect your {{paycheck.}} (**a check used to pay an employee the amount of money the employee has earned).** <!--SR:!2024-06-26,124,290--> 
 
 First of all, I don't hate {{Jews}} (иудей, еврей), If I did, would I be able to sit in the same room as my good friend, a {{Jew}}? <!--SR:!2024-03-29,65,320!2024-02-27,19,327-->
 

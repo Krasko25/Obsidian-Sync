@@ -32,9 +32,9 @@ Comfort somebody>>успокаивать кого-нибудь <!--SR:!2024-03-1
 
 Мармеладов is a retired {{official}} (чиновник) <!--SR:!2024-03-16,37,250-->
 
-As if it were a matter of his own father>>_ <!--SR:!2024-02-16,7,255-->
+As if it were a matter of his own father>>_ <!--SR:!2024-03-11,17,255-->
 
-Дубровский made a {{proposal}} (confession) for Маша <!--SR:!2024-02-12,26,270-->
+Дубровский made a {{proposal}} (confession) for Маша <!--SR:!2024-05-01,68,270-->
 
 Remember your place>>_ <!--SR:!2024-02-29,39,250-->
 

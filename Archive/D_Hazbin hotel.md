@@ -1,4 +1,4 @@
-I wanted to save you, the {{anguish}} (extreme distress of body or mind) to do what was {{required}} (necessary) <!--SR:!2000-01-01,1,250!2024-02-21,12,270--> 
+I wanted to save you, the {{anguish}} (extreme distress of body or mind) to do what was {{required}} (necessary) <!--SR:!2000-01-01,1,250!2024-04-07,44,290--> 
 
 #cards/dictionary 
 

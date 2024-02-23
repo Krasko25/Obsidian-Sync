@@ -1,6 +1,6 @@
 #cards/dictionary 
 
-Kindly {{hand over}} (to give someone else control of or responsibility for something) your mobile devices and I.D. <!--SR:!2024-02-18,16,311-->
+Kindly {{hand over}} (to give someone else control of or responsibility for something) your mobile devices and I.D. <!--SR:!2024-04-10,47,311-->
 
 Your mission is to get close to him. In order to achieve this you will get married and have a child. The deadline is drawing near, meaning you have one week to {{pull this off}} (to succeed in doing something difficult or unexpected (вывести это)). Are you expect me to produce a child within SEVEN DAYS!? <!--SR:!2024-02-28,36,287--> 
 
@@ -24,7 +24,7 @@ The bicycle gather speed as it went down the hill. <!--SR:!2024-03-17,34,290-->
 
 You've been staring at me ever since I walked in. May I help you? - *imposibble. She could even sense my {{gaze}} (to look at something or someone for a long time, especially in surprise or admiration, or because you are thinking about something else)? * <!--SR:!2024-03-08,45,304-->
 
-You have {{favorable}} (благоприятное) impression of my appearance?; May I ask you a {{favor}} ? ; it counts in {{favor}} (в ползу, во благо) of... <!--SR:!2024-05-05,92,297!2000-01-01,1,250!2024-02-21,19,268-->
+You have {{favorable}} (благоприятное) impression of my appearance?; May I ask you a {{favor}} ? ; it counts in {{favor}} (в ползу, во благо) of... <!--SR:!2024-05-05,92,297!2000-01-01,1,250!2024-04-16,53,268-->
 
 I've completed countless missions, yet once again I find myself {{losing heart}} (to stop believing that you can succeed) <!--SR:!2024-03-14,35,288--> 
 

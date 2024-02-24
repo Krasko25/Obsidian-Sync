@@ -17,7 +17,7 @@ People call them {{psychics}} (медиумы) <!--SR:!2024-04-24,72,281-->
 
 Salt {{splash}} (**to move in water so that drops of it go in all directions)** 
 
-I just got bored on my old job and started this office on a {{whim}} (**a sudden wish or idea, especially one that cannot be reasonably explained (прихоть))** <!--SR:!2024-02-09,18,309--> 
+I just got bored on my old job and started this office on a {{whim}} (**a sudden wish or idea, especially one that cannot be reasonably explained (прихоть))** <!--SR:!2024-04-20,56,309--> 
 
 My {{holy}} blade(**related to a religion or a god)! It's broken.** <!--SR:!2024-02-27,37,285--> 
 
@@ -33,7 +33,7 @@ Dimple {{despise}} (**to feel a strong dislike for someone or something because 
 
 Our muscles don't exist for something so {{petty}} (**not important and not worth giving attention to (мелкое, жалкое))** 
 
-You are just {{seeing things}} (тебе кажется) <!--SR:!2024-02-20,29,285-->
+You are just {{seeing things}} (тебе кажется) <!--SR:!2024-05-16,82,285-->
 
 Why do you have to {{belittle}} (**to make a person or an action seem as if he, she or it is not important)** everyone
 

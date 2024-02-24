@@ -15,7 +15,7 @@ Was named after my mom>>_ <!--SR:!2024-03-14,48,311-->
 
 Ok, just don't live your life for Strib, or this baby, or anybody else. - Thank you. - {{I mean it}} (I was quite serious, take it serious) 
 
-Everything I {{pitch}} (**to throw something, esp. forcefully, promote)** he shoots down. <!--SR:!2024-02-11,33,294-->
+Everything I {{pitch}} (**to throw something, esp. forcefully, promote)** he shoots down. <!--SR:!2024-05-30,96,294-->
 
 Don't chew too loud, and collect your {{paycheck.}} (**a check used to pay an employee the amount of money the employee has earned).** <!--SR:!2024-06-26,124,290--> 
 
@@ -33,7 +33,7 @@ The man is willing to give you a second chance, he is downstairs waiting, and yo
 
 'It smells terrible in here,' said Francis. 'Tomorrow, if it's warm, we'll {{air it out}} (wind) <!--SR:!2024-03-09,29,303--> 
 
-The room has a {{fabulous}} (**very good; excellent)** view across the lake. <!--SR:!2024-02-07,24,260-->
+The room has a {{fabulous}} (**very good; excellent)** view across the lake. <!--SR:!2024-04-29,65,260-->
 
 This neckless is a family {{heirloom}} (**a valuable object that has been given by older members of a family to youngermembers of the same family over many years).** 
 

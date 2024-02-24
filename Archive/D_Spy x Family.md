@@ -28,7 +28,7 @@ You have {{favorable}} (благоприятное) impression of my appearance?
 
 I've completed countless missions, yet once again I find myself {{losing heart}} (to stop believing that you can succeed) <!--SR:!2024-03-14,35,288--> 
 
-You've been {{staring}} (to look for a long time with the eyes wide open, especially when surprised, frightened, or thinking)** **at me ever since I walked in. May I help you? - *imposibble. She could even sense my gaze? * <!--SR:!2024-02-21,43,290-->
+You've been {{staring}} (to look for a long time with the eyes wide open, especially when surprised, frightened, or thinking)** **at me ever since I walked in. May I help you? - *imposibble. She could even sense my gaze? * <!--SR:!2024-08-14,172,310-->
 
 Anya is an extremely {{curious}} (interested in learning about people or things around you) child
 

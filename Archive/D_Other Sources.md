@@ -6,7 +6,7 @@ When we are certain [the outcome](https://www.urbandictionary.com/define.php?te
 
 Mikhail is using the word {{"interjection"}} way too much.
 
-He's a {{crafty}} (хитрый, коварный) old devil. <!--SR:!2024-02-18,20,281-->
+He's a {{crafty}} (хитрый, коварный) old devil. <!--SR:!2024-05-10,76,301-->
 
 I'm afraid to {{second-guess}} (**to** **guess** **what someone will do in the** **future)**, but I think that it is healthy <!--SR:!2024-03-18,47,254-->
 
@@ -16,7 +16,7 @@ Nanotechnology. Ah, you have {{outdone}} (be or do something to a greater degree
 
 Vegita! Stop vegiting it! You are making it worse! - Don't you verb me!>>_ <!--SR:!2024-04-09,53,337-->
 
-next-to-last; second last; last, but one>>_ <!--SR:!2024-02-22,26,297-->
+next-to-last; second last; last, but one>>_ <!--SR:!2024-06-08,105,317-->
 
 What can I do to make up to you?>>помириться <!--SR:!2024-04-05,53,324-->
 
@@ -24,17 +24,17 @@ I'm going to {{speak my mind}} (to tell what you are thinking about) and you are
 
 spill>>проболтаться <!--SR:!2024-05-04,82,346-->
 
-staff and stuff>>сотрудники и хлам <!--SR:!2024-02-24,25,281-->
+staff and stuff>>сотрудники и хлам <!--SR:!2024-05-03,69,281-->
 
 He had been {{grilling}} (**to** **ask** **someone a lot of** **questions** **for a** **long** **time)** me <!--SR:!2024-05-12,81,284-->
 
 norm>>критерий, норматив
 
-maid>>горничная <!--SR:!2024-02-24,12,321-->
+maid>>горничная <!--SR:!2024-04-16,52,341-->
 
 mop the floor>>мыть полы <!--SR:!2024-03-02,33,297-->
 
-She hired a lawyer who {{specializes}} (**to** **stud y** **or** **work** **on a** **particular** **subject** **or** **skill** **more than any** **others, so that you** **become** **an** **expert** **in it) ** in divorce cases. <!--SR:!2024-02-24,22,291-->
+She hired a lawyer who {{specializes}} (**to** **stud y** **or** **work** **on a** **particular** **subject** **or** **skill** **more than any** **others, so that you** **become** **an** **expert** **in it) ** in divorce cases. <!--SR:!2024-05-24,90,311-->
 
 sign up>>регистрироваться <!--SR:!2024-04-10,62,329-->
 
@@ -46,7 +46,7 @@ go through something
 **to use a lot of something**
 > Before I gave up coffee, I was going through five cups a day
 
-{{Before long}} (**soon)** you will regret about it <!--SR:!2024-02-24,15,323-->
+{{Before long}} (**soon)** you will regret about it <!--SR:!2024-04-11,47,323-->
 
 What do you think makes a {{compelling}}  character (interesting)?
 
@@ -58,7 +58,7 @@ When I lived in Spain, I used to {{eat out}} (**to eat in a restaurant)** all th
 
 lift your ear up to that guy (god)>>_ <!--SR:!2024-05-05,83,341-->
 
-in a nutshell>>simply put, giving only the main points <!--SR:!2024-02-19,17,337-->
+in a nutshell>>simply put, giving only the main points <!--SR:!2024-04-20,56,337-->
 
 There was nothing between the lines>>. <!--SR:!2024-05-01,79,341-->
 
@@ -151,7 +151,7 @@ I'll be doing {{bandage}} (a long, narrow piece of cloth that is tied around an 
 
 You will read a {{passage}} (a part of the text (отрывок)) of between 75 and 100 words regarding issue <!--SR:!2024-03-16,33,319-->
 
-I was told that my suit is {{spoiled}} (to destroy or reduce the pleasure, interest, or beauty of something) <!--SR:!2024-02-21,22,284-->
+I was told that my suit is {{spoiled}} (to destroy or reduce the pleasure, interest, or beauty of something) <!--SR:!2024-04-25,61,284-->
 
 
 
@@ -212,7 +212,7 @@ It seems I'm going to {{obtein a scholarship}}(get a grant)
 
 It was a {{white lie}} (lie which a person feels is not serious or has few consequences). He won't be punished. <!--SR:!2024-03-31,39,306-->
 
-Kill him!!! He is an {{accomplice}} (a person who takes part in a crime) <!--SR:!2024-02-22,41,294-->
+Kill him!!! He is an {{accomplice}} (a person who takes part in a crime) <!--SR:!2024-06-25,122,294-->
 
 Some people hate {{shooting}} (taking photos). Especially old people. <!--SR:!2024-04-09,71,324-->
 
@@ -243,7 +243,7 @@ You should take a {{loan}} (dept) and pay us back.
 
 You will be my main {{heir}} (a person legally entitled to the property or rank of another on that person's death.)
 
-run down street>>захудалая улица <!--SR:!2024-02-16,14,319-->
+run down street>>захудалая улица <!--SR:!2024-04-08,44,319-->
 
 Your {{hard-luck story}} (a story or piece of information that someone tells you or writes about himself or herself, intended to make you feel sympathy for that person) story makes me sad, you should go. <!--SR:!2024-03-24,44,306-->
 
@@ -296,9 +296,9 @@ It takes double or even {{triple}} amount of time
 Laila's {{impunity}} (freedom from punishment) helps to avoid problems
 
 LD carried out her {{threat}} (a suggestion that something unpleasant or violent will happen) in a form of
-her neighbours. <!--SR:!2024-02-22,22,286-->
+her neighbours. <!--SR:!2024-05-22,88,306-->
 
-Leila had an amazing {{artistic process}} (creative process) yesterday <!--SR:!2024-02-16,8,301-->
+Leila had an amazing {{artistic process}} (creative process) yesterday <!--SR:!2024-03-18,23,301-->
 
 Leila want us to {{worship}} (adoration and honor given to God) her. <!--SR:!2024-04-20,57,339-->
 
@@ -342,9 +342,9 @@ This {{firing back}} (to answer a question or remark quickly and in angry way) b
 
 verb (v)↔глагол
 
-Wear it on the {{outing}} (a short journey made by a group of people, usually for pleasure or education), okey? (в оригинале было написано так же) <!--SR:!2024-02-22,20,337-->
+Wear it on the {{outing}} (a short journey made by a group of people, usually for pleasure or education), okey? (в оригинале было написано так же) <!--SR:!2024-05-26,92,357-->
 
-What is the price of your {{blind eye}} (ignore the violation) <!--SR:!2024-02-12,10,299-->
+What is the price of your {{blind eye}} (ignore the violation) <!--SR:!2024-04-04,40,319-->
 
 Yesterday we have  _??? (to move soldiers or equipment to a place where they can be used when they are needed)_  on the moon.
 

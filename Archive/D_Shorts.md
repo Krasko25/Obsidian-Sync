@@ -8,7 +8,7 @@ otw>>on the way <!--SR:!2024-03-03,43,309-->
 
 bb>>byebye <!--SR:!2024-03-09,38,300-->
 
-Lmbfao>>laughing my big f... ass off <!--SR:!2024-02-14,16,326-->
+Lmbfao>>laughing my big f... ass off <!--SR:!2024-05-05,71,346-->
 
 imao>>In my arrogant opinion <!--SR:!2024-02-25,27,303-->
 
@@ -50,7 +50,7 @@ IMO>>in my opinion <!--SR:!2024-05-06,80,346-->
 
 tbh>>to be honest <!--SR:!2024-05-03,70,351-->
 
-TY>>thank you <!--SR:!2024-02-24,16,336-->
+TY>>thank you <!--SR:!2024-04-19,55,336-->
 
 YW>>you're welcome <!--SR:!2024-05-23,110,294-->
 

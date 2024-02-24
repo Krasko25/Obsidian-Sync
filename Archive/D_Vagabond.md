@@ -42,17 +42,17 @@ He helps performers {{hone}} (**to** **direct** **something such as an** **abili
 
 I thought you might have matured a little. Don't you realise how {{precious}} (драгоценна) the life is <!--SR:!2024-04-22,74,333-->
 
-He had Yashioka Denshichiro in a {{deadlock}} (тупик, безвыходная ситуация) <!--SR:!2024-02-24,30,290-->
+He had Yashioka Denshichiro in a {{deadlock}} (тупик, безвыходная ситуация) <!--SR:!2024-05-22,88,290-->
 
-At this {{rate}} (темп), the fire will spread, {{tear down}} (**to** **intentionally** **destroy** **a** **building** **or other** **structure** **because it is not being used or it is not** **wanted** **any more)** what is left of it <!--SR:!2000-01-01,1,250!2024-02-23,33,284-->
+At this {{rate}} (темп), the fire will spread, {{tear down}} (**to** **intentionally** **destroy** **a** **building** **or other** **structure** **because it is not being used or it is not** **wanted** **any more)** what is left of it <!--SR:!2000-01-01,1,250!2024-07-02,129,304-->
 
-I want you to {{embrace}} (**to** **accept** **something** **enthusiastically)** the principle of not regretting what you have done, let go of the past, learn from your experiences. <!--SR:!2024-02-15,37,292-->
+I want you to {{embrace}} (**to** **accept** **something** **enthusiastically)** the principle of not regretting what you have done, let go of the past, learn from your experiences. <!--SR:!2024-06-10,107,292-->
 
 Her face is peaceful. We will see her off tomorrow>>_ <!--SR:!2024-04-25,73,336-->
 
 the villagers grow weary of you and your incompetence 
 
-Last year the company **seemed/looked** {{invincible}} (impossible to defeat or prevent from doing what is intended) but in recent weeks has begun to have problems. <!--SR:!2024-02-14,25,290-->
+Last year the company **seemed/looked** {{invincible}} (impossible to defeat or prevent from doing what is intended) but in recent weeks has begun to have problems. <!--SR:!2024-06-03,100,310-->
 
 hoe>>тяпка, мотыга <!--SR:!2024-03-14,35,297-->
 

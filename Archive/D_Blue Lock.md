@@ -18,7 +18,7 @@ Nagi is the type of guy, who can {{discard}} (getting rid something that is rega
 
 If you survived the last round because you got lucky with teammates, prepare yourself. In the second selection, the trash will be {{sifted}} (отсеянны) out first 
 
-But the remaining 29 will have just the one chance to play. This is the final task of the {{revised}} (revise or reorganize, especially for the purpose of updating and improving) third selection. <!--SR:!2024-02-24,24,250-->
+But the remaining 29 will have just the one chance to play. This is the final task of the {{revised}} (revise or reorganize, especially for the purpose of updating and improving) third selection. <!--SR:!2024-04-23,59,250-->
 
 Kind guys like him mush be an {{endangered}} (вымирающие) species here in blue lock. <!--SR:!2024-03-05,36,250-->
 

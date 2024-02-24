@@ -26,7 +26,7 @@ Both of them were happy to {{part}} (split) <!--SR:!2024-03-08,28,289-->
 
 Each person is a vile, we get used to everything
 
-Landlady>>the owner of land <!--SR:!2024-02-23,36,270-->
+Landlady>>the owner of land <!--SR:!2024-06-02,99,270-->
 
 Comfort somebody>>успокаивать кого-нибудь <!--SR:!2024-03-17,34,274-->
 

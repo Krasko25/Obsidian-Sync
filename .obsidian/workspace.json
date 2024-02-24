@@ -47,8 +47,12 @@
             "id": "597b1e8229fc6347",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Archive/Habitica.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -138,6 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Archive/Habitica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,6 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Archive/Habitica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -164,7 +170,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Archive/Habitica.md"
+              }
             }
           },
           {
@@ -206,12 +214,12 @@
   },
   "active": "597b1e8229fc6347",
   "lastOpenFiles": [
+    "Daily notes/2024/February/2024-02-24.md",
     "Archive/Чувства Генри к Камиле. Feelings of Henry for Camila.md",
     "Archive/Герои проклятые верой в ужасающие идеи. Генри и Раскольников.md",
     "Archive/Gion is a double of Musashi.md",
     "Archive/Tdiary.md",
     "Archive/D_Youtube.md",
-    "Daily notes/2024/February/2024-02-24.md",
     "Archive/Richard is the auther.md",
     "Archive/D_LD.md",
     "Archive/diary.md",

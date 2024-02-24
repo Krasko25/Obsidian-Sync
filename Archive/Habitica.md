@@ -7,6 +7,13 @@ Merryannm - USA
 
 
 
+<hr>
+DuoAzul - survive
+Lara - exam
+Robert - Creative work
+Uncle Phil - 2 hours of Python 
+Merryannm -
+
 
 ### <span style="color:#0070c0">Compass</span>
 ###### North (source):

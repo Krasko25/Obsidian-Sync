@@ -6,7 +6,6 @@
       {
         "id": "404c41a4089f32ca",
         "type": "tabs",
-        "dimension": 99.99999999999999,
         "children": [
           {
             "id": "f51316b96aff2200",
@@ -21,18 +20,39 @@
             }
           },
           {
-            "id": "048f9edf83f8bc59",
+            "id": "f3265f8ad9b185d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archive/D_Youtube.md",
+                "file": "Archive/Герои проклятые верой в ужасающие идеи. Генри и Раскольников.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "d5322a6b6019434d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Archive/Чувства Генри к Камиле. Feelings of Henry for Camila.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "597b1e8229fc6347",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -118,7 +138,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archive/Tdiary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +154,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Archive/Tdiary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,9 +164,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Archive/Tdiary.md"
-              }
+              "state": {}
             }
           },
           {
@@ -188,13 +204,20 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "f51316b96aff2200",
+  "active": "597b1e8229fc6347",
   "lastOpenFiles": [
-    "Daily notes/2024/February/2024-02-24.md",
-    "Archive/diary.md",
+    "Archive/Чувства Генри к Камиле. Feelings of Henry for Camila.md",
+    "Archive/Герои проклятые верой в ужасающие идеи. Генри и Раскольников.md",
+    "Archive/Gion is a double of Musashi.md",
     "Archive/Tdiary.md",
-    "Daily notes/2024/February/2024-02-23.md",
     "Archive/D_Youtube.md",
+    "Daily notes/2024/February/2024-02-24.md",
+    "Archive/Richard is the auther.md",
+    "Archive/D_LD.md",
+    "Archive/diary.md",
+    "Archive/Bunny's blindness.md",
+    "Archive/The Secret History.md",
+    "Daily notes/2024/February/2024-02-23.md",
     "Archive/Emotions MOC.md",
     "Archive/Originality Equals Hunger.md",
     "Archive/Тебе не достаточно лишь одной формы удовольствия.md",
@@ -209,14 +232,7 @@
     "Daily notes/2023/December/2023-12-12.md",
     "Daily notes/2023/December/2023-12-05.md",
     "Daily notes/2023/November/2023-11-21.md",
-    "Daily notes/2024/February/2024-02-22.md",
     "Attachments/Screenshot 2024-02-21 at 5.53.21 PM.png",
-    "Archive/Бесы. Федор Михаилович Достоевский.md",
-    "Archive/D_interesting Expressions.md",
-    "Daily notes/2024/February/2024-02-21.md",
-    "Archive/D_Blue Lock.md",
-    "Archive/Герои проклятые верой в ужасающие идеи. Генри и Раскольников.md",
-    "Archive/D_Translation.md",
     "Влияние кофе на сон. Impact",
     "Daily notes/2024/February",
     "Attachments/Screenshot 2024-01-11 at 11.31.46 AM.png",

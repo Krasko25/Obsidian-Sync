@@ -4,6 +4,13 @@ The waiter was sarcastic with Bunny and Richard, he did not believe that they wi
 
 In the restaurant, he felt no shame about the situation and he was able to keep a straight face with Henry. 
 
+# Знает ли Банни о том, как люди относятся к оплате его счетов
+Банни говорил Ричарду, что Генри прийдет и оплатит счет с удовольствием, ему в счастье просто из дому выйти.
+
+
+
+
+
 
 ### <span style="color:#0070c0">Compass</span>
 ###### North (source):

@@ -2181,10 +2181,10 @@ Switching to something positive, gratitude:
 3) My English lessons are consistent.
 
 ==January 22nd, 2024==
-This day was quite average, I managed to do a few useful things, but I also violated my rules a few times today (I set those rules in the daily note for January 18th). My problem is that in the moment of hesitation I'm way too good when it comes to finding excuses for small rule breakers. I think that the key is to stop taking those allowances as something trivial (sure, it is an easy on the paper, but when you are in the moment, it is quite an ordeal, at least for me)
+This day was quite average, I managed to do a few useful things, but I also violated my rules a few times today (I set these rules in the daily note for January 18th). My problem is that in the moment of hesitation I'm way too good when it comes to finding excuses for small rule breakers. I think that the key is to stop taking those allowances as something trivial (sure, it is an easy on the paper, but when you are in the moment, it is quite an ordeal, at least for me)
 
 Positive highlights:
-1) I finally completed all the three main goals for the day (math, Crime and Punishment and sleep). For some reason I was missing one or two pieces on each day.
+1) I finally completed all main goals for the day (math, Crime and Punishment and sleep). For some reason, I was missing one or two pieces on each day.
 2) I had a good workout today.
 3) I was helping my parents today.
 4) I analize my mistakes, it is good.
@@ -2194,7 +2194,7 @@ Today I did a bit of progress and a bit of rule breakers, nothing to be strongly
 
 At the moment, I don't have many hard things, that I have to do right now. The homework from college is mostly about writing summaries of lectures, I have a break time at the course of Synergy university and preparation for the exam on February 7th goes smoothly. 
 
-However, I find the type of this situation to be the most dangerous. Even when I don't have some strict deadlines in the nearest time, the wave of a hellish amount of work is going to cover me in just a few month: learning practices, searching the compony for the production practice and working there, new module of Synergy university course, my diploma, the exams from my college and another 3 exams in May (the ones, that I need to go through, because of the shift of the education system in our country). Oh... I almost forgot, after that I will have to find a job and/or chose and get to university, move from my home and deal with a military office.
+However, I find this type of situation to be the most dangerous. Even when I don't have some strict deadlines in the nearest time, the wave of a hellish amount of work is going to cover me in just a few month: learning practices, searching for the compony for the production practice and working there, new module of Synergy university course, my diploma, the exams from my college and another 3 exams in May (the ones, that I need to go through, because of the shift of the education system in our country). Oh... I almost forgot, after that I will have to find a job and/or chose and get to university, move from my home and deal with a military office.
 
 Basically, at one hand I have no strict deadlines right now, what causes a dangerous temptation to relax, and the stress from the upcoming ordeals, that I will have to undertake (to undertake the/an ordeal - a flex way of saying, that you have completed a really hard work).
 
@@ -2206,7 +2206,7 @@ It's time to scrape together some reason to be proud about myself:
 1) I write my daily notes every day (except January 12th, but I'll fix it later);
 2) it seems, that I don't blame myself as much as I did before;
 3) I wrote down some of my worries, I think, that it will help me to understand myself better;
-4) My sleeping schedule got a git better.
+4) My sleeping schedule got a bit better.
 
 ==January 24th, 2024== 
 It was not a productive day, quite the opposite, I did only the bare minimum. I hope that I will be able to spend the next day the way to be proud about, it is really important to me.

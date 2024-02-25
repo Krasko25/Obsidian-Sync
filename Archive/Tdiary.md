@@ -311,3 +311,11 @@ One can say that I have already dipped one leg into my bed, so here is a quick g
 - I do my trainings and scoliosis exercises;
 - I had 90 minutes lesson of English;
 - I wrote this note.
+
+==February 24th, 2024==
+Today I did almost no progress with my studying, but I will do better tomorrow. Also out Habitica party had a call today, it was interesting. 
+
+Super fast gratitude so it won't take time out of my sleep:
+- I was helping my parents;
+- I had a two hours long English lesson;
+- I'm tracking my calories.

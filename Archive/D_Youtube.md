@@ -1,5 +1,10 @@
 
 
+Nah, don't be {{modest}} (marked by simplicity; having a humble opinion of yourself)  
+I know you're a goddess  
+So let's be honest  
+You are Athena (Athena)
+
 ... in whatever field you want to level up in will be {{next to impossible}} (almost impossible)
 
 I did my morning routine, cooked one dish to take some problems out of my mother's plate and had a training>>_

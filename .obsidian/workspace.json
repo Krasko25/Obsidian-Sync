@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "76946643e9e73f6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Archive/D_Youtube.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -142,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archive/Tdiary.md",
+                "file": "Archive/D_Youtube.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Archive/Tdiary.md",
+                "file": "Archive/D_Youtube.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -171,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archive/Tdiary.md"
+                "file": "Archive/D_Youtube.md"
               }
             }
           },
@@ -212,15 +224,15 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "597b1e8229fc6347",
+  "active": "76946643e9e73f6c",
   "lastOpenFiles": [
+    "Archive/Tdiary.md",
     "Archive/D_Oshino ko.md",
     "Archive/Habitica.md",
     "Daily notes/2024/February/2024-02-24.md",
     "Archive/Чувства Генри к Камиле. Feelings of Henry for Camila.md",
     "Archive/Герои проклятые верой в ужасающие идеи. Генри и Раскольников.md",
     "Archive/Gion is a double of Musashi.md",
-    "Archive/Tdiary.md",
     "Archive/D_Youtube.md",
     "Archive/Richard is the auther.md",
     "Archive/D_LD.md",

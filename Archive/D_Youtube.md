@@ -1,3 +1,7 @@
+
+
+... in whatever field you want to level up in will be {{next to impossible}} (almost impossible)
+
 I did my morning routine, cooked one dish to take some problems out of my mother's plate and had a training>>_
 
 #cards/dictionary 

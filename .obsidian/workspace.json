@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "55b1de5cd9556676",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily notes/2024/February/2024-02-25.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -200,16 +212,17 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "76946643e9e73f6c",
+  "active": "55b1de5cd9556676",
   "lastOpenFiles": [
-    "Archive/D_Youtube.md",
+    "Archive/Tdiary.md",
+    "Archive/Training MOC.md",
     "Daily notes/2024/February/2024-02-25.md",
+    "Archive/D_Youtube.md",
     "Archive/Большая шестёрка. Отжимания в стойке на руках.md",
     "Archive/Преимущества тренировок с собственным весом.md",
     "Archive/Что есть Естественнные Движения.md",
     "Archive/Большая шестерка. Отжимания.md",
     "Archive/Тренировочная зона.md",
-    "Archive/Tdiary.md",
     "Archive/D_Oshino ko.md",
     "Archive/Habitica.md",
     "Daily notes/2024/February/2024-02-24.md",
@@ -227,7 +240,6 @@
     "Archive/Тебе не достаточно лишь одной формы удовольствия.md",
     "Archive/Идея двойников. Twins.md",
     "Archive/Cycles of seasons of a man.md",
-    "Daily notes/2024/January/2024-01-26.md",
     "Attachments/Screenshot 2024-02-21 at 5.53.21 PM.png",
     "Влияние кофе на сон. Impact",
     "Daily notes/2024/February",

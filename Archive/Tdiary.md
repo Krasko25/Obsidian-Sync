@@ -319,3 +319,24 @@ Super fast gratitude so it won't take time out of my sleep:
 - I was helping my parents;
 - I had a two hours long English lesson;
 - I'm tracking my calories.
+
+==February 25th, 2024==
+I spend this day way better then the previous ones. I can't say that I have done much, but It still more than in previous days and, what is more important, I was according to the new rule, that I stated to myself (except for 30 minutes of short in the morning).
+
+My new set of rules (I'm sure that I will alter them soon, but still):
+
+Some notes:
+- I got back to using Habitica coins as a payment for leisure time.
+- I did not find any way to find the data about my earnings in some period of time, so I will alter the prices along the way.
+
+Rules itself:
+- there are 2 types of leisure time sets: ones with English recordings (15 and 30 minutes (the time of recoding process itself does not count)) and ones without it (10, 15 and 30 minutes). The first ones will cost less and will offer more time.
+- I get a 50% of price if I use a set of time between Pomodoros.
+- I have to write down the exact set and a time period before using it (it is necessary for more conscience).
+- There is a penalty for forgetting the previous rule or note stopping in the stated time.
+
+An opportunity to show some gratitude:
+- I was helping my father. This time we were doing a type of work, that I find to be really necessary to be done.
+- I completed some problematic homework.
+- I will fall asleep on time, this time for real!
+- I'am looking forward to start a new day.

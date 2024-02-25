@@ -5,6 +5,14 @@
       "path": "Daily notes/2024/February/2024-02-25.md"
     },
     {
+      "basename": "Tdiary",
+      "path": "Archive/Tdiary.md"
+    },
+    {
+      "basename": "Training MOC",
+      "path": "Archive/Training MOC.md"
+    },
+    {
       "basename": "D_Youtube",
       "path": "Archive/D_Youtube.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "Тренировочная зона",
       "path": "Archive/Тренировочная зона.md"
-    },
-    {
-      "basename": "Tdiary",
-      "path": "Archive/Tdiary.md"
     },
     {
       "basename": "D_Oshino ko",
@@ -195,10 +199,6 @@
     {
       "basename": "D_Other Sources",
       "path": "Archive/D_Other Sources.md"
-    },
-    {
-      "basename": "Текучесть событий в Преступление и Наказание. The flow of events in Crime and Punishment",
-      "path": "Archive/Текучесть событий в Преступление и Наказание. The flow of events in Crime and Punishment.md"
     }
   ],
   "omittedPaths": [],

@@ -22,3 +22,6 @@ your face looks especially kickable today>>_
 Power is given only to the one who dares to rich down and take it>>_ #Mark/Quote 
 
 a thought took shape in me>>_
+
+go to America>>_
+

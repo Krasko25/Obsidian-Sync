@@ -2217,7 +2217,7 @@ Anyway, I also want to talk a bit about Robert's idea:
 > 
 > Missing out on all the events has also been quite of a breaking point for me. I suppose it's a mindset thing? Something you will get used to when you truly think through what your priorities are with things.
 
- It so good when you know yourself, know what is really important. I think, that I know what principles I want to use to lead my actions, but this alone doesn't do a trick for me. Just a clarity with understanding of what I need to do at the exact moment is not enough, because I usually don't do this. And that is the worst part - I know, that when I am being true to my promises, It feels awesome. I can work and rest plenty, and be happy about this, but, for some stupid reasons, it is hard to act this way.
+ It is so good when you know yourself, know what is really important. I think, that I know what principles I want to use to lead my actions, but this alone doesn't do a trick for me. Just a clarity with understanding of what I need to do at the exact moment is not enough, because I usually don't do this. And that is the worst part: I know, that when I am being true to my promises, It feels awesome. I can work and rest plenty, and be happy about this, but, for some stupid reasons, it is hard to act this way.
  
  P.S: I am not trying to make a victim out of myself, I'm just being a bit extra dramatic. After all, I need to prepare for my essay exam ¯\\_(ツ)_/¯.
 
@@ -2225,7 +2225,7 @@ I hope that in the future I will have a lot of days, when it won't be hard to ca
 - I shared my mind, it feels better now;
 - I continue doing my scoliosis exersises everyday;
 - I successfully do my English repetitions every day;
-- I did my math learning routine today today
+- I did my math learning routine today.
 
 ==January 25th, 2024==
 Today was my birthday. For some reason I wanted to do my best in this very day more than in any other one. For some reason, I just want to grab into any date or source of motivation to name it a milestone of a "new me".

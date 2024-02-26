@@ -1,8 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "diary",
+      "path": "Archive/diary.md"
+    },
+    {
+      "basename": "2024-02-25",
+      "path": "Daily notes/2024/February/2024-02-25.md"
+    },
+    {
+      "basename": "Преимущества тренировок с собственным весом",
+      "path": "Archive/Преимущества тренировок с собственным весом.md"
+    },
+    {
       "basename": "2024-02-26",
       "path": "Daily notes/2024/February/2024-02-26.md"
+    },
+    {
+      "basename": "D_interesting Expressions",
+      "path": "Archive/D_interesting Expressions.md"
+    },
+    {
+      "basename": "Болезнь Сони",
+      "path": "Archive/Болезнь Сони.md"
+    },
+    {
+      "basename": "Болезнь Раскольникова. Когда она проявлялась, по каким причинам",
+      "path": "Archive/Болезнь Раскольникова. Когда она проявлялась, по каким причинам.md"
+    },
+    {
+      "basename": "Крест и Библия Сони",
+      "path": "Archive/Крест и Библия Сони.md"
+    },
+    {
+      "basename": "Лизавета",
+      "path": "Archive/Лизавета.md"
+    },
+    {
+      "basename": "Соня",
+      "path": "Archive/Соня.md"
     },
     {
       "basename": "Бесы. Федор Михаилович Достоевский",
@@ -11,10 +47,6 @@
     {
       "basename": "Habitica",
       "path": "Archive/Habitica.md"
-    },
-    {
-      "basename": "2024-02-25",
-      "path": "Daily notes/2024/February/2024-02-25.md"
     },
     {
       "basename": "Tdiary",
@@ -31,10 +63,6 @@
     {
       "basename": "Большая шестёрка. Отжимания в стойке на руках",
       "path": "Archive/Большая шестёрка. Отжимания в стойке на руках.md"
-    },
-    {
-      "basename": "Преимущества тренировок с собственным весом",
-      "path": "Archive/Преимущества тренировок с собственным весом.md"
     },
     {
       "basename": "Большая шестерка. Отжимания",
@@ -71,10 +99,6 @@
     {
       "basename": "D_LD",
       "path": "Archive/D_LD.md"
-    },
-    {
-      "basename": "diary",
-      "path": "Archive/diary.md"
     },
     {
       "basename": "Bunny's blindness",
@@ -149,10 +173,6 @@
       "path": "Daily notes/2024/February/2024-02-22.md"
     },
     {
-      "basename": "D_interesting Expressions",
-      "path": "Archive/D_interesting Expressions.md"
-    },
-    {
       "basename": "2024-02-21",
       "path": "Daily notes/2024/February/2024-02-21.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "Был ли свободен Ричард",
       "path": "Archive/Был ли свободен Ричард.md"
-    },
-    {
-      "basename": "Почему признание собственной ответственности - это очень важно",
-      "path": "Archive/Почему признание собственной ответственности - это очень важно.md"
-    },
-    {
-      "basename": "Меняются ли люди в условиях технического прогресса",
-      "path": "Archive/Меняются ли люди в условиях технического прогресса.md"
-    },
-    {
-      "basename": "Ты НЕ выбираешь, смотреть ли это видео",
-      "path": "Archive/Ты НЕ выбираешь, смотреть ли это видео.md"
-    },
-    {
-      "basename": "Индивидуализация как она есть",
-      "path": "Archive/Индивидуализация как она есть.md"
-    },
-    {
-      "basename": "2024-02-17",
-      "path": "Daily notes/2024/February/2024-02-17.md"
     }
   ],
   "omittedPaths": [],

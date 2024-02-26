@@ -39,7 +39,7 @@ This neckless is a family {{heirloom}} (**a valuable object that has been given 
 
 You look tired, Veronica. - Amazing {{burn}} (прожарка, подкол), Princess Carolyn. <!--SR:!2024-03-01,29,299--> 
 
-I went through hell and back today, but it was worth it>>_ <!--SR:!2024-02-26,26,301-->
+I went through hell and back today, but it was worth it>>_ <!--SR:!2024-06-12,107,321-->
 
 to get to the bottom of things↔дойти до сути (серцевины). 
 
@@ -55,7 +55,7 @@ Well, do you think it's true? Do I think L.A. is a tar {{pit}} (**a large hole i
 
 Jesus Christ! Juda, do you ever {{read a room}} (**to be or become aware of the opinions and attitudes of a group of people that you are talking to)**!? I'm sorry, is this a bad time?
 
-I don't know how you {{put up}} (**to accept or continue to accept an unpleasant situation or experience, or someone who behaves unpleasantly) **{{wit}}h me. I didn't {{put up with}} you. <!--SR:!2024-04-11,55,316!2024-02-26,33,284!2000-01-01,1,250-->
+I don't know how you {{put up}} (**to accept or continue to accept an unpleasant situation or experience, or someone who behaves unpleasantly) **{{wit}}h me. I didn't {{put up with}} you. <!--SR:!2024-04-11,55,316!2024-05-29,93,284!2000-01-01,1,250-->
 
 I'm good at driving sober, but I do not {{relish}} (**to like or enjoy something) **the opportunity. <!--SR:!2024-03-15,50,302--> 
 

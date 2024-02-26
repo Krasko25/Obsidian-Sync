@@ -70,9 +70,9 @@ one should be careful when crossing the street>>_
 
 one must always keep one's word>>_ <!--SR:!2024-03-01,39,304-->
 
-between the three of us>>_ <!--SR:!2024-02-22,24,277-->
+between the three of us>>_ <!--SR:!2024-05-01,65,277-->
 
-Michael was on a good run with his homework>>_ <!--SR:!2024-02-26,30,295-->
+Michael was on a good run with his homework>>_ <!--SR:!2024-05-24,88,295-->
 
 I'm {{indifferent}} (безразличен) to his words
 
@@ -88,7 +88,7 @@ give it a shot>>_ <!--SR:!2024-06-05,105,294-->
 
 As is stated above>>_ <!--SR:!2024-03-25,46,332-->
 
-man in plural form>>men
+man in plural form>>men <!--SR:!2024-02-29,3,311-->
 
 to run across>>натолкнуться <!--SR:!2024-04-29,73,356-->
 
@@ -143,7 +143,7 @@ Pen - ручка; {{pan}} - кастрюля <!--SR:!2024-03-13,33,309-->
 
 You doomed to die in Donbass without {{lighter}}  (зажигалка).
 
-This book is about to tell some {{tips}} (лайфхак) <!--SR:!2024-02-26,18,340-->
+This book is about to tell some {{tips}} (лайфхак) <!--SR:!2024-04-26,60,340-->
 
 "Draw" is a {{beautiful/nice}} word (красивое слово). <!--SR:!2024-03-10,31,315-->
 
@@ -190,7 +190,7 @@ sequence of tenses>>согласование времен
 
 Go to work once you {{recover}} (get better) <!--SR:!2024-03-31,39,323-->
 
-Hanter is good at {{endear}} (make kind) people
+Hunter is good at {{endear}} (make kind) people <!--SR:!2024-02-29,3,311-->
 
 When it comes to attention, Hunter is the most {{generous}} (very giving, as if born with plenty of money) dog <!--SR:!2024-03-07,34,301-->
 
@@ -265,7 +265,7 @@ conjunction (conj.)↔союз
 
 Don't {{stretch, exaggerate}} (преувеличивать) this problem <!--SR:!2024-04-15,66,337-->
 
-Don't put this {{dilly-dally}} (финти флюшки) on my workspace
+Don't put this {{dilly-dally}} (финти флюшки) on my workspace <!--SR:!2024-02-29,3,311-->
 
 Finally, a worthy {{rival}} (opponent). Our battle will be legendary!
 
@@ -275,7 +275,7 @@ Hunter is a way cuter {{compared }}(to put things together to see how they ate t
 
 He got his tooth out {{on a dare}} (на спор) <!--SR:!2024-04-17,56,337-->
 
-He was {{listing}} (A sentence with multiple phrases that create a list) his rewords for today and yesterday and the day before yesterday <!--SR:!2024-02-25,35,304-->
+He was {{listing}} (A sentence with multiple phrases that create a list) his rewords for today and yesterday and the day before yesterday <!--SR:!2024-06-10,105,304-->
 
 I am {{assure}} (make sure) you, you will got terrifying death, once I got home <!--SR:!2024-05-09,91,294-->
 
@@ -320,7 +320,7 @@ pronoun↔местоимение
 
 I was not able to sleep properly, because of this giggle sound (laughing) <!--SR:!2024-02-18,19,286-->
 
-Strike pressed Bristow's {{chest cage}} (грудная клетка) with his broken leg
+Strike pressed Bristow's {{chest cage}} (грудная клетка) with his broken leg <!--SR:!2024-02-29,3,311-->
 
 Such a {{demeanour}} (behaviour, manner of conduction oneself) is out of the social norms <!--SR:!2024-02-28,29,304-->
 
@@ -409,7 +409,7 @@ She has a right to the {{property}} (собственность). <!--SR:!2024-0
 
 Also I will consider the {{regularity}} (закономерности) between development of individual, humanity in general and religion. <!--SR:!2024-04-23,60,277-->
 
-Despite having a large family, they still had no **son and** {{heir}} (**a person who will legally receive money, property, or a title from another person, especially an older member of the same family, when that other person dies).** <!--SR:!2024-02-25,9,301-->
+Despite having a large family, they still had no **son and** {{heir}} (**a person who will legally receive money, property, or a title from another person, especially an older member of the same family, when that other person dies).** <!--SR:!2024-04-03,37,321-->
 
 It's important not to {{jump to conclusions}} (спешить с выводами). <!--SR:!2024-03-03,31,297-->
 
@@ -423,7 +423,7 @@ Luther had a new {{perception}} (**a belief or opinion, often held by many peopl
 
 Ten years of {{separation}} (**existing or happening independently or in a different physical space)** have come between them.
 
-His reputation was {{irreversibly}} (not possible to change; impossible to return to a previous condition) damaged by the affair. <!--SR:!2024-02-26,17,343-->
+His reputation was {{irreversibly}} (not possible to change; impossible to return to a previous condition) damaged by the affair. <!--SR:!2024-04-23,57,343-->
 
 Cold weather {{retards}} (**to make something slower)** the growth of many plants. <!--SR:!2024-03-29,56,315-->
 

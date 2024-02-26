@@ -14,7 +14,7 @@ Your right hand pocket>>_
 
 He {{outrun}} (перегнал) this old man <!--SR:!2024-03-07,24,275--> 
 
-Parfiriy finds reversed psychology to be a <u>double sided</u> sword>>_ 
+Parfiriy finds reversed psychology to be a <u>double sided</u> sword>>_ <!--SR:!2024-02-29,3,259-->
 
 I wanted to know if I'm a {{beetle}} (a bug) or a human
 

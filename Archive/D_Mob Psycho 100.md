@@ -45,7 +45,7 @@ for the fun of it>>_ <!--SR:!2024-04-08,73,321-->
 
 man up>>**used to** **tell** **someone that they should** **deal** **with something more** **bravely** <!--SR:!2024-06-22,122,305-->
 
-You're actually making me use my {{trump card}} (**an** **advantage** **that makes you more** **likely** **to** **succeed** **than other** **people,** **especially something that other** **people** **do not** **know** **about)** <!--SR:!2024-02-23,22,294--> 
+You're actually making me use my {{trump card}} (**an** **advantage** **that makes you more** **likely** **to** **succeed** **than other** **people,** **especially something that other** **people** **do not** **know** **about)** <!--SR:!2024-04-29,63,294--> 
 
 Espers are hard to {{possess}} (**to have or own something, or to have a** **particular** **quality)** <!--SR:!2024-04-10,67,272--> 
 

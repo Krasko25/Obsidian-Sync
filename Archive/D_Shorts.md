@@ -10,9 +10,9 @@ bb>>byebye <!--SR:!2024-03-09,38,300-->
 
 Lmbfao>>laughing my big f... ass off <!--SR:!2024-05-05,71,346-->
 
-imao>>In my arrogant opinion <!--SR:!2024-02-25,27,303-->
+imao>>In my arrogant opinion <!--SR:!2024-05-17,81,303-->
 
-Imho>>In my {{humble}} (**not proud or not believing that you are important (скромное)) opinion <!--SR:!2024-02-25,46,294-->
+Imho>>In my {{humble}} (**not proud or not believing that you are important (скромное)) opinion <!--SR:!2024-08-31,187,314-->
 
 ttyl>>talk to you later
 
@@ -28,7 +28,7 @@ bff>>best friend forever <!--SR:!2024-03-07,38,299-->
 
 bf>>boyfriend <!--SR:!2024-04-06,71,327-->
 
-gf>>girlfriend <!--SR:!2024-02-26,39,304-->
+gf>>girlfriend <!--SR:!2024-08-07,163,324-->
 
 btw>>by the way <!--SR:!2024-02-27,19,336-->
 

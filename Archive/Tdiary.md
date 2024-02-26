@@ -340,3 +340,13 @@ An opportunity to show some gratitude:
 - I completed some problematic homework.
 - I will fall asleep on time, this time for real!
 - I'am looking forward to start a new day.
+
+==February 26th, 2024==
+I can't say that I have done a lot, but I did good, I was treating my rules with respect and was making some strong choices, that is what really counts. I wasted almost no time and no energy (sure, I got 2 penalties, because of my bad habits, but I stopped within the first couple of minutes). Though I still hope to made more progress today.
+
+A gratitude that was easy to write:
+- I was mentally strong today (for the most part);
+- My dog is cute and cool (I was raising and training him, so I claim my right to thank myself for that);
+- I had a 90 minutes long lesson of English today;
+- I was doing some preparation for my Russian exam today;
+- I will make tomorrow to be a great day for me.

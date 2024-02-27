@@ -1,5 +1,13 @@
 
 
+Remember them  
+When the fire begins to fade  
+For the fallen and afraid  
+We are not to let them {{die in vain}} (die without any reason for that or profit out of it)
+
+He didn't notice I {{mixed}} (подмешал) lotus in his wine  
+{{Mark}} my words (remember my words) now, this is not the end
+
 What gives you the right to deal a pain so deep  
 Don't you know that pain you {{sow}} <u>(place (seeds) in or on the ground for future growth)</u> is pain you {{rеap}} <u>(gather, as of natural products, harvest)</u>?
 

@@ -5,7 +5,8 @@
     "flashcardHardText": "Hard",
     "flashcardTags": [
       "#cards",
-      "#Mark/Quote"
+      "#Mark",
+      ""
     ],
     "convertFoldersToDecks": false,
     "cardCommentOnSameLine": true,
@@ -24,7 +25,7 @@
     "editLaterTag": "#edit-later",
     "enableNoteReviewPaneOnStartup": true,
     "tagsToReview": [
-      "#review"
+      ""
     ],
     "noteFoldersToIgnore": [
       "Obsidian items/Templates"
@@ -41,7 +42,7 @@
     "maxLinkFactor": 1,
     "showDebugMessages": false
   },
-  "buryDate": "2024-02-15",
+  "buryDate": "2024-02-27",
   "buryList": [],
   "historyDeck": null
 }

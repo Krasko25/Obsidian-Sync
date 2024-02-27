@@ -1,5 +1,8 @@
 
 
+What gives you the right to deal a pain so deep  
+Don't you know that pain you {{sow}} <u>(place (seeds) in or on the ground for future growth)</u> is pain you {{rеap}} <u>(gather, as of natural products, harvest)</u>?
+
 Nah, don't be {{modest}} (marked by simplicity; having a humble opinion of yourself)  
 I know you're a goddess  
 So let's be honest  

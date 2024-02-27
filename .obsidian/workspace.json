@@ -44,12 +44,12 @@
             }
           },
           {
-            "id": "5c52195afe59067d",
+            "id": "04a3e47a93e13dc2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2024/February/2024-02-26.md",
+                "file": "Daily notes/2024/February/2024-02-27.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily notes/2024/February/2024-02-26.md",
+                "file": "Daily notes/2024/February/2024-02-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily notes/2024/February/2024-02-26.md",
+                "file": "Daily notes/2024/February/2024-02-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily notes/2024/February/2024-02-26.md"
+                "file": "Daily notes/2024/February/2024-02-27.md"
               }
             }
           },
@@ -212,13 +212,14 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "5c52195afe59067d",
+  "active": "04a3e47a93e13dc2",
   "lastOpenFiles": [
-    "Archive/Tdiary.md",
+    "Daily notes/2024/February/2024-02-27.md",
+    "Archive/Преимущества тренировок с собственным весом.md",
     "Daily notes/2024/February/2024-02-26.md",
+    "Archive/Tdiary.md",
     "Archive/diary.md",
     "Daily notes/2024/February/2024-02-25.md",
-    "Archive/Преимущества тренировок с собственным весом.md",
     "Archive/D_interesting Expressions.md",
     "Archive/Болезнь Сони.md",
     "Archive/Болезнь Раскольникова. Когда она проявлялась, по каким причинам.md",
@@ -239,7 +240,6 @@
     "Archive/Герои проклятые верой в ужасающие идеи. Генри и Раскольников.md",
     "Archive/Gion is a double of Musashi.md",
     "Archive/Richard is the auther.md",
-    "Archive/D_LD.md",
     "Attachments/Screenshot 2024-02-21 at 5.53.21 PM.png",
     "Влияние кофе на сон. Impact",
     "Daily notes/2024/February",

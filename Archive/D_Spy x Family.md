@@ -2,7 +2,7 @@
 
 Kindly {{hand over}} (to give someone else control of or responsibility for something) your mobile devices and I.D. <!--SR:!2024-04-10,47,311-->
 
-Your mission is to get close to him. In order to achieve this you will get married and have a child. The deadline is drawing near, meaning you have one week to {{pull this off}} (to succeed in doing something difficult or unexpected (вывести это)). Are you expect me to produce a child within SEVEN DAYS!? <!--SR:!2024-02-28,36,287--> 
+Your mission is to get close to him. In order to achieve this you will get married and have a child. The deadline is drawing near, meaning you have one week to {{pull this off}} (to succeed in doing something difficult or unexpected (вывести это)). Are you expect me to produce a child within SEVEN DAYS!? <!--SR:!2024-06-09,102,287--> 
 
 But the shadier the establishment, the more likely those children have complicated pasts, so it'll be easier to {{alter}} (to change something, usually slightly, or to cause the characteristics of something to change)** **their stories.
 

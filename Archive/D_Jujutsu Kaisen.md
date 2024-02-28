@@ -10,6 +10,6 @@ I will be able to use those technics {{perpetually}} (**continuing** **forever, 
 
  <!--SR:!2024-02-23,15,301-->
 
-I have to {{wear him down}} (exhaust or get tired through overuse or great strain or stress) using some idiots first
+I have to {{wear him down}} (exhaust or get tired through overuse or great strain or stress) using some idiots first <!--SR:!2024-03-02,3,261-->
 
 Living a long live has it's {{perks}} (an incidental benefit), i see <!--SR:!2024-04-07,69,270-->

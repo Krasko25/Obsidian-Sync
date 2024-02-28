@@ -13,13 +13,13 @@ The man has come to call. He'd like to take you for a Sunday {{stroll}} (**o wal
 
 Was named after my mom>>_ <!--SR:!2024-03-14,48,311-->
 
-Ok, just don't live your life for Strib, or this baby, or anybody else. - Thank you. - {{I mean it}} (I was quite serious, take it serious) 
+Ok, just don't live your life for Strib, or this baby, or anybody else. - Thank you. - {{I mean it}} (I was quite serious, take it serious) <!--SR:!2024-03-03,4,314--> 
 
 Everything I {{pitch}} (**to throw something, esp. forcefully, promote)** he shoots down. <!--SR:!2024-05-30,96,294-->
 
 Don't chew too loud, and collect your {{paycheck.}} (**a check used to pay an employee the amount of money the employee has earned).** <!--SR:!2024-06-26,124,290--> 
 
-First of all, I don't hate {{Jews}} (иудей, еврей), If I did, would I be able to sit in the same room as my good friend, a {{Jew}}? <!--SR:!2024-03-29,65,320!2024-02-27,19,327-->
+First of all, I don't hate {{Jews}} (иудей, еврей), If I did, would I be able to sit in the same room as my good friend, a {{Jew}}? <!--SR:!2024-03-29,65,320!2024-05-23,85,347-->
 
 Hey, Gina, I'm sorry. I was just {{teasing}} (**to laugh at someone or say unkind things about them, either because you are jokingor because you want to upset that person)**. Gina, come out of the bathroom
 
@@ -51,7 +51,7 @@ I feel like we can beat this {{font}} (**a set of letters and symbols in a parti
 
 And did you know there are {{orphans}} (**a child whose parents are dead) **in Sudan. - You take this job, you can buy all the {{orphans}} you want. - No, I don't want to buy them. <!--SR:!2024-03-11,31,286!2000-01-01,1,250--> 
 
-Well, do you think it's true? Do I think L.A. is a tar {{pit}} (**a large hole in the ground, or a slightly low area in any surface:)** 
+Well, do you think it's true? Do I think L.A. is a tar {{pit}} (**a large hole in the ground, or a slightly low area in any surface:)** <!--SR:!2024-03-02,3,294--> 
 
 Jesus Christ! Juda, do you ever {{read a room}} (**to be or become aware of the opinions and attitudes of a group of people that you are talking to)**!? I'm sorry, is this a bad time?
 

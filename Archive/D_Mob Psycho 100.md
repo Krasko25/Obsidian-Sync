@@ -19,13 +19,13 @@ Salt {{splash}} (**to move in water so that drops of it go in all directions)**
 
 I just got bored on my old job and started this office on a {{whim}} (**a sudden wish or idea, especially one that cannot be reasonably explained (прихоть))** <!--SR:!2024-04-20,56,309--> 
 
-My {{holy}} blade(**related to a religion or a god)! It's broken.** <!--SR:!2024-02-27,37,285--> 
+My {{holy}} blade(**related to a religion or a god)! It's broken.** <!--SR:!2024-07-23,146,305--> 
 
 He's already been brought back to this {{realm}} (сфера деятельности (new discoveries in the realm of medicine, in the {{realm}} of electronic states) <!--SR:!2024-04-02,46,310!2024-04-15,63,330--> 
 
-Today you are {{on a high horse}} (быть в ударе)![](local:///Users/connect/remnote/remnote-62c2eac9d4b97a004623c386/files/lMsNfuPYeY55V_3ZQQvGiZ5vsU5ZqeN60QYC7MTFt54GT2X38EVDHVtKu4CWT1MrVdXpyJaofRH6FeKfiJOkgTX2kqL_aY0_oaPdSM1oLJrEUF8IFFIo_BWUckrWbjkO.png) 
+Today you are {{on a high horse}} (быть в ударе)![](local:///Users/connect/remnote/remnote-62c2eac9d4b97a004623c386/files/lMsNfuPYeY55V_3ZQQvGiZ5vsU5ZqeN60QYC7MTFt54GT2X38EVDHVtKu4CWT1MrVdXpyJaofRH6FeKfiJOkgTX2kqL_aY0_oaPdSM1oLJrEUF8IFFIo_BWUckrWbjkO.png) <!--SR:!2024-03-03,4,306--> 
 
-that is not enough! You won't {{ease}} (**to make or become less severe, difficult, unpleasant, painful, etc (**These pills should {{ease}} the **pain))** our hard feelings <!--SR:!2024-02-28,45,294!2024-05-14,92,299--> 
+that is not enough! You won't {{ease}} (**to make or become less severe, difficult, unpleasant, painful, etc (**These pills should {{ease}} the **pain))** our hard feelings <!--SR:!2024-07-08,131,294!2024-05-14,92,299--> 
 
 First, it will be convenient to draw a variety of thin patterns, the second - to make filling and {{ __thick lines__ }} __ (толстые линии)__ . <!--SR:!2024-04-26,63,290-->
 
@@ -35,7 +35,7 @@ Our muscles don't exist for something so {{petty}} (**not important and not wort
 
 You are just {{seeing things}} (тебе кажется) <!--SR:!2024-05-16,82,285-->
 
-Why do you have to {{belittle}} (**to make a person or an action seem as if he, she or it is not important)** everyone
+Why do you have to {{belittle}} (**to make a person or an action seem as if he, she or it is not important)** everyone <!--SR:!2024-03-02,3,286-->
 
 you seem down>>_ <!--SR:!2024-03-29,37,297-->
 

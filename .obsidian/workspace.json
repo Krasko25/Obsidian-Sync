@@ -44,12 +44,12 @@
             }
           },
           {
-            "id": "79c8d8e9ee9b168c",
+            "id": "f9b92d61396bf13c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2024/February/2024-02-28.md",
+                "file": "Archive/D_Other Sources.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,8 +121,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -142,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily notes/2024/February/2024-02-28.md",
+                "file": "Archive/D_Other Sources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily notes/2024/February/2024-02-28.md",
+                "file": "Archive/D_Other Sources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -171,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily notes/2024/February/2024-02-28.md"
+                "file": "Archive/D_Other Sources.md"
               }
             }
           },
@@ -212,8 +211,13 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "79c8d8e9ee9b168c",
+  "active": "f9b92d61396bf13c",
   "lastOpenFiles": [
+    "Archive/Грамматика MOC.md",
+    "Archive/Tdiary.md",
+    "Daily notes/2024/February/2024-02-28.md",
+    "Archive/D_Other Sources.md",
+    "Archive/diary.md",
     "Книги/тонкое искусство пофигизма.fb2",
     "Книги/тренировочная зона.fb2",
     "Книги/быстрый_ум_как_забывать_лишнее_и_помнить_нужное.fb2",
@@ -224,14 +228,10 @@
     "Книги/Преступление и наказание.fb2",
     "Книги/Мунистер_В_Д_—_Network_on_Chip_Архитектура_SoC_—_2021_1.pdf",
     "Книги/Мастер и Маргарита. Булгаков.fb2",
-    "Книги/Любит:не_любит_Что_мешает_вам_создать_крепкие_отношения_и_как_это.pdf",
     "Archive/Большая шестёрка. Отжимания в стойке на руках.md",
-    "Daily notes/2024/February/2024-02-28.md",
     "Archive/Бесы. Федор Михаилович Достоевский.md",
-    "Archive/Tdiary.md",
     "Daily notes/2024/February/2024-02-27.md",
     "Archive/D_Youtube.md",
-    "Archive/diary.md",
     "Archive/Преимущества тренировок с собственным весом.md",
     "Daily notes/2024/February/2024-02-26.md",
     "Daily notes/2024/February/2024-02-25.md",
@@ -249,7 +249,6 @@
     "Archive/D_Oshino ko.md",
     "Daily notes/2024/February/2024-02-24.md",
     "Archive/Чувства Генри к Камиле. Feelings of Henry for Camila.md",
-    "Archive/Герои проклятые верой в ужасающие идеи. Генри и Раскольников.md",
     "Attachments/Screenshot 2024-02-21 at 5.53.21 PM.png",
     "Attachments/Screenshot 2024-01-11 at 11.31.46 AM.png",
     "Attachments/Screenshot 2024-01-08 at 21.27.20.png",

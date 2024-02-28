@@ -2,13 +2,13 @@
 
 The world is waiting for that "challenging focus" of yours. The {{radiance}} ([light](https://dictionary.cambridge.org/dictionary/english/light "light") or [heat](https://dictionary.cambridge.org/dictionary/english/heat "heat") that comes from something:) of a footballer 
 
-sacrificing your talent in exchange for living long and {{tedious}} (extremely boring) life 
+sacrificing your talent in exchange for living long and {{tedious}} (extremely boring) life <!--SR:!2024-03-02,3,253--> 
 
 #cards/dictionary 
 
 Despite collapsing from exhaustion, what he gained from the match was worth {{its weight in gold}} (a lot). <!--SR:!2024-03-14,31,272-->
 
-And the one who surpassed Kunigami Rensuke, receiving a {{bid}} (offered price) roughly three times his old offer... in 4th place, Isagi Yoichi. 
+And the one who surpassed Kunigami Rensuke, receiving a {{bid}} (offered price) roughly three times his old offer... in 4th place, Isagi Yoichi. <!--SR:!2024-03-02,3,253--> 
 
 I too am a brat who selfishly {{pursues}} (follow in or as if in pursuit) his dream. || “The police car ? the suspected attacker”
 

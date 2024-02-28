@@ -1,8 +1,8 @@
 #cards/dictionary 
 
-you better take this L>>L = lose
+you better take this L>>L = lose <!--SR:!2024-03-03,4,282-->
 
-That was a big W for everybody>>W = win <!--SR:!2024-02-28,27,275-->
+That was a big W for everybody>>W = win <!--SR:!2024-05-11,73,275-->
 
 I did it! I figured it out! - Hey, Sylph, {{wait up}} (go more slowly or stop until someone catches up.) 
 

@@ -6,7 +6,7 @@ Even though you are constantly suppressing your mana? To me, that seems like the
 
 pick him up on your way into the northern lands. He's my {{apprentice}} (someone who works for an expert to learn a skill/profession)
 
-You're right, it will be a {{mere}} (simple, being nothing more than specified) ten-year adventure
+You're right, it will be a {{mere}} (simple, being nothing more than specified) ten-year adventure <!--SR:!2024-03-02,3,250-->
 
 #cards/dictionary 
 

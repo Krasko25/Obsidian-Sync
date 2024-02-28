@@ -6,6 +6,6 @@ I made sure to stick a tracker on them. My hair, {{remote}} (удаленный,
 
 I can't be at the meeting and {{nor}} (neither) can Andrew  
 
-He once {{dined}}  (to eat the main meal of the day, usually in the evening) with the president of France  
+He once {{dined}}  (to eat the main meal of the day, usually in the evening) with the president of France <!--SR:!2024-03-02,3,254-->  
 
 But naturally, it uses {{quite a bit}} (a small piece or amount of something (in this case a lot))  

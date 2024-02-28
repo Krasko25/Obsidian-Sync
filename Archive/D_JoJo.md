@@ -12,7 +12,7 @@ In this race, the exchange of horses is {{prohibited}} (**to officially refuse t
 
 I'm not going to {{charge }} (**to make a formal statement saying that someone is accused of a crime (обвинять)) **him. I'll forget about it... let him go and give him the gun back <!--SR:!2024-03-24,60,314-->
 
-But still, 60 to 80 days is the {{estimated}} (**to guess or calculate the cost, size, value, etc. of something (оценить, предположить))** competition time.
+But still, 60 to 80 days is the {{estimated}} (**to guess or calculate the cost, size, value, etc. of something (оценить, предположить))** competition time. <!--SR:!2024-03-02,3,265-->
 
 He's escaping into the rocky hills! Don't let him get close to these {{cliffs}} (**a high area of rock with a very steep side, often on a coast (утёсы))** <!--SR:!2024-03-07,20,264-->
 

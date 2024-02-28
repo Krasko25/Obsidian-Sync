@@ -1,3 +1,5 @@
+
+
 When we are certain [the outcome](https://www.urbandictionary.com/define.php?term=the%20outcome) of an/a activity/task will be [a failure](https://www.urbandictionary.com/define.php?term=a%20failure) or when we know we are going to be [unsuccessful](https://www.urbandictionary.com/define.php?term=unsuccessful) but we still do it.
  
  <!--SR:!2024-01-22,4,301--> <!--SR:!2000-01-01,1,250!2024-01-21,4,297--> <!--SR:!2023-12-29,3,264-->
@@ -52,7 +54,7 @@ What do you think makes a {{compelling}}  character (interesting)?
 
 {{Compelling}} (**it makes you** **believe** **it or** **accept** **it because it is so** **strong (внушительные, сильные)) **evidence <!--SR:!2024-03-15,21,271-->
 
-With flying colors>>**very easily**
+With flying colors>>**very easily** <!--SR:!2024-03-02,3,311-->
 
 When I lived in Spain, I used to {{eat out}} (**to eat in a restaurant)** all the time <!--SR:!2024-05-11,80,274-->
 
@@ -62,7 +64,7 @@ in a nutshell>>simply put, giving only the main points <!--SR:!2024-04-20,56,337
 
 There was nothing between the lines>>. <!--SR:!2024-05-01,79,341-->
 
-at the top of one's voice>>во весь голос
+at the top of one's voice>>во весь голос <!--SR:!2024-03-02,3,311-->
 
 one never knows what his answer may be>>_
 
@@ -78,7 +80,7 @@ I'm {{indifferent}} (безразличен) to his words
 
 Negative bonds gives temporary effects, it do not solve the problems and {{binds}} (**to tie something or someone tightly or to fasten something)** the progress of your true personality
 
-From my {{perspective}}, this was not a crime.
+From my {{perspective}}, this was not a crime. <!--SR:!2024-03-03,4,331-->
 
 to view a situation from a new perspective>>с новой точки зрения <!--SR:!2024-03-20,47,321-->
 
@@ -113,7 +115,7 @@ Thy>>твой (древнее)
 
 press on pity>>_ <!--SR:!2024-03-01,49,294-->
 
-He left just after {{nightfall}} (the time in the evening when it becomes dark).
+He left just after {{nightfall}} (the time in the evening when it becomes dark). <!--SR:!2024-03-02,3,311-->
 
 The wolf is a {{predator}} (хищник)
 
@@ -226,7 +228,7 @@ The {{fruitless}} (not producing the desired results, unsuccessful) tree should 
 
 There is too much {{luxury}} (The state of great comfort and extravagant living)![](local:///Users/connect/remnote/remnote-62c2eac9d4b97a004623c386/files/ZFWUGk_cOXMkVTGDQ0-7vKqQ48p_nfPyb5rPkaC7WMVry3OxX81F6ofArxUhKxIMUH-tZQ0h0-zznlJJMkfEF7MsxXQ653yjxsmBQDTg-4XE6p6PIYSoozthmVWkrDln.jpeg) <!--SR:!2024-03-07,24,297-->
 
-There wouldn't be so hot if you hadn't thrown out the {{blinds}} (шторы)
+There wouldn't be so hot if you hadn't thrown out the {{blinds}} (шторы) <!--SR:!2024-03-02,3,311-->
 
 This {{frame}} (The lines and borders that contain the panels) of berserk is a masterpiece!! <!--SR:!2024-03-01,31,304-->
 
@@ -257,7 +259,7 @@ Your fate {{would be up to you}} (it will depend on you).
 
 Bett believe them to be {{like-minded}} (having similar tastes or opinions) about their friendship. <!--SR:!2024-04-05,56,324-->
 
-But your {{lifespan}} (the period during which something is functional (as between birth and death)) will be cut in two
+But your {{lifespan}} (the period during which something is functional (as between birth and death)) will be cut in two <!--SR:!2024-03-02,3,311-->
 
 Classroom teacher have to {{scold}} (to find fault with angrily) after every examination.
 
@@ -322,7 +324,7 @@ I was not able to sleep properly, because of this giggle sound (laughing) <!--SR
 
 Strike pressed Bristow's {{chest cage}} (грудная клетка) with his broken leg <!--SR:!2024-02-29,3,311-->
 
-Such a {{demeanour}} (behaviour, manner of conduction oneself) is out of the social norms <!--SR:!2024-02-28,29,304-->
+Such a {{demeanour}} (behaviour, manner of conduction oneself) is out of the social norms <!--SR:!2024-05-25,87,304-->
 
 The {{invasion}} (a situation when a large number of people came to a place in an annoying and unwanted way) of smart dogs put the end to humanity <!--SR:!2024-03-21,50,315-->
 

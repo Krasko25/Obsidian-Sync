@@ -367,3 +367,10 @@ Another sunny day, another gratitude:
 - I found some time to enjoy this sunny day;
 - I will fall asleep in an okey time;
 - I was able to go asleep instead of catching up on my leisure time.
+
+==February 28th, 2024==
+It was a great day. I did a lot of good beneficial things. Though I was able to do so much only because most of problems appeared to be way easier, than I thought. However, It's still a good thing, that I was able to take them away from my list of work.
+
+I also reinvented one important truth for myself. Here is the situation: 
+
+I was working quite a lot today and especially yesterday, I was doing a lot of breaks for stretching and sunlight, but it didn't help much. Today I finally found some time for watching anime. I was tired when I started, but, remarkably, when my timer has run out, I was quite fresh. It was really surprising to me because I was entirely sure, that it was a physical weariness.

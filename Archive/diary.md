@@ -2230,7 +2230,7 @@ I hope that in the future I will have a lot of days, when it won't be hard to ca
 ==January 25th, 2024==
 Today was my birthday. For some reason I wanted to do my best in this very day more than in any other one. For some reason, I just want to grab into any date or source of motivation to name it a milestone of a "new me".
 
-It was not a bad day. I did not accomplish much, but I think that I did good. I spend some time with my friend and to help my father prepare to the road to my granny (Alina lives quite far away and the way there is always a bit stressful). I also wasted some time on doing nothing, but this time I was not using my phone, I was just laying and gathering my strength to start working. I think, that is can be considered a progress. 
+It was not a bad day. I did not accomplish much, but I think that I did good. I spent some time with my friends and was helping my father to prepare to the road to my granny (Alina lives quite far away and the way there is always a bit stressful). I also wasted some time on doing nothing, but this time I was not using my phone, I was just laying and gathering my strength to start working. I think, that it can be considered a progress. 
 
 This day was good, but not great. I hope, that I will finish my next birthday note with words "I am proud of the way, how I spend this day and year".
 
@@ -2238,7 +2238,7 @@ Being grateful today was a bit easier:
 - I completed all of my 3 main goal for today (sleep, math and the book);
 - I was not lying to myself today;
 - I had a good training;
-- Time that is spend with my friends is a good spent time.
+- Time that is spent with my friends is a good spent time.
 
 By the way, one of the problems that is in my way of falling asleep at the right time is my habit of writing my daily notes at the very end of the day. Feel free to stick at me if I didn't send my daily note until 9:00 pm (6pm GMT).
 ==January 26th, 2024==

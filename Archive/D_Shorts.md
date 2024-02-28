@@ -18,7 +18,7 @@ ttyl>>talk to you later
 
 omg>>oh my God!
 
-rip>>rest in peace <!--SR:!2024-02-28,16,338-->
+rip>>rest in peace <!--SR:!2024-04-21,53,338-->
 
 omfg>>Oh my f... God! <!--SR:!2024-03-10,44,316-->
 
@@ -30,7 +30,7 @@ bf>>boyfriend <!--SR:!2024-04-06,71,327-->
 
 gf>>girlfriend <!--SR:!2024-08-07,163,324-->
 
-btw>>by the way <!--SR:!2024-02-27,19,336-->
+btw>>by the way <!--SR:!2024-05-01,63,336-->
 
 your>>you are
 

@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "79c8d8e9ee9b168c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Archive/Большая шестёрка. Отжимания в стойке на руках.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily notes/2024/February/2024-02-28.md",
+                "file": "Archive/Большая шестёрка. Отжимания в стойке на руках.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily notes/2024/February/2024-02-28.md",
+                "file": "Archive/Большая шестёрка. Отжимания в стойке на руках.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -159,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily notes/2024/February/2024-02-28.md"
+                "file": "Archive/Большая шестёрка. Отжимания в стойке на руках.md"
               }
             }
           },
@@ -200,11 +212,11 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "27cca2613e6aec76",
+  "active": "79c8d8e9ee9b168c",
   "lastOpenFiles": [
+    "Daily notes/2024/February/2024-02-28.md",
     "Archive/Бесы. Федор Михаилович Достоевский.md",
     "Archive/Tdiary.md",
-    "Daily notes/2024/February/2024-02-28.md",
     "Daily notes/2024/February/2024-02-27.md",
     "Archive/D_Youtube.md",
     "Archive/diary.md",

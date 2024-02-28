@@ -333,7 +333,7 @@ Rules itself:
 - there are 2 types of leisure time sets: ones with English recordings (15 and 30 minutes (the time of recoding process itself does not count)) and ones without it (10, 15 and 30 minutes). The first ones will cost less and will offer more time.
 - I get a 50% of price if I use a set of time between Pomodoros.
 - I have to write down the exact set and a time period before using it (it is necessary for more conscience).
-- There is a penalty for forgetting the previous rule or note stopping in the stated time.
+- There is a penalty for forgetting the previous rule or not stopping in the stated time (I have to do it within 30 seconds)
 
 An opportunity to show some gratitude:
 - I was helping my father. This time we were doing a type of work, that I find to be really necessary to be done.
@@ -350,3 +350,20 @@ A gratitude that was easy to write:
 - I had a 90 minutes long lesson of English today;
 - I was doing some preparation for my Russian exam today;
 - I will make tomorrow to be a great day for me.
+
+==February 27th, 2024==
+This day was quite hard. I was not able to find much time for leisure (one set of 15 minutes), but I was able to find time for stretching and going outside. It sunny and warm outside, not warm enough to learn outside though, but still nice. However, I can't say that this day was fruitful with progress with my old assignments, It just bought me a bunch of new hard ones and I barely managed to handle them.
+
+I also want to make some minor corrections to my rules:
+1) I can not use electronic devices in toilet or while eating (even if I'm paying coins for it), breaking this rule is leading me to penalty (the same one).
+2) I can listen to music while doing something, it does not count as entertainment as long as it does not distract me.
+
+I also had to pay penalty 3 times today:
+- I have to stop my leisure activity within 30 seconds after the timer run out. Today I was watching an anime with headphones, so I did not hear the timer in time and had to pay the penalty. Next time I need to use a timer on my PC instead of phone, or put my phone in the range of my vision.
+- I started doing leisure activities without even realising it 2 times. Though, I stopped relativеly quickly, so it was not a big problem.
+
+Another sunny day, another gratitude:
+- I worked really hard today. Even if I face unexpected ordeals, I will be able to handle them with this amount of discipline (though I'm still a lot of space for improvement);
+- I found some time to enjoy this sunny day;
+- I will fall asleep in an okey time;
+- I was able to go asleep instead of catching up on my leisure time.

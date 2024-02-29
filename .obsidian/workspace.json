@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archive/Бесы. Федор Михаилович Достоевский.md",
+                "file": "Daily notes/2024/February/2024-02-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Archive/Бесы. Федор Михаилович Достоевский.md",
+                "file": "Daily notes/2024/February/2024-02-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archive/Бесы. Федор Михаилович Достоевский.md"
+                "file": "Daily notes/2024/February/2024-02-29.md"
               }
             }
           },
@@ -211,11 +211,11 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "88b29ea83a7b5020",
+  "active": "27cca2613e6aec76",
   "lastOpenFiles": [
+    "Archive/Бесы. Федор Михаилович Достоевский.md",
     "Daily notes/2024/February/2024-02-29.md",
     "Archive/synergy.md",
-    "Archive/Бесы. Федор Михаилович Достоевский.md",
     "Книги/Любит не_любит_Что_мешает_вам_создать_крепкие_отношения_и_как_это.pdf",
     "Книги/Бесы. Достоевский.fb2",
     "Книги 0",

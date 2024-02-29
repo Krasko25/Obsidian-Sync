@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-02-29",
+      "path": "Daily notes/2024/February/2024-02-29.md"
+    },
+    {
+      "basename": "2024-02-28",
+      "path": "Daily notes/2024/February/2024-02-28.md"
+    },
+    {
       "basename": "Tdiary",
       "path": "Archive/Tdiary.md"
     },
     {
       "basename": "diary",
       "path": "Archive/diary.md"
-    },
-    {
-      "basename": "2024-02-28",
-      "path": "Daily notes/2024/February/2024-02-28.md"
     },
     {
       "basename": "D_Other Sources",
@@ -195,10 +199,6 @@
     {
       "basename": "D_Blue Lock",
       "path": "Archive/D_Blue Lock.md"
-    },
-    {
-      "basename": "D_Translation",
-      "path": "Archive/D_Translation.md"
     }
   ],
   "omittedPaths": [],

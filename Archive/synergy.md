@@ -1,3 +1,5 @@
+mse - mid square error
+
 time.time() - текущее время #Mark/Tool 
 np.full(5, 7) == [7, 7, 7, 7, 7] #Mark/Tool 
 

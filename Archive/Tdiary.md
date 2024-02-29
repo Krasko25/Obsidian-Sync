@@ -368,9 +368,31 @@ Another sunny day, another gratitude:
 - I will fall asleep in an okey time;
 - I was able to go asleep instead of catching up on my leisure time.
 
-==February 28th, 2024==
+==February 28th, 2024, 8:57 pm==
+
 It was a great day. I did a lot of good beneficial things. Though I was able to do so much only because most of problems appeared to be way easier, than I thought. However, It's still a good thing, that I was able to take them away from my list of work.
 
 I also reinvented one important truth for myself. Here is the situation: 
 
-I was working quite a lot today and especially yesterday, I was doing a lot of breaks for stretching and sunlight, but it didn't help much. Today I finally found some time for watching anime. I was tired when I started, but, remarkably, when my timer has run out, I was quite fresh. It was really surprising to me because I was entirely sure, that it was a physical weariness.
+I was working quite a lot today and especially yesterday, I was doing a lot of breaks for stretching and sunlight, but it didn't help much. Today I finally found some time for watching anime. I was tired when I started, but, remarkably, when my timer has run out, I was quite fresh. It was really surprising to me because I was entirely sure, that it was a physical weariness. Once again I have to remind myself how important it is to care about your feelings and emotional level of energy.
+
+Here is some information related to this story, I read it a lot time ago in one book(The Power of Full Engagement: Managing Energy, Not Time, Is the Key to...):
+
+There are four types of energy: physical (low or high), emotional (positive or negative), intellectual and spiritual (not necessarily in religion meaning of this word). One of the most important principals according to this book is that it's necessary to take care of each type of energy, because they are all connected and necessary for us to show our full potential. Actually I knew, that leisure is also important, but I though I could tell physical fatigue from emotional.
+
+As well I want to make a few more corrections to my rules:
+- it was told that I get a discount only between Pomodoros. I want to change it to just after Pomodoro (the time period of "after" is flexible under the condition, that I will make a decision in under 5 minutes after the ending of Pomodoro). The exception is sleeping time. I should not end my day with an internet-leisure activity.
+- I also get a 50% discount if the leisure activity is watching some "about useful" video (the kind of video that is a bit entertaining, but has a potential to be useful. For example, "How I manage my notes in Obsidian", "Why you need to stop counting your calories?")
+
+9:19 pm
+SuPeR original name for February gratitude (yeah, I decided to split  this note into two separate messages to pretend as if I manage to finish my daily note before 9 pm):
+- Thanks for learning on my mistakes and successes.
+- Appreciation for working hard on myself and on solving my problems.
+- Tribute for writing daily notes daily (except for January 12th, but I'll write it later).
+- Praise for training regularly and doing my stretches.
+- Thanksgiving for writing my essay for English competition.
+- Acknowledgement for passing my exam of February 7th.
+- Kudos for being part of our Habitica party.
+- Acclaim for studying English regularly.
+- High regard for taking pauses to appreciate simple things.
+

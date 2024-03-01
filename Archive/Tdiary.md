@@ -396,3 +396,17 @@ SuPeR original name for February gratitude (yeah, I decided to split  this note 
 - Acclaim for studying English regularly.
 - High regard for taking pauses to appreciate simple things.
 
+==February 29th, 2024==
+I'm writing this note after 9 pm, which is not good, but I'll try to be better next time.
+
+Monthly note
+___
+It was a good month. I passed my exam on February 7th, write an essay for a competition, was studying on Synergy university course, on my main study place, training according to my new program, murmur, murmur, murmur.
+
+Even when I made almost no progress with my Diploma and preparation for the exams in May and June, I still believe that I will be able to catch up on that in March, because, as I fell, I got to quite a good mindset in the end of this month, if I continue to move in that direction, I will be able to accomplish a lot of things. Though I'm afraid about this seasons of a person thing (you know, the idea of every person having a cycles that he goes though, sometimes we are climbing up soundly, sometimes we fall to about the same level where we started. We can never achieve some kind of check point after which we can be save). Anyway, I'll do my best.
+___
+Even if it's a monthly note, I should not skip a gratitude part for today:
+- I was doing some cleaning on the kitchen (which is not my responsibility) before my mom gets from work for a few days in a row.
+- I'm doing recordings for my English lessons.
+- I'm being well-disciplined for the last few days.
+- I'm doing ok with my studying process.

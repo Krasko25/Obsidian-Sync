@@ -1,5 +1,9 @@
 
 
+I was waiting for you, you and I speak the same language>>![[Screenshot 2024-03-01 at 2.17.46 PM.png#full]]
+
+All of you need to {{gang up}} (to [unite](https://dictionary.cambridge.org/dictionary/english/unite "unite") as a [group](https://dictionary.cambridge.org/dictionary/english/group "group") against someone) on a boy?
+
 Such {{composure}} (self-control, calmness), he has indeed matured.
 
 #cards/dictionary 
